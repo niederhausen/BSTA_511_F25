@@ -1,0 +1,83 @@
+---
+title: "UNDER CONSTRUCTION: Week 7"
+description: "Inference for difference in means, one proportion, and difference in proportions, and power"
+date: "11/11/2024"
+date-modified: "today"
+categories: [""]
+format: 
+  html:
+    link-external-newwindow: true
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Overview of Week 7
+
+::::: grid
+::: g-col-6
+### Mon: Day 11
+
+-   Inference for difference in means from two independent sample (2-sample t-test)
+-   Power and sample size calculations
+:::
+
+::: g-col-6
+### Wed: Day 12
+
+-   Inference for proportions
+    -   CIs vs. hypothesis tests
+    -   One proportion from one sample
+    -   Difference in proportions from two independent samples
+:::
+:::::
+
+## Slides & Recordings
+
+-   **Pre-recorded** lessons are on [Echo Cloud](https://echo360.org/section/4a58d645-5753-4e4f-b962-f8825f59baba/home) (aka echo 360 or echo video).
+
+| Day | Topic | Slides: html | Slides: pdf | Slides: web-page | Slides with notes | Recording Link | Duration | Code: qmd | Code: html |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| 11 | 2-sample means test: 5.3.2 | [Day 11: slides 1-17](../slides/Day11_bsta511.qmd) | [{{< iconify bi file-earmark-pdf-fill size=20px >}}](../slides_pdf/Day11_bsta511.pdf) | [{{< iconify streamline web size=20px >}}](../slides_md/Day11_bsta511_md.qmd) | [{{< iconify pepicons-pop pen-circle-filled size=20px >}}](../slides_notes/Day11_bsta511_2samp-t-test-notes.pdf) | [Day 11 Part 1](https://echo360.org/lesson/34c0539f-ea01-4566-9e0e-93ea72838f0c/classroom#sortDirection=desc) | 36 min | [{{< iconify simple-icons:quarto >}}](https://github.com/niederhausen/BSTA_511_F24/blob/main/slides_code/Day11_bsta511_code.qmd) | [{{< iconify ph file-html-light size=25px >}}](../slides_code/Day11_bsta511_code.qmd) |
+|  | 2-sample means CI; R; pooled SD: 5.3.1, 5.3.5 | [Day 11: slides 18-26](../slides/Day11_bsta511.qmd#/step-5-conclusion-to-hypothesis-test) | same | [{{< iconify streamline web size=20px >}}](../slides_md/Day11_bsta511_md.qmd#step-5-conclusion-to-hypothesis-test) | same | [Day 11 Part 2](https://echo360.org/lesson/9dec3c7e-f174-405b-a382-12a0f7858c0a/classroom#sortDirection=desc) | 26 min | same | same |
+|  | Power & sample size: 1 or 2 means: 5.4 & extra | [Day 11: slides 27-45](../slides/Day11_bsta511.qmd#/power-and-sample-size-calculations) | same | [{{< iconify streamline web size=20px >}}](../slides_md/Day11_bsta511_md.qmd#power-and-sample-size-calculations) | same | [Day 11 Part 3](https://echo360.org/lesson/0d8fbd2c-e88e-410d-ba61-175d4c7cc29b/classroom#sortDirection=desc) | 57 min | same | same |
+| 12 | 1 & 2 proportions test & CI: 8.1.1, 8.2 | [Day 12: slides 1-23](../slides/Day12_bsta511.qmd) | [{{< iconify bi file-earmark-pdf-fill size=20px >}}](../slides_pdf/Day12_bsta511.pdf) \* | [{{< iconify streamline web size=20px >}}](../slides_md/Day12_bsta511_md.qmd) | [{{< iconify pepicons-pop pen-circle-filled size=20px >}}](../slides_notes/Day12_bsta511_notes.pdf) \* | [Day 12 Part 1](https://echo360.org/lesson/3fc18233-3a69-419d-8b7d-879b6613c5ec/classroom#sortDirection=desc) | 48 min | [{{< iconify simple-icons:quarto >}}](https://github.com/niederhausen/BSTA_511_F24/blob/main/slides_code/Day12_bsta511_code.qmd) | [{{< iconify ph file-html-light size=25px >}}](../slides_code/Day12_bsta511_code.qmd) |
+|  | R: 1 & 2 proportions test & CI | [Day 12: slides 24-34](../slides/Day12_bsta511.qmd#/r-1--and-2-sample-proportions-tests) | same | [{{< iconify streamline web size=20px >}}](../slides_md/Day12_bsta511_md.qmd#r-1--and-2-sample-proportions-tests) | same | [Day 12 Part 2](https://echo360.org/lesson/6462b43c-c896-40b1-a32b-12fb2e24721e/classroom#sortDirection=desc) | 26 min | same | [{{< iconify ph file-html-light size=25px >}}](../slides_code/Day12_bsta511_code.qmd#r-1--and-2-sample-proportions-tests) |
+|  | Power for 1- and 2- proportions | [Day 12: slides 35-43](../slides/Day12_bsta511.qmd#/power-sample-size-for-testing-proportions) | same | [{{< iconify streamline web size=20px >}}](../slides_md/Day12_bsta511_md.qmd#power-sample-size-for-testing-proportions) | same | [Day 12 Part 3](https://echo360.org/lesson/7728cf56-e775-4e8a-b1f1-ddb30236c033/classroom#sortDirection=desc) | 25 min | same | [{{< iconify ph file-html-light size=25px >}}](../slides_code/Day12_bsta511_code.qmd#power-sample-size-for-testing-proportions) |
+
+: {.striped .hover tbl-colwidths="\[3, 10, 8, 5, 5, 5, 6, 6, 5, 5\]"}
+
+`*`*Note: page numbers in pdf files do not always align with those in the original html slides*
+
+## Datasets
+
+All datasets can be found on [GitHub](https://github.com/niederhausen/BSTA_511_F24/tree/main/data)
+
+-   Day 11: [CaffeineTaps.csv](/data/CaffeineTaps.csv)
+
+## Class discussion
+
+During class you will be working in groups discussing the following:
+
+### Day 11
+
+-   Book 5.26 a-b
+-   R1: DDS expenditures by ethnicity (parts a-l)
+-   PSS1: Book 4.22 - Power & sample size T/F questions
+-   PSS2: Power & sample size calculations
+
+### Day 12
+
+-   Book
+    -   8.2 (warm-up),
+    -   8.8 (see instructions in HW),
+    -   8.24 (see instructions in HW)
+
+## Homework
+
+-   [HW 5](../homework/HW_5_F24_bsta511.qmd) covers Days 11 -12 and is due on Sat, 11/16
+-   Check out this [spreadsheet](https://docs.google.com/spreadsheets/d/1k_NivXZftdlRgRyTT3fUZCndW4eoXCzAs-DEIml6K3Y/edit?gid=0#gid=0) for typos in book.
+
+
+
+

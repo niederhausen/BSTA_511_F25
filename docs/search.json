@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BSTA_511_F25",
+    "title": "UNDER CONSTRUCTION: BSTA 511/611 Fall 2025",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "UNDER CONSTRUCTION: Welcome to BSTA 511/611!\n\n\nEstimation and Hypothesis Testing\nApplied Biostatistics I\n\nFall 2025\n\n\n\n\n\n\n\nInstructor\n Meike Niederhausen, PhD\n VPT 660E\n niederha@ohsu.edu\n\n\nTA\n Madi Pombo\n pombo@ohsu.edu\n\n\n\nCourse details\n Mon, Wed\n 1:00 - 2:50 PM\n VPT 620M\n 9/30 - 12/11\n\n\nOffice Hours\n Mondays 3-4 pm (Katie)\n VPT Student Success Cntr\n Wednesdays 2:50-3:30 pm (Meike)\n VPT 660E\n Thursdays 3-4 pm (Katie)\n Webex (link on Sakai)\n Fridays 3:30-4:30 pm (Meike)\n  Webex (link on Sakai)\n\n\n\n\n\n\n\nContacting me\nE-mail or Slack is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours Monday-Friday.\n\n\n View the source on GitHub"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,656 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html",
+    "href": "slides_code/Day11_bsta511_code.html",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "",
+    "text": "Packages need to be loaded every time you restart R or render an Qmd file\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(janitor)\nlibrary(rstatix)\nlibrary(knitr)\nlibrary(gtsummary)\nlibrary(moderndive)\nlibrary(gt)\nlibrary(broom) # new-ish\nlibrary(here) # new-ish\nlibrary(pwr) # NEW!!\n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#load-packages",
+    "href": "slides_code/Day11_bsta511_code.html#load-packages",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "",
+    "text": "Packages need to be loaded every time you restart R or render an Qmd file\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(janitor)\nlibrary(rstatix)\nlibrary(knitr)\nlibrary(gtsummary)\nlibrary(moderndive)\nlibrary(gt)\nlibrary(broom) # new-ish\nlibrary(here) # new-ish\nlibrary(pwr) # NEW!!\n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#moritzs-tip-of-the-day",
+    "href": "slides_code/Day11_bsta511_code.html#moritzs-tip-of-the-day",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "MoRitz’s tip of the day",
+    "text": "MoRitz’s tip of the day\nAdd tabbed sections to your html file using tabset.\n\nFirst tabSecond tabRead up on tabsets\n\n\n\nYou can make subsections appear as different tabs in your html file.\nThis is the first tab.\nIt was created by adding ::: panel-tabset right above the subsection ### First tab (see the code file).\nLook up to the right of where it says “First tab,” and you will see a second tab with the creative name “Second tab.”\nIf you are viewing the html output of this file, you can click on the different tabs to see what’s in them.\nTo stop new tabs from being created, close off the original ::: panel-tabset command with ::: at the end.\n\nIn the code file, you will see the ::: at the end of the ### Read up on tabsets tab.\n\n\n\n\n\nWelcome to the second tab!\n\n\n\n\n\n\n\n\n\nYou can read up more about creating tabs at\n\nhttps://quarto.org/docs/interactive/layout.html#tabset-panel\n\n\n\nIf you are reading the source code file, the next line contains :::, which closes the tabsets."
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#goals-for-today-section-5.3",
+    "href": "slides_code/Day11_bsta511_code.html#goals-for-today-section-5.3",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Goals for today (Section 5.3)",
+    "text": "Goals for today (Section 5.3)\n\nStatistical inference for difference in means from 2 independent samples\n\nWhat are \\(H_0\\) and \\(H_a\\)?\nWhat is the SE for \\(\\bar{x}_1 - \\bar{x}_2\\)?\nHypothesis test\nConfidence Interval\nRun test in R - using long vs. wide data\nSatterthwaite’s df\nPooled SD"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#examples-of-designs-with-two-independent-samples",
+    "href": "slides_code/Day11_bsta511_code.html#examples-of-designs-with-two-independent-samples",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Examples of designs with two independent samples",
+    "text": "Examples of designs with two independent samples\n\nAny study where participants are randomized to a control and treatment group\nStudy where create two groups based on whether they were exposed or not to some condition (can be observational)\nBook: “Does treatment using embryonic stem cells (ESCs) help improve heart function following a heart attack?”\nBook: “Is there evidence that newborns from mothers who smoke have a different average birth weight than newborns from mothers who do not smoke?”\nThe key is that the data from the two groups are independent of each other."
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#steps-in-a-hypothesis-test",
+    "href": "slides_code/Day11_bsta511_code.html#steps-in-a-hypothesis-test",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Steps in a Hypothesis Test",
+    "text": "Steps in a Hypothesis Test\n\nSet the level of significance \\(\\alpha\\)\nSpecify the null ( \\(H_0\\) ) and alternative ( \\(H_A\\) ) hypotheses\n\nIn symbols\nIn words\nAlternative: one- or two-sided?\n\nCalculate the test statistic.\nCalculate the p-value based on the observed test statistic and its sampling distribution\nWrite a conclusion to the hypothesis test\n\nDo we reject or fail to reject \\(H_0\\)?\nWrite a conclusion in the context of the problem"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#eda-explore-the-finger-taps-data",
+    "href": "slides_code/Day11_bsta511_code.html#eda-explore-the-finger-taps-data",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "EDA: Explore the finger taps data",
+    "text": "EDA: Explore the finger taps data\nDotplot of taps/minute stratified by group\n\nggplot(CaffTaps, aes(x=Taps)) +\n  geom_dotplot() +\n  facet_wrap(vars(Group), ncol=1)\n\n\n\n\nSummary statistics stratified by group\n\n# get_summary_stats() from rstatix package\nsumstats &lt;- CaffTaps %&gt;% \n  group_by(Group) %&gt;% \n  get_summary_stats(type = \"mean_sd\") \nsumstats %&gt;% gt()\n\n\n\n\n\n  \n    \n      Group\n      variable\n      n\n      mean\n      sd\n    \n  \n  \n    Caffeine\nTaps\n10\n248.3\n2.214\n    NoCaffeine\nTaps\n10\n244.8\n2.394\n  \n  \n  \n\n\n\ndiff(sumstats$mean)\n\n[1] -3.5"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#what-distribution-does-barx_1---barx_2-have",
+    "href": "slides_code/Day11_bsta511_code.html#what-distribution-does-barx_1---barx_2-have",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "What distribution does \\(\\bar{X}_1 - \\bar{X}_2\\) have?",
+    "text": "What distribution does \\(\\bar{X}_1 - \\bar{X}_2\\) have?\nLet \\(\\bar{X}_1\\) and \\(\\bar{X}_2\\) be the means of random samples from two independent groups, with parameters:\n\n\n\n\nGroup 1\nGroup 2\n\n\n\n\nsample size\n\\(n_1\\)\n\\(n_2\\)\n\n\npop mean\n\\(\\mu_1\\)\n\\(\\mu_2\\)\n\n\npop sd\n\\(\\sigma_1\\)\n\\(\\sigma_2\\)\n\n\n\nSome theoretical statistics:\n\nIf \\(\\bar{X}_1\\) and \\(\\bar{X}_2\\) are independent normal r.v.’s, then \\(\\bar{X}_1 - \\bar{X}_2\\) is also normal\nWhat is the mean of \\(\\bar{X}_1 - \\bar{X}_2\\)?\n\n\\[E[\\bar{X}_1 - \\bar{X}_2] = E[\\bar{X}_1] - E[\\bar{X}_2] = \\mu_1-\\mu_2\\]\n\nWhat is the standard deviation of \\(\\bar{X}_1 - \\bar{X}_2\\)?\n\n\\[Var(\\bar{X}_1 - \\bar{X}_2) = Var(\\bar{X}_1) + Var(\\bar{X}_2) = \\frac{\\sigma_1^2}{n_1}+\\frac{\\sigma_2^2}{n_2} \\\\\nSD(\\bar{X}_1 - \\bar{X}_2) = \\sqrt{\\frac{\\sigma_1^2}{n_1}+\\frac{\\sigma_2^2}{n_2}}\\]"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#step-3-test-statistic-part-2",
+    "href": "slides_code/Day11_bsta511_code.html#step-3-test-statistic-part-2",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Step 3: Test statistic (part 2)",
+    "text": "Step 3: Test statistic (part 2)\n\\[\nt_{\\bar{x}_1 - \\bar{x}_2} = \\frac{\\bar{x}_1 - \\bar{x}_2 - 0}{\\sqrt{\\frac{s_1^2}{n_1} + \\frac{s_2^2}{n_2}}}\n\\]\n\n\\(\\bar{x}_1, \\bar{x}_2\\) are the sample means\n\\(\\mu_0=0\\) is the mean value specified in \\(H_0\\)\n\\(s_1, s_2\\) are the sample SD’s\n\\(n_1, n_2\\) are the sample sizes\nStatistical theory tells us that \\(t_{\\bar{x}_1 - \\bar{x}_2}\\) follows a student’s t-distribution with\n\n\\(df \\approx\\) smaller of \\(n_1-1\\) and \\(n_2-1\\)\nthis is a conservative estimate (smaller than actual \\(df\\) )\n\n\nAssumptions:\n\nIndependent observations & samples\n\nThe observations were collected independently.\nIn particular, the observations from the two groups were not paired in any meaningful way.\n\nApproximately normal samples or big n’s\n\nThe distributions of the samples should be approximately normal\nor both their sample sizes should be at least 30."
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#step-3-test-statistic-part-3",
+    "href": "slides_code/Day11_bsta511_code.html#step-3-test-statistic-part-3",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Step 3: Test statistic (part 3)",
+    "text": "Step 3: Test statistic (part 3)\n\n\n\n\n\n\n  \n    \n      Group\n      variable\n      n\n      mean\n      sd\n    \n  \n  \n    Caffeine\nTaps\n10\n248.3\n2.214\n    NoCaffeine\nTaps\n10\n244.8\n2.394\n  \n  \n  \n\n\n\n\n\\[\n\\text{test statistic} = t_{\\bar{x}_1 - \\bar{x}_2} = \\frac{\\bar{x}_1 - \\bar{x}_2 - 0}{\\sqrt{\\frac{s_1^2}{n_1} + \\frac{s_2^2}{n_2}}}\n\\]\n\nBased on the value of the test statistic, do you think we are going to reject or fail to reject \\(H_0\\)?"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#step-3b-assumptions-satisfied",
+    "href": "slides_code/Day11_bsta511_code.html#step-3b-assumptions-satisfied",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Step “3b”: Assumptions satisfied?",
+    "text": "Step “3b”: Assumptions satisfied?\nAssumptions:\n\nIndependent observations & samples\n\nThe observations were collected independently.\nIn particular, the observations from the two groups were not paired in any meaningful way.\n\nApproximately normal samples or big n’s\n\nThe distributions of the samples should be approximately normal\nor both their sample sizes should be at least 30.\n\n\n\nggplot(CaffTaps, aes(x=Taps)) +\n  geom_dotplot() +\n  facet_wrap(vars(Group), ncol=1)\n\n\n\n\nThe p-value is the probability of obtaining a test statistic just as extreme or more extreme than the observed test statistic assuming the null hypothesis \\(H_0\\) is true.\n\n# specify upper and lower bounds of shaded region below\nmu &lt;- 0\nstd &lt;- se\n\n# The following figure is only an approximation of the \n# sampling distribution since I used a normal instead\n# of t-distribution to make it.\n\nggplot(data.frame(x = c(mu-5*std, mu+5*std)), aes(x = x)) + \n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = std)) + \n  scale_y_continuous(breaks = NULL) +\n  scale_x_continuous(breaks=c(mu, mu - 1*(1:5), mu + 1*(1:5))) +\n  theme(axis.text.x=element_text(angle = -30, hjust = 0)) +\n  labs(y = \"\", \n       x = \"difference in means\",\n       title = \"Sampling distribution of difference in means\") +\n  geom_vline(xintercept = c(diff_x), \n             color = \"red\")\n\n\n\n\n\nggplot(data = data.frame(x = c(-5, 5)), aes(x)) + \n  stat_function(fun = dt, args = list(df = min(n1 -1, n2-1))) + \n  ylab(\"\") + \n  xlab(\"t-dist with df = 9\") +\n  scale_y_continuous(breaks = NULL) + \n  scale_x_continuous(breaks=c(mu, mu - (1:5), mu + (1:5))) +\n  geom_vline(xintercept = c(tstat), \n             color = \"red\")\n\n\n\n\nCalculate the p-value:"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#r-2-sample-t-test-with-long-data",
+    "href": "slides_code/Day11_bsta511_code.html#r-2-sample-t-test-with-long-data",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "R: 2-sample t-test (with long data)",
+    "text": "R: 2-sample t-test (with long data)\n\nThe CaffTaps data are in a long format, meaning that\n\nall of the outcome values are in one column and\nanother column indicates which group the values are from\n\nThis is a common format for data from multiple samples, especially if the sample sizes are different.\n\n\n(Taps_2ttest &lt;- t.test(formula = Taps ~ Group, alternative = \"greater\", data = CaffTaps))\n\n\n    Welch Two Sample t-test\n\ndata:  Taps by Group\nt = 3.3942, df = 17.89, p-value = 0.001628\nalternative hypothesis: true difference in means between group Caffeine and group NoCaffeine is greater than 0\n95 percent confidence interval:\n 1.711272      Inf\nsample estimates:\n  mean in group Caffeine mean in group NoCaffeine \n                   248.3                    244.8 \n\n\n\ntidy the t.test output\n\n# use tidy command from broom package for briefer output that's a tibble\ntidy(Taps_2ttest) %&gt;% gt()\n\n\n\n\n\n  \n    \n      estimate\n      estimate1\n      estimate2\n      statistic\n      p.value\n      parameter\n      conf.low\n      conf.high\n      method\n      alternative\n    \n  \n  \n    3.5\n248.3\n244.8\n3.394168\n0.001627703\n17.89012\n1.711272\nInf\nWelch Two Sample t-test\ngreater\n  \n  \n  \n\n\n\n\n\nPull the p-value:\n\n\ntidy(Taps_2ttest)$p.value  # we can pull specific values from the tidy output\n\n[1] 0.001627703"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#r-2-sample-t-test-with-wide-data",
+    "href": "slides_code/Day11_bsta511_code.html#r-2-sample-t-test-with-wide-data",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "R: 2-sample t-test (with wide data)",
+    "text": "R: 2-sample t-test (with wide data)\n\n# make CaffTaps data wide: pivot_wider needs an ID column so that it \n# knows how to \"match\" values from the Caffeine and NoCaffeine groups\nCaffTaps_wide &lt;- CaffTaps %&gt;% \n  mutate(id = rep(1:10, 2)) %&gt;% #  \"fake\" IDs for pivot_wider step\n  pivot_wider(names_from = \"Group\",\n              values_from = \"Taps\")\nglimpse(CaffTaps_wide)\n\nRows: 10\nColumns: 3\n$ id         &lt;int&gt; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10\n$ Caffeine   &lt;dbl&gt; 246, 248, 250, 252, 248, 250, 246, 248, 245, 250\n$ NoCaffeine &lt;dbl&gt; 242, 245, 244, 248, 247, 248, 242, 244, 246, 242\n\nt.test(x = CaffTaps_wide$Caffeine, y = CaffTaps_wide$NoCaffeine, alternative = \"greater\") %&gt;% \n  tidy() %&gt;% gt()\n\n\n\n\n\n  \n    \n      estimate\n      estimate1\n      estimate2\n      statistic\n      p.value\n      parameter\n      conf.low\n      conf.high\n      method\n      alternative\n    \n  \n  \n    3.5\n248.3\n244.8\n3.394168\n0.001627703\n17.89012\n1.711272\nInf\nWelch Two Sample t-test\ngreater"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#why-are-the-dfs-in-the-r-output-different",
+    "href": "slides_code/Day11_bsta511_code.html#why-are-the-dfs-in-the-r-output-different",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Why are the df’s in the R output different?",
+    "text": "Why are the df’s in the R output different?\nFrom many slides ago:\n\nStatistical theory tells us that \\(t_{\\bar{x}_1 - \\bar{x}_2}\\) follows a student’s t-distribution with\n\n\\(df \\approx\\) smaller of \\(n_1-1\\) and \\(n_2-1\\)\nthis is a conservative estimate (smaller than actual \\(df\\) )\n\n\nThe actual degrees of freedom are calculated using Satterthwaite’s method:\n\\[\\nu = \\frac{[ (s_1^2/n_1) + (s_2^2/n_2) ]^2}\n{(s_1^2/n_1)^2/(n_1 - 1) + (s_2^2/n_2)^2/(n_2-1) }\n= \\frac{ [ SE_1^2 + SE_2^2 ]^2}{ SE_1^4/df_1 + SE_2^4/df_2 }\\]\n\nVerify the p-value in the R output using \\(\\nu\\) = 17.89012:\n\npt(3.3942, df = 17.89012, lower.tail = FALSE)\n\n[1] 0.001627588"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#r-2-sample-t-test-with-pooled-sd",
+    "href": "slides_code/Day11_bsta511_code.html#r-2-sample-t-test-with-pooled-sd",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "R: 2-sample t-test with pooled SD",
+    "text": "R: 2-sample t-test with pooled SD\n\n# t-test with pooled SD\nt.test(formula = Taps ~ Group, alternative = \"greater\", \n       var.equal = TRUE,  # pooled SD \n       data = CaffTaps) %&gt;% tidy() %&gt;% gt()\n\n\n\n\n\n  \n    \n      estimate\n      estimate1\n      estimate2\n      statistic\n      p.value\n      parameter\n      conf.low\n      conf.high\n      method\n      alternative\n    \n  \n  \n    3.5\n248.3\n244.8\n3.394168\n0.001616497\n18\n1.711867\nInf\nTwo Sample t-test\ngreater\n  \n  \n  \n\n\n\n# t-test without pooled SD\nt.test(formula = Taps ~ Group, alternative = \"greater\", \n       var.equal = FALSE,  # default, NOT pooled SD \n       data = CaffTaps) %&gt;% tidy() %&gt;% gt()\n\n\n\n\n\n  \n    \n      estimate\n      estimate1\n      estimate2\n      statistic\n      p.value\n      parameter\n      conf.low\n      conf.high\n      method\n      alternative\n    \n  \n  \n    3.5\n248.3\n244.8\n3.394168\n0.001627703\n17.89012\n1.711272\nInf\nWelch Two Sample t-test\ngreater\n  \n  \n  \n\n\n\n\nSimilar output in this case - why??"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#rejection-region",
+    "href": "slides_code/Day11_bsta511_code.html#rejection-region",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Rejection region",
+    "text": "Rejection region\n\nIf the absolute value of the test statistic is greater than the critical value, we reject \\(H_0\\)\n\nIn this case the test statistic is in the rejection region.\nOtherwise it’s in the nonrejection region.\n\nWhat do rejection regions look like for 2-sided vs. 1-sided tests?"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#hypothesis-testing-errors",
+    "href": "slides_code/Day11_bsta511_code.html#hypothesis-testing-errors",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Hypothesis Testing “Errors”",
+    "text": "Hypothesis Testing “Errors”\n\nJustice system analogy\nType I and Type II Errors - Making Mistakes in the Justice System\nhttp://www.intuitor.com/statistics/T1T2Errors.html"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#type-i-ii-errors",
+    "href": "slides_code/Day11_bsta511_code.html#type-i-ii-errors",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Type I & II Errors",
+    "text": "Type I & II Errors\n\n\\(\\alpha\\) = probability of making a Type I error\n\nThis is the significance level (usually 0.05)\nSet before study starts\n\n\\(\\beta\\) = probability of making a Type II error\nIdeally we want\n\nsmall Type I & II errors and\nbig power\n\n\n\n\n\n\n\nApplet for visualizing Type I & II errors and power: https://rpsychologist.com/d3/NHST/"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#relationship-between-type-i-ii-errors",
+    "href": "slides_code/Day11_bsta511_code.html#relationship-between-type-i-ii-errors",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Relationship between Type I & II errors",
+    "text": "Relationship between Type I & II errors\n\nType I vs. Type II error\n\nDecreasing P(Type I error) leads to\n\nincreasing P(Type II error)\n\nWe typically keep P(Type I error) = \\(\\alpha\\) set to 0.05\n\n\nTry out the applet at https://rpsychologist.com/d3/NHST/"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#relationship-between-type-ii-errors-and-power",
+    "href": "slides_code/Day11_bsta511_code.html#relationship-between-type-ii-errors-and-power",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Relationship between Type II errors and power",
+    "text": "Relationship between Type II errors and power\n\nPower = P(correctly rejecting the null hypothesis)\n\n\n\nAlso called the\n\ntrue positive rate,\nprobability of detection, or\nthe sensitivity of a test\n\nPower vs. Type II error\n\nPower = 1 - P(Type II error) = 1 - \\(\\beta\\)\nThus as \\(\\beta\\) = P(Type II error) decreases, the power increases\nP(Type II error) decreases as the mean of the alternative population gets further away from the mean of the null population (effect size gets bigger).\nTypically want at least 80% power; 90% power is good"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#power-calculation-for-testing-one-mean",
+    "href": "slides_code/Day11_bsta511_code.html#power-calculation-for-testing-one-mean",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "Power calculation for testing one mean",
+    "text": "Power calculation for testing one mean\nConversely, we can calculate how much power we had in our example given the sample size of 130.\n\nCalculate power,\n\ngiven \\(\\alpha\\), \\(n\\), “true” alternative mean \\(\\mu\\), and null \\(\\mu_0\\),\nassuming the test statistic is normal (instead of t-distribution)\n\n\n\\[1-\\beta=\n        \\Phi\\left(z-z_{1-\\alpha/2}\\right)+\\Phi\\left(-z-z_{1-\\alpha/2}\\right)\n        \\quad ,\\quad z=\\frac{\\mu-\\mu_0}{s/\\sqrt{n}}\\]\n\nmu &lt;- 98.25; mu0 &lt;- 98.6; sd &lt;- 0.73; alpha &lt;- 0.05; n &lt;- 130\n(z &lt;- (mu-mu0) / (sd/sqrt(n)) )\n\n[1] -5.466595\n\n(Power &lt;- pnorm(z-qnorm(1-alpha/2)) + pnorm(-z-qnorm(1-alpha/2)))\n\n[1] 0.9997731\n\n\nIf the population mean is 98.2 instead of 98.6, we have a 99.98% chance of correctly rejecting \\(H_0\\) when the sample size is 130.\nWe would say this was over powered."
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#r-package-pwr-for-power-analyses",
+    "href": "slides_code/Day11_bsta511_code.html#r-package-pwr-for-power-analyses",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "R package pwr for power analyses",
+    "text": "R package pwr for power analyses\n\nUse pwr.t.test for both one- and two-sample t-tests.\n\nSpecify all parameters except for the one being solved for.\n\npwr.t.test(n = NULL, d = NULL, sig.level = 0.05, power = NULL,\ntype = c(\"two.sample\", \"one.sample\", \"paired\"),\nalternative = c(\"two.sided\", \"less\", \"greater\"))\nd is Cohen’s d effect size: small = 0.2, medium = 0.5, large = 0.8\nOne-sample test (or paired t-test):\n\\[d = \\frac{\\mu-\\mu_0}{s}\\]\nTwo-sample test (independent):\n\\[d = \\frac{\\bar{x}_1 - \\bar{x}_2}{s_{pooled}}\\]\n\n\\(\\bar{x}_1 - \\bar{x}_2\\) is the difference in means between the two groups that one would want to be able to detect as being significant,\n\\(s_{pooled}\\) is the pooled SD between the two groups - often assume have same sd in each group\nR package pwr for basic statistical tests\n\nhttps://cran.r-project.org/web/packages/pwr/vignettes/pwr-vignette.html"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#pwr-sample-size-for-one-mean-test",
+    "href": "slides_code/Day11_bsta511_code.html#pwr-sample-size-for-one-mean-test",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "pwr: sample size for one mean test",
+    "text": "pwr: sample size for one mean test\npwr.t.test(n = NULL, d = NULL, sig.level = 0.05, power = NULL,\ntype = c(\"two.sample\", \"one.sample\", \"paired\"), alternative = c(\"two.sided\", \"less\", \"greater\"))\n\nd is Cohen’s d effect size: \\(d = \\frac{\\mu-\\mu_0}{s}\\)\n\nSpecify all parameters except for the sample size:\n\nlibrary(pwr)\nt.n &lt;- pwr.t.test(\n  d = (98.6-98.25)/0.73, \n  sig.level = 0.05, \n  power = 0.80, \n  type = \"one.sample\")\n\nt.n\n\n\n     One-sample t test power calculation \n\n              n = 36.11196\n              d = 0.4794521\n      sig.level = 0.05\n          power = 0.8\n    alternative = two.sided\n\nplot(t.n)"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#pwr-power-for-one-mean-test",
+    "href": "slides_code/Day11_bsta511_code.html#pwr-power-for-one-mean-test",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "pwr: power for one mean test",
+    "text": "pwr: power for one mean test\npwr.t.test(n = NULL, d = NULL, sig.level = 0.05, power = NULL,\ntype = c(\"two.sample\", \"one.sample\", \"paired\"), alternative = c(\"two.sided\", \"less\", \"greater\"))\n\nd is Cohen’s d effect size: \\(d = \\frac{\\mu-\\mu_0}{s}\\)\n\nSpecify all parameters except for the power:\n\nt.power &lt;- pwr.t.test(\n  d = (98.6-98.25)/0.73, \n  sig.level = 0.05, \n  # power = 0.80, \n  n = 130,\n  type = \"one.sample\")\n\nt.power\n\n\n     One-sample t test power calculation \n\n              n = 130\n              d = 0.4794521\n      sig.level = 0.05\n          power = 0.9997354\n    alternative = two.sided\n\nplot(t.power)"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#pwr-two-sample-t-test-sample-size",
+    "href": "slides_code/Day11_bsta511_code.html#pwr-two-sample-t-test-sample-size",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "pwr: Two-sample t-test: sample size",
+    "text": "pwr: Two-sample t-test: sample size\npwr.t.test(n = NULL, d = NULL, sig.level = 0.05, power = NULL,\ntype = c(\"two.sample\", \"one.sample\", \"paired\"), alternative = c(\"two.sided\", \"less\", \"greater\"))\n\nd is Cohen’s d effect size: \\(d = \\frac{\\bar{x}_1 - \\bar{x}_2}{s_{pooled}}\\)\n\nExample: Suppose the data collected for the caffeine taps study were pilot day for a larger study. Investigators want to know what sample size they would need to detect a 2 point difference between the two groups. Assume the SD in both groups is 2.3.\nSpecify all parameters except for the sample size:\n\nt2.n &lt;- pwr.t.test(\n  d = 2/2.3, \n  sig.level = 0.05, \n  power = 0.80, \n  type = \"two.sample\") \n\nt2.n\n\n\n     Two-sample t test power calculation \n\n              n = 21.76365\n              d = 0.8695652\n      sig.level = 0.05\n          power = 0.8\n    alternative = two.sided\n\nNOTE: n is number in *each* group\n\nplot(t2.n)"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#pwr-two-sample-t-test-power",
+    "href": "slides_code/Day11_bsta511_code.html#pwr-two-sample-t-test-power",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "pwr: Two-sample t-test: power",
+    "text": "pwr: Two-sample t-test: power\npwr.t.test(n = NULL, d = NULL, sig.level = 0.05, power = NULL,\ntype = c(\"two.sample\", \"one.sample\", \"paired\"), alternative = c(\"two.sided\", \"less\", \"greater\"))\n\nd is Cohen’s d effect size: \\(d = \\frac{\\bar{x}_1 - \\bar{x}_2}{s_{pooled}}\\)\n\nExample: Suppose the data collected for the caffeine taps study were pilot day for a larger study. Investigators want to know what sample size they would need to detect a 2 point difference between the two groups. Assume the SD in both groups is 2.3.\nSpecify all parameters except for the power:\n\nt2.power &lt;- pwr.t.test(\n  d = 2/2.3, \n  sig.level = 0.05, \n  # power = 0.80, \n  n = 22,\n  type = \"two.sample\") \n\nt2.power\n\n\n     Two-sample t test power calculation \n\n              n = 22\n              d = 0.8695652\n      sig.level = 0.05\n          power = 0.8044288\n    alternative = two.sided\n\nNOTE: n is number in *each* group\n\nplot(t2.power)"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#what-information-do-we-need-for-a-power-or-sample-size-calculation",
+    "href": "slides_code/Day11_bsta511_code.html#what-information-do-we-need-for-a-power-or-sample-size-calculation",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "What information do we need for a power (or sample size) calculation?",
+    "text": "What information do we need for a power (or sample size) calculation?\nThere are 4 pieces of information:\n\nLevel of significance \\(\\alpha\\)\n\nUsually fixed to 0.05\n\nPower\n\nIdeally at least 0.80\n\nSample size\nEffect size (expected change)\n\nGiven any 3 pieces of information, we can solve for the 4th.\n\npwr.t.test(\n  d = (98.6-98.25)/0.73,\n  sig.level = 0.05, \n  # power = 0.80, \n  n=130,\n  type = \"one.sample\")\n\n\n     One-sample t test power calculation \n\n              n = 130\n              d = 0.4794521\n      sig.level = 0.05\n          power = 0.9997354\n    alternative = two.sided"
+  },
+  {
+    "objectID": "slides_code/Day11_bsta511_code.html#more-software-for-power-and-sample-size-calculations-pass",
+    "href": "slides_code/Day11_bsta511_code.html#more-software-for-power-and-sample-size-calculations-pass",
+    "title": "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)",
+    "section": "More software for power and sample size calculations: PASS",
+    "text": "More software for power and sample size calculations: PASS\n\nPASS is a very powerful (& expensive) software that does power and sample size calculations for many advanced statistical modeling techniques.\n\nEven if you don’t have access to PASS, their documentation is very good and free online.\nDocumentation includes formulas and references.\nPASS documentation for powering means\n\nOne mean, paired means, two independent means\n\n\nOne-sample t-test documentation: https://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/PASS/One-Sample_T-Tests.pdf"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "UNDER CONSTRUCTION: Schedule",
+    "section": "",
+    "text": "Week\nDates\nDay\nTopics\nChapter sections\n\n\n\n\n1\nM 9/30\n\nNo class:  OHSU New Student Orientation\n\n\n\n\nW 10/2\n1\nIntroduction to R & RStudio\n\n\n\n2\nM 10/7\n2\nIntro to Data, Data collection\n1.1-1.3\n\n\n\nW 10/9\n3\nSummarizing numerical data,  Probability\n1.4, 2.1-2.2.4\n\n\n\nSa 10/12\n\nHW 1 Due (Days 1 - 3)\n\n\n\n3\nM 10/14\n4\nBayes’ Theorem, R Packages\n2.2.5, extra\n\n\n\nW 10/16\n5\nData visualization,  exploratory data analysis (EDA),  and summarizing categorical data\n1.5-1.7, extra\n\n\n\nSa 10/19\n\nHW 2 Due (Days 4 - 5)\n\n\n\n4\nM 10/21\n6\nRandom variables,  Binomial distribution\n3.1-3.2\n\n\n\nW 10/23\n7\nNormal and Poisson distributions\n3.3-3.4\n\n\n\nSa 10/26\n\nHW 3 Due (Days 6 - 7)\n\n\n\n5\nM 10/28\n8\nVariability in estimates\n4.1\n\n\n\nW 10/30\n\nExam 1: Days 1-7\nCh 1, 2, 3.1-3.4\n\n\n6\nM 11/4\n9\nConfidence Intervals\n4.2\n\n\n\nW 11/6\n10\nHypothesis Testing:  Single-sample with t-distribution  & Two-sample paired data\n4.3, 5.1, 5.2\n\n\n\nSa 11/9\n\nHW 4 Due (Days 8 - 10)\n\n\n\n7\nM 11/11\n11\nHypothesis Testing:  Two-sample independent data;  Power\n5.3-5.4, extra\n\n\n\nW 11/13\n12\nInference for a single proportion  or difference in proportions\n8.1-8.2\n\n\n\nSa 11/16\n\nHW 5 Due (Days 11 - 12)\n\n\n\n8\nM 11/18\n13\nChi-squared tests,  Fishers exact test\n8.3-8.4\n\n\n\nW 11/20\n14\nComparing Means with ANOVA.\n5.5, extra\n\n\n\nSa 11/23\n\nHW 6 Due (Days 13 - 14)\n\n\n\n9\nM 11/25\n\nExam 2: Days 8-13\nCh 4, 5.1-5.4;  extra, 8.1-8.4\n\n\n\nW 11/27\n15\nSimple Linear Regression\n6.1-6.2\n\n\n10\nM 12/2\n16\nSimple Linear Regression\n6.3-6.4\n\n\n\nW 12/4\n17\nNon-parametric tests  (sign, signed-rank, rank-sum,  Kruskal-Wallis)\nExtra\n\n\n\nSa 12/7\n\nHW 7 Due (Days 15 - 17)\n\n\n\n11\nM 12/9\n\nReview - catch up\n\n\n\n\nW 12/11\n\nExam 3 due (take home):  Cumulative with a focus on Days 14-17\nCh 5.5, 6,  non-parametric"
+  },
+  {
+    "objectID": "weeks/week_01.html",
+    "href": "weeks/week_01.html",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "",
+    "text": "Syllabus on Sakai\nWeek 1 info on Sakai\n\nIncludes links to background survey and BSAT 511/611 Slack group"
+  },
+  {
+    "objectID": "weeks/week_01.html#general-info",
+    "href": "weeks/week_01.html#general-info",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "",
+    "text": "Syllabus on Sakai\nWeek 1 info on Sakai\n\nIncludes links to background survey and BSAT 511/611 Slack group"
+  },
+  {
+    "objectID": "weeks/week_01.html#day01",
+    "href": "weeks/week_01.html#day01",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "Day01",
+    "text": "Day01\nIntro to R & RStudio\n\nHandout with directions on installing R & RStudio\n\n\nSlides\n\nhtml\npdf\nwebpage\nqmd"
+  },
+  {
+    "objectID": "weeks/week_01.html#homework---coming-soon",
+    "href": "weeks/week_01.html#homework---coming-soon",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "Homework - coming soon!",
+    "text": "Homework - coming soon!\n\nHW 1 due on Sat, 10/12\n\nCovers Days 1-3"
+  },
+  {
+    "objectID": "weeks/week_01.html#recordings",
+    "href": "weeks/week_01.html#recordings",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "Recordings",
+    "text": "Recordings"
+  },
+  {
+    "objectID": "weeks/week_02.html",
+    "href": "weeks/week_02.html",
+    "title": "UNDER CONSTRUCTION: Week 2",
+    "section": "",
+    "text": "Data Collection Principles & Intro to Data (Fall 2023: Day 2)\n\nBook sections 1.1-1.3\n\n\n\n\n\n\nSummarizing Numerical Data (Fall 2023: Day 2)\n\nBook section 1.4\n\nProbability (Fall 2023: Day 4)\n\nSections 2.1 - 2.2.4"
+  },
+  {
+    "objectID": "weeks/week_02.html#overview-of-week-2",
+    "href": "weeks/week_02.html#overview-of-week-2",
+    "title": "UNDER CONSTRUCTION: Week 2",
+    "section": "",
+    "text": "Data Collection Principles & Intro to Data (Fall 2023: Day 2)\n\nBook sections 1.1-1.3\n\n\n\n\n\n\nSummarizing Numerical Data (Fall 2023: Day 2)\n\nBook section 1.4\n\nProbability (Fall 2023: Day 4)\n\nSections 2.1 - 2.2.4"
+  },
+  {
+    "objectID": "weeks/week_02.html#slides-recordings",
+    "href": "weeks/week_02.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 2",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link (F23)\nDuration\nCode: qmd\nCode: html\n\n\n\n\n2\nData Collection Principles (Book section 1.3)\nDay 2: slides 1-17\n\n\n\nDay 2 Part 1\n33 min\n\n\n\n\n\nIntro to Data (Book section 1.2)\nDay 2: slides 18-32\n\n\n\nDay 2 Part 2\n42 min\n\n\n\n\n3\nSummarizing Numerical Data (Book section 1.4)\nDay 2: slides 33-46\n\n\n\nDay 2 Part 3\n37 min\n\n\n\n\n\nProbability (Book sections 2.1.1-2.1.6)\nDay 4: slides 1-4\n\n\n\nDay 4 Part 1\n23 min\n\n\n\n\n\nProbability (Book sections 2.1.7-2.2.4)\nDay 4: slides 5-9\n\n\n\nDay 4 Part 2\n24 min"
+  },
+  {
+    "objectID": "weeks/week_02.html#class-discussion",
+    "href": "weeks/week_02.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 2",
+    "section": "Class discussion",
+    "text": "Class discussion\n\nDay02\nDuring class you will be working in groups discussing the following:\n\nFrom HW 1\n\nBook problems: 1.8, 1.12, 1.20\nR2: BRFSS - parts a)-b)\n\n\n\n\nDay03\n\nSummarizing Numerical Data (Fall 2023: Day 2)\n\nSlide 46: Robust estimates\nFrom HW 1\n\nBook problem: 1.31\nR2: BRFSS - parts c)-e)\n\n\nProbability (Fall 2023: Day 4)\n\nExample 2.3 on pg 4 of slides\nExample 2.6 on pgs 8-9 of slides\nFrom HW 1\n\nBook problems: 2.6,2.14"
+  },
+  {
+    "objectID": "weeks/week_02.html#homework",
+    "href": "weeks/week_02.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 2",
+    "section": "Homework",
+    "text": "Homework\n\nHW 1 due on Sat, 10/12\n\nCovers Days 1-3"
+  },
+  {
+    "objectID": "weeks.html",
+    "href": "weeks.html",
+    "title": "Weekly Pages",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n9/30/24\n\n\nUNDER CONSTRUCTION: Week 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/7/24\n\n\nUNDER CONSTRUCTION: Week 2\n\n\nData collection & Probability\n\n\n\n\n10/14/24\n\n\nUNDER CONSTRUCTION: Week 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/21/24\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/28/24\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nVariability in estimates and Exam 1\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "weeks/week_03.html",
+    "href": "weeks/week_03.html",
+    "title": "UNDER CONSTRUCTION: Week 3",
+    "section": "",
+    "text": "Bayes’ Rule (Fall 2023: Day 5)\n\nSection 2.2.5\n\nR Packages (Fall 2023: Day 2)\n\n\n\n\nFall 2023: Day 3\n\nData visualization, exploratory data analysis (EDA), and summarizing categorical data\n\nSections 1.5-1.7 & supplementary material\nBelow I posted additional “Day 3 part 3” slides with extra data wrangling code. I refer to some of the slides in the homework assignment. You are welcome to go through all of the slides to learn some data wrangling techniques. We will be covering topics from these slides as needed throughout the quarter.\nBonus:\n\nExamples on dealing with overlapping labels in figures (Slides 65, 66, & 68 from BERD R intro workshop)\nCheck out Ted Laderas’s Better Plots presentation\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAs I mentioned in the recording, the various options in more complex figures I usually look up how to implement when I need them. I show them so that you are aware of some of the functionality and options one has in creating figures using the ggplot2 package. At the end of the slides, we cover how to create tables summarizing data, especially categorical data. This part has some very useful code and data wrangling in it."
+  },
+  {
+    "objectID": "weeks/week_03.html#overview-of-week-3",
+    "href": "weeks/week_03.html#overview-of-week-3",
+    "title": "UNDER CONSTRUCTION: Week 3",
+    "section": "",
+    "text": "Bayes’ Rule (Fall 2023: Day 5)\n\nSection 2.2.5\n\nR Packages (Fall 2023: Day 2)\n\n\n\n\nFall 2023: Day 3\n\nData visualization, exploratory data analysis (EDA), and summarizing categorical data\n\nSections 1.5-1.7 & supplementary material\nBelow I posted additional “Day 3 part 3” slides with extra data wrangling code. I refer to some of the slides in the homework assignment. You are welcome to go through all of the slides to learn some data wrangling techniques. We will be covering topics from these slides as needed throughout the quarter.\nBonus:\n\nExamples on dealing with overlapping labels in figures (Slides 65, 66, & 68 from BERD R intro workshop)\nCheck out Ted Laderas’s Better Plots presentation\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAs I mentioned in the recording, the various options in more complex figures I usually look up how to implement when I need them. I show them so that you are aware of some of the functionality and options one has in creating figures using the ggplot2 package. At the end of the slides, we cover how to create tables summarizing data, especially categorical data. This part has some very useful code and data wrangling in it."
+  },
+  {
+    "objectID": "weeks/week_03.html#slides-recordings",
+    "href": "weeks/week_03.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 3",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link (F23)\nDuration\nCode: qmd\nCode: html\n\n\n\n\n4\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 1-2\n\n\n\nDay 5 Part 1\n22 min\n\n\n\n\n\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 3-6\n\n\n\nDay 5 Part 2\n22 min\n\n\n\n\n\nR packages\nDay 2: slides 47-54\n\n\n\nDay 2 Part 4\n30 min\n\n\n\n\n5\nExploratory Data Analysis\nDay 3: slides 1-59\n\n\n\nDay 3\n1 hr 18 min\n\n\n\n\n\nExtra EDA slides\nDay 3 Part 2 slides\n\n\n\n\n\n\n\n\n\n\nDay 3 Part 3: Extra data wrangling code"
+  },
+  {
+    "objectID": "weeks/week_03.html#class-discussion",
+    "href": "weeks/week_03.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 3",
+    "section": "Class discussion",
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\n\nDay04\n\nR Packages (Fall 2023: Day 2)\n\nR packages: any difficulty installing packages?\n\nBayes’ Rule (Fall 2023: Day 5)\n\nExample 2.10 on pg 6 of slides\n\nFrom HW 2\n\nBook exercises\n\n2.24\n\nNon-book exercise\n\n\n\n\nDay05\n\nCan distribution shape and sample size be determined from a boxplot? (see slide 30)\nIs there evidence of ethnicity (Hispanic vs. White non-Hispanic) discrimination in DDS expenditures? Why or why not?\n\nSee Slides table above for Day 3 Part 2 slide deck (and code) that I presented in class\n\nFrom HW 2\n\nR1 & R2: NHANES - parts 1 & 2"
+  },
+  {
+    "objectID": "weeks/week_03.html#homework",
+    "href": "weeks/week_03.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 3",
+    "section": "Homework",
+    "text": "Homework\n\nHW 2 due on Sat, 10/19\n\nSee extra Day 3 Part 3 slides (both pdf and code) in table above with slides & recording links."
+  },
+  {
+    "objectID": "weeks/week_04.html",
+    "href": "weeks/week_04.html",
+    "title": "UNDER CONSTRUCTION: Week 4",
+    "section": "",
+    "text": "Random variables: Section 3.1\nBinomial distribution: Section 3.2\n\n\n\n\n\nNormal distribution: Section 3.3\nPoisson distribution: Section 3.4"
+  },
+  {
+    "objectID": "weeks/week_04.html#overview-of-week-4",
+    "href": "weeks/week_04.html#overview-of-week-4",
+    "title": "UNDER CONSTRUCTION: Week 4",
+    "section": "",
+    "text": "Random variables: Section 3.1\nBinomial distribution: Section 3.2\n\n\n\n\n\nNormal distribution: Section 3.3\nPoisson distribution: Section 3.4"
+  },
+  {
+    "objectID": "weeks/week_04.html#slides-recordings",
+    "href": "weeks/week_04.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 4",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n\nCalculating probabilities in R\n\n\n\n\n\n\n\n\n\n\n6\nRandom Variables (3.1.1-3.1.3)\nDay 6: slides 1-6\n\n\n\nDay 6 Part 1\n24 min\n\n\n\n\n\nLinear combinations of RV’s (3.1.4)\nDay 6: slides 7-10\nsame\n\nsame\nDay 6 Part 2\n14 min\n\n\n\n\n\nBinomial dist (3.2)\nDay 6: slides 11-15\nsame\n\nsame\nDay 6 Part 3\n27 min\n\n\n\n\n7\nNormal dist and prob’s for standard normal (3.3.1, 3.3.3)\nDay 7: slides 1-5\n\n\n\nDay 7 Part 1\n27 min\n\n\n\n\n\nNormal prob’s using z-scores (3.3.2, 3.3.4)\nDay 7: slides 6-7\nsame\n\nsame\nDay 7 Part 2\n15 min\n\n\n\n\n\nNormal approx of binomial dist (3.3.6)\nDay 7: slides 8-9\nsame\n\nsame\nDay 7 Part 3\n14 min\n\n\n\n\n\nPoisson dist (3.4)\nDay 7: slides 10-12\nsame\n\nsame\nDay 7 Part 4\n15 min"
+  },
+  {
+    "objectID": "weeks/week_04.html#class-discussion",
+    "href": "weeks/week_04.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 4",
+    "section": "Class discussion",
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay06\n\nExample 3.11 on pg 6 of slides\nExample 3.17 on pg 10 of slides\n\nHint: If you are unsure how to define the random variable T, take a look at how we defined the random variable M in example 3.16 for the amount of money one gets from 3 rolls of a die.\n\nExample 3.22 parts (1) and (2) on pg 14 of slides\nFrom HW 3\n\nBook exercises\n\n3.4, 3.8\n\nNon-book exercise\n\nNB 1\n\n\nIf you want some R practice, try the following:\n\nExample 3.3 on pg 2 of slides\n\nWrite R code to calculate the expected value by defining vectors in R with the relevant values and then doing the appropriate calculations with the vectors.\nHint: start with x &lt;- 1:6.\n\nExample 3.10 on pg 5 of slides\n\nWrite R code to calculate the variance and standard deviation by defining vectors in R with the relevant values and then doing the appropriate calculations with the vectors.\n\n\n\n\n\nDay07\n\nExample 3.3 parts (1) and (3) on pg 7 of slides\nExample 3.8 parts (2) and (3) on pg 11 of slides\nFrom HW 3\n\nBook exercises\n\n3.22, 3.32, 3.40"
+  },
+  {
+    "objectID": "weeks/week_04.html#homework",
+    "href": "weeks/week_04.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 4",
+    "section": "Homework",
+    "text": "Homework\n\nHW 3 due on Sat, 10/26\nMake sure to check out the calculating probabilities in R code file: qmd, html\nNote: the answer to exercise 3.31(b) in the textbook (not assigned) is incorrect.\n\nCheck out this spreadsheet for more typos in book."
+  },
+  {
+    "objectID": "weeks/week_04.html#exam-1-information",
+    "href": "weeks/week_04.html#exam-1-information",
+    "title": "UNDER CONSTRUCTION: Week 4",
+    "section": "Exam 1 information",
+    "text": "Exam 1 information\n\nExam 1 will be on Wed, Oct. 30th\nSamples of past exam questions and answers (on Sakai)\nMaterial will cover Days 1-7,\n\nwhich is approximately Chapters 1, 2, 3.1-3.4 from the textbook.\n\nThe exam will be in-class and handwritten. Bring a calculator.\nYou may bring one page of notes on an 8.5” x 11” sheet of paper.\n\nYou may use both sides.\nYou may type your notes.\nYou may not use screenshots of the notes or textbook\nYou will be turning in the page of notes with the exam, so please add your name to the sheet."
+  },
+  {
+    "objectID": "weeks/week_05.html",
+    "href": "weeks/week_05.html",
+    "title": "UNDER CONSTRUCTION: Week 5",
+    "section": "",
+    "text": "Variability in estimates: Section 4.1\n\n\n\n\n\nSee the Exam 1 information section below for more information"
+  },
+  {
+    "objectID": "weeks/week_05.html#overview-of-week-5",
+    "href": "weeks/week_05.html#overview-of-week-5",
+    "title": "UNDER CONSTRUCTION: Week 5",
+    "section": "",
+    "text": "Variability in estimates: Section 4.1\n\n\n\n\n\nSee the Exam 1 information section below for more information"
+  },
+  {
+    "objectID": "weeks/week_05.html#slides-recordings",
+    "href": "weeks/week_05.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 5",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n8\nVariability in estimates: Section 4.1\nDay 8: slides 1-13\n\n\n\nDay 8 Part 1\n26 min\n\n\n\n\n\n4.1 con’td\nDay 8: slides 14-29\nsame\n\nsame\nDay 8 Part 2\n37 min\nsame\n\n\n\n\nR code demo\n\n\n\n\nDay 8 Part 3\n11 min\nsame"
+  },
+  {
+    "objectID": "weeks/week_05.html#class-discussion",
+    "href": "weeks/week_05.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 5",
+    "section": "Class discussion",
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 8\n\nSlide 21: match figures to distribution (Sampling high schoolers’ weights)\nProblems from Homework 4:\n\nBook exercise: 4.2 (warm-up)\nR1: Youth weights (YRBSS)\nNon-book exercise: Ethan Allen"
+  },
+  {
+    "objectID": "weeks/week_05.html#homework",
+    "href": "weeks/week_05.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 5",
+    "section": "Homework",
+    "text": "Homework\n\nHW 4 covers Days 8 -10 and is due on Sat, 11/9\nCheck out this spreadsheet for typos in book."
+  },
+  {
+    "objectID": "weeks/week_05.html#sec-Exam1info",
+    "href": "weeks/week_05.html#sec-Exam1info",
+    "title": "UNDER CONSTRUCTION: Week 5",
+    "section": "Exam 1 information",
+    "text": "Exam 1 information\n\nExam 1 will be on Wed, Oct. 30th\nSamples of past exam questions and answers (on Sakai)\nMaterial will cover Days 1-7,\n\nwhich is approximately Chapters 1, 2, 3.1-3.4 from the textbook.\n\nThe exam will be in-class and handwritten. Bring a calculator.\nYou may bring one page of notes on an 8.5” x 11” sheet of paper.\n\nYou may use both sides.\nYou may type your notes.\nYou may not use screenshots of the notes or textbook\nYou will be turning in the page of notes with the exam, so please add your name to the sheet."
+  },
+  {
+    "objectID": "weeks/week_06.html",
+    "href": "weeks/week_06.html",
+    "title": "UNDER CONSTRUCTION: Week 6",
+    "section": "",
+    "text": "Confidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\n\n\n\n\nHypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R"
+  },
+  {
+    "objectID": "weeks/week_06.html#overview-of-week-6",
+    "href": "weeks/week_06.html#overview-of-week-6",
+    "title": "UNDER CONSTRUCTION: Week 6",
+    "section": "",
+    "text": "Confidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\n\n\n\n\nHypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R"
+  },
+  {
+    "objectID": "weeks/week_06.html#slides-recordings",
+    "href": "weeks/week_06.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 6",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n9\nCI’s for 1 mean: 4.2\nDay 9: slides 1-12\n\n\n\nDay 9 Part 1\n17 min\n\n\n\n\n\n4.2 con’td\nDay 9: slides 13-19\nsame\n\nsame\nDay 9 Part 2\n17 min\nsame\nsame\n\n\n\n4.2 con’td, 5.1.1, 5.1.2 (pgs. 238-242)\nDay 9: slides 20-23\nsame\n\nsame\nDay 9 Part 3\n14 min\nsame\nsame\n\n\n10 part 1\nHyp test 1 mean intro\nDay 10 Part 1: slides 1-13\n\n\n\nDay 10 Part 1\n26 min\n\n\n\n\n\nHyp test steps: 4.3, 5.1\nDay 10 Part 1: slides 14-25\nsame\n\nsame\nDay 10 Part 2\n36 min\nsame\n\n\n\n\nR demo\nDay 10 Part 1: slides 26-34\nsame\n\nsame\nDay 10 Part 3\n25 min\nsame\n\n\n\n10 part 2\n\nDay 10 Part 2\n\n\n\nNo recording"
+  },
+  {
+    "objectID": "weeks/week_06.html#datasets",
+    "href": "weeks/week_06.html#datasets",
+    "title": "UNDER CONSTRUCTION: Week 6",
+    "section": "Datasets",
+    "text": "Datasets\nAll datasets can be found on GitHub\n\nBodyTemperatures.csv\nchol213.csv"
+  },
+  {
+    "objectID": "weeks/week_06.html#class-discussion",
+    "href": "weeks/week_06.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 6",
+    "section": "Class discussion",
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 9\n\nSlide 15: What percent CI was being simulated in this figure?\nSlide 22: Calculate CI\nProblems from Homework 4:\n\nBook exercises:\n\nwarm-up: 4.4, 4.6, 5.10\n5.6\n\nR2: Youth weights Part 2 (YRBSS)\n\n\n\n\nDay 10\n\nWork through Day 10 Part 2 slides\n\nThere are specific questions in orange on (most) slides.\n\nProblems from Homework 4:\n\nBook exercises:\n\n5.16 (warm-up)\n5.12\n\nR3: Swim times"
+  },
+  {
+    "objectID": "weeks/week_06.html#homework",
+    "href": "weeks/week_06.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 6",
+    "section": "Homework",
+    "text": "Homework\n\nHW 4 covers Days 8 -10 and is due on Sat, 11/9\nCheck out this spreadsheet for typos in book."
+  },
+  {
+    "objectID": "weeks/week_07.html",
+    "href": "weeks/week_07.html",
+    "title": "UNDER CONSTRUCTION: Week 7",
+    "section": "",
+    "text": "Inference for difference in means from two independent sample (2-sample t-test)\nPower and sample size calculations\n\n\n\n\n\nInference for proportions\n\nCIs vs. hypothesis tests\nOne proportion from one sample\nDifference in proportions from two independent samples"
+  },
+  {
+    "objectID": "weeks/week_07.html#overview-of-week-7",
+    "href": "weeks/week_07.html#overview-of-week-7",
+    "title": "UNDER CONSTRUCTION: Week 7",
+    "section": "",
+    "text": "Inference for difference in means from two independent sample (2-sample t-test)\nPower and sample size calculations\n\n\n\n\n\nInference for proportions\n\nCIs vs. hypothesis tests\nOne proportion from one sample\nDifference in proportions from two independent samples"
+  },
+  {
+    "objectID": "weeks/week_07.html#slides-recordings",
+    "href": "weeks/week_07.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 7",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n11\n2-sample means test: 5.3.2\nDay 11: slides 1-17\n\n\n\nDay 11 Part 1\n36 min\n\n\n\n\n\n2-sample means CI; R; pooled SD: 5.3.1, 5.3.5\nDay 11: slides 18-26\nsame\n\nsame\nDay 11 Part 2\n26 min\nsame\nsame\n\n\n\nPower & sample size: 1 or 2 means: 5.4 & extra\nDay 11: slides 27-45\nsame\n\nsame\nDay 11 Part 3\n57 min\nsame\nsame\n\n\n12\n1 & 2 proportions test & CI: 8.1.1, 8.2\nDay 12: slides 1-23\n *\n\n *\nDay 12 Part 1\n48 min\n\n\n\n\n\nR: 1 & 2 proportions test & CI\nDay 12: slides 24-34\nsame\n\nsame\nDay 12 Part 2\n26 min\nsame\n\n\n\n\nPower for 1- and 2- proportions\nDay 12: slides 35-43\nsame\n\nsame\nDay 12 Part 3\n25 min\nsame\n\n\n\n\n*Note: page numbers in pdf files do not always align with those in the original html slides"
+  },
+  {
+    "objectID": "weeks/week_07.html#datasets",
+    "href": "weeks/week_07.html#datasets",
+    "title": "UNDER CONSTRUCTION: Week 7",
+    "section": "Datasets",
+    "text": "Datasets\nAll datasets can be found on GitHub\n\nDay 11: CaffeineTaps.csv"
+  },
+  {
+    "objectID": "weeks/week_07.html#class-discussion",
+    "href": "weeks/week_07.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 7",
+    "section": "Class discussion",
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 11\n\nBook 5.26 a-b\nR1: DDS expenditures by ethnicity (parts a-l)\nPSS1: Book 4.22 - Power & sample size T/F questions\nPSS2: Power & sample size calculations\n\n\n\nDay 12\n\nBook\n\n8.2 (warm-up),\n8.8 (see instructions in HW),\n8.24 (see instructions in HW)"
+  },
+  {
+    "objectID": "weeks/week_07.html#homework",
+    "href": "weeks/week_07.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 7",
+    "section": "Homework",
+    "text": "Homework\n\nHW 5 covers Days 11 -12 and is due on Sat, 11/16\nCheck out this spreadsheet for typos in book."
+  },
+  {
+    "objectID": "weeks/week_08.html",
+    "href": "weeks/week_08.html",
+    "title": "UNDER CONSTRUCTION: Week 8",
+    "section": "",
+    "text": "Chi-squared tests of association and homogeneity\nFisher’s exact test\nSections 8.3-8.4\n\n\n\n\n\nANOVA = Analysis of Variance\nComparing more than 2 means\nSection 5.5"
+  },
+  {
+    "objectID": "weeks/week_08.html#overview-of-week-8",
+    "href": "weeks/week_08.html#overview-of-week-8",
+    "title": "UNDER CONSTRUCTION: Week 8",
+    "section": "",
+    "text": "Chi-squared tests of association and homogeneity\nFisher’s exact test\nSections 8.3-8.4\n\n\n\n\n\nANOVA = Analysis of Variance\nComparing more than 2 means\nSection 5.5"
+  },
+  {
+    "objectID": "weeks/week_08.html#slides-recordings",
+    "href": "weeks/week_08.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 8",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n13\nChi-sqr intro\nDay 13: slides 1-10\n\n\n\nDay 13 Part 1\n18 min\n\n\n\n\n\nChi-sqr test: 8.3.1 - 8.3.4\nDay 13: slides 11-17\nsame\n\nsame\nDay 13 Part 2\n23 min\nsame\n\n\n\n\nChi-sqr in R, Fisher’s Exact Test, Chi-sqr vs. prop’s\nDay 13: R tip, slides 18-33\nsame\n\nsame\nDay 13 Part 3\n57 min\nsame\n\n\n\n14\nANOVA intro\nDay 14: slides 1-15\n\n\n\nDay 14 Part 1\n29 min\n\n\n\n\n\nANOVA table\nDay 14: slides 16-28\nsame\n\nsame\nDay 14 Part 2\n27 min\nsame\n\n\n\n\nANOVA in R, conditions, post-hoc testing\nDay 14: slides 29-47\nsame\n\nsame\nDay 14 Part 3\n39 min\nsame"
+  },
+  {
+    "objectID": "weeks/week_08.html#datasets",
+    "href": "weeks/week_08.html#datasets",
+    "title": "UNDER CONSTRUCTION: Week 8",
+    "section": "Datasets",
+    "text": "Datasets\nAll datasets can be found on GitHub\n\nDay 14: DisabilityEmployment.txt"
+  },
+  {
+    "objectID": "weeks/week_08.html#class-discussion",
+    "href": "weeks/week_08.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 8",
+    "section": "Class discussion",
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 13\n\nQuestions from HW 6\n\nBook: 8.28 (warm-up), 8.32, 8.34, 8.38 (modified; see assignment)\n\n\n\n\nDay 14\n\nSlide 12: “Hypothetical examples” question\nSlide 29 questions\nQuestions from HW 6\n\nBook 5.44, 5.48\nR1: Palmer Penguins ANOVA"
+  },
+  {
+    "objectID": "weeks/week_08.html#homework",
+    "href": "weeks/week_08.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 8",
+    "section": "Homework",
+    "text": "Homework\n\nHW 6 covers Days 13 -14 and is due on Sat, 11/23\nCheck out this spreadsheet for typos in book."
+  },
+  {
+    "objectID": "weeks/week_08.html#sec-Exam2info",
+    "href": "weeks/week_08.html#sec-Exam2info",
+    "title": "UNDER CONSTRUCTION: Week 8",
+    "section": "Exam 2 information",
+    "text": "Exam 2 information\n\nExam 2 will be on Mon, Oct. 30th\nSamples of past exam questions and answers (on Sakai)\nMaterial will cover Days 8-13,\n\nwhich is approximately Ch 4, 5.1-5.4, 8.1-8.4 from the textbook, and supplementary material.\n\nThe exam will be in-class and handwritten. Bring a calculator.\nYou may bring one page of notes on an 8.5” x 11” sheet of paper.\n\nYou may use both sides.\nYou may type your notes.\nYou may not use screenshots of the notes or textbook\nYou will be turning in the page of notes with the exam, so please add your name to the sheet."
+  },
+  {
+    "objectID": "weeks/week_09.html",
+    "href": "weeks/week_09.html",
+    "title": "UNDER CONSTRUCTION: Week 9",
+    "section": "",
+    "text": "See the Exam 2 information section below for more information\n\n\n\n\n\nSimple Linear Regression (part 1)\nSections 6.1, 6.2"
+  },
+  {
+    "objectID": "weeks/week_09.html#overview-of-week-9",
+    "href": "weeks/week_09.html#overview-of-week-9",
+    "title": "UNDER CONSTRUCTION: Week 9",
+    "section": "",
+    "text": "See the Exam 2 information section below for more information\n\n\n\n\n\nSimple Linear Regression (part 1)\nSections 6.1, 6.2"
+  },
+  {
+    "objectID": "weeks/week_09.html#slides-recordings",
+    "href": "weeks/week_09.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 9",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n15\nSimple linear regression: 6.1-6.2\n\n\n\n\nDay 15\n46 min"
+  },
+  {
+    "objectID": "weeks/week_09.html#datasets",
+    "href": "weeks/week_09.html#datasets",
+    "title": "UNDER CONSTRUCTION: Week 9",
+    "section": "Datasets",
+    "text": "Datasets\nAll datasets can be found on GitHub\n\nDay 15: lifeexp_femlit_water_2011.csv"
+  },
+  {
+    "objectID": "weeks/week_09.html#class-discussion",
+    "href": "weeks/week_09.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 9",
+    "section": "Class discussion",
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 15\n\nBook exercises\n\nWarm-up: 6.2, 6.6\n6.10\n\nR1: Palmer Penguins SLR"
+  },
+  {
+    "objectID": "weeks/week_09.html#homework",
+    "href": "weeks/week_09.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 9",
+    "section": "Homework",
+    "text": "Homework\n\nHW 7 covers Days 15 -17 and is due on Sat, 12/7\nCheck out this spreadsheet for typos in book."
+  },
+  {
+    "objectID": "weeks/week_09.html#sec-Exam2info",
+    "href": "weeks/week_09.html#sec-Exam2info",
+    "title": "UNDER CONSTRUCTION: Week 9",
+    "section": "Exam 2 information",
+    "text": "Exam 2 information\n\nExam 2 will be on Mon, Nov. 25th\nSamples of past exam questions and answers (on Sakai)\nMaterial will cover Days 8-13,\n\nwhich is approximately Ch 4, 5.1-5.4, 8.1-8.4 from the textbook, and supplementary material.\n\nThe exam will be in-class and handwritten. Bring a calculator.\nYou may bring one page of notes on an 8.5” x 11” sheet of paper.\n\nYou may use both sides.\nYou may type your notes.\nYou may not use screenshots of the notes or textbook\nYou will be turning in the page of notes with the exam, so please add your name to the sheet."
+  },
+  {
+    "objectID": "weeks/week_10.html",
+    "href": "weeks/week_10.html",
+    "title": "UNDER CONSTRUCTION: Week 10",
+    "section": "",
+    "text": "Simple Linear Regression Part 2\nSections 6.3-6.4\n\n\n\n\n\nNonparametric tests\nThis material is not in our textbook. Please see Chapter 13: Nonparametric tests of Pagano’s Principles of Biostatistics, 2022 edition as a supplementary resource.\n\nThis chapter can be downloaded from the OHSU library’s eBook at https://ebookcentral.proquest.com/lib/ohsu/detail.action?docID=6950388&pq-origsite=primo"
+  },
+  {
+    "objectID": "weeks/week_10.html#overview-of-week-10",
+    "href": "weeks/week_10.html#overview-of-week-10",
+    "title": "UNDER CONSTRUCTION: Week 10",
+    "section": "",
+    "text": "Simple Linear Regression Part 2\nSections 6.3-6.4\n\n\n\n\n\nNonparametric tests\nThis material is not in our textbook. Please see Chapter 13: Nonparametric tests of Pagano’s Principles of Biostatistics, 2022 edition as a supplementary resource.\n\nThis chapter can be downloaded from the OHSU library’s eBook at https://ebookcentral.proquest.com/lib/ohsu/detail.action?docID=6950388&pq-origsite=primo"
+  },
+  {
+    "objectID": "weeks/week_10.html#slides-recordings",
+    "href": "weeks/week_10.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 10",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n16\nSimple Linear Regression cont’d: 6.3-6.4\nDay 16\n\n\n\nDay 16 *\n1 hr 26 min\n\n\n\n\n17\nSign test & Sign-rank test: Slides 1-31\n\n\n\n\nDay 17 Part 1\n56 min\n\n\n\n\n\nWilcoxon rank-sum test, Kruskal-Wallis test: Slides 32-53\n\nsame\n\nsame\nDay 17 Part 2\n41 min\nsame\n\n\n\n\n*Edited live recording from F23 class"
+  },
+  {
+    "objectID": "weeks/week_10.html#datasets",
+    "href": "weeks/week_10.html#datasets",
+    "title": "UNDER CONSTRUCTION: Week 10",
+    "section": "Datasets",
+    "text": "Datasets\nAll datasets can be found on GitHub\n\nDay 16: lifeexp_femlit_water_2011.csv"
+  },
+  {
+    "objectID": "weeks/week_10.html#class-discussion",
+    "href": "weeks/week_10.html#class-discussion",
+    "title": "UNDER CONSTRUCTION: Week 10",
+    "section": "Class discussion",
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 16\n\nQuestions from HW 7\n\nBook\n\nWarm-up: 6.12\n6.28, 6.32\n\nR2 (a) - (j): Life expectancy vs. CO2 emissions\n\n\n\n\nDay 17\n\nQuestions from HW 7\n\nNonparametric Tests: NPT 1-3"
+  },
+  {
+    "objectID": "weeks/week_10.html#homework",
+    "href": "weeks/week_10.html#homework",
+    "title": "UNDER CONSTRUCTION: Week 10",
+    "section": "Homework",
+    "text": "Homework\n\nHW 7 covers Days 15 -17 and is due on Sat, 12/7\nCheck out this spreadsheet for typos in book."
+  },
+  {
+    "objectID": "weeks/week_11.html",
+    "href": "weeks/week_11.html",
+    "title": "UNDER CONSTRUCTION: Week 11",
+    "section": "",
+    "text": "Open office hours during class\n\nIn-person: VPT 627 Note different room!\nOnline: Webex (see link below)\n\n\n\n\n\n\n\nOpen office hours during class\n\nOnline: Webex (see link below)"
+  },
+  {
+    "objectID": "weeks/week_11.html#overview-of-week-11",
+    "href": "weeks/week_11.html#overview-of-week-11",
+    "title": "UNDER CONSTRUCTION: Week 11",
+    "section": "",
+    "text": "Open office hours during class\n\nIn-person: VPT 627 Note different room!\nOnline: Webex (see link below)\n\n\n\n\n\n\n\nOpen office hours during class\n\nOnline: Webex (see link below)"
+  },
+  {
+    "objectID": "weeks/week_11.html#exam-3---final-version-posted",
+    "href": "weeks/week_11.html#exam-3---final-version-posted",
+    "title": "UNDER CONSTRUCTION: Week 11",
+    "section": "Exam 3 - final version posted",
+    "text": "Exam 3 - final version posted\n\nExam 3 is due on 12/13/24 at 5 pm\nFinal version of the exam is now posted (Exam3_BSTA511_F24_v2.qmd/.html) in the Assignments section of Sakai.\n\nNote that the attachments of the assignment include both the qmd and html files for the exam, as well as two datasets.\n\nWatch an 11 minute recording of me explaining the different parts of the exam.\n\nCheck your OHSU email or Slack for the password."
+  },
+  {
+    "objectID": "weeks/week_11.html#webex-link-for-week-11",
+    "href": "weeks/week_11.html#webex-link-for-week-11",
+    "title": "UNDER CONSTRUCTION: Week 11",
+    "section": "Webex link for Week 11",
+    "text": "Webex link for Week 11\nWhen it’s time, join your Webex meeting here.\nJoin Meeting: https://ohsu.webex.com/ohsu/j.php?MTID=m38226d405dacf95ecc49b56b04f38e20\nMeeting password: WCkwHmUy564\nPhone (audio only):\n1-503-388-9555 Portland, OR\n1-206-207-1700 Seattle, WA\nMeeting number (access code): 2865 488 1852\nAdditional call-in numbers:\nhttps://ohsu.webex.com/ohsu/globalcallin.php\nMobile phone (one-touch):\n206-207-1700,,28654881852##"
   }
 ]

@@ -1,0 +1,59 @@
+---
+title: "UNDER CONSTRUCTION: Week 11"
+description: "Finals week"
+date: "12/9/2024"
+date-modified: "today"
+categories: [""]
+format: 
+  html:
+    link-external-newwindow: true
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Overview of Week 11
+
+::::: grid
+::: g-col-6
+### Mon: Office hours
+
+-   Open office hours during class
+    -   In-person: **VPT 627** *Note different room!*
+    -   Online: Webex (see [link](#sec-webex-link-for-week-11) below)  
+:::
+
+::: g-col-6
+### Wed: Office hours & Exam 3 due
+
+-   Open office hours during class
+    -   Online: Webex (see [link](#sec-webex-link-for-week-11) below)  
+:::
+:::::
+
+
+## Exam 3 - final version posted
+
+
+* Exam 3 is due on **12/13/24 at 5 pm**
+* Final version of the exam is now posted (Exam3_BSTA511_F24_v2.qmd/.html) in the [Assignments](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F24/tool/8cee686f-e5e0-401c-a7c1-b097fc8eb9a9) section of Sakai.
+    * Note that the attachments of the assignment include both the qmd and html files for the exam, as well as two datasets.
+* [Watch an 11 minute [recording](https://ohsu.webex.com/recordingservice/sites/ohsu/recording/playback/ec3b1d589586400fad0f1837f2f5d803) of me explaining the different parts of the exam.]{style="color:darkorange"}
+    * Check your OHSU email or Slack for the password.
+
+
+## Webex link for Week 11
+
+When it's time, join your Webex meeting here.  
+Join Meeting: [https://ohsu.webex.com/ohsu/j.php?MTID=m38226d405dacf95ecc49b56b04f38e20](https://ohsu.webex.com/ohsu/j.php?MTID=m38226d405dacf95ecc49b56b04f38e20)  
+Meeting password: WCkwHmUy564
+
+Phone (audio only):  
+1-503-388-9555 Portland, OR  
+1-206-207-1700 Seattle, WA  
+Meeting number (access code): 2865 488 1852  
+Additional call-in numbers:  
+[https://ohsu.webex.com/ohsu/globalcallin.php](https://ohsu.webex.com/ohsu/globalcallin.php)
+
+Mobile phone (one-touch):  
+206-207-1700,,28654881852##

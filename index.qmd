@@ -1,11 +1,104 @@
 ---
-title: "BSTA_511_F25"
+title: ""
+toc: false
+sidebar: true
+page-layout: full
+link-external-newwindow: true
 ---
 
-This is a Quarto website.
+::: {style="background-color: #86A484"}
+::: {style="color: #FFFFFF"}
+::: {.grid .align-items-center}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: g-col-4
 
-```{r}
-1 + 1
-```
+&nbsp;
+
+![](images/IMG_7897_med.png){fig-align="center" width="210"}
+
+:::
+
+::: g-col-8
+&nbsp;
+
+::: {style="font-size: 200%;"}
+UNDER CONSTRUCTION: Welcome to BSTA 511/611!
+:::
+
+::: {style="font-size: 150%;"}
+Estimation and Hypothesis Testing  
+Applied Biostatistics I
+:::
+
+Fall 2025
+:::
+
+:::
+:::
+:::
+
+::: grid
+
+::: g-col-4
+### Instructor
+
+{{< iconify fluent person-24-filled size=20px >}} Meike Niederhausen, PhD
+
+{{< iconify bi building-fill size=20px >}} VPT 660E
+
+{{< iconify tabler mail-filled size=20px >}} [niederha\@ohsu.edu](mailto:niederha@ohsu.edu)
+
+### TA
+
+{{< iconify fluent person-24-filled size=20px >}} Madi Pombo
+
+{{< iconify tabler mail-filled size=20px >}} [pombo\@ohsu.edu](mailto:pombo@ohsu.edu)
+:::
+
+::: g-col-4
+### Course details
+
+{{< iconify fa6-solid calendar-days size=20px >}} Mon, Wed   
+{{< iconify icon-park-solid time size=20px >}} 1:00 - 2:50 PM  
+{{< iconify fa6-solid person-chalkboard size=20px >}} VPT 620M  
+{{< iconify fa6-solid calendar size=20px >}} 9/30 - 12/11  
+
+:::
+
+::: g-col-4
+### Office Hours
+
+{{< iconify fa6-solid calendar-days size=20px >}} __Mondays 3-4 pm__ (Katie)  
+{{< iconify fa6-solid person-chalkboard size=20px >}} VPT Student Success Cntr
+
+{{< iconify fa6-solid calendar-days size=20px >}} __Wednesdays 2:50-3:30 pm__ (Meike)    
+{{< iconify fa6-solid person-chalkboard size=20px >}} VPT 660E
+
+{{< iconify fa6-solid calendar-days size=20px >}} __Thursdays 3-4 pm__ (Katie)  
+{{< fa globe >}} Webex (link on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F24/))
+
+{{< iconify fa6-solid calendar-days size=20px >}} __Fridays 3:30-4:30 pm__ (Meike)    
+<!-- <i class="fa-solid fa-globe"></i> -->
+{{< fa globe >}} Webex (link on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F24/))
+:::
+
+<!-- {{< iconify fa6-solid fluent-mdl2:join-online-meeting size=20px >}}  -->
+<!-- arcticons:webex -->
+
+
+
+:::
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-8
+### Contacting me
+
+E-mail or Slack is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours Monday-Friday.
+:::
+
+::: g-col-4
+[{{< iconify icomoon-free github size=20px >}} View the source on GitHub](https://github.com/niederhausen/BSTA_511_F24)
+:::
+:::

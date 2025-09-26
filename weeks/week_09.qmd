@@ -1,0 +1,77 @@
+---
+title: "UNDER CONSTRUCTION: Week 9"
+description: "Chi-squared tests and ANOVA"
+date: "11/25/2024"
+date-modified: "today"
+categories: [""]
+format: 
+  html:
+    link-external-newwindow: true
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Overview of Week 9
+
+::::: grid
+::: g-col-6
+### Mon: Exam 2
+
+-   See the [Exam 2 information](#sec-Exam2info) section below for more information
+:::
+
+::: g-col-6
+### Wed: Day 15
+
+-   Simple Linear Regression (part 1)
+-   Sections 6.1, 6.2
+:::
+:::::
+
+## Slides & Recordings
+
+-   **Pre-recorded** lessons are on [Echo Cloud](https://echo360.org/section/4a58d645-5753-4e4f-b962-f8825f59baba/home) (aka echo 360 or echo video).
+
+| Day | Topic | Slides: html | Slides: pdf | Slides: web-page | Slides with notes | Recording Link | Duration | Code: qmd | Code: html |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| 15 | Simple linear regression: 6.1-6.2 |  | [{{< iconify bi file-earmark-pdf-fill size=20px >}}](../slides_pdf/Day15_bsta511.pdf) |  | [{{< iconify pepicons-pop pen-circle-filled size=20px >}}](../slides_notes/Day15_bsta511_notes.pdf) | [Day 15](https://echo360.org/lesson/a7e4b6e8-5921-4f4e-8149-9d35db997853/classroom#sortDirection=desc) | 46 min | [{{< iconify simple-icons:quarto >}}](https://github.com/niederhausen/BSTA_511_F24/blob/main/slides_code/Day15_bsta511_code.qmd) | [{{< iconify ph file-html-light size=25px >}}](../slides_code/Day15_bsta511_code.qmd) |
+
+: {.striped .hover tbl-colwidths="\[3, 10, 8, 5, 5, 5, 6, 6, 5, 5\]"}
+
+## Datasets
+
+All datasets can be found on [GitHub](https://github.com/niederhausen/BSTA_511_F24/tree/main/data)
+
+-   Day 15: [lifeexp_femlit_water_2011.csv](/data/lifeexp_femlit_water_2011.csv)
+
+## Class discussion
+
+During class you will be working in groups discussing the following:
+
+### Day 15
+
+-   Book exercises
+    -   Warm-up: 6.2, 6.6
+    -   6.10
+-   R1: Palmer Penguins SLR 
+
+
+
+## Homework
+
+-   [HW 7](../homework/HW_7_F24_bsta511.qmd) covers Days 15 -17 and is due on Sat, 12/7
+-   Check out this [spreadsheet](https://docs.google.com/spreadsheets/d/1k_NivXZftdlRgRyTT3fUZCndW4eoXCzAs-DEIml6K3Y/edit?gid=0#gid=0) for typos in book.
+
+## Exam 2 information {#sec-Exam2info}
+
+-   Exam 2 will be on Mon, Nov. 25th
+-   Samples of [past exam questions](https://sakai.ohsu.edu/access/content/group/BSTA-511-1-AA-F24/Exam_samples/Exam_2_samples_Ch4_5.1-5.4_8.1-8.4.pdf) and [answers](https://sakai.ohsu.edu/access/content/group/BSTA-511-1-AA-F24/Exam_samples/Exam_2_samples_Ch4_5.1-5.4_8.1-8.4_answers.pdf) (on Sakai)
+-   Material will cover **Days 8-13**,
+    -   which is approximately **Ch 4, 5.1-5.4, 8.1-8.4** from the textbook, and supplementary material.
+-   The exam will be in-class and handwritten. *Bring a calculator.*
+-   You may bring one page of notes on an 8.5” x 11” sheet of paper.
+    -   You may use both sides.
+    -   You may type your notes.
+    -   You may **not** use screenshots of the notes or textbook
+    -   You will be turning in the page of notes with the exam, so please add your name to the sheet.
