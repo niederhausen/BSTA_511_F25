@@ -291,7 +291,7 @@
     "href": "weeks.html",
     "title": "Weekly Pages",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n10/7/24\n\n\nUNDER CONSTRUCTION: Week 2\n\n\nData collection & Probability\n\n\n\n\n10/14/24\n\n\nUNDER CONSTRUCTION: Week 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/21/24\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/28/24\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nVariability in estimates and Exam 1\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/30/25\n\n\nUNDER CONSTRUCTION: Week 1\n\n\nIntro to R & RStudio\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n10/7/24\n\n\nUNDER CONSTRUCTION: Week 2\n\n\nData collection & Probability\n\n\n\n\n10/14/24\n\n\nUNDER CONSTRUCTION: Week 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/21/24\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/28/24\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nVariability in estimates and Exam 1\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nUNDER CONSTRUCTION: Week 1\n\n\nIntro to R & RStudio\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "weeks/week_03.html",
@@ -1216,5 +1216,33 @@
     "title": "Day 1: Intro to R & Rstudio",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nFrom Quarto’s Markdown Basics webpage, https://quarto.org/docs/authoring/markdown-basics.html↩︎\nrequires LaTeX installation↩︎\nGrolemund, Garrett. 2014. Hands-on Programming with R. O’Reilly. https://rstudio-education.github.io/hopr/↩︎"
+  },
+  {
+    "objectID": "weeks/week_01.html#overview-of-week-2",
+    "href": "weeks/week_01.html#overview-of-week-2",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "Overview of Week 2",
+    "text": "Overview of Week 2\n\n\nMon\n\nNo class. OHSU New Student Orientation\nHandout with directions on installing R & RStudio\n\n\n\nWed - Day 1\n\nIntro to R & RStudio\nPlease have R & RStudio installed for class"
+  },
+  {
+    "objectID": "weeks/week_01.html#slides-recordings",
+    "href": "weeks/week_01.html#slides-recordings",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "Slides & Recordings",
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nCode: qmd\n\n\n\n\n1\nIntro to R & RStudio\nDay 1"
+  },
+  {
+    "objectID": "weeks/week_01.html#slides",
+    "href": "weeks/week_01.html#slides",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "Slides",
+    "text": "Slides\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nCode: qmd\n\n\n\n\n1\nIntro to R & RStudio\nDay 1"
+  },
+  {
+    "objectID": "weeks/week_01.html#overview-of-week-1",
+    "href": "weeks/week_01.html#overview-of-week-1",
+    "title": "UNDER CONSTRUCTION: Week 1",
+    "section": "Overview of Week 1",
+    "text": "Overview of Week 1\n\n\nMon\n\nNo class. OHSU New Student Orientation\nHandout with directions on installing R & RStudio\n\n\n\nWed - Day 1\n\nIntro to R & RStudio\nPlease have R & RStudio installed for class"
   }
 ]
