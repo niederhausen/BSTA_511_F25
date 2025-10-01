@@ -4,7 +4,7 @@ project:
   output-dir: docs
 
 website:
-  title: "UNDER CONSTRUCTION: BSTA 511/611 Fall 2025"
+  title: "BSTA 511/611 Fall 2025"
   navbar:
     background: primary
     search: true

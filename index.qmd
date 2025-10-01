@@ -22,7 +22,7 @@ link-external-newwindow: true
 &nbsp;
 
 ::: {style="font-size: 200%;"}
-UNDER CONSTRUCTION: Welcome to BSTA 511/611!
+Welcome to BSTA 511/611!
 :::
 
 ::: {style="font-size: 150%;"}
