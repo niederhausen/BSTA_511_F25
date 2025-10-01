@@ -19,7 +19,7 @@ $gray-800: #3e3f3a !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
-$blue:    #325d88 !default;
+$blue:    #167aa6 !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
@@ -32,7 +32,7 @@ $cyan:    #29abe0 !default;
 
 $primary:       $blue !default;
 $secondary:     $gray-600 !default;
-$success:       $green !default;
+$success:       $cyan !default;
 $info:          $cyan !default;
 $warning:       $orange !default;
 $danger:        $red !default;
@@ -369,4 +369,7 @@ input,
 }
 
 
+
 // quarto-scss-analysis-annotation { "origin": null }
+
+

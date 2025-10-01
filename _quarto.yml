@@ -8,7 +8,7 @@ website:
   navbar:
     background: primary
     search: true
-    logo: "images/IMG_7897_med.png"
+    logo: "images/IMG_9812_med.png"
     foreground: "#fff"
     collapse-below: sm
     right:
@@ -79,7 +79,7 @@ website:
 format:
   html:
     theme:
-      - sandstone
+      - sandstone.scss
       - custom.scss
     css: styles.css
     toc: true

@@ -1,7 +1,7 @@
 ---
 title: "UNDER CONSTRUCTION: Week 1"
 description: "Intro to R & RStudio"
-date: "9/30/2024"
+date: "9/30/2025"
 date-modified: "today"
 categories: [""]
 format: 
@@ -23,20 +23,20 @@ editor_options:
 
 Intro to R & RStudio
 
-* [Handout](../resources/BSTA 511 text R info F24.pdf) with directions on installing R & RStudio
+* [Handout](../resources/BSTA 511 text R info F25.pdf) with directions on installing R & RStudio
 
 ### Slides
 
 * [html](../slides/Day01_bsta511.qmd)
-* [pdf](https://drive.google.com/drive/folders/1I5-e1Dbso2jBYm5oIbMV0FqdpM-0q8pn)
+* [pdf](../slides_pdf/Day01_bsta511.pdf)
 * [webpage](../slides_md/Day01_bsta511_md.qmd)
-* [qmd](https://github.com/niederhausen/BSTA_511_F24/blob/main/slides_md/Day01_bsta511_md.qmd)
+* [qmd](https://github.com/niederhausen/BSTA_511_F25/blob/main/slides_md/Day01_bsta511_md.qmd)
 
 ## Homework - coming soon!
 
-* [HW 1](../homework/HW_1_F24_bsta511.qmd) due on Sat, 10/12
+* [HW 1](../homework/HW_1_F25_bsta511.qmd) due on Sat, 10/11
     * Covers Days 1-3
 
 ## Recordings
 
-<!-- * __In-class__ recording links are on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F24/tool/1f70eae0-e36a-4052-9247-69c6917e6b73/). Navigate to _Course Materials_ -> _Schedule with links to in-class recordings_. Note that the password to the recordings is at the top of the page.  -->
+<!-- * __In-class__ recording links are on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F25/tool/1f70eae0-e36a-4052-9247-69c6917e6b73/). Navigate to _Course Materials_ -> _Schedule with links to in-class recordings_. Note that the password to the recordings is at the top of the page.  -->
