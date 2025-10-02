@@ -30,7 +30,7 @@ editor_options:
 
 ## Slides & Recordings
 
--   **Pre-recorded** lessons are on [Echo Cloud](https://echo360.org/section/4a58d645-5753-4e4f-b962-f8825f59baba/home) (aka echo 360 or echo video).
+-   **Pre-recorded** lessons are on [Echo Video](https://echo360.org/section/af47457c-bed2-48d7-84ae-eaa2d44f9add/home).
 
 | Day | Topic | Slides: html | Slides: pdf | Slides: web-page | Slides with notes | Recording Link | Duration | Code: qmd | Code: html |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -44,7 +44,7 @@ editor_options:
 
 During class you will be working in groups discussing the following:
 
-### Day 8 
+### Day 8
 
 -   Slide 21: match figures to distribution (Sampling high schoolers’ weights)
 -   Problems from Homework 4:
@@ -52,7 +52,7 @@ During class you will be working in groups discussing the following:
     -   R1: Youth weights (YRBSS)
     -   Non-book exercise: Ethan Allen
 
-## Homework 
+## Homework
 
 -   [HW 4](../homework/HW_4_F24_bsta511.qmd) covers Days 8 -10 and is due on Sat, 11/9
 -   Check out this [spreadsheet](https://docs.google.com/spreadsheets/d/1k_NivXZftdlRgRyTT3fUZCndW4eoXCzAs-DEIml6K3Y/edit?gid=0#gid=0) for typos in book.

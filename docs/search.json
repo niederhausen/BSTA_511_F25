@@ -249,7 +249,7 @@
     "href": "weeks/week_01.html#recordings",
     "title": "Week 1",
     "section": "Recordings",
-    "text": "Recordings\n\nThere are no pre-recorded lessons for Week 1. However, you should have gotten an email inviting you to the EchoVideo site for BSTA 511/611. Make sure you can log into this site and view the recordings.\nIn-class recording links are on Sakai. Navigate to Course Materials -&gt; Schedule with links to in-class recordings. Note that the password to the recordings is at the top of the page."
+    "text": "Recordings\n\nThere are no pre-recorded lessons for Week 1. Starting Week 2, you will be accessing pre-recorded lessons on the EchoVideo site for BSTA 511/611. Make sure you can log into this site and view the recordings.\nIn-class recording links are on Sakai. Navigate to Course Materials -&gt; Schedule with links to in-class recordings. Note that the password to the recordings is at the top of the page."
   },
   {
     "objectID": "weeks/week_02.html",
@@ -270,7 +270,7 @@
     "href": "weeks/week_02.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 2",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link (F23)\nDuration\nCode: qmd\nCode: html\n\n\n\n\n2\nData Collection Principles (Book section 1.3)\nDay 2: slides 1-17\n\n\n\nDay 2 Part 1\n33 min\n\n\n\n\n\nIntro to Data (Book section 1.2)\nDay 2: slides 18-32\n\n\n\nDay 2 Part 2\n42 min\n\n\n\n\n3\nSummarizing Numerical Data (Book section 1.4)\nDay 2: slides 33-46\n\n\n\nDay 2 Part 3\n37 min\n\n\n\n\n\nProbability (Book sections 2.1.1-2.1.6)\nDay 4: slides 1-4\n\n\n\nDay 4 Part 1\n23 min\n\n\n\n\n\nProbability (Book sections 2.1.7-2.2.4)\nDay 4: slides 5-9\n\n\n\nDay 4 Part 2\n24 min"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link (F23)\nDuration\nCode: qmd\nCode: html\n\n\n\n\n2\nData Collection Principles (Book section 1.3)\nDay 2: slides 1-17\n\n\n\nDay 2 Part 1\n33 min\n\n\n\n\n\nIntro to Data (Book section 1.2)\nDay 2: slides 18-32\nsame\n\n\nDay 2 Part 2\n42 min\nsame\nsame\n\n\n3\nSummarizing Numerical Data (Book section 1.4)\nDay 2: slides 33-46\nsame\n\n\nDay 2 Part 3\n37 min\nsame\nsame\n\n\n\nProbability (Book sections 2.1.1-2.1.6)\nDay 4: slides 1-4\n\n\n\nDay 4 Part 1\n23 min\n\n\n\n\n\nProbability (Book sections 2.1.7-2.2.4)\nDay 4: slides 5-9\nsame\n\nsame\nDay 4 Part 2\n24 min"
   },
   {
     "objectID": "weeks/week_02.html#class-discussion",
@@ -284,14 +284,14 @@
     "href": "weeks/week_02.html#homework",
     "title": "UNDER CONSTRUCTION: Week 2",
     "section": "Homework",
-    "text": "Homework\n\nHW 1 due on Sat, 10/12\n\nCovers Days 1-3"
+    "text": "Homework\n\nHW 1 due on Sat, 10/11\n\nCovers Days 1-3"
   },
   {
     "objectID": "weeks.html",
     "href": "weeks.html",
     "title": "Weekly Pages",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n10/7/24\n\n\nUNDER CONSTRUCTION: Week 2\n\n\nData collection & Probability\n\n\n\n\n10/14/24\n\n\nUNDER CONSTRUCTION: Week 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/21/24\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/28/24\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nVariability in estimates and Exam 1\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n10/14/24\n\n\nUNDER CONSTRUCTION: Week 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/21/24\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/28/24\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nVariability in estimates and Exam 1\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nUNDER CONSTRUCTION: Week 2\n\n\nData collection & Probability\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "weeks/week_03.html",
@@ -312,7 +312,7 @@
     "href": "weeks/week_03.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 3",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link (F23)\nDuration\nCode: qmd\nCode: html\n\n\n\n\n4\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 1-2\n\n\n\nDay 5 Part 1\n22 min\n\n\n\n\n\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 3-6\n\n\n\nDay 5 Part 2\n22 min\n\n\n\n\n\nR packages\nDay 2: slides 47-54\n\n\n\nDay 2 Part 4\n30 min\n\n\n\n\n5\nExploratory Data Analysis\nDay 3: slides 1-59\n\n\n\nDay 3\n1 hr 18 min"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link (F23)\nDuration\nCode: qmd\nCode: html\n\n\n\n\n4\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 1-2\n\n\n\nDay 5 Part 1\n22 min\n\n\n\n\n\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 3-6\nsame\n\nsame\nDay 5 Part 2\n22 min\n\n\n\n\n\nR packages\nDay 2: slides 47-54\nsame\n\n\nDay 2 Part 4\n30 min\n\n\n\n\n5\nExploratory Data Analysis\nDay 3: slides 1-59\n\n\n\nDay 3\n1 hr 18 min"
   },
   {
     "objectID": "weeks/week_03.html#class-discussion",
@@ -347,7 +347,7 @@
     "href": "weeks/week_04.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 4",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n\nCalculating probabilities in R\n\n\n\n\n\n\n\n\n\n\n6\nRandom Variables (3.1.1-3.1.3)\nDay 6: slides 1-6\n\n\n\nDay 6 Part 1\n24 min\n\n\n\n\n\nLinear combinations of RV’s (3.1.4)\nDay 6: slides 7-10\nsame\n\nsame\nDay 6 Part 2\n14 min\n\n\n\n\n\nBinomial dist (3.2)\nDay 6: slides 11-15\nsame\n\nsame\nDay 6 Part 3\n27 min\n\n\n\n\n7\nNormal dist and prob’s for standard normal (3.3.1, 3.3.3)\nDay 7: slides 1-5\n\n\n\nDay 7 Part 1\n27 min\n\n\n\n\n\nNormal prob’s using z-scores (3.3.2, 3.3.4)\nDay 7: slides 6-7\nsame\n\nsame\nDay 7 Part 2\n15 min\n\n\n\n\n\nNormal approx of binomial dist (3.3.6)\nDay 7: slides 8-9\nsame\n\nsame\nDay 7 Part 3\n14 min\n\n\n\n\n\nPoisson dist (3.4)\nDay 7: slides 10-12\nsame\n\nsame\nDay 7 Part 4\n15 min"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n\nCalculating probabilities in R\n\n\n\n\n\n\n\n\n\n\n6\nRandom Variables (3.1.1-3.1.3)\nDay 6: slides 1-6\n\n\n\nDay 6 Part 1\n24 min\n\n\n\n\n\nLinear combinations of RV’s (3.1.4)\nDay 6: slides 7-10\nsame\n\nsame\nDay 6 Part 2\n14 min\n\n\n\n\n\nBinomial dist (3.2)\nDay 6: slides 11-15\nsame\n\nsame\nDay 6 Part 3\n27 min\n\n\n\n\n7\nNormal dist and prob’s for standard normal (3.3.1, 3.3.3)\nDay 7: slides 1-5\n\n\n\nDay 7 Part 1\n27 min\n\n\n\n\n\nNormal prob’s using z-scores (3.3.2, 3.3.4)\nDay 7: slides 6-7\nsame\n\nsame\nDay 7 Part 2\n15 min\n\n\n\n\n\nNormal approx of binomial dist (3.3.6)\nDay 7: slides 8-9\nsame\n\nsame\nDay 7 Part 3\n14 min\n\n\n\n\n\nPoisson dist (3.4)\nDay 7: slides 10-12\nsame\n\nsame\nDay 7 Part 4\n15 min"
   },
   {
     "objectID": "weeks/week_04.html#class-discussion",
@@ -389,7 +389,7 @@
     "href": "weeks/week_05.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n8\nVariability in estimates: Section 4.1\nDay 8: slides 1-13\n\n\n\nDay 8 Part 1\n26 min\n\n\n\n\n\n4.1 con’td\nDay 8: slides 14-29\nsame\n\nsame\nDay 8 Part 2\n37 min\nsame\n\n\n\n\nR code demo\n\n\n\n\nDay 8 Part 3\n11 min\nsame"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n8\nVariability in estimates: Section 4.1\nDay 8: slides 1-13\n\n\n\nDay 8 Part 1\n26 min\n\n\n\n\n\n4.1 con’td\nDay 8: slides 14-29\nsame\n\nsame\nDay 8 Part 2\n37 min\nsame\n\n\n\n\nR code demo\n\n\n\n\nDay 8 Part 3\n11 min\nsame"
   },
   {
     "objectID": "weeks/week_05.html#class-discussion",
@@ -431,7 +431,7 @@
     "href": "weeks/week_06.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 6",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n9\nCI’s for 1 mean: 4.2\nDay 9: slides 1-12\n\n\n\nDay 9 Part 1\n17 min\n\n\n\n\n\n4.2 con’td\nDay 9: slides 13-19\nsame\n\nsame\nDay 9 Part 2\n17 min\nsame\nsame\n\n\n\n4.2 con’td, 5.1.1, 5.1.2 (pgs. 238-242)\nDay 9: slides 20-23\nsame\n\nsame\nDay 9 Part 3\n14 min\nsame\nsame\n\n\n10 part 1\nHyp test 1 mean intro\nDay 10 Part 1: slides 1-13\n\n\n\nDay 10 Part 1\n26 min\n\n\n\n\n\nHyp test steps: 4.3, 5.1\nDay 10 Part 1: slides 14-25\nsame\n\nsame\nDay 10 Part 2\n36 min\nsame\n\n\n\n\nR demo\nDay 10 Part 1: slides 26-34\nsame\n\nsame\nDay 10 Part 3\n25 min\nsame\n\n\n\n10 part 2\n\nDay 10 Part 2\n\n\n\nNo recording"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n9\nCI’s for 1 mean: 4.2\nDay 9: slides 1-12\n\n\n\nDay 9 Part 1\n17 min\n\n\n\n\n\n4.2 con’td\nDay 9: slides 13-19\nsame\n\nsame\nDay 9 Part 2\n17 min\nsame\nsame\n\n\n\n4.2 con’td, 5.1.1, 5.1.2 (pgs. 238-242)\nDay 9: slides 20-23\nsame\n\nsame\nDay 9 Part 3\n14 min\nsame\nsame\n\n\n10 part 1\nHyp test 1 mean intro\nDay 10 Part 1: slides 1-13\n\n\n\nDay 10 Part 1\n26 min\n\n\n\n\n\nHyp test steps: 4.3, 5.1\nDay 10 Part 1: slides 14-25\nsame\n\nsame\nDay 10 Part 2\n36 min\nsame\n\n\n\n\nR demo\nDay 10 Part 1: slides 26-34\nsame\n\nsame\nDay 10 Part 3\n25 min\nsame\n\n\n\n10 part 2\n\nDay 10 Part 2\n\n\n\nNo recording"
   },
   {
     "objectID": "weeks/week_06.html#datasets",
@@ -473,7 +473,7 @@
     "href": "weeks/week_07.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 7",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n11\n2-sample means test: 5.3.2\nDay 11: slides 1-17\n\n\n\nDay 11 Part 1\n36 min\n\n\n\n\n\n2-sample means CI; R; pooled SD: 5.3.1, 5.3.5\nDay 11: slides 18-26\nsame\n\nsame\nDay 11 Part 2\n26 min\nsame\nsame\n\n\n\nPower & sample size: 1 or 2 means: 5.4 & extra\nDay 11: slides 27-45\nsame\n\nsame\nDay 11 Part 3\n57 min\nsame\nsame\n\n\n12\n1 & 2 proportions test & CI: 8.1.1, 8.2\nDay 12: slides 1-23\n *\n\n *\nDay 12 Part 1\n48 min\n\n\n\n\n\nR: 1 & 2 proportions test & CI\nDay 12: slides 24-34\nsame\n\nsame\nDay 12 Part 2\n26 min\nsame\n\n\n\n\nPower for 1- and 2- proportions\nDay 12: slides 35-43\nsame\n\nsame\nDay 12 Part 3\n25 min\nsame\n\n\n\n\n*Note: page numbers in pdf files do not always align with those in the original html slides"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n11\n2-sample means test: 5.3.2\nDay 11: slides 1-17\n\n\n\nDay 11 Part 1\n36 min\n\n\n\n\n\n2-sample means CI; R; pooled SD: 5.3.1, 5.3.5\nDay 11: slides 18-26\nsame\n\nsame\nDay 11 Part 2\n26 min\nsame\nsame\n\n\n\nPower & sample size: 1 or 2 means: 5.4 & extra\nDay 11: slides 27-45\nsame\n\nsame\nDay 11 Part 3\n57 min\nsame\nsame\n\n\n12\n1 & 2 proportions test & CI: 8.1.1, 8.2\nDay 12: slides 1-23\n *\n\n *\nDay 12 Part 1\n48 min\n\n\n\n\n\nR: 1 & 2 proportions test & CI\nDay 12: slides 24-34\nsame\n\nsame\nDay 12 Part 2\n26 min\nsame\n\n\n\n\nPower for 1- and 2- proportions\nDay 12: slides 35-43\nsame\n\nsame\nDay 12 Part 3\n25 min\nsame\n\n\n\n\n*Note: page numbers in pdf files do not always align with those in the original html slides"
   },
   {
     "objectID": "weeks/week_07.html#datasets",
@@ -515,7 +515,7 @@
     "href": "weeks/week_08.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 8",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n13\nChi-sqr intro\nDay 13: slides 1-10\n\n\n\nDay 13 Part 1\n18 min\n\n\n\n\n\nChi-sqr test: 8.3.1 - 8.3.4\nDay 13: slides 11-17\nsame\n\nsame\nDay 13 Part 2\n23 min\nsame\n\n\n\n\nChi-sqr in R, Fisher’s Exact Test, Chi-sqr vs. prop’s\nDay 13: R tip, slides 18-33\nsame\n\nsame\nDay 13 Part 3\n57 min\nsame\n\n\n\n14\nANOVA intro\nDay 14: slides 1-15\n\n\n\nDay 14 Part 1\n29 min\n\n\n\n\n\nANOVA table\nDay 14: slides 16-28\nsame\n\nsame\nDay 14 Part 2\n27 min\nsame\n\n\n\n\nANOVA in R, conditions, post-hoc testing\nDay 14: slides 29-47\nsame\n\nsame\nDay 14 Part 3\n39 min\nsame"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n13\nChi-sqr intro\nDay 13: slides 1-10\n\n\n\nDay 13 Part 1\n18 min\n\n\n\n\n\nChi-sqr test: 8.3.1 - 8.3.4\nDay 13: slides 11-17\nsame\n\nsame\nDay 13 Part 2\n23 min\nsame\n\n\n\n\nChi-sqr in R, Fisher’s Exact Test, Chi-sqr vs. prop’s\nDay 13: R tip, slides 18-33\nsame\n\nsame\nDay 13 Part 3\n57 min\nsame\n\n\n\n14\nANOVA intro\nDay 14: slides 1-15\n\n\n\nDay 14 Part 1\n29 min\n\n\n\n\n\nANOVA table\nDay 14: slides 16-28\nsame\n\nsame\nDay 14 Part 2\n27 min\nsame\n\n\n\n\nANOVA in R, conditions, post-hoc testing\nDay 14: slides 29-47\nsame\n\nsame\nDay 14 Part 3\n39 min\nsame"
   },
   {
     "objectID": "weeks/week_08.html#datasets",
@@ -564,7 +564,7 @@
     "href": "weeks/week_09.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 9",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n15\nSimple linear regression: 6.1-6.2\n\n\n\n\nDay 15\n46 min"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n15\nSimple linear regression: 6.1-6.2\n\n\n\n\nDay 15\n46 min"
   },
   {
     "objectID": "weeks/week_09.html#datasets",
@@ -613,7 +613,7 @@
     "href": "weeks/week_10.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 10",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Cloud (aka echo 360 or echo video).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n16\nSimple Linear Regression cont’d: 6.3-6.4\nDay 16\n\n\n\nDay 16 *\n1 hr 26 min\n\n\n\n\n17\nSign test & Sign-rank test: Slides 1-31\n\n\n\n\nDay 17 Part 1\n56 min\n\n\n\n\n\nWilcoxon rank-sum test, Kruskal-Wallis test: Slides 32-53\n\nsame\n\nsame\nDay 17 Part 2\n41 min\nsame\n\n\n\n\n*Edited live recording from F23 class"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n16\nSimple Linear Regression cont’d: 6.3-6.4\nDay 16\n\n\n\nDay 16 *\n1 hr 26 min\n\n\n\n\n17\nSign test & Sign-rank test: Slides 1-31\n\n\n\n\nDay 17 Part 1\n56 min\n\n\n\n\n\nWilcoxon rank-sum test, Kruskal-Wallis test: Slides 32-53\n\nsame\n\nsame\nDay 17 Part 2\n41 min\nsame\n\n\n\n\n*Edited live recording from F23 class"
   },
   {
     "objectID": "weeks/week_10.html#datasets",
@@ -942,7 +942,7 @@
     "href": "class_slides.html",
     "title": "Class Slides",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\n10/7/24\n\n\nDay 2: Data collection & numerical summaries\n\n\nWeek 2\n\n\n\n\n10/9/24\n\n\nDay 3 (F23 Day 4): Probability Part 1\n\n\nWeek 2\n\n\n\n\n10/14/24\n\n\nDay 4 (F23 Day 5): Probability Part 2 - Bayes’ Rule\n\n\nWeek 3\n\n\n\n\n10/16/24\n\n\nDay 3: Data visualization - Part 2\n\n\nWeek 3\n\n\n\n\n10/16/24\n\n\nDay 3: Data visualization\n\n\nWeek 3\n\n\n\n\n10/21/24\n\n\nDay 6: Random variables and Binomial distribution\n\n\nWeek 4\n\n\n\n\n10/23/24\n\n\nDay 7: Normal and Poisson distributions\n\n\nWeek 4\n\n\n\n\n10/28/24\n\n\nDay 8: Variability in estimates\n\n\nWeek 5\n\n\n\n\n11/4/24\n\n\nDay 9: Confidence intervals (4.2)\n\n\nWeek 6\n\n\n\n\n11/6/24\n\n\nDay 10 Part 1: Hypothesis testing for mean from one-sample (Sections 4.3, 5.1)\n\n\nWeek 6\n\n\n\n\n11/6/24\n\n\nDay 10 Part 2: Inference for mean difference from two-sample dependent/paired data (Section 5.2)\n\n\nWeek 6\n\n\n\n\n11/11/24\n\n\nDay 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)\n\n\nWeek 7\n\n\n\n\n11/13/24\n\n\nDay 12: Inference for a single proportion or difference of two (independent) proportions (Sections 8.1-8.2)\n\n\nWeek 7\n\n\n\n\n11/18/24\n\n\nDay 13: Chi-squared tests (Sections 8.3-8.4)\n\n\nWeek 8\n\n\n\n\n11/20/24\n\n\nDay 14: Comparing Means with ANOVA (Section 5.5)\n\n\nWeek 8\n\n\n\n\n11/27/24\n\n\nDay 15: Simple Linear Regression (Sections 6.1-6.2)\n\n\nWeek 9\n\n\n\n\n12/2/24\n\n\nDay 16: Simple Linear Regression Part 2 (Sections 6.3-6.4)\n\n\nWeek 10\n\n\n\n\n12/4/24\n\n\nDay 17: Nonparametric tests - Supplemental material\n\n\nWeek 10\n\n\n\n\n10/1/25\n\n\nDay 1: Intro to R & Rstudio\n\n\nWeek 1\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\n10/9/24\n\n\nDay 3 (F23 Day 4): Probability Part 1\n\n\nWeek 2\n\n\n\n\n10/14/24\n\n\nDay 4 (F23 Day 5): Probability Part 2 - Bayes’ Rule\n\n\nWeek 3\n\n\n\n\n10/16/24\n\n\nDay 3: Data visualization - Part 2\n\n\nWeek 3\n\n\n\n\n10/16/24\n\n\nDay 3: Data visualization\n\n\nWeek 3\n\n\n\n\n10/21/24\n\n\nDay 6: Random variables and Binomial distribution\n\n\nWeek 4\n\n\n\n\n10/23/24\n\n\nDay 7: Normal and Poisson distributions\n\n\nWeek 4\n\n\n\n\n10/28/24\n\n\nDay 8: Variability in estimates\n\n\nWeek 5\n\n\n\n\n11/4/24\n\n\nDay 9: Confidence intervals (4.2)\n\n\nWeek 6\n\n\n\n\n11/6/24\n\n\nDay 10 Part 1: Hypothesis testing for mean from one-sample (Sections 4.3, 5.1)\n\n\nWeek 6\n\n\n\n\n11/6/24\n\n\nDay 10 Part 2: Inference for mean difference from two-sample dependent/paired data (Section 5.2)\n\n\nWeek 6\n\n\n\n\n11/11/24\n\n\nDay 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)\n\n\nWeek 7\n\n\n\n\n11/13/24\n\n\nDay 12: Inference for a single proportion or difference of two (independent) proportions (Sections 8.1-8.2)\n\n\nWeek 7\n\n\n\n\n11/18/24\n\n\nDay 13: Chi-squared tests (Sections 8.3-8.4)\n\n\nWeek 8\n\n\n\n\n11/20/24\n\n\nDay 14: Comparing Means with ANOVA (Section 5.5)\n\n\nWeek 8\n\n\n\n\n11/27/24\n\n\nDay 15: Simple Linear Regression (Sections 6.1-6.2)\n\n\nWeek 9\n\n\n\n\n12/2/24\n\n\nDay 16: Simple Linear Regression Part 2 (Sections 6.3-6.4)\n\n\nWeek 10\n\n\n\n\n12/4/24\n\n\nDay 17: Nonparametric tests - Supplemental material\n\n\nWeek 10\n\n\n\n\n10/1/25\n\n\nDay 1: Intro to R & Rstudio\n\n\nWeek 1\n\n\n\n\n10/6/25\n\n\nDay 2: Data collection & numerical summaries\n\n\nWeek 2\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "slides_md/Day01_bsta511_md.html",
@@ -1244,5 +1244,915 @@
     "title": "Week 1",
     "section": "Overview of Week 1",
     "text": "Overview of Week 1\n\n\nMon\n\nNo class. OHSU New Student Orientation\nHandout with directions on installing R & RStudio\n\n\n\nWed - Day 1\n\nIntro to R & RStudio\nPlease have R & RStudio installed for class"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#useful-keyboard-shortcuts",
+    "href": "slides/Day02_bsta511.html#useful-keyboard-shortcuts",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Useful keyboard shortcuts",
+    "text": "Useful keyboard shortcuts\nFull list of keyboard shortcuts\n \n\n\n\n\n\n\n\n\naction\nmac\nwindows/linux\n\n\n\n\nRun code in qmd (or script)\ncmd + enter\nctrl + enter\n\n\n&lt;-\noption + -\nalt + -\n\n\ninterrupt currently running command\nesc\nesc\n\n\nin console, retrieve previously run code\nup/down\nup/down\n\n\nkeyboard shortcut help\noption + shift + k\nalt + shift + k\n\n\n\n\n\nPractice\nTry typing code below in your qmd (with shortcut) and evaluating it:\n\ny &lt;- 5\ny"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#another-resource-for-an-introduction-to-r",
+    "href": "slides/Day02_bsta511.html#another-resource-for-an-introduction-to-r",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Another resource for an introduction to R",
+    "text": "Another resource for an introduction to R\n\nIf you would like another perspective on what we covered the first week, you might find Danielle Navarro’s online book Learning Statistics with R to be helpful.\nDownload free pdf: https://learningstatisticswithr.com/\nSee Sections 3.1-3.7.1 for some of the topics we covered on first day"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#population-vs.-sample",
+    "href": "slides/Day02_bsta511.html#population-vs.-sample",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Population vs. sample",
+    "text": "Population vs. sample\n\n\n(Target) Population\n\ngroup of interest being studied\ngroup from which the sample is selected\n\nstudies often have inclusion and/or exclusion criteria\n\n\n\n\nSample\n\ngroup on which data are collected\noften a small subset of the population"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#sampling-methods-14",
+    "href": "slides/Day02_bsta511.html#sampling-methods-14",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (1/4)",
+    "text": "Sampling methods (1/4)\nGoal is to get a representative sample of the population:\nthe characteristics of the sample are similar to the characteristics of the population\n\n\nSimple random sample (SRS)\n\neach individual of a population has the same chance of being sampled\nrandomly sampled\nconsidered best way to sample\n\n\n\n\n\n\n\n\n\nConvenience sample\n\neasily accessible individuals are more likely to be included in the sample than other individuals\na common “pitfall”"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#sampling-methods-24",
+    "href": "slides/Day02_bsta511.html#sampling-methods-24",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (2/4)",
+    "text": "Sampling methods (2/4)\nGood sampling plans don’t guarantee samples representative of the population\n\n\nNon-response bias\n\nnon-response rates can be high\nare all groups within a population being reached?\nunrepresentative sample\n=&gt; skewed results\n\n\n\n\n\n\n\n\n\n“Random” samples can be unrepresentative by random chance\n\nIn a SRS each case in the population has an equal chance of being included in the sample\nBut by random chance alone a random sample might contain a higher proportion of one group over another\nEx: a SRS might by chance include 70% men (unlikely, but theoretically possible)"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#sampling-methods-34",
+    "href": "slides/Day02_bsta511.html#sampling-methods-34",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (3/4)",
+    "text": "Sampling methods (3/4)\n\n\n\nSimple random sample (SRS)\n\neach individual of a population has the same chance of being sampled\nstatistical methods taught in this class assume a SRS!\n\nStratified sampling\n\ndivide population into groups (strata) before selecting cases within each stratum (often via SRS)\nusually cases within a strata are similar, but are different from other strata with respect to the outcome of interest, such as gender or age groups"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#sampling-methods-44",
+    "href": "slides/Day02_bsta511.html#sampling-methods-44",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (4/4)",
+    "text": "Sampling methods (4/4)\n\n\n\nCluster sample\n\nfirst divide population into groups (clusters)\nthen sample a fixed number of clusters, and include all observations from chosen clusters\nclusters are often hospitals, clinicians, schools, etc., where each cluster will have similar services/ policies/ etc.\ncases within clusters usually very diverse\n\nMultistage sample\n\nsimilar to a cluster sample, but select a random sample within each selected cluster instead of all individuals"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#experiments-12",
+    "href": "slides/Day02_bsta511.html#experiments-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Experiments (1/2)",
+    "text": "Experiments (1/2)\n\n\nResearchers assign individuals to different treatment or intervention groups\n\ncontrol group: often receive a placebo or usual care\ndifferent treatment groups are often called study arms\n\nRandomization\n\ngroup assignment is usually random to ensure similar (balanced) study arms for all variables (observed and unobserved)\nrandomization allows study arm differences in outcomes to be attributed to treatment rather than variability in patient characteristics\n\ntreatment is the only systematic difference between groups\nestablish causality\n\nblocking (stratification): group individuals into blocks (strata) before randomizing if there are certain characteristics that may influence the outcome other than treatment (i.e. gender, age group)"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#experiments-22",
+    "href": "slides/Day02_bsta511.html#experiments-22",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Experiments (2/2)",
+    "text": "Experiments (2/2)\n\n\nReplication\n\naccomplished by collecting a sufficiently large sample\nresults usually more reliable with a large sample size\n\noften less variability\nmore likely to be representative of population\n\n\nSome studies are not ethical to carry out as experiments"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#observational-studies",
+    "href": "slides/Day02_bsta511.html#observational-studies",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Observational studies",
+    "text": "Observational studies\n\n\ndata are observed and recorded without interference\noften done via surveys, electronic health records, or medical chart reviews\ncohorts\nassociations between variables can be established, but not causality\n\nIndividuals with different characteristics may also differ in other ways that influence response\n\nconfounding variables (lurking variable)\n\nvariables associated with both the explanatory and response variables\n\nprospective vs. retrospective studies"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#comparing-study-designs",
+    "href": "slides/Day02_bsta511.html#comparing-study-designs",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Comparing study designs",
+    "text": "Comparing study designs\n\nScience Media Centre"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#systematic-reviews-example",
+    "href": "slides/Day02_bsta511.html#systematic-reviews-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Systematic Reviews example",
+    "text": "Systematic Reviews example\n\n\n\nSTEM: Systematically Testing the Evidence on Marijuana\n\n\n\n\n\nSTEM is a collaborative project between the US Department of Veterans Affairs and the Center for Evidence-based Policy at Oregon Health & Science University.\nThe project is funded by the US Department of Veterans Affairs: Office of Rural Health."
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#how-are-data-stored-how-do-we-use-them",
+    "href": "slides/Day02_bsta511.html#how-are-data-stored-how-do-we-use-them",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "How are data stored, how do we use them?",
+    "text": "How are data stored, how do we use them?\n\nOften, data are in an Excel sheet, or a plain text file (.csv, .txt)\n.csv files open in Excel automatically, but actually are plain text\nUsually, columns are variables/measures and rows are observations (i.e. a person’s measurements)\n\nData in R\n\nWe can import data from many file types, including .csv, .txt., and .xlsx\n\nWe will cover this on a later date\n\nOnce imported, R typically stores data as data frames, or tibbles if using the tidyverse package (more on this later).\n\nFor our purposes, these are essentially the same, and I will tend to use the terms interchangeably.\nThese are examples of what we call object types in R."
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#data-frame-example",
+    "href": "slides/Day02_bsta511.html#data-frame-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data frame example",
+    "text": "Data frame example\n\n\n\ndf &lt;- data.frame(\n  IDs=1:3, \n  gender=c(\"male\", \"female\", \"Male\"), \n  age=c(28, 35.5, 31),\n  trt = c(\"control\", \"1\", \"1\"),\n  Veteran = c(FALSE, TRUE, TRUE)\n  )\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\n\n\nVectors vs. data frames\n\na data frame is a collection (or array or table) of vectors\n\n\n\n\n\n\n\nDifferent columns can be of different data types (i.e. numeric vs. text)\nBoth numeric and text can be stored within a column (stored together as text).\nVectors and data frames are examples of objects in R.\n\nThere are other types of R objects to store data, such as matrices, lists."
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#observations-variables",
+    "href": "slides/Day02_bsta511.html#observations-variables",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Observations & variables",
+    "text": "Observations & variables\n\n\n\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\n\n\n\n\nISLBS\n\n\n\n\n\nBook refers to a dataset as a data matrix\nRows are usually observations\nColumns are usually variables\nHow many observations are in this dataset?\nWhat are the variable types in this dataset?"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#variable-column-types",
+    "href": "slides/Day02_bsta511.html#variable-column-types",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Variable (column) types",
+    "text": "Variable (column) types\n\n\n\n\n\n\n\n\n\nR type\nvariable type\ndescription\n\n\n\n\ninteger\ndiscrete\ninteger-valued numbers\n\n\ndouble or numeric\ncontinuous\nnumbers that are decimals\n\n\nfactor\ncategorical\ncategorical variables stored with levels (groups)\n\n\ncharacter\ncategorical\ntext, “strings”\n\n\nlogical\ncategorical\nboolean (TRUE, FALSE)\n\n\n\n\n\nView the structure of our data frame to see what the variable types are:\n\n\n\nstr(df)\n\n'data.frame':   3 obs. of  5 variables:\n $ IDs    : int  1 2 3\n $ gender : chr  \"male\" \"female\" \"Male\"\n $ age    : num  28 35.5 31\n $ trt    : chr  \"control\" \"1\" \"1\"\n $ Veteran: logi  FALSE TRUE TRUE"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#fishers-or-andersons-iris-data-set",
+    "href": "slides/Day02_bsta511.html#fishers-or-andersons-iris-data-set",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Fisher’s (or Anderson’s) Iris data set",
+    "text": "Fisher’s (or Anderson’s) Iris data set\nData description:\n\nn = 150\n3 species of Iris flowers (Setosa, Virginica, and Versicolour)\n\n50 measurements of each type of Iris\n\nvariables:\n\nsepal length, sepal width, petal length, petal width, and species\n\n\nCan the iris species be determined by these variables?\n\n\n\nGareth Duffy"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#view-the-iris-dataset",
+    "href": "slides/Day02_bsta511.html#view-the-iris-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "View the iris dataset",
+    "text": "View the iris dataset\n\n\nThe iris dataset is already pre-loaded in base R and ready to use.\nType the following command in the console window\n\nWarning: this command cannot be rendered. It will give an error.\n\n\n\n\n\n\n\n\nView(iris)\n\n\nA new tab in the scripting window should appear with the iris dataset."
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#data-structure",
+    "href": "slides/Day02_bsta511.html#data-structure",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data structure",
+    "text": "Data structure\n\nWhat are the different variable types in this data set?\n\n\n\n\nstr(iris)   # structure of data\n\n'data.frame':   150 obs. of  5 variables:\n $ Sepal.Length: num  5.1 4.9 4.7 4.6 5 5.4 4.6 5 4.4 4.9 ...\n $ Sepal.Width : num  3.5 3 3.2 3.1 3.6 3.9 3.4 3.4 2.9 3.1 ...\n $ Petal.Length: num  1.4 1.4 1.3 1.5 1.4 1.7 1.4 1.5 1.4 1.5 ...\n $ Petal.Width : num  0.2 0.2 0.2 0.2 0.2 0.4 0.3 0.2 0.2 0.1 ...\n $ Species     : Factor w/ 3 levels \"setosa\",\"versicolor\",..: 1 1 1 1 1 1 1 1 1 1 ..."
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#data-set-summary",
+    "href": "slides/Day02_bsta511.html#data-set-summary",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data set summary",
+    "text": "Data set summary\n\nsummary(iris)\n\n  Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   \n Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100  \n 1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300  \n Median :5.800   Median :3.000   Median :4.350   Median :1.300  \n Mean   :5.843   Mean   :3.057   Mean   :3.758   Mean   :1.199  \n 3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800  \n Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500  \n       Species  \n setosa    :50  \n versicolor:50  \n virginica :50"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#data-set-info",
+    "href": "slides/Day02_bsta511.html#data-set-info",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data set info",
+    "text": "Data set info\n\ndim(iris)\n\n[1] 150   5\n\nnrow(iris)\n\n[1] 150\n\nncol(iris)\n\n[1] 5\n\nnames(iris)\n\n[1] \"Sepal.Length\" \"Sepal.Width\"  \"Petal.Length\" \"Petal.Width\"  \"Species\""
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#view-the-beginning-or-end-of-a-dataset",
+    "href": "slides/Day02_bsta511.html#view-the-beginning-or-end-of-a-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "View the beginning or end of a dataset",
+    "text": "View the beginning or end of a dataset\n\nhead(iris)\n\n  Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1          5.1         3.5          1.4         0.2  setosa\n2          4.9         3.0          1.4         0.2  setosa\n3          4.7         3.2          1.3         0.2  setosa\n4          4.6         3.1          1.5         0.2  setosa\n5          5.0         3.6          1.4         0.2  setosa\n6          5.4         3.9          1.7         0.4  setosa\n\ntail(iris)\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width   Species\n145          6.7         3.3          5.7         2.5 virginica\n146          6.7         3.0          5.2         2.3 virginica\n147          6.3         2.5          5.0         1.9 virginica\n148          6.5         3.0          5.2         2.0 virginica\n149          6.2         3.4          5.4         2.3 virginica\n150          5.9         3.0          5.1         1.8 virginica"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#specify-how-many-rows-to-view-at-beginning-or-end-of-a-dataset",
+    "href": "slides/Day02_bsta511.html#specify-how-many-rows-to-view-at-beginning-or-end-of-a-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Specify how many rows to view at beginning or end of a dataset",
+    "text": "Specify how many rows to view at beginning or end of a dataset\n\nhead(iris, 3)\n\n  Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1          5.1         3.5          1.4         0.2  setosa\n2          4.9         3.0          1.4         0.2  setosa\n3          4.7         3.2          1.3         0.2  setosa\n\ntail(iris, 2)\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width   Species\n149          6.2         3.4          5.4         2.3 virginica\n150          5.9         3.0          5.1         1.8 virginica"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#the",
+    "href": "slides/Day02_bsta511.html#the",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "The $",
+    "text": "The $\n\nSuppose we want to single out the column of petal width values.\nOne way to do this is to use the $\n\nDatSetName$VariableName\n\n\n\niris$Petal.Width\n\n  [1] 0.2 0.2 0.2 0.2 0.2 0.4 0.3 0.2 0.2 0.1 0.2 0.2 0.1 0.1 0.2 0.4 0.4 0.3\n [19] 0.3 0.3 0.2 0.4 0.2 0.5 0.2 0.2 0.4 0.2 0.2 0.2 0.2 0.4 0.1 0.2 0.2 0.2\n [37] 0.2 0.1 0.2 0.2 0.3 0.3 0.2 0.6 0.4 0.3 0.2 0.2 0.2 0.2 1.4 1.5 1.5 1.3\n [55] 1.5 1.3 1.6 1.0 1.3 1.4 1.0 1.5 1.0 1.4 1.3 1.4 1.5 1.0 1.5 1.1 1.8 1.3\n [73] 1.5 1.2 1.3 1.4 1.4 1.7 1.5 1.0 1.1 1.0 1.2 1.6 1.5 1.6 1.5 1.3 1.3 1.3\n [91] 1.2 1.4 1.2 1.0 1.3 1.2 1.3 1.3 1.1 1.3 2.5 1.9 2.1 1.8 2.2 2.1 1.7 1.8\n[109] 1.8 2.5 2.0 1.9 2.1 2.0 2.4 2.3 1.8 2.2 2.3 1.5 2.3 2.0 2.0 1.8 2.1 1.8\n[127] 1.8 1.8 2.1 1.6 1.9 2.0 2.2 1.5 1.4 2.3 2.4 1.8 1.8 2.1 2.4 2.3 1.9 2.3\n[145] 2.5 2.3 1.9 2.0 2.3 1.8"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#example-using-the",
+    "href": "slides/Day02_bsta511.html#example-using-the",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Example using the $",
+    "text": "Example using the $\nThe $ is helpful if you want to create a new dataset for just that one variable, or, more commonly, if you want to calculate summary statistics for that one variable.\n\n\n\nmean(iris$Petal.Width)\n\n[1] 1.199333\n\nsd(iris$Petal.Width)\n\n[1] 0.7622377\n\nmedian(iris$Petal.Width)\n\n[1] 1.3"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#inline-code",
+    "href": "slides/Day02_bsta511.html#inline-code",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Inline code",
+    "text": "Inline code\n\n\nWith markdown you can also report R code output inline with the text instead of using a chunk.\n\n\n\nText in editor:\n\n\n\n\n\n\nOutput:\nThe mean petal width for all 3 species combined is 1.2 (SD = 0.8) cm.\n\n\n\nReporting summary statistics this way in a report, makes the numbers computationally reproducible.\nFor example, if this were for an abstract and a year later you are wondering where the numbers came from, your R code will tell you exactly which dataset was used to calculate the values."
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#table-1-example",
+    "href": "slides/Day02_bsta511.html#table-1-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Table 1 example",
+    "text": "Table 1 example\n\n\n\n\n\n\n\n\nAre We on the Same Page?: A Cross-Sectional Study of Patient-Clinician Goal Concordance in Rheumatoid Arthritis\nJ Barton et al.\nArthritis Care & Research.\n2021 Sep 27 https://pubmed.ncbi.nlm.nih.gov/34569172/"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-center-mean",
+    "href": "slides/Day02_bsta511.html#measures-of-center-mean",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mean",
+    "text": "Measures of center: mean\n\nSample mean: the average value of observations\n\\[\\overline{x} = \\frac{x_1+x_2+\\cdots+x_n}{n} = \\sum_{i=1}^{n}\\frac{x_i}{n}\\]\nwhere \\(x_1, x_2, \\ldots, x_n\\) represent the \\(n\\) observed values in a sample\nExample: What is the mean age in the toy dataset df defined earlier?\n\n\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\nmean(df$age)\n\n[1] 31.5"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-center-median",
+    "href": "slides/Day02_bsta511.html#measures-of-center-median",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: median",
+    "text": "Measures of center: median\n\n\nThe median is the middle value of the observations in a sample.\nThe median is the 50th percentile, meaning\n\n50% of observations lie below and\n50% of observations lie above the median.\n\n\n\n\n\n\n\nIf the number of observations is\n\nodd: the median is the middle observed value\neven: the median is the average of the two middle observed values\n\n\n\n\n\ndf$age\n\n[1] 28.0 35.5 31.0\n\nmedian(df$age)\n\n[1] 31\n\nmedian(c(df$age, 67))\n\n[1] 33.25"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-center-mean-vs.-median",
+    "href": "slides/Day02_bsta511.html#measures-of-center-mean-vs.-median",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mean vs. median",
+    "text": "Measures of center: mean vs. median\n\n\nsummary(iris)\n\n  Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   \n Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100  \n 1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300  \n Median :5.800   Median :3.000   Median :4.350   Median :1.300  \n Mean   :5.843   Mean   :3.057   Mean   :3.758   Mean   :1.199  \n 3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800  \n Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500  \n       Species  \n setosa    :50  \n versicolor:50  \n virginica :50"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-center-mode",
+    "href": "slides/Day02_bsta511.html#measures-of-center-mode",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mode",
+    "text": "Measures of center: mode\nmode: the most frequent value in a dataset"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-spread-standard-deviation-sd-13",
+    "href": "slides/Day02_bsta511.html#measures-of-spread-standard-deviation-sd-13",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: standard deviation (SD) (1/3)",
+    "text": "Measures of spread: standard deviation (SD) (1/3)\nstandard deviation is (approximately) the average distance between a typical observation and the mean\n\nAn observation’s deviation is the distance between its value \\(x\\) and the sample mean \\(\\overline{x}\\): deviation = \\(x - \\overline{x}\\)."
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-spread-sd-23",
+    "href": "slides/Day02_bsta511.html#measures-of-spread-sd-23",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: SD (2/3)",
+    "text": "Measures of spread: SD (2/3)\n\nThe sample variance \\(s^2\\) is the sum of squared deviations divided by the number of observations minus 1. \\[s^2 = \\frac{(x_1 - \\overline{x})^2+(x_2 - \\overline{x})^2+\\cdots+(x_n - \\overline{x})^2}{n-1} = \\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}\\] where \\(x_1, x_2, \\dots, x_n\\) represent the \\(n\\) observed values.\nThe standard deviation \\(s\\) is the square root of the variance. \\[s = \\sqrt{\\frac{({x_1 - \\overline{x})}^{2}+({x_2 - \\overline{x})}^{2}+\\cdots+({x_n - \\overline{x})}^{2}}{n-1}} = \\sqrt{\\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}}\\]"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-spread-sd-33",
+    "href": "slides/Day02_bsta511.html#measures-of-spread-sd-33",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: SD (3/3)",
+    "text": "Measures of spread: SD (3/3)\n\n\n\nLet’s calculate the sample standard deviation for our toy example\n\n\ndf$age\n\n[1] 28.0 35.5 31.0\n\n\n\n\nmean(df$age)\n\n[1] 31.5\n\nsd(df$age)\n\n[1] 3.774917\n\n\n\n\n\\(s = \\sqrt{\\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}} =\\)"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#empirical-rule-one-way-to-think-about-the-sd-12",
+    "href": "slides/Day02_bsta511.html#empirical-rule-one-way-to-think-about-the-sd-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Empirical Rule: one way to think about the SD (1/2)",
+    "text": "Empirical Rule: one way to think about the SD (1/2)\n\n\n\nFor symmetric bell-shaped data, about\n\n68% of the data are within 1 SD of the mean\n95% of the data are within 2 SD’s of the mean\n99.7% of the data are within 3 SD’s of the mean\n\nThese percentages are based off of percentages of a true normal distribution.\n\n\n\n\nhttps://statistics-made-easy.com/empirical-rule/"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#empirical-rule-one-way-to-think-about-the-sd-22",
+    "href": "slides/Day02_bsta511.html#empirical-rule-one-way-to-think-about-the-sd-22",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Empirical Rule: one way to think about the SD (2/2)",
+    "text": "Empirical Rule: one way to think about the SD (2/2)\n\n\n\nhist(iris$Sepal.Width)\n\n\n\n\n\n\nmean(iris$Sepal.Width)\n\n[1] 3.057333\n\nsd(iris$Sepal.Width)\n\n[1] 0.4358663"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-spread-interquartile-range-iqr-12",
+    "href": "slides/Day02_bsta511.html#measures-of-spread-interquartile-range-iqr-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: interquartile range (IQR) (1/2)",
+    "text": "Measures of spread: interquartile range (IQR) (1/2)\nThe \\(p^{th}\\) percentile is the observation such that \\(p\\%\\) of the remaining observations fall below this observation.\n\nThe first quartile \\(Q_1\\) is the \\(25^{th}\\) percentile.\nThe second quartile \\(Q_2\\), i.e., the median, is the \\(50^{th}\\) percentile.\nThe third quartile \\(Q_3\\) is the \\(75^{th}\\) percentile.\n\nThe interquartile range (IQR) is the distance between the third and first quartiles. \\[IQR = Q_3 - Q_1\\]\n\nIQR is the width of the middle half of the data"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#measures-of-spread-iqr-22",
+    "href": "slides/Day02_bsta511.html#measures-of-spread-iqr-22",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: IQR (2/2)",
+    "text": "Measures of spread: IQR (2/2)\n5 number summary\n\nsummary(iris$Sepal.Width)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  2.000   2.800   3.000   3.057   3.300   4.400 \n\n\n\n\n\n\n\n\n\n\nWhat is the IQR of the sepal widths?\n\nquantile(iris$Sepal.Width, c(.25, .75))\n\n25% 75% \n2.8 3.3 \n\ndiff(quantile(iris$Sepal.Width, c(.25, .75)))\n\n75% \n0.5 \n\nIQR(iris$Sepal.Width)\n\n[1] 0.5"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#robust-estimates",
+    "href": "slides/Day02_bsta511.html#robust-estimates",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Robust estimates",
+    "text": "Robust estimates\nSummary statistics are called robust estimates if extreme observations have little effect on their values\n\n\n\nestimate\nrobust?\n\n\n\n\nmean\n\n\n\nmedian\n\n\n\nmode\n\n\n\nstandard deviaiton\n\n\n\nIQR\n\n\n\nrange"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#r-packages",
+    "href": "slides/Day02_bsta511.html#r-packages",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "R Packages",
+    "text": "R Packages\nA good analogy for R packages is that they\nare like apps you can download onto a mobile phone:\n\nModernDive Figure 1.4"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#installing-packages",
+    "href": "slides/Day02_bsta511.html#installing-packages",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Installing packages",
+    "text": "Installing packages\n\n\nPackages contain additional functions and data\n\nTwo options to install packages:\n\ninstall.packages() or\nThe “Packages” tab in Files/Plots/Packages/Help/Viewer window\n\n\n\ninstall.packages(\"dplyr\")   # only do this ONCE, use quotes\n\n\n\n\n\nOnly install packages once (unless you want to update them)\nInstalled from Comprehensive R Archive Network (CRAN) = package mothership"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#video-on-installing-packages",
+    "href": "slides/Day02_bsta511.html#video-on-installing-packages",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Video on installing packages",
+    "text": "Video on installing packages\n\nDanielle Navarro’s YouTube video on Installing and loading R packages: https://www.youtube.com/watch?v=kpHZVyDvEhQ"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#load-packages-with-library-command",
+    "href": "slides/Day02_bsta511.html#load-packages-with-library-command",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Load packages with library() command",
+    "text": "Load packages with library() command\n\n\nTip: at the top of your Rmd file, create a chunk that loads all of the R packages you want to use in that file.\nUse the library() command to load each required package.\nPackages need to be reloaded every time you open Rstudio.\n\n\n\nlibrary(dplyr)    # run this every time you open Rstudio\n\n\n\nYou can use a function without loading the package with PackageName::CommandName\n\n\n\ndplyr::arrange(iris, Petal.Width)   # what does arrange do?\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width    Species\n1            4.9         3.1          1.5         0.1     setosa\n2            4.8         3.0          1.4         0.1     setosa\n3            4.3         3.0          1.1         0.1     setosa\n4            5.2         4.1          1.5         0.1     setosa\n5            4.9         3.6          1.4         0.1     setosa\n6            5.1         3.5          1.4         0.2     setosa\n7            4.9         3.0          1.4         0.2     setosa\n8            4.7         3.2          1.3         0.2     setosa\n9            4.6         3.1          1.5         0.2     setosa\n10           5.0         3.6          1.4         0.2     setosa\n11           5.0         3.4          1.5         0.2     setosa\n12           4.4         2.9          1.4         0.2     setosa\n13           5.4         3.7          1.5         0.2     setosa\n14           4.8         3.4          1.6         0.2     setosa\n15           5.8         4.0          1.2         0.2     setosa\n16           5.4         3.4          1.7         0.2     setosa\n17           4.6         3.6          1.0         0.2     setosa\n18           4.8         3.4          1.9         0.2     setosa\n19           5.0         3.0          1.6         0.2     setosa\n20           5.2         3.5          1.5         0.2     setosa\n21           5.2         3.4          1.4         0.2     setosa\n22           4.7         3.2          1.6         0.2     setosa\n23           4.8         3.1          1.6         0.2     setosa\n24           5.5         4.2          1.4         0.2     setosa\n25           4.9         3.1          1.5         0.2     setosa\n26           5.0         3.2          1.2         0.2     setosa\n27           5.5         3.5          1.3         0.2     setosa\n28           4.4         3.0          1.3         0.2     setosa\n29           5.1         3.4          1.5         0.2     setosa\n30           4.4         3.2          1.3         0.2     setosa\n31           5.1         3.8          1.6         0.2     setosa\n32           4.6         3.2          1.4         0.2     setosa\n33           5.3         3.7          1.5         0.2     setosa\n34           5.0         3.3          1.4         0.2     setosa\n35           4.6         3.4          1.4         0.3     setosa\n36           5.1         3.5          1.4         0.3     setosa\n37           5.7         3.8          1.7         0.3     setosa\n38           5.1         3.8          1.5         0.3     setosa\n39           5.0         3.5          1.3         0.3     setosa\n40           4.5         2.3          1.3         0.3     setosa\n41           4.8         3.0          1.4         0.3     setosa\n42           5.4         3.9          1.7         0.4     setosa\n43           5.7         4.4          1.5         0.4     setosa\n44           5.4         3.9          1.3         0.4     setosa\n45           5.1         3.7          1.5         0.4     setosa\n46           5.0         3.4          1.6         0.4     setosa\n47           5.4         3.4          1.5         0.4     setosa\n48           5.1         3.8          1.9         0.4     setosa\n49           5.1         3.3          1.7         0.5     setosa\n50           5.0         3.5          1.6         0.6     setosa\n51           4.9         2.4          3.3         1.0 versicolor\n52           5.0         2.0          3.5         1.0 versicolor\n53           6.0         2.2          4.0         1.0 versicolor\n54           5.8         2.7          4.1         1.0 versicolor\n55           5.7         2.6          3.5         1.0 versicolor\n56           5.5         2.4          3.7         1.0 versicolor\n57           5.0         2.3          3.3         1.0 versicolor\n58           5.6         2.5          3.9         1.1 versicolor\n59           5.5         2.4          3.8         1.1 versicolor\n60           5.1         2.5          3.0         1.1 versicolor\n61           6.1         2.8          4.7         1.2 versicolor\n62           5.8         2.7          3.9         1.2 versicolor\n63           5.5         2.6          4.4         1.2 versicolor\n64           5.8         2.6          4.0         1.2 versicolor\n65           5.7         3.0          4.2         1.2 versicolor\n66           5.5         2.3          4.0         1.3 versicolor\n67           5.7         2.8          4.5         1.3 versicolor\n68           6.6         2.9          4.6         1.3 versicolor\n69           5.6         2.9          3.6         1.3 versicolor\n70           6.1         2.8          4.0         1.3 versicolor\n71           6.4         2.9          4.3         1.3 versicolor\n72           6.3         2.3          4.4         1.3 versicolor\n73           5.6         3.0          4.1         1.3 versicolor\n74           5.5         2.5          4.0         1.3 versicolor\n75           5.6         2.7          4.2         1.3 versicolor\n76           5.7         2.9          4.2         1.3 versicolor\n77           6.2         2.9          4.3         1.3 versicolor\n78           5.7         2.8          4.1         1.3 versicolor\n79           7.0         3.2          4.7         1.4 versicolor\n80           5.2         2.7          3.9         1.4 versicolor\n81           6.1         2.9          4.7         1.4 versicolor\n82           6.7         3.1          4.4         1.4 versicolor\n83           6.6         3.0          4.4         1.4 versicolor\n84           6.8         2.8          4.8         1.4 versicolor\n85           6.1         3.0          4.6         1.4 versicolor\n86           6.1         2.6          5.6         1.4  virginica\n87           6.4         3.2          4.5         1.5 versicolor\n88           6.9         3.1          4.9         1.5 versicolor\n89           6.5         2.8          4.6         1.5 versicolor\n90           5.9         3.0          4.2         1.5 versicolor\n91           5.6         3.0          4.5         1.5 versicolor\n92           6.2         2.2          4.5         1.5 versicolor\n93           6.3         2.5          4.9         1.5 versicolor\n94           6.0         2.9          4.5         1.5 versicolor\n95           5.4         3.0          4.5         1.5 versicolor\n96           6.7         3.1          4.7         1.5 versicolor\n97           6.0         2.2          5.0         1.5  virginica\n98           6.3         2.8          5.1         1.5  virginica\n99           6.3         3.3          4.7         1.6 versicolor\n100          6.0         2.7          5.1         1.6 versicolor\n101          6.0         3.4          4.5         1.6 versicolor\n102          7.2         3.0          5.8         1.6  virginica\n103          6.7         3.0          5.0         1.7 versicolor\n104          4.9         2.5          4.5         1.7  virginica\n105          5.9         3.2          4.8         1.8 versicolor\n106          6.3         2.9          5.6         1.8  virginica\n107          7.3         2.9          6.3         1.8  virginica\n108          6.7         2.5          5.8         1.8  virginica\n109          6.5         3.0          5.5         1.8  virginica\n110          6.3         2.7          4.9         1.8  virginica\n111          7.2         3.2          6.0         1.8  virginica\n112          6.2         2.8          4.8         1.8  virginica\n113          6.1         3.0          4.9         1.8  virginica\n114          6.4         3.1          5.5         1.8  virginica\n115          6.0         3.0          4.8         1.8  virginica\n116          5.9         3.0          5.1         1.8  virginica\n117          5.8         2.7          5.1         1.9  virginica\n118          6.4         2.7          5.3         1.9  virginica\n119          7.4         2.8          6.1         1.9  virginica\n120          5.8         2.7          5.1         1.9  virginica\n121          6.3         2.5          5.0         1.9  virginica\n122          6.5         3.2          5.1         2.0  virginica\n123          5.7         2.5          5.0         2.0  virginica\n124          5.6         2.8          4.9         2.0  virginica\n125          7.7         2.8          6.7         2.0  virginica\n126          7.9         3.8          6.4         2.0  virginica\n127          6.5         3.0          5.2         2.0  virginica\n128          7.1         3.0          5.9         2.1  virginica\n129          7.6         3.0          6.6         2.1  virginica\n130          6.8         3.0          5.5         2.1  virginica\n131          6.7         3.3          5.7         2.1  virginica\n132          6.4         2.8          5.6         2.1  virginica\n133          6.9         3.1          5.4         2.1  virginica\n134          6.5         3.0          5.8         2.2  virginica\n135          7.7         3.8          6.7         2.2  virginica\n136          6.4         2.8          5.6         2.2  virginica\n137          6.4         3.2          5.3         2.3  virginica\n138          7.7         2.6          6.9         2.3  virginica\n139          6.9         3.2          5.7         2.3  virginica\n140          7.7         3.0          6.1         2.3  virginica\n141          6.9         3.1          5.1         2.3  virginica\n142          6.8         3.2          5.9         2.3  virginica\n143          6.7         3.0          5.2         2.3  virginica\n144          6.2         3.4          5.4         2.3  virginica\n145          5.8         2.8          5.1         2.4  virginica\n146          6.3         3.4          5.6         2.4  virginica\n147          6.7         3.1          5.6         2.4  virginica\n148          6.3         3.3          6.0         2.5  virginica\n149          7.2         3.6          6.1         2.5  virginica\n150          6.7         3.3          5.7         2.5  virginica"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#install-the-packages-listed-below-before-day-3",
+    "href": "slides/Day02_bsta511.html#install-the-packages-listed-below-before-day-3",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Install the packages listed below before Day 3",
+    "text": "Install the packages listed below before Day 3\n\n\nknitr\n\nthis might actually already be installed\ncheck your packages list\n\ntidyverse\n\nthis is actually a bundle of packages\nWarning: it will take a while to install!!!\nsee more info at https://tidyverse.tidyverse.org/\n\nrstatix\n\nfor summary statistics of a dataset\n\njanitor\n\nfor cleaning and exploring data\n\nggridges\n\nfor creating ridgeline plots\n\ndevtools\n\nused to create R packages\nfor our purposes, needed to install some packages\n\noi_biostat_data\n\nthis package is on github\nsee the next slide for directions on how to install oi_biostat_data"
+  },
+  {
+    "objectID": "slides/Day02_bsta511.html#directions-for-installing-package-oibiostat",
+    "href": "slides/Day02_bsta511.html#directions-for-installing-package-oibiostat",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Directions for installing package oibiostat",
+    "text": "Directions for installing package oibiostat\n\n\nThe textbook’s datasets are in the R package oibiostat\nExplanation of code below\n\nInstallation of oibiostat package requires first installing devtools package\nThe code devtools::install_github() tells R to use the command install_github() from the devtools package without loading the entire package and all of its commands (which library(devtools) would do).\n\n\n\n\ninstall.packages(\"devtools\")\ndevtools::install_github(\"OI-Biostat/oi_biostat_data\", force = TRUE)\n\n\n\nAfter running the code above, put # in front of the commands so that RStudio doesn’t evaluate them when rendering.\nNow load the oibiostat package\n\nthe code below needs to be run every time you restart R or knit an Rmd file\n\n\n\n\nlibrary(oibiostat)"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html",
+    "href": "slides_md/Day02_bsta511_md.html",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "",
+    "text": "(1.3) Data collection principles - Day 2 in F25\n\nPopulation vs. sample\nSampling methods\nExperiments vs. Observational studies\n\n(1.2) Intro to Data - Day 2 in F25\n\nData types\nHow are data stored in R?\nWorking with data in R\n\n(1.4) Summarizing numerical data - Day 3 in F25\n\nMean, median, mode, SD, IQR, range, 5 number summary\nEmpirical Rule\nrobust statistics\n\nR packages - Day 4 in F25 -&gt; install for Day 5!!!"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#useful-keyboard-shortcuts",
+    "href": "slides_md/Day02_bsta511_md.html#useful-keyboard-shortcuts",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Useful keyboard shortcuts",
+    "text": "Useful keyboard shortcuts\nFull list of keyboard shortcuts\n \n\n\n\n\n\n\n\n\naction\nmac\nwindows/linux\n\n\n\n\nRun code in qmd (or script)\ncmd + enter\nctrl + enter\n\n\n&lt;-\noption + -\nalt + -\n\n\ninterrupt currently running command\nesc\nesc\n\n\nin console, retrieve previously run code\nup/down\nup/down\n\n\nkeyboard shortcut help\noption + shift + k\nalt + shift + k\n\n\n\n\n\n\nPractice\nTry typing code below in your qmd (with shortcut) and evaluating it:\n\ny &lt;- 5\ny"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#another-resource-for-an-introduction-to-r",
+    "href": "slides_md/Day02_bsta511_md.html#another-resource-for-an-introduction-to-r",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Another resource for an introduction to R",
+    "text": "Another resource for an introduction to R\n\nIf you would like another perspective on what we covered the first week, you might find Danielle Navarro’s online book Learning Statistics with R to be helpful.\nDownload free pdf: https://learningstatisticswithr.com/\nSee Sections 3.1-3.7.1 for some of the topics we covered on first day"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#population-vs.-sample",
+    "href": "slides_md/Day02_bsta511_md.html#population-vs.-sample",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Population vs. sample",
+    "text": "Population vs. sample\n\n\n\n(Target) Population\n\ngroup of interest being studied\ngroup from which the sample is selected\n\nstudies often have inclusion and/or exclusion criteria\n\n\n\n\n\n\nSample\n\ngroup on which data are collected\noften a small subset of the population"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#sampling-methods-14",
+    "href": "slides_md/Day02_bsta511_md.html#sampling-methods-14",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (1/4)",
+    "text": "Sampling methods (1/4)\nGoal is to get a representative sample of the population:\nthe characteristics of the sample are similar to the characteristics of the population\n\n\nSimple random sample (SRS)\n\neach individual of a population has the same chance of being sampled\nrandomly sampled\nconsidered best way to sample\n\n\n\n\n\n\n\n\n\nConvenience sample\n\neasily accessible individuals are more likely to be included in the sample than other individuals\na common “pitfall”"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#sampling-methods-24",
+    "href": "slides_md/Day02_bsta511_md.html#sampling-methods-24",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (2/4)",
+    "text": "Sampling methods (2/4)\nGood sampling plans don’t guarantee samples representative of the population\n\n\nNon-response bias\n\nnon-response rates can be high\nare all groups within a population being reached?\nunrepresentative sample\n=&gt; skewed results\n\n\n\n\n\n\n\n\n\n“Random” samples can be unrepresentative by random chance\n\nIn a SRS each case in the population has an equal chance of being included in the sample\nBut by random chance alone a random sample might contain a higher proportion of one group over another\nEx: a SRS might by chance include 70% men (unlikely, but theoretically possible)"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#sampling-methods-34",
+    "href": "slides_md/Day02_bsta511_md.html#sampling-methods-34",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (3/4)",
+    "text": "Sampling methods (3/4)\n\n\n\nSimple random sample (SRS)\n\neach individual of a population has the same chance of being sampled\nstatistical methods taught in this class assume a SRS!\n\nStratified sampling\n\ndivide population into groups (strata) before selecting cases within each stratum (often via SRS)\nusually cases within a strata are similar, but are different from other strata with respect to the outcome of interest, such as gender or age groups"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#sampling-methods-44",
+    "href": "slides_md/Day02_bsta511_md.html#sampling-methods-44",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (4/4)",
+    "text": "Sampling methods (4/4)\n\n\n\nCluster sample\n\nfirst divide population into groups (clusters)\nthen sample a fixed number of clusters, and include all observations from chosen clusters\nclusters are often hospitals, clinicians, schools, etc., where each cluster will have similar services/ policies/ etc.\ncases within clusters usually very diverse\n\nMultistage sample\n\nsimilar to a cluster sample, but select a random sample within each selected cluster instead of all individuals"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#experiments-12",
+    "href": "slides_md/Day02_bsta511_md.html#experiments-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Experiments (1/2)",
+    "text": "Experiments (1/2)\n\n\nResearchers assign individuals to different treatment or intervention groups\n\ncontrol group: often receive a placebo or usual care\ndifferent treatment groups are often called study arms\n\nRandomization\n\ngroup assignment is usually random to ensure similar (balanced) study arms for all variables (observed and unobserved)\nrandomization allows study arm differences in outcomes to be attributed to treatment rather than variability in patient characteristics\n\ntreatment is the only systematic difference between groups\nestablish causality\n\nblocking (stratification): group individuals into blocks (strata) before randomizing if there are certain characteristics that may influence the outcome other than treatment (i.e. gender, age group)"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#experiments-22",
+    "href": "slides_md/Day02_bsta511_md.html#experiments-22",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Experiments (2/2)",
+    "text": "Experiments (2/2)\n\n\nReplication\n\naccomplished by collecting a sufficiently large sample\nresults usually more reliable with a large sample size\n\noften less variability\nmore likely to be representative of population\n\n\nSome studies are not ethical to carry out as experiments"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#observational-studies",
+    "href": "slides_md/Day02_bsta511_md.html#observational-studies",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Observational studies",
+    "text": "Observational studies\n\n\ndata are observed and recorded without interference\noften done via surveys, electronic health records, or medical chart reviews\ncohorts\nassociations between variables can be established, but not causality\n\nIndividuals with different characteristics may also differ in other ways that influence response\n\nconfounding variables (lurking variable)\n\nvariables associated with both the explanatory and response variables\n\nprospective vs. retrospective studies"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#comparing-study-designs",
+    "href": "slides_md/Day02_bsta511_md.html#comparing-study-designs",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Comparing study designs",
+    "text": "Comparing study designs\n\n\n\nScience Media Centre"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#systematic-reviews-example",
+    "href": "slides_md/Day02_bsta511_md.html#systematic-reviews-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Systematic Reviews example",
+    "text": "Systematic Reviews example\n\n\n\nSTEM: Systematically Testing the Evidence on Marijuana\n\n\n\n\n\nSTEM is a collaborative project between the US Department of Veterans Affairs and the Center for Evidence-based Policy at Oregon Health & Science University.\nThe project is funded by the US Department of Veterans Affairs: Office of Rural Health."
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#how-are-data-stored-how-do-we-use-them",
+    "href": "slides_md/Day02_bsta511_md.html#how-are-data-stored-how-do-we-use-them",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "How are data stored, how do we use them?",
+    "text": "How are data stored, how do we use them?\n\nOften, data are in an Excel sheet, or a plain text file (.csv, .txt)\n.csv files open in Excel automatically, but actually are plain text\nUsually, columns are variables/measures and rows are observations (i.e. a person’s measurements)\n\n\nData in R\n\nWe can import data from many file types, including .csv, .txt., and .xlsx\n\nWe will cover this on a later date\n\nOnce imported, R typically stores data as data frames, or tibbles if using the tidyverse package (more on this later).\n\nFor our purposes, these are essentially the same, and I will tend to use the terms interchangeably.\nThese are examples of what we call object types in R."
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#data-frame-example",
+    "href": "slides_md/Day02_bsta511_md.html#data-frame-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data frame example",
+    "text": "Data frame example\n\n\n\ndf &lt;- data.frame(\n  IDs=1:3, \n  gender=c(\"male\", \"female\", \"Male\"), \n  age=c(28, 35.5, 31),\n  trt = c(\"control\", \"1\", \"1\"),\n  Veteran = c(FALSE, TRUE, TRUE)\n  )\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\n\n\nVectors vs. data frames\n\na data frame is a collection (or array or table) of vectors\n\n\n\n\n\n\n\nDifferent columns can be of different data types (i.e. numeric vs. text)\nBoth numeric and text can be stored within a column (stored together as text).\nVectors and data frames are examples of objects in R.\n\nThere are other types of R objects to store data, such as matrices, lists."
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#observations-variables",
+    "href": "slides_md/Day02_bsta511_md.html#observations-variables",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Observations & variables",
+    "text": "Observations & variables\n\n\n\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\n\n\n\n\nISLBS\n\n\n\n\n\nBook refers to a dataset as a data matrix\nRows are usually observations\nColumns are usually variables\nHow many observations are in this dataset?\nWhat are the variable types in this dataset?"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#variable-column-types",
+    "href": "slides_md/Day02_bsta511_md.html#variable-column-types",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Variable (column) types",
+    "text": "Variable (column) types\n\n\n\n\n\n\n\n\n\nR type\nvariable type\ndescription\n\n\n\n\ninteger\ndiscrete\ninteger-valued numbers\n\n\ndouble or numeric\ncontinuous\nnumbers that are decimals\n\n\nfactor\ncategorical\ncategorical variables stored with levels (groups)\n\n\ncharacter\ncategorical\ntext, “strings”\n\n\nlogical\ncategorical\nboolean (TRUE, FALSE)\n\n\n\n\n\nView the structure of our data frame to see what the variable types are:\n\n\n\nstr(df)\n\n'data.frame':   3 obs. of  5 variables:\n $ IDs    : int  1 2 3\n $ gender : chr  \"male\" \"female\" \"Male\"\n $ age    : num  28 35.5 31\n $ trt    : chr  \"control\" \"1\" \"1\"\n $ Veteran: logi  FALSE TRUE TRUE"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#fishers-or-andersons-iris-data-set",
+    "href": "slides_md/Day02_bsta511_md.html#fishers-or-andersons-iris-data-set",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Fisher’s (or Anderson’s) Iris data set",
+    "text": "Fisher’s (or Anderson’s) Iris data set\nData description:\n\nn = 150\n3 species of Iris flowers (Setosa, Virginica, and Versicolour)\n\n50 measurements of each type of Iris\n\nvariables:\n\nsepal length, sepal width, petal length, petal width, and species\n\n\nCan the iris species be determined by these variables?\n\n\n\nGareth Duffy"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#view-the-iris-dataset",
+    "href": "slides_md/Day02_bsta511_md.html#view-the-iris-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "View the iris dataset",
+    "text": "View the iris dataset\n\n\nThe iris dataset is already pre-loaded in base R and ready to use.\nType the following command in the console window\n\nWarning: this command cannot be rendered. It will give an error.\n\n\n\n\n\n\n\n\nView(iris)\n\n\nA new tab in the scripting window should appear with the iris dataset."
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#data-structure",
+    "href": "slides_md/Day02_bsta511_md.html#data-structure",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data structure",
+    "text": "Data structure\n\nWhat are the different variable types in this data set?\n\n\n\n\nstr(iris)   # structure of data\n\n'data.frame':   150 obs. of  5 variables:\n $ Sepal.Length: num  5.1 4.9 4.7 4.6 5 5.4 4.6 5 4.4 4.9 ...\n $ Sepal.Width : num  3.5 3 3.2 3.1 3.6 3.9 3.4 3.4 2.9 3.1 ...\n $ Petal.Length: num  1.4 1.4 1.3 1.5 1.4 1.7 1.4 1.5 1.4 1.5 ...\n $ Petal.Width : num  0.2 0.2 0.2 0.2 0.2 0.4 0.3 0.2 0.2 0.1 ...\n $ Species     : Factor w/ 3 levels \"setosa\",\"versicolor\",..: 1 1 1 1 1 1 1 1 1 1 ..."
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#data-set-summary",
+    "href": "slides_md/Day02_bsta511_md.html#data-set-summary",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data set summary",
+    "text": "Data set summary\n\nsummary(iris)\n\n  Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   \n Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100  \n 1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300  \n Median :5.800   Median :3.000   Median :4.350   Median :1.300  \n Mean   :5.843   Mean   :3.057   Mean   :3.758   Mean   :1.199  \n 3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800  \n Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500  \n       Species  \n setosa    :50  \n versicolor:50  \n virginica :50"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#data-set-info",
+    "href": "slides_md/Day02_bsta511_md.html#data-set-info",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data set info",
+    "text": "Data set info\n\ndim(iris)\n\n[1] 150   5\n\nnrow(iris)\n\n[1] 150\n\nncol(iris)\n\n[1] 5\n\nnames(iris)\n\n[1] \"Sepal.Length\" \"Sepal.Width\"  \"Petal.Length\" \"Petal.Width\"  \"Species\""
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#view-the-beginning-or-end-of-a-dataset",
+    "href": "slides_md/Day02_bsta511_md.html#view-the-beginning-or-end-of-a-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "View the beginning or end of a dataset",
+    "text": "View the beginning or end of a dataset\n\nhead(iris)\n\n  Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1          5.1         3.5          1.4         0.2  setosa\n2          4.9         3.0          1.4         0.2  setosa\n3          4.7         3.2          1.3         0.2  setosa\n4          4.6         3.1          1.5         0.2  setosa\n5          5.0         3.6          1.4         0.2  setosa\n6          5.4         3.9          1.7         0.4  setosa\n\ntail(iris)\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width   Species\n145          6.7         3.3          5.7         2.5 virginica\n146          6.7         3.0          5.2         2.3 virginica\n147          6.3         2.5          5.0         1.9 virginica\n148          6.5         3.0          5.2         2.0 virginica\n149          6.2         3.4          5.4         2.3 virginica\n150          5.9         3.0          5.1         1.8 virginica"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#specify-how-many-rows-to-view-at-beginning-or-end-of-a-dataset",
+    "href": "slides_md/Day02_bsta511_md.html#specify-how-many-rows-to-view-at-beginning-or-end-of-a-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Specify how many rows to view at beginning or end of a dataset",
+    "text": "Specify how many rows to view at beginning or end of a dataset\n\nhead(iris, 3)\n\n  Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1          5.1         3.5          1.4         0.2  setosa\n2          4.9         3.0          1.4         0.2  setosa\n3          4.7         3.2          1.3         0.2  setosa\n\ntail(iris, 2)\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width   Species\n149          6.2         3.4          5.4         2.3 virginica\n150          5.9         3.0          5.1         1.8 virginica"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#the",
+    "href": "slides_md/Day02_bsta511_md.html#the",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "The $",
+    "text": "The $\n\nSuppose we want to single out the column of petal width values.\nOne way to do this is to use the $\n\nDatSetName$VariableName\n\n\n\niris$Petal.Width\n\n  [1] 0.2 0.2 0.2 0.2 0.2 0.4 0.3 0.2 0.2 0.1 0.2 0.2 0.1 0.1 0.2 0.4 0.4 0.3\n [19] 0.3 0.3 0.2 0.4 0.2 0.5 0.2 0.2 0.4 0.2 0.2 0.2 0.2 0.4 0.1 0.2 0.2 0.2\n [37] 0.2 0.1 0.2 0.2 0.3 0.3 0.2 0.6 0.4 0.3 0.2 0.2 0.2 0.2 1.4 1.5 1.5 1.3\n [55] 1.5 1.3 1.6 1.0 1.3 1.4 1.0 1.5 1.0 1.4 1.3 1.4 1.5 1.0 1.5 1.1 1.8 1.3\n [73] 1.5 1.2 1.3 1.4 1.4 1.7 1.5 1.0 1.1 1.0 1.2 1.6 1.5 1.6 1.5 1.3 1.3 1.3\n [91] 1.2 1.4 1.2 1.0 1.3 1.2 1.3 1.3 1.1 1.3 2.5 1.9 2.1 1.8 2.2 2.1 1.7 1.8\n[109] 1.8 2.5 2.0 1.9 2.1 2.0 2.4 2.3 1.8 2.2 2.3 1.5 2.3 2.0 2.0 1.8 2.1 1.8\n[127] 1.8 1.8 2.1 1.6 1.9 2.0 2.2 1.5 1.4 2.3 2.4 1.8 1.8 2.1 2.4 2.3 1.9 2.3\n[145] 2.5 2.3 1.9 2.0 2.3 1.8"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#example-using-the",
+    "href": "slides_md/Day02_bsta511_md.html#example-using-the",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Example using the $",
+    "text": "Example using the $\nThe $ is helpful if you want to create a new dataset for just that one variable, or, more commonly, if you want to calculate summary statistics for that one variable.\n\n\n\nmean(iris$Petal.Width)\n\n[1] 1.199333\n\nsd(iris$Petal.Width)\n\n[1] 0.7622377\n\nmedian(iris$Petal.Width)\n\n[1] 1.3"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#inline-code",
+    "href": "slides_md/Day02_bsta511_md.html#inline-code",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Inline code",
+    "text": "Inline code\n\n\nWith markdown you can also report R code output inline with the text instead of using a chunk.\n\n\n\nText in editor:\n\n\n\n\n\n\nOutput:\nThe mean petal width for all 3 species combined is 1.2 (SD = 0.8) cm.\n\n\n\nReporting summary statistics this way in a report, makes the numbers computationally reproducible.\nFor example, if this were for an abstract and a year later you are wondering where the numbers came from, your R code will tell you exactly which dataset was used to calculate the values."
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#table-1-example",
+    "href": "slides_md/Day02_bsta511_md.html#table-1-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Table 1 example",
+    "text": "Table 1 example\n\n\n\n\n\n\n\n\nAre We on the Same Page?: A Cross-Sectional Study of Patient-Clinician Goal Concordance in Rheumatoid Arthritis\nJ Barton et al.\nArthritis Care & Research.\n2021 Sep 27 https://pubmed.ncbi.nlm.nih.gov/34569172/"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-center-mean",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-center-mean",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mean",
+    "text": "Measures of center: mean\n\nSample mean: the average value of observations\n\\[\\overline{x} = \\frac{x_1+x_2+\\cdots+x_n}{n} = \\sum_{i=1}^{n}\\frac{x_i}{n}\\]\nwhere \\(x_1, x_2, \\ldots, x_n\\) represent the \\(n\\) observed values in a sample\nExample: What is the mean age in the toy dataset df defined earlier?\n\n\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\nmean(df$age)\n\n[1] 31.5"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-center-median",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-center-median",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: median",
+    "text": "Measures of center: median\n\n\nThe median is the middle value of the observations in a sample.\nThe median is the 50th percentile, meaning\n\n50% of observations lie below and\n50% of observations lie above the median.\n\n\n\n\n\n\n\nIf the number of observations is\n\nodd: the median is the middle observed value\neven: the median is the average of the two middle observed values\n\n\n\n\n\ndf$age\n\n[1] 28.0 35.5 31.0\n\nmedian(df$age)\n\n[1] 31\n\nmedian(c(df$age, 67))\n\n[1] 33.25"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-center-mean-vs.-median",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-center-mean-vs.-median",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mean vs. median",
+    "text": "Measures of center: mean vs. median\n\n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.\n\n\n\n\n\n\nsummary(iris)\n\n  Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   \n Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100  \n 1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300  \n Median :5.800   Median :3.000   Median :4.350   Median :1.300  \n Mean   :5.843   Mean   :3.057   Mean   :3.758   Mean   :1.199  \n 3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800  \n Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500  \n       Species  \n setosa    :50  \n versicolor:50  \n virginica :50"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-center-mode",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-center-mode",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mode",
+    "text": "Measures of center: mode\nmode: the most frequent value in a dataset\n\n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`."
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-spread-standard-deviation-sd-13",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-spread-standard-deviation-sd-13",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: standard deviation (SD) (1/3)",
+    "text": "Measures of spread: standard deviation (SD) (1/3)\nstandard deviation is (approximately) the average distance between a typical observation and the mean\n\nAn observation’s deviation is the distance between its value \\(x\\) and the sample mean \\(\\overline{x}\\): deviation = \\(x - \\overline{x}\\).\n\n\n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`."
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-spread-sd-23",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-spread-sd-23",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: SD (2/3)",
+    "text": "Measures of spread: SD (2/3)\n\nThe sample variance \\(s^2\\) is the sum of squared deviations divided by the number of observations minus 1. \\[s^2 = \\frac{(x_1 - \\overline{x})^2+(x_2 - \\overline{x})^2+\\cdots+(x_n - \\overline{x})^2}{n-1} = \\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}\\] where \\(x_1, x_2, \\dots, x_n\\) represent the \\(n\\) observed values.\nThe standard deviation \\(s\\) is the square root of the variance. \\[s = \\sqrt{\\frac{({x_1 - \\overline{x})}^{2}+({x_2 - \\overline{x})}^{2}+\\cdots+({x_n - \\overline{x})}^{2}}{n-1}} = \\sqrt{\\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}}\\]"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-spread-sd-33",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-spread-sd-33",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: SD (3/3)",
+    "text": "Measures of spread: SD (3/3)\n\n\n\nLet’s calculate the sample standard deviation for our toy example\n\n\ndf$age\n\n[1] 28.0 35.5 31.0\n\n\n\n\nmean(df$age)\n\n[1] 31.5\n\nsd(df$age)\n\n[1] 3.774917\n\n\n\n\n\\(s = \\sqrt{\\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}} =\\)"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#empirical-rule-one-way-to-think-about-the-sd-12",
+    "href": "slides_md/Day02_bsta511_md.html#empirical-rule-one-way-to-think-about-the-sd-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Empirical Rule: one way to think about the SD (1/2)",
+    "text": "Empirical Rule: one way to think about the SD (1/2)\n\n\n\nFor symmetric bell-shaped data, about\n\n68% of the data are within 1 SD of the mean\n95% of the data are within 2 SD’s of the mean\n99.7% of the data are within 3 SD’s of the mean\n\nThese percentages are based off of percentages of a true normal distribution.\n\n\n\n\nhttps://statistics-made-easy.com/empirical-rule/"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#empirical-rule-one-way-to-think-about-the-sd-22",
+    "href": "slides_md/Day02_bsta511_md.html#empirical-rule-one-way-to-think-about-the-sd-22",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Empirical Rule: one way to think about the SD (2/2)",
+    "text": "Empirical Rule: one way to think about the SD (2/2)\n\n\n\nhist(iris$Sepal.Width)\n\n\n\n\n\n\nmean(iris$Sepal.Width)\n\n[1] 3.057333\n\nsd(iris$Sepal.Width)\n\n[1] 0.4358663"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-spread-interquartile-range-iqr-12",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-spread-interquartile-range-iqr-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: interquartile range (IQR) (1/2)",
+    "text": "Measures of spread: interquartile range (IQR) (1/2)\nThe \\(p^{th}\\) percentile is the observation such that \\(p\\%\\) of the remaining observations fall below this observation.\n\nThe first quartile \\(Q_1\\) is the \\(25^{th}\\) percentile.\nThe second quartile \\(Q_2\\), i.e., the median, is the \\(50^{th}\\) percentile.\nThe third quartile \\(Q_3\\) is the \\(75^{th}\\) percentile.\n\nThe interquartile range (IQR) is the distance between the third and first quartiles. \\[IQR = Q_3 - Q_1\\]\n\nIQR is the width of the middle half of the data"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#measures-of-spread-iqr-22",
+    "href": "slides_md/Day02_bsta511_md.html#measures-of-spread-iqr-22",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: IQR (2/2)",
+    "text": "Measures of spread: IQR (2/2)\n5 number summary\n\nsummary(iris$Sepal.Width)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  2.000   2.800   3.000   3.057   3.300   4.400 \n\n\n\n\n\n\n\n\n\n\nWhat is the IQR of the sepal widths?\n\nquantile(iris$Sepal.Width, c(.25, .75))\n\n25% 75% \n2.8 3.3 \n\ndiff(quantile(iris$Sepal.Width, c(.25, .75)))\n\n75% \n0.5 \n\nIQR(iris$Sepal.Width)\n\n[1] 0.5"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#robust-estimates",
+    "href": "slides_md/Day02_bsta511_md.html#robust-estimates",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Robust estimates",
+    "text": "Robust estimates\nSummary statistics are called robust estimates if extreme observations have little effect on their values\n\n\n\nestimate\nrobust?\n\n\n\n\nmean\n\n\n\nmedian\n\n\n\nmode\n\n\n\nstandard deviation\n\n\n\nIQR\n\n\n\nrange"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#r-packages",
+    "href": "slides_md/Day02_bsta511_md.html#r-packages",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "R Packages",
+    "text": "R Packages\nA good analogy for R packages is that they\nare like apps you can download onto a mobile phone:\n\n\n\nModernDive Figure 1.4"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#installing-packages",
+    "href": "slides_md/Day02_bsta511_md.html#installing-packages",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Installing packages",
+    "text": "Installing packages\n\n\nPackages contain additional functions and data\n\nTwo options to install packages:\n\ninstall.packages() or\nThe “Packages” tab in Files/Plots/Packages/Help/Viewer window\n\n\n\ninstall.packages(\"dplyr\")   # only do this ONCE, use quotes\n\n\n\n\n\nOnly install packages once (unless you want to update them)\nInstalled from Comprehensive R Archive Network (CRAN) = package mothership"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#video-on-installing-packages",
+    "href": "slides_md/Day02_bsta511_md.html#video-on-installing-packages",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Video on installing packages",
+    "text": "Video on installing packages\n\nDanielle Navarro’s YouTube video on Installing and loading R packages: https://www.youtube.com/watch?v=kpHZVyDvEhQ"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#load-packages-with-library-command",
+    "href": "slides_md/Day02_bsta511_md.html#load-packages-with-library-command",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Load packages with library() command",
+    "text": "Load packages with library() command\n\n\nTip: at the top of your Rmd file, create a chunk that loads all of the R packages you want to use in that file.\nUse the library() command to load each required package.\nPackages need to be reloaded every time you open Rstudio.\n\n\n\nlibrary(dplyr)    # run this every time you open Rstudio\n\n\n\nYou can use a function without loading the package with PackageName::CommandName\n\n\n\ndplyr::arrange(iris, Petal.Width)   # what does arrange do?\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width    Species\n1            4.9         3.1          1.5         0.1     setosa\n2            4.8         3.0          1.4         0.1     setosa\n3            4.3         3.0          1.1         0.1     setosa\n4            5.2         4.1          1.5         0.1     setosa\n5            4.9         3.6          1.4         0.1     setosa\n6            5.1         3.5          1.4         0.2     setosa\n7            4.9         3.0          1.4         0.2     setosa\n8            4.7         3.2          1.3         0.2     setosa\n9            4.6         3.1          1.5         0.2     setosa\n10           5.0         3.6          1.4         0.2     setosa\n11           5.0         3.4          1.5         0.2     setosa\n12           4.4         2.9          1.4         0.2     setosa\n13           5.4         3.7          1.5         0.2     setosa\n14           4.8         3.4          1.6         0.2     setosa\n15           5.8         4.0          1.2         0.2     setosa\n16           5.4         3.4          1.7         0.2     setosa\n17           4.6         3.6          1.0         0.2     setosa\n18           4.8         3.4          1.9         0.2     setosa\n19           5.0         3.0          1.6         0.2     setosa\n20           5.2         3.5          1.5         0.2     setosa\n21           5.2         3.4          1.4         0.2     setosa\n22           4.7         3.2          1.6         0.2     setosa\n23           4.8         3.1          1.6         0.2     setosa\n24           5.5         4.2          1.4         0.2     setosa\n25           4.9         3.1          1.5         0.2     setosa\n26           5.0         3.2          1.2         0.2     setosa\n27           5.5         3.5          1.3         0.2     setosa\n28           4.4         3.0          1.3         0.2     setosa\n29           5.1         3.4          1.5         0.2     setosa\n30           4.4         3.2          1.3         0.2     setosa\n31           5.1         3.8          1.6         0.2     setosa\n32           4.6         3.2          1.4         0.2     setosa\n33           5.3         3.7          1.5         0.2     setosa\n34           5.0         3.3          1.4         0.2     setosa\n35           4.6         3.4          1.4         0.3     setosa\n36           5.1         3.5          1.4         0.3     setosa\n37           5.7         3.8          1.7         0.3     setosa\n38           5.1         3.8          1.5         0.3     setosa\n39           5.0         3.5          1.3         0.3     setosa\n40           4.5         2.3          1.3         0.3     setosa\n41           4.8         3.0          1.4         0.3     setosa\n42           5.4         3.9          1.7         0.4     setosa\n43           5.7         4.4          1.5         0.4     setosa\n44           5.4         3.9          1.3         0.4     setosa\n45           5.1         3.7          1.5         0.4     setosa\n46           5.0         3.4          1.6         0.4     setosa\n47           5.4         3.4          1.5         0.4     setosa\n48           5.1         3.8          1.9         0.4     setosa\n49           5.1         3.3          1.7         0.5     setosa\n50           5.0         3.5          1.6         0.6     setosa\n51           4.9         2.4          3.3         1.0 versicolor\n52           5.0         2.0          3.5         1.0 versicolor\n53           6.0         2.2          4.0         1.0 versicolor\n54           5.8         2.7          4.1         1.0 versicolor\n55           5.7         2.6          3.5         1.0 versicolor\n56           5.5         2.4          3.7         1.0 versicolor\n57           5.0         2.3          3.3         1.0 versicolor\n58           5.6         2.5          3.9         1.1 versicolor\n59           5.5         2.4          3.8         1.1 versicolor\n60           5.1         2.5          3.0         1.1 versicolor\n61           6.1         2.8          4.7         1.2 versicolor\n62           5.8         2.7          3.9         1.2 versicolor\n63           5.5         2.6          4.4         1.2 versicolor\n64           5.8         2.6          4.0         1.2 versicolor\n65           5.7         3.0          4.2         1.2 versicolor\n66           5.5         2.3          4.0         1.3 versicolor\n67           5.7         2.8          4.5         1.3 versicolor\n68           6.6         2.9          4.6         1.3 versicolor\n69           5.6         2.9          3.6         1.3 versicolor\n70           6.1         2.8          4.0         1.3 versicolor\n71           6.4         2.9          4.3         1.3 versicolor\n72           6.3         2.3          4.4         1.3 versicolor\n73           5.6         3.0          4.1         1.3 versicolor\n74           5.5         2.5          4.0         1.3 versicolor\n75           5.6         2.7          4.2         1.3 versicolor\n76           5.7         2.9          4.2         1.3 versicolor\n77           6.2         2.9          4.3         1.3 versicolor\n78           5.7         2.8          4.1         1.3 versicolor\n79           7.0         3.2          4.7         1.4 versicolor\n80           5.2         2.7          3.9         1.4 versicolor\n81           6.1         2.9          4.7         1.4 versicolor\n82           6.7         3.1          4.4         1.4 versicolor\n83           6.6         3.0          4.4         1.4 versicolor\n84           6.8         2.8          4.8         1.4 versicolor\n85           6.1         3.0          4.6         1.4 versicolor\n86           6.1         2.6          5.6         1.4  virginica\n87           6.4         3.2          4.5         1.5 versicolor\n88           6.9         3.1          4.9         1.5 versicolor\n89           6.5         2.8          4.6         1.5 versicolor\n90           5.9         3.0          4.2         1.5 versicolor\n91           5.6         3.0          4.5         1.5 versicolor\n92           6.2         2.2          4.5         1.5 versicolor\n93           6.3         2.5          4.9         1.5 versicolor\n94           6.0         2.9          4.5         1.5 versicolor\n95           5.4         3.0          4.5         1.5 versicolor\n96           6.7         3.1          4.7         1.5 versicolor\n97           6.0         2.2          5.0         1.5  virginica\n98           6.3         2.8          5.1         1.5  virginica\n99           6.3         3.3          4.7         1.6 versicolor\n100          6.0         2.7          5.1         1.6 versicolor\n101          6.0         3.4          4.5         1.6 versicolor\n102          7.2         3.0          5.8         1.6  virginica\n103          6.7         3.0          5.0         1.7 versicolor\n104          4.9         2.5          4.5         1.7  virginica\n105          5.9         3.2          4.8         1.8 versicolor\n106          6.3         2.9          5.6         1.8  virginica\n107          7.3         2.9          6.3         1.8  virginica\n108          6.7         2.5          5.8         1.8  virginica\n109          6.5         3.0          5.5         1.8  virginica\n110          6.3         2.7          4.9         1.8  virginica\n111          7.2         3.2          6.0         1.8  virginica\n112          6.2         2.8          4.8         1.8  virginica\n113          6.1         3.0          4.9         1.8  virginica\n114          6.4         3.1          5.5         1.8  virginica\n115          6.0         3.0          4.8         1.8  virginica\n116          5.9         3.0          5.1         1.8  virginica\n117          5.8         2.7          5.1         1.9  virginica\n118          6.4         2.7          5.3         1.9  virginica\n119          7.4         2.8          6.1         1.9  virginica\n120          5.8         2.7          5.1         1.9  virginica\n121          6.3         2.5          5.0         1.9  virginica\n122          6.5         3.2          5.1         2.0  virginica\n123          5.7         2.5          5.0         2.0  virginica\n124          5.6         2.8          4.9         2.0  virginica\n125          7.7         2.8          6.7         2.0  virginica\n126          7.9         3.8          6.4         2.0  virginica\n127          6.5         3.0          5.2         2.0  virginica\n128          7.1         3.0          5.9         2.1  virginica\n129          7.6         3.0          6.6         2.1  virginica\n130          6.8         3.0          5.5         2.1  virginica\n131          6.7         3.3          5.7         2.1  virginica\n132          6.4         2.8          5.6         2.1  virginica\n133          6.9         3.1          5.4         2.1  virginica\n134          6.5         3.0          5.8         2.2  virginica\n135          7.7         3.8          6.7         2.2  virginica\n136          6.4         2.8          5.6         2.2  virginica\n137          6.4         3.2          5.3         2.3  virginica\n138          7.7         2.6          6.9         2.3  virginica\n139          6.9         3.2          5.7         2.3  virginica\n140          7.7         3.0          6.1         2.3  virginica\n141          6.9         3.1          5.1         2.3  virginica\n142          6.8         3.2          5.9         2.3  virginica\n143          6.7         3.0          5.2         2.3  virginica\n144          6.2         3.4          5.4         2.3  virginica\n145          5.8         2.8          5.1         2.4  virginica\n146          6.3         3.4          5.6         2.4  virginica\n147          6.7         3.1          5.6         2.4  virginica\n148          6.3         3.3          6.0         2.5  virginica\n149          7.2         3.6          6.1         2.5  virginica\n150          6.7         3.3          5.7         2.5  virginica"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#install-the-packages-listed-below-before-day-3",
+    "href": "slides_md/Day02_bsta511_md.html#install-the-packages-listed-below-before-day-3",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Install the packages listed below before Day 3",
+    "text": "Install the packages listed below before Day 3\n\n\nknitr\n\nthis might actually already be installed\ncheck your packages list\n\ntidyverse\n\nthis is actually a bundle of packages\nWarning: it will take a while to install!!!\nsee more info at https://tidyverse.tidyverse.org/\n\nrstatix\n\nfor summary statistics of a dataset\n\njanitor\n\nfor cleaning and exploring data\n\nggridges\n\nfor creating ridgeline plots\n\ndevtools\n\nused to create R packages\nfor our purposes, needed to install some packages\n\noi_biostat_data\n\nthis package is on github\nsee the next slide for directions on how to install oi_biostat_data"
+  },
+  {
+    "objectID": "slides_md/Day02_bsta511_md.html#directions-for-installing-package-oibiostat",
+    "href": "slides_md/Day02_bsta511_md.html#directions-for-installing-package-oibiostat",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Directions for installing package oibiostat",
+    "text": "Directions for installing package oibiostat\n\n\nThe textbook’s datasets are in the R package oibiostat\nExplanation of code below\n\nInstallation of oibiostat package requires first installing devtools package\nThe code devtools::install_github() tells R to use the command install_github() from the devtools package without loading the entire package and all of its commands (which library(devtools) would do).\n\n\n\n\ninstall.packages(\"devtools\")\ndevtools::install_github(\"OI-Biostat/oi_biostat_data\", force = TRUE)\n\n\n\nAfter running the code above, put # in front of the commands so that RStudio doesn’t evaluate them when rendering.\nNow load the oibiostat package\n\nthe code below needs to be run every time you restart R or knit an Rmd file\n\n\n\n\nlibrary(oibiostat)"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html",
+    "href": "slides_code/Day02_bsta511_code.html",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "",
+    "text": "(1.3) Data collection principles - Day 2 in F25\n\nPopulation vs. sample\nSampling methods\nExperiments vs. Observational studies\n\n(1.2) Intro to Data - Day 2 in F25\n\nData types\nHow are data stored in R?\nWorking with data in R\n\n(1.4) Summarizing numerical data - Day 3 in F25\n\nMean, median, mode, SD, IQR, range, 5 number summary\nEmpirical Rule\nrobust statistics\n\nR packages - Day 4 in F25 -&gt; install for Day 5!!!"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#useful-keyboard-shortcuts",
+    "href": "slides_code/Day02_bsta511_code.html#useful-keyboard-shortcuts",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Useful keyboard shortcuts",
+    "text": "Useful keyboard shortcuts\nFull list of keyboard shortcuts\n\n\n\n\n\n\n\n\naction\nmac\nwindows/linux\n\n\n\n\nRun code in qmd (or script)\ncmd + enter\nctrl + enter\n\n\n&lt;-\noption + -\nalt + -\n\n\ninterrupt currently running command\nesc\nesc\n\n\nin console, retrieve previously run code\nup/down\nup/down\n\n\nkeyboard shortcut help\noption + shift + k\nalt + shift + k\n\n\n\n\nPractice\nTry typing code below in your qmd (with shortcut) and evaluating it:\n\ny &lt;- 5\ny"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#another-resource-for-an-introduction-to-r",
+    "href": "slides_code/Day02_bsta511_code.html#another-resource-for-an-introduction-to-r",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Another resource for an introduction to R",
+    "text": "Another resource for an introduction to R\n\nIf you would like another perspective on what we covered the first week, you might find Danielle Navarro’s online book Learning Statistics with R to be helpful.\nDownload free pdf: https://learningstatisticswithr.com/\nSee Sections 3.1-3.7.1 for some of the topics we covered on first day"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#population-vs.-sample",
+    "href": "slides_code/Day02_bsta511_code.html#population-vs.-sample",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Population vs. sample",
+    "text": "Population vs. sample\n\n(Target) Population\n\ngroup of interest being studied\ngroup from which the sample is selected\n\nstudies often have inclusion and/or exclusion criteria\n\n\n\n\nSample\n\ngroup on which data are collected\noften a small subset of the population"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#sampling-methods-14",
+    "href": "slides_code/Day02_bsta511_code.html#sampling-methods-14",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Sampling methods (1/4)",
+    "text": "Sampling methods (1/4)\nGoal is to get a representative sample of the population:\nthe characteristics of the sample are similar to the characteristics of the population\nSimple random sample (SRS)\n\neach individual of a population has the same chance of being sampled\nrandomly sampled\nconsidered best way to sample\n\nConvenience sample\n\neasily accessible individuals are more likely to be included in the sample than other individuals\na common “pitfall”\n\n\nSampling methods (2/4)\nGood sampling plans don’t guarantee samples representative of the population\nNon-response bias\n\nnon-response rates can be high\nare all groups within a population being reached?\nunrepresentative sample\n=&gt; skewed results\n\n“Random” samples can be unrepresentative by random chance\n\nIn a SRS each case in the population has an equal chance of being included in the sample\nBut by random chance alone a random sample might contain a higher proportion of one group over another\nEx: a SRS might by chance include 70% men (unlikely, but theoretically possible)\n\n\n\nSampling methods (3/4)\n\nSimple random sample (SRS)\n\neach individual of a population has the same chance of being sampled\nstatistical methods taught in this class assume a SRS!\n\nStratified sampling\n\ndivide population into groups (strata) before selecting cases within each stratum (often via SRS)\nusually cases within a strata are similar, but are different from other strata with respect to the outcome of interest, such as gender or age groups\n\n\n\n\nSampling methods (4/4)\n\nCluster sample\n\nfirst divide population into groups (clusters)\nthen sample a fixed number of clusters, and include all observations from chosen clusters\nclusters are often hospitals, clinicians, schools, etc., where each cluster will have similar services/ policies/ etc.\ncases within clusters usually very diverse\n\nMultistage sample\n\nsimilar to a cluster sample, but select a random sample within each selected cluster instead of all individuals"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#experiments-12",
+    "href": "slides_code/Day02_bsta511_code.html#experiments-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Experiments (1/2)",
+    "text": "Experiments (1/2)\n\nResearchers assign individuals to different treatment or intervention groups\n\ncontrol group: often receive a placebo or usual care\ndifferent treatment groups are often called study arms\n\nRandomization\n\ngroup assignment is usually random to ensure similar (balanced) study arms for all variables (observed and unobserved)\nrandomization allows study arm differences in outcomes to be attributed to treatment rather than variability in patient characteristics\n\ntreatment is the only systematic difference between groups\nestablish causality\n\nblocking (stratification): group individuals into blocks (strata) before randomizing if there are certain characteristics that may influence the outcome other than treatment (i.e. gender, age group)\n\n\n\nExperiments (2/2)\n\nReplication\n\naccomplished by collecting a sufficiently large sample\nresults usually more reliable with a large sample size\n\noften less variability\nmore likely to be representative of population\n\n\nSome studies are not ethical to carry out as experiments"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#observational-studies",
+    "href": "slides_code/Day02_bsta511_code.html#observational-studies",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Observational studies",
+    "text": "Observational studies\n\ndata are observed and recorded without interference\noften done via surveys, electronic health records, or medical chart reviews\ncohorts\nassociations between variables can be established, but not causality\n\nIndividuals with different characteristics may also differ in other ways that influence response\n\nconfounding variables (lurking variable)\n\nvariables associated with both the explanatory and response variables\n\nprospective vs. retrospective studies"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#comparing-study-designs",
+    "href": "slides_code/Day02_bsta511_code.html#comparing-study-designs",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Comparing study designs",
+    "text": "Comparing study designs\nScience Media Centre"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#systematic-reviews-example",
+    "href": "slides_code/Day02_bsta511_code.html#systematic-reviews-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Systematic Reviews example",
+    "text": "Systematic Reviews example\nSTEM: Systematically Testing the Evidence on Marijuana\nSTEM is a collaborative project between the US Department of Veterans Affairs and the Center for Evidence-based Policy at Oregon Health & Science University.\nThe project is funded by the US Department of Veterans Affairs: Office of Rural Health."
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#how-are-data-stored-how-do-we-use-them",
+    "href": "slides_code/Day02_bsta511_code.html#how-are-data-stored-how-do-we-use-them",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "How are data stored, how do we use them?",
+    "text": "How are data stored, how do we use them?\n\nOften, data are in an Excel sheet, or a plain text file (.csv, .txt)\n.csv files open in Excel automatically, but actually are plain text\nUsually, columns are variables/measures and rows are observations (i.e. a person’s measurements)\n\n\nData in R\n\nWe can import data from many file types, including .csv, .txt., and .xlsx\n\nWe will cover this on a later date\n\nOnce imported, R typically stores data as data frames, or tibbles if using the tidyverse package (more on this later).\n\nFor our purposes, these are essentially the same, and I will tend to use the terms interchangeably.\nThese are examples of what we call object types in R."
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#data-frame-example",
+    "href": "slides_code/Day02_bsta511_code.html#data-frame-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data frame example",
+    "text": "Data frame example\n\ndf &lt;- data.frame(\n  IDs=1:3, \n  gender=c(\"male\", \"female\", \"Male\"), \n  age=c(28, 35.5, 31),\n  trt = c(\"control\", \"1\", \"1\"),\n  Veteran = c(FALSE, TRUE, TRUE)\n  )\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\n\n\nVectors vs. data frames\n\na data frame is a collection (or array or table) of vectors\n\nDifferent columns can be of different data types (i.e. numeric vs. text)\nBoth numeric and text can be stored within a column (stored together as text).\nVectors and data frames are examples of objects in R.\n\nThere are other types of R objects to store data, such as matrices, lists."
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#observations-variables",
+    "href": "slides_code/Day02_bsta511_code.html#observations-variables",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Observations & variables",
+    "text": "Observations & variables\n\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\n\n\nBook refers to a dataset as a data matrix\nRows are usually observations\nColumns are usually variables\nHow many observations are in this dataset?\nWhat are the variable types in this dataset?"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#variable-column-types",
+    "href": "slides_code/Day02_bsta511_code.html#variable-column-types",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Variable (column) types",
+    "text": "Variable (column) types\n\n\n\n\n\n\n\n\nR type\nvariable type\ndescription\n\n\n\n\ninteger\ndiscrete\ninteger-valued numbers\n\n\ndouble or numeric\ncontinuous\nnumbers that are decimals\n\n\nfactor\ncategorical\ncategorical variables stored with levels (groups)\n\n\ncharacter\ncategorical\ntext, “strings”\n\n\nlogical\ncategorical\nboolean (TRUE, FALSE)\n\n\n\n\nView the structure of our data frame to see what the variable types are:\n\n\nstr(df)\n\n'data.frame':   3 obs. of  5 variables:\n $ IDs    : int  1 2 3\n $ gender : chr  \"male\" \"female\" \"Male\"\n $ age    : num  28 35.5 31\n $ trt    : chr  \"control\" \"1\" \"1\"\n $ Veteran: logi  FALSE TRUE TRUE"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#fishers-or-andersons-iris-data-set",
+    "href": "slides_code/Day02_bsta511_code.html#fishers-or-andersons-iris-data-set",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Fisher’s (or Anderson’s) Iris data set",
+    "text": "Fisher’s (or Anderson’s) Iris data set\nData description:\n\nn = 150\n3 species of Iris flowers (Setosa, Virginica, and Versicolour)\n\n50 measurements of each type of Iris\n\nvariables:\n\nsepal length, sepal width, petal length, petal width, and species\n\n\nCan the iris species be determined by these variables?\n\n\n\nGareth Duffy"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#view-the-iris-dataset",
+    "href": "slides_code/Day02_bsta511_code.html#view-the-iris-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "View the iris dataset",
+    "text": "View the iris dataset\n\nThe iris dataset is already pre-loaded in base R and ready to use.\nType the following command in the console window\n\nWarning: this command cannot be rendered. It will give an error.\n\n\n\nView(iris)\n\nA new tab in the scripting window should appear with the iris dataset."
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#data-structure",
+    "href": "slides_code/Day02_bsta511_code.html#data-structure",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data structure",
+    "text": "Data structure\n\nWhat are the different variable types in this data set?\n\n\nstr(iris)   # structure of data\n\n'data.frame':   150 obs. of  5 variables:\n $ Sepal.Length: num  5.1 4.9 4.7 4.6 5 5.4 4.6 5 4.4 4.9 ...\n $ Sepal.Width : num  3.5 3 3.2 3.1 3.6 3.9 3.4 3.4 2.9 3.1 ...\n $ Petal.Length: num  1.4 1.4 1.3 1.5 1.4 1.7 1.4 1.5 1.4 1.5 ...\n $ Petal.Width : num  0.2 0.2 0.2 0.2 0.2 0.4 0.3 0.2 0.2 0.1 ...\n $ Species     : Factor w/ 3 levels \"setosa\",\"versicolor\",..: 1 1 1 1 1 1 1 1 1 1 ..."
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#data-set-summary",
+    "href": "slides_code/Day02_bsta511_code.html#data-set-summary",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data set summary",
+    "text": "Data set summary\n\nsummary(iris)\n\n  Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   \n Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100  \n 1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300  \n Median :5.800   Median :3.000   Median :4.350   Median :1.300  \n Mean   :5.843   Mean   :3.057   Mean   :3.758   Mean   :1.199  \n 3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800  \n Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500  \n       Species  \n setosa    :50  \n versicolor:50  \n virginica :50"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#data-set-info",
+    "href": "slides_code/Day02_bsta511_code.html#data-set-info",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Data set info",
+    "text": "Data set info\n\ndim(iris)\n\n[1] 150   5\n\nnrow(iris)\n\n[1] 150\n\nncol(iris)\n\n[1] 5\n\nnames(iris)\n\n[1] \"Sepal.Length\" \"Sepal.Width\"  \"Petal.Length\" \"Petal.Width\"  \"Species\""
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#view-the-beginning-or-end-of-a-dataset",
+    "href": "slides_code/Day02_bsta511_code.html#view-the-beginning-or-end-of-a-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "View the beginning or end of a dataset",
+    "text": "View the beginning or end of a dataset\n\nhead(iris)\n\n  Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1          5.1         3.5          1.4         0.2  setosa\n2          4.9         3.0          1.4         0.2  setosa\n3          4.7         3.2          1.3         0.2  setosa\n4          4.6         3.1          1.5         0.2  setosa\n5          5.0         3.6          1.4         0.2  setosa\n6          5.4         3.9          1.7         0.4  setosa\n\ntail(iris)\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width   Species\n145          6.7         3.3          5.7         2.5 virginica\n146          6.7         3.0          5.2         2.3 virginica\n147          6.3         2.5          5.0         1.9 virginica\n148          6.5         3.0          5.2         2.0 virginica\n149          6.2         3.4          5.4         2.3 virginica\n150          5.9         3.0          5.1         1.8 virginica"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#specify-how-many-rows-to-view-at-beginning-or-end-of-a-dataset",
+    "href": "slides_code/Day02_bsta511_code.html#specify-how-many-rows-to-view-at-beginning-or-end-of-a-dataset",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Specify how many rows to view at beginning or end of a dataset",
+    "text": "Specify how many rows to view at beginning or end of a dataset\n\nhead(iris, 3)\n\n  Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1          5.1         3.5          1.4         0.2  setosa\n2          4.9         3.0          1.4         0.2  setosa\n3          4.7         3.2          1.3         0.2  setosa\n\ntail(iris, 2)\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width   Species\n149          6.2         3.4          5.4         2.3 virginica\n150          5.9         3.0          5.1         1.8 virginica"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#the",
+    "href": "slides_code/Day02_bsta511_code.html#the",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "The $",
+    "text": "The $\n\nSuppose we want to single out the column of petal width values.\nOne way to do this is to use the $\n\nDatSetName$VariableName\n\n\n\niris$Petal.Width\n\n  [1] 0.2 0.2 0.2 0.2 0.2 0.4 0.3 0.2 0.2 0.1 0.2 0.2 0.1 0.1 0.2 0.4 0.4 0.3\n [19] 0.3 0.3 0.2 0.4 0.2 0.5 0.2 0.2 0.4 0.2 0.2 0.2 0.2 0.4 0.1 0.2 0.2 0.2\n [37] 0.2 0.1 0.2 0.2 0.3 0.3 0.2 0.6 0.4 0.3 0.2 0.2 0.2 0.2 1.4 1.5 1.5 1.3\n [55] 1.5 1.3 1.6 1.0 1.3 1.4 1.0 1.5 1.0 1.4 1.3 1.4 1.5 1.0 1.5 1.1 1.8 1.3\n [73] 1.5 1.2 1.3 1.4 1.4 1.7 1.5 1.0 1.1 1.0 1.2 1.6 1.5 1.6 1.5 1.3 1.3 1.3\n [91] 1.2 1.4 1.2 1.0 1.3 1.2 1.3 1.3 1.1 1.3 2.5 1.9 2.1 1.8 2.2 2.1 1.7 1.8\n[109] 1.8 2.5 2.0 1.9 2.1 2.0 2.4 2.3 1.8 2.2 2.3 1.5 2.3 2.0 2.0 1.8 2.1 1.8\n[127] 1.8 1.8 2.1 1.6 1.9 2.0 2.2 1.5 1.4 2.3 2.4 1.8 1.8 2.1 2.4 2.3 1.9 2.3\n[145] 2.5 2.3 1.9 2.0 2.3 1.8"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#example-using-the",
+    "href": "slides_code/Day02_bsta511_code.html#example-using-the",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Example using the $",
+    "text": "Example using the $\nThe $ is helpful if you want to create a new dataset for just that one variable, or, more commonly, if you want to calculate summary statistics for that one variable.\n\nmean(iris$Petal.Width)\n\n[1] 1.199333\n\nsd(iris$Petal.Width)\n\n[1] 0.7622377\n\nmedian(iris$Petal.Width)\n\n[1] 1.3"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#inline-code",
+    "href": "slides_code/Day02_bsta511_code.html#inline-code",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Inline code",
+    "text": "Inline code\n\nWith markdown you can also report R code output inline with the text instead of using a chunk.\n\nText in editor:\nThe mean petal width for all 3 species combined is 1.2 (SD = 0.8) cm.\n\nReporting summary statistics this way in a report, makes the numbers computationally reproducible.\nFor example, if this were for an abstract and a year later you are wondering where the numbers came from, your R code will tell you exactly which dataset was used to calculate the values."
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#table-1-example",
+    "href": "slides_code/Day02_bsta511_code.html#table-1-example",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Table 1 example",
+    "text": "Table 1 example\nAre We on the Same Page?: A Cross-Sectional Study of Patient-Clinician Goal Concordance in Rheumatoid Arthritis\nJ Barton et al.\nArthritis Care & Research.\n2021 Sep 27 https://pubmed.ncbi.nlm.nih.gov/34569172/"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#measures-of-center-mean",
+    "href": "slides_code/Day02_bsta511_code.html#measures-of-center-mean",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mean",
+    "text": "Measures of center: mean\nSample mean: the average value of observations\n\\[\\overline{x} = \\frac{x_1+x_2+\\cdots+x_n}{n} = \\sum_{i=1}^{n}\\frac{x_i}{n}\\]\nwhere \\(x_1, x_2, \\ldots, x_n\\) represent the \\(n\\) observed values in a sample\nExample: What is the mean age in the toy dataset df defined earlier?\n\ndf\n\n  IDs gender  age     trt Veteran\n1   1   male 28.0 control   FALSE\n2   2 female 35.5       1    TRUE\n3   3   Male 31.0       1    TRUE\n\nmean(df$age)\n\n[1] 31.5"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#measures-of-center-median",
+    "href": "slides_code/Day02_bsta511_code.html#measures-of-center-median",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: median",
+    "text": "Measures of center: median\n\nThe median is the middle value of the observations in a sample.\nThe median is the 50th percentile, meaning\n\n50% of observations lie below and\n50% of observations lie above the median.\n\nIf the number of observations is\n\nodd: the median is the middle observed value\neven: the median is the average of the two middle observed values\n\n\n\ndf$age\n\n[1] 28.0 35.5 31.0\n\nmedian(df$age)\n\n[1] 31\n\nmedian(c(df$age, 67))\n\n[1] 33.25"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#measures-of-center-mean-vs.-median",
+    "href": "slides_code/Day02_bsta511_code.html#measures-of-center-mean-vs.-median",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mean vs. median",
+    "text": "Measures of center: mean vs. median\n\n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.\n\n\n\n\n\n\nsummary(iris)\n\n  Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   \n Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100  \n 1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300  \n Median :5.800   Median :3.000   Median :4.350   Median :1.300  \n Mean   :5.843   Mean   :3.057   Mean   :3.758   Mean   :1.199  \n 3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800  \n Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500  \n       Species  \n setosa    :50  \n versicolor:50  \n virginica :50"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#measures-of-center-mode",
+    "href": "slides_code/Day02_bsta511_code.html#measures-of-center-mode",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of center: mode",
+    "text": "Measures of center: mode\nmode: the most frequent value in a dataset\n\n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`."
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#measures-of-spread-standard-deviation-sd-13",
+    "href": "slides_code/Day02_bsta511_code.html#measures-of-spread-standard-deviation-sd-13",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: standard deviation (SD) (1/3)",
+    "text": "Measures of spread: standard deviation (SD) (1/3)\nstandard deviation is (approximately) the average distance between a typical observation and the mean\n\nAn observation’s deviation is the distance between its value \\(x\\) and the sample mean \\(\\overline{x}\\): deviation = \\(x - \\overline{x}\\).\n\n\n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.\n\n\n\n\n\n\nMeasures of spread: SD (2/3)\n\nThe sample variance \\(s^2\\) is the sum of squared deviations divided by the number of observations minus 1. \\[s^2 = \\frac{(x_1 - \\overline{x})^2+(x_2 - \\overline{x})^2+\\cdots+(x_n - \\overline{x})^2}{n-1} = \\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}\\] where \\(x_1, x_2, \\dots, x_n\\) represent the \\(n\\) observed values.\nThe standard deviation \\(s\\) is the square root of the variance. \\[s = \\sqrt{\\frac{({x_1 - \\overline{x})}^{2}+({x_2 - \\overline{x})}^{2}+\\cdots+({x_n - \\overline{x})}^{2}}{n-1}} = \\sqrt{\\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}}\\]\n\n\n\nMeasures of spread: SD (3/3)\nLet’s calculate the sample standard deviation for our toy example\n\ndf$age\n\n[1] 28.0 35.5 31.0\n\n\n\nmean(df$age)\n\n[1] 31.5\n\nsd(df$age)\n\n[1] 3.774917\n\n\n\\(s = \\sqrt{\\sum_{i=1}^{n}\\frac{(x_i - \\overline{x})^2}{n-1}} =\\)"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#empirical-rule-one-way-to-think-about-the-sd-12",
+    "href": "slides_code/Day02_bsta511_code.html#empirical-rule-one-way-to-think-about-the-sd-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Empirical Rule: one way to think about the SD (1/2)",
+    "text": "Empirical Rule: one way to think about the SD (1/2)\nFor symmetric bell-shaped data, about\n\n68% of the data are within 1 SD of the mean\n95% of the data are within 2 SD’s of the mean\n99.7% of the data are within 3 SD’s of the mean\n\nThese percentages are based off of percentages of a true normal distribution.\n\nEmpirical Rule: one way to think about the SD (2/2)\n\nhist(iris$Sepal.Width)\n\n\n\n\n\nmean(iris$Sepal.Width)\n\n[1] 3.057333\n\nsd(iris$Sepal.Width)\n\n[1] 0.4358663"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#measures-of-spread-interquartile-range-iqr-12",
+    "href": "slides_code/Day02_bsta511_code.html#measures-of-spread-interquartile-range-iqr-12",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: interquartile range (IQR) (1/2)",
+    "text": "Measures of spread: interquartile range (IQR) (1/2)\nThe \\(p^{th}\\) percentile is the observation such that \\(p\\%\\) of the remaining observations fall below this observation.\n\nThe first quartile \\(Q_1\\) is the \\(25^{th}\\) percentile.\nThe second quartile \\(Q_2\\), i.e., the median, is the \\(50^{th}\\) percentile.\nThe third quartile \\(Q_3\\) is the \\(75^{th}\\) percentile.\n\nThe interquartile range (IQR) is the distance between the third and first quartiles. \\[IQR = Q_3 - Q_1\\]\n\nIQR is the width of the middle half of the data"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#measures-of-spread-iqr-22",
+    "href": "slides_code/Day02_bsta511_code.html#measures-of-spread-iqr-22",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Measures of spread: IQR (2/2)",
+    "text": "Measures of spread: IQR (2/2)\n5 number summary\n\nsummary(iris$Sepal.Width)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  2.000   2.800   3.000   3.057   3.300   4.400 \n\n\n\n\n\n\n\nWhat is the IQR of the sepal widths?\n\nquantile(iris$Sepal.Width, c(.25, .75))\n\n25% 75% \n2.8 3.3 \n\ndiff(quantile(iris$Sepal.Width, c(.25, .75)))\n\n75% \n0.5 \n\nIQR(iris$Sepal.Width)\n\n[1] 0.5"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#robust-estimates",
+    "href": "slides_code/Day02_bsta511_code.html#robust-estimates",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Robust estimates",
+    "text": "Robust estimates\nSummary statistics are called robust estimates if extreme observations have little effect on their values\n\n\n\nestimate\nrobust?\n\n\n\n\nmean\n\n\n\nmedian\n\n\n\nmode\n\n\n\nstandard deviation\n\n\n\nIQR\n\n\n\nrange"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#installing-packages",
+    "href": "slides_code/Day02_bsta511_code.html#installing-packages",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Installing packages",
+    "text": "Installing packages\n\nPackages contain additional functions and data\n\nTwo options to install packages:\n\ninstall.packages() or\nThe “Packages” tab in Files/Plots/Packages/Help/Viewer window\n\n\ninstall.packages(\"dplyr\")   # only do this ONCE, use quotes\n\n\nOnly install packages once (unless you want to update them)\nInstalled from Comprehensive R Archive Network (CRAN) = package mothership"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#video-on-installing-packages",
+    "href": "slides_code/Day02_bsta511_code.html#video-on-installing-packages",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Video on installing packages",
+    "text": "Video on installing packages\n\nDanielle Navarro’s YouTube video on Installing and loading R packages: https://www.youtube.com/watch?v=kpHZVyDvEhQ"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#load-packages-with-library-command",
+    "href": "slides_code/Day02_bsta511_code.html#load-packages-with-library-command",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Load packages with library() command",
+    "text": "Load packages with library() command\n\nTip: at the top of your Rmd file, create a chunk that loads all of the R packages you want to use in that file.\nUse the library() command to load each required package.\nPackages need to be reloaded every time you open Rstudio.\n\n\nlibrary(dplyr)    # run this every time you open Rstudio\n\n\nYou can use a function without loading the package with PackageName::CommandName\n\n\ndplyr::arrange(iris, Petal.Width)   # what does arrange do?\n\n    Sepal.Length Sepal.Width Petal.Length Petal.Width    Species\n1            4.9         3.1          1.5         0.1     setosa\n2            4.8         3.0          1.4         0.1     setosa\n3            4.3         3.0          1.1         0.1     setosa\n4            5.2         4.1          1.5         0.1     setosa\n5            4.9         3.6          1.4         0.1     setosa\n6            5.1         3.5          1.4         0.2     setosa\n7            4.9         3.0          1.4         0.2     setosa\n8            4.7         3.2          1.3         0.2     setosa\n9            4.6         3.1          1.5         0.2     setosa\n10           5.0         3.6          1.4         0.2     setosa\n11           5.0         3.4          1.5         0.2     setosa\n12           4.4         2.9          1.4         0.2     setosa\n13           5.4         3.7          1.5         0.2     setosa\n14           4.8         3.4          1.6         0.2     setosa\n15           5.8         4.0          1.2         0.2     setosa\n16           5.4         3.4          1.7         0.2     setosa\n17           4.6         3.6          1.0         0.2     setosa\n18           4.8         3.4          1.9         0.2     setosa\n19           5.0         3.0          1.6         0.2     setosa\n20           5.2         3.5          1.5         0.2     setosa\n21           5.2         3.4          1.4         0.2     setosa\n22           4.7         3.2          1.6         0.2     setosa\n23           4.8         3.1          1.6         0.2     setosa\n24           5.5         4.2          1.4         0.2     setosa\n25           4.9         3.1          1.5         0.2     setosa\n26           5.0         3.2          1.2         0.2     setosa\n27           5.5         3.5          1.3         0.2     setosa\n28           4.4         3.0          1.3         0.2     setosa\n29           5.1         3.4          1.5         0.2     setosa\n30           4.4         3.2          1.3         0.2     setosa\n31           5.1         3.8          1.6         0.2     setosa\n32           4.6         3.2          1.4         0.2     setosa\n33           5.3         3.7          1.5         0.2     setosa\n34           5.0         3.3          1.4         0.2     setosa\n35           4.6         3.4          1.4         0.3     setosa\n36           5.1         3.5          1.4         0.3     setosa\n37           5.7         3.8          1.7         0.3     setosa\n38           5.1         3.8          1.5         0.3     setosa\n39           5.0         3.5          1.3         0.3     setosa\n40           4.5         2.3          1.3         0.3     setosa\n41           4.8         3.0          1.4         0.3     setosa\n42           5.4         3.9          1.7         0.4     setosa\n43           5.7         4.4          1.5         0.4     setosa\n44           5.4         3.9          1.3         0.4     setosa\n45           5.1         3.7          1.5         0.4     setosa\n46           5.0         3.4          1.6         0.4     setosa\n47           5.4         3.4          1.5         0.4     setosa\n48           5.1         3.8          1.9         0.4     setosa\n49           5.1         3.3          1.7         0.5     setosa\n50           5.0         3.5          1.6         0.6     setosa\n51           4.9         2.4          3.3         1.0 versicolor\n52           5.0         2.0          3.5         1.0 versicolor\n53           6.0         2.2          4.0         1.0 versicolor\n54           5.8         2.7          4.1         1.0 versicolor\n55           5.7         2.6          3.5         1.0 versicolor\n56           5.5         2.4          3.7         1.0 versicolor\n57           5.0         2.3          3.3         1.0 versicolor\n58           5.6         2.5          3.9         1.1 versicolor\n59           5.5         2.4          3.8         1.1 versicolor\n60           5.1         2.5          3.0         1.1 versicolor\n61           6.1         2.8          4.7         1.2 versicolor\n62           5.8         2.7          3.9         1.2 versicolor\n63           5.5         2.6          4.4         1.2 versicolor\n64           5.8         2.6          4.0         1.2 versicolor\n65           5.7         3.0          4.2         1.2 versicolor\n66           5.5         2.3          4.0         1.3 versicolor\n67           5.7         2.8          4.5         1.3 versicolor\n68           6.6         2.9          4.6         1.3 versicolor\n69           5.6         2.9          3.6         1.3 versicolor\n70           6.1         2.8          4.0         1.3 versicolor\n71           6.4         2.9          4.3         1.3 versicolor\n72           6.3         2.3          4.4         1.3 versicolor\n73           5.6         3.0          4.1         1.3 versicolor\n74           5.5         2.5          4.0         1.3 versicolor\n75           5.6         2.7          4.2         1.3 versicolor\n76           5.7         2.9          4.2         1.3 versicolor\n77           6.2         2.9          4.3         1.3 versicolor\n78           5.7         2.8          4.1         1.3 versicolor\n79           7.0         3.2          4.7         1.4 versicolor\n80           5.2         2.7          3.9         1.4 versicolor\n81           6.1         2.9          4.7         1.4 versicolor\n82           6.7         3.1          4.4         1.4 versicolor\n83           6.6         3.0          4.4         1.4 versicolor\n84           6.8         2.8          4.8         1.4 versicolor\n85           6.1         3.0          4.6         1.4 versicolor\n86           6.1         2.6          5.6         1.4  virginica\n87           6.4         3.2          4.5         1.5 versicolor\n88           6.9         3.1          4.9         1.5 versicolor\n89           6.5         2.8          4.6         1.5 versicolor\n90           5.9         3.0          4.2         1.5 versicolor\n91           5.6         3.0          4.5         1.5 versicolor\n92           6.2         2.2          4.5         1.5 versicolor\n93           6.3         2.5          4.9         1.5 versicolor\n94           6.0         2.9          4.5         1.5 versicolor\n95           5.4         3.0          4.5         1.5 versicolor\n96           6.7         3.1          4.7         1.5 versicolor\n97           6.0         2.2          5.0         1.5  virginica\n98           6.3         2.8          5.1         1.5  virginica\n99           6.3         3.3          4.7         1.6 versicolor\n100          6.0         2.7          5.1         1.6 versicolor\n101          6.0         3.4          4.5         1.6 versicolor\n102          7.2         3.0          5.8         1.6  virginica\n103          6.7         3.0          5.0         1.7 versicolor\n104          4.9         2.5          4.5         1.7  virginica\n105          5.9         3.2          4.8         1.8 versicolor\n106          6.3         2.9          5.6         1.8  virginica\n107          7.3         2.9          6.3         1.8  virginica\n108          6.7         2.5          5.8         1.8  virginica\n109          6.5         3.0          5.5         1.8  virginica\n110          6.3         2.7          4.9         1.8  virginica\n111          7.2         3.2          6.0         1.8  virginica\n112          6.2         2.8          4.8         1.8  virginica\n113          6.1         3.0          4.9         1.8  virginica\n114          6.4         3.1          5.5         1.8  virginica\n115          6.0         3.0          4.8         1.8  virginica\n116          5.9         3.0          5.1         1.8  virginica\n117          5.8         2.7          5.1         1.9  virginica\n118          6.4         2.7          5.3         1.9  virginica\n119          7.4         2.8          6.1         1.9  virginica\n120          5.8         2.7          5.1         1.9  virginica\n121          6.3         2.5          5.0         1.9  virginica\n122          6.5         3.2          5.1         2.0  virginica\n123          5.7         2.5          5.0         2.0  virginica\n124          5.6         2.8          4.9         2.0  virginica\n125          7.7         2.8          6.7         2.0  virginica\n126          7.9         3.8          6.4         2.0  virginica\n127          6.5         3.0          5.2         2.0  virginica\n128          7.1         3.0          5.9         2.1  virginica\n129          7.6         3.0          6.6         2.1  virginica\n130          6.8         3.0          5.5         2.1  virginica\n131          6.7         3.3          5.7         2.1  virginica\n132          6.4         2.8          5.6         2.1  virginica\n133          6.9         3.1          5.4         2.1  virginica\n134          6.5         3.0          5.8         2.2  virginica\n135          7.7         3.8          6.7         2.2  virginica\n136          6.4         2.8          5.6         2.2  virginica\n137          6.4         3.2          5.3         2.3  virginica\n138          7.7         2.6          6.9         2.3  virginica\n139          6.9         3.2          5.7         2.3  virginica\n140          7.7         3.0          6.1         2.3  virginica\n141          6.9         3.1          5.1         2.3  virginica\n142          6.8         3.2          5.9         2.3  virginica\n143          6.7         3.0          5.2         2.3  virginica\n144          6.2         3.4          5.4         2.3  virginica\n145          5.8         2.8          5.1         2.4  virginica\n146          6.3         3.4          5.6         2.4  virginica\n147          6.7         3.1          5.6         2.4  virginica\n148          6.3         3.3          6.0         2.5  virginica\n149          7.2         3.6          6.1         2.5  virginica\n150          6.7         3.3          5.7         2.5  virginica"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#install-the-packages-listed-below-before-day-3",
+    "href": "slides_code/Day02_bsta511_code.html#install-the-packages-listed-below-before-day-3",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Install the packages listed below before Day 3",
+    "text": "Install the packages listed below before Day 3\n\nknitr\n\nthis might actually already be installed\ncheck your packages list\n\ntidyverse\n\nthis is actually a bundle of packages\nWarning: it will take a while to install!!!\nsee more info at https://tidyverse.tidyverse.org/\n\nrstatix\n\nfor summary statistics of a dataset\n\njanitor\n\nfor cleaning and exploring data\n\nggridges\n\nfor creating ridgeline plots\n\ndevtools\n\nused to create R packages\nfor our purposes, needed to install some packages\n\noi_biostat_data\n\nthis package is on github\nsee the next slide for directions on how to install oi_biostat_data"
+  },
+  {
+    "objectID": "slides_code/Day02_bsta511_code.html#directions-for-installing-package-oibiostat",
+    "href": "slides_code/Day02_bsta511_code.html#directions-for-installing-package-oibiostat",
+    "title": "Day 2: Data collection & numerical summaries",
+    "section": "Directions for installing package oibiostat",
+    "text": "Directions for installing package oibiostat\n\nThe textbook’s datasets are in the R package oibiostat\nExplanation of code below\n\nInstallation of oibiostat package requires first installing devtools package\nThe code devtools::install_github() tells R to use the command install_github() from the devtools package without loading the entire package and all of its commands (which library(devtools) would do).\n\n\n\ninstall.packages(\"devtools\")\ndevtools::install_github(\"OI-Biostat/oi_biostat_data\", force = TRUE)\n\n\nAfter running the code above, put # in front of the commands so that RStudio doesn’t evaluate them when rendering.\nNow load the oibiostat package\n\nthe code below needs to be run every time you restart R or knit an Rmd file\n\n\n\nlibrary(oibiostat)"
+  },
+  {
+    "objectID": "slides/Day04_bsta511.html",
+    "href": "slides/Day04_bsta511.html",
+    "title": "Day 3 (F23 Day 4): Probability Part 1",
+    "section": "",
+    "text": "Download slides\n\nUnable to display PDF file. Download instead."
   }
 ]

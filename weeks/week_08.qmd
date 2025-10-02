@@ -34,7 +34,7 @@ editor_options:
 
 ## Slides & Recordings
 
--   **Pre-recorded** lessons are on [Echo Cloud](https://echo360.org/section/4a58d645-5753-4e4f-b962-f8825f59baba/home) (aka echo 360 or echo video).
+-   **Pre-recorded** lessons are on [Echo Video](https://echo360.org/section/af47457c-bed2-48d7-84ae-eaa2d44f9add/home).
 
 | Day | Topic | Slides: html | Slides: pdf | Slides: web-page | Slides with notes | Recording Link | Duration | Code: qmd | Code: html |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
