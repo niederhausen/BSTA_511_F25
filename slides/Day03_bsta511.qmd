@@ -1,8 +1,9 @@
 ---
 title: "Day 3: Data visualization"
-subtitle: "BSTA 511/611 Fall 2024 Day 5, OHSU"
+subtitle: "BSTA 511/611 Fall 2025 Day 5, OHSU"
+pagetitle: "Day 3 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
-date: "10/16/2024"
+date: "10/15/2025"
 categories: ["Week 3"]
 format: 
   revealjs:
@@ -66,14 +67,6 @@ theme_set(theme_bw(base_size = 22))
 :::
 :::
 
-
-## International Day of Women in Statistics and Data Science 
-
-Tuesday, October 8, 2024
-
-12 am - 11:59 pm UTC (5pm 10/7 to 4:59 pm 10/8 here)
-
-![[International Day of Women in Statistics and Data Science](http://www.idwsds.org/)](/img_slides/IDWSDS-logo-large.png){fig-align="center"}
 
 
 ## Mimi's tip of the day: sending messages in Slack {.smaller}

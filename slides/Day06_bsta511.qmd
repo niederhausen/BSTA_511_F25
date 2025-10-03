@@ -1,8 +1,9 @@
 ---
 title: "Day 6: Random variables and Binomial distribution"
 subtitle: "BSTA 511/611, OHSU"
+pagetitle: "Day 6 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
-date: "10/21/2024"
+date: "10/20/2025"
 categories: ["Week 4"]
 format: 
   # revealjs:

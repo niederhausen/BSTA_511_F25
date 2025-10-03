@@ -1,8 +1,9 @@
 ---
 title: "Day 4 (F23 Day 5): Probability Part 2 - Bayes' Rule"
 subtitle: "BSTA 511/611, OHSU"
+pagetitle: "Day 4 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
-date: "10/14/2024"
+date: "10/13/2025"
 categories: ["Week 3"]
 format: 
   # revealjs:

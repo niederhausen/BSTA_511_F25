@@ -1,6 +1,7 @@
 ---
 title: "UNDER CONSTRUCTION: Week 3"
 description: "Bayes' Rule & EDA"
+pagetitle: "Week 3 BSTA 511/611"
 date: "10/14/2024"
 date-modified: "today"
 categories: [""]
@@ -99,7 +100,18 @@ During class you will be working in groups discussing the following:
 
 <!-- * Code file: [qmd](https://github.com/niederhausen/BSTA_511_F24/blob/main/slides_code/Day03_bsta511_code_part3_data_wrangling.qmd), [html](../slides_code/Day03_bsta511_code_part3_data_wrangling.qmd) -->
 
+
+
 ## Homework
 
 -   [HW 2](../homework/HW_2_F24_bsta511.qmd) due on Sat, 10/19
     -   See extra [Day 3 Part 3 slides](../slides_pdf/Day03_bsta511_part3_data_wrangling.pdf) (both pdf and code) in table above with slides & recording links.
+
+
+## International Day of Women in Statistics and Data Science 
+
+* Join the virtual & free conference for the [International Day of Women in Statistics and Data Science](http://www.idwsds.org/)
+* Tuesday, October 14, 2025
+    * 12 am - 11:59 pm UTC (5pm 10/13 to 4:59 pm 10/14 here)
+
+![](/img_slides/IDWSDS-logo-large.png){fig-align="center" height="150"}
