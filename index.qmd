@@ -71,11 +71,18 @@ Fall 2025
 {{< iconify fa6-solid calendar-days size=20px >}} __Mondays 3-4 pm__ (Meike)  
 {{< iconify fa6-solid person-chalkboard size=20px >}} VPT 660E
 
+{{< iconify fa6-solid calendar-days size=20px >}} __Wednesdays 12-1 pm__ (Madi)    
+<!-- <i class="fa-solid fa-globe"></i> -->
+{{< fa globe >}} Zoom (link on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F25))
+
+
 {{< iconify fa6-solid calendar-days size=20px >}} __Thursdays 4-5 pm__ (Meike)    
 <!-- <i class="fa-solid fa-globe"></i> -->
-{{< fa globe >}} Webex (link on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F24/))
+{{< fa globe >}} Webex (link on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F25))
 
-{{< iconify fa6-solid calendar-days size=20px >}} Madi's OH TBD
+{{< iconify fa6-solid calendar-days size=20px >}} __Fridays 12-1 pm__ (Madi)    
+<!-- <i class="fa-solid fa-globe"></i> -->
+{{< fa globe >}} Zoom (link on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F25))
 :::
 
 <!-- {{< iconify fa6-solid fluent-mdl2:join-online-meeting size=20px >}}  -->

@@ -76,7 +76,7 @@ During class you will be working in groups discussing the following:
 -   Summarizing Numerical Data (**Fall 2023: Day 2**)
     -   From HW 1
         -   Book problem: 1.31
-        -   R2: BRFSS - parts c)-e)
+        -   R2: BRFSS - parts c)-f)
 -   Probability (**Fall 2023: Day 4**)
     -   Example 2.3 on pg 4 of slides
     -   Example 2.6 parts (5)-(7) on pg 9 of slides
