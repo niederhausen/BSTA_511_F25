@@ -291,42 +291,42 @@
     "href": "weeks.html",
     "title": "Weekly Pages",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n10/14/24\n\n\nUNDER CONSTRUCTION: Week 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/21/24\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/28/24\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nVariability in estimates and Exam 1\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nWeek 2\n\n\nData collection & Probability\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n10/21/24\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/28/24\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nVariability in estimates and Exam 1\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nWeek 2\n\n\nData collection & Probability\n\n\n\n\n10/13/25\n\n\nWeek 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "weeks/week_03.html",
     "href": "weeks/week_03.html",
-    "title": "UNDER CONSTRUCTION: Week 3",
+    "title": "Week 3",
     "section": "",
-    "text": "Bayes’ Rule (Fall 2023: Day 5)\n\nSection 2.2.5\n\nR Packages (Fall 2023: Day 2)\n\n\n\n\nFall 2023: Day 3\n\nData visualization, exploratory data analysis (EDA), and summarizing categorical data\n\nSections 1.5-1.7 & supplementary material\nBelow I posted additional “Day 3 part 3” slides with extra data wrangling code. I refer to some of the slides in the homework assignment. You are welcome to go through all of the slides to learn some data wrangling techniques. We will be covering topics from these slides as needed throughout the quarter.\nBonus:\n\nExamples on dealing with overlapping labels in figures (Slides 65, 66, & 68 from BERD R intro workshop)\nCheck out Ted Laderas’s Better Plots presentation\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAs I mentioned in the recording, the various options in more complex figures I usually look up how to implement when I need them. I show them so that you are aware of some of the functionality and options one has in creating figures using the ggplot2 package. At the end of the slides, we cover how to create tables summarizing data, especially categorical data. This part has some very useful code and data wrangling in it."
+    "text": "Bayes’ Rule (Fall 2023: Day 5)\n\nSection 2.2.5\n\nR Packages (Fall 2023: Day 2)\nDay 4 Practice Problems\n\nTextbook: 2.18 Predisposition for thrombosis\n\n\n\n\n\n\n(Fall 2023: Day 3)\nData visualization, exploratory data analysis (EDA), and summarizing categorical data\n\nSections 1.5-1.7 & supplementary material\nBonus:\n\nExamples on dealing with overlapping labels in figures (Slides 65, 66, & 68 from BERD R intro workshop)\nCheck out Ted Laderas’s Better Plots presentation\n\n\nDay 5 Practice Problems\n\nTextbook:\n\n1.28 Mix-and-match\n1.36 Associations\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAs I mentioned in the recording, the various options in more complex figures I usually look up how to implement when I need them. I show them so that you are aware of some of the functionality and options one has in creating figures using the ggplot2 package. At the end of the slides, we cover how to create tables summarizing data, especially categorical data. This part has some very useful code and data wrangling in it."
   },
   {
     "objectID": "weeks/week_03.html#overview-of-week-3",
     "href": "weeks/week_03.html#overview-of-week-3",
-    "title": "UNDER CONSTRUCTION: Week 3",
+    "title": "Week 3",
     "section": "",
-    "text": "Bayes’ Rule (Fall 2023: Day 5)\n\nSection 2.2.5\n\nR Packages (Fall 2023: Day 2)\n\n\n\n\nFall 2023: Day 3\n\nData visualization, exploratory data analysis (EDA), and summarizing categorical data\n\nSections 1.5-1.7 & supplementary material\nBelow I posted additional “Day 3 part 3” slides with extra data wrangling code. I refer to some of the slides in the homework assignment. You are welcome to go through all of the slides to learn some data wrangling techniques. We will be covering topics from these slides as needed throughout the quarter.\nBonus:\n\nExamples on dealing with overlapping labels in figures (Slides 65, 66, & 68 from BERD R intro workshop)\nCheck out Ted Laderas’s Better Plots presentation\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAs I mentioned in the recording, the various options in more complex figures I usually look up how to implement when I need them. I show them so that you are aware of some of the functionality and options one has in creating figures using the ggplot2 package. At the end of the slides, we cover how to create tables summarizing data, especially categorical data. This part has some very useful code and data wrangling in it."
+    "text": "Bayes’ Rule (Fall 2023: Day 5)\n\nSection 2.2.5\n\nR Packages (Fall 2023: Day 2)\nDay 4 Practice Problems\n\nTextbook: 2.18 Predisposition for thrombosis\n\n\n\n\n\n\n(Fall 2023: Day 3)\nData visualization, exploratory data analysis (EDA), and summarizing categorical data\n\nSections 1.5-1.7 & supplementary material\nBonus:\n\nExamples on dealing with overlapping labels in figures (Slides 65, 66, & 68 from BERD R intro workshop)\nCheck out Ted Laderas’s Better Plots presentation\n\n\nDay 5 Practice Problems\n\nTextbook:\n\n1.28 Mix-and-match\n1.36 Associations\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAs I mentioned in the recording, the various options in more complex figures I usually look up how to implement when I need them. I show them so that you are aware of some of the functionality and options one has in creating figures using the ggplot2 package. At the end of the slides, we cover how to create tables summarizing data, especially categorical data. This part has some very useful code and data wrangling in it."
   },
   {
     "objectID": "weeks/week_03.html#slides-recordings",
     "href": "weeks/week_03.html#slides-recordings",
-    "title": "UNDER CONSTRUCTION: Week 3",
+    "title": "Week 3",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link (F23)\nDuration\nCode: qmd\nCode: html\n\n\n\n\n4\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 1-2\n\n\n\nDay 5 Part 1\n22 min\n\n\n\n\n\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 3-6\nsame\n\nsame\nDay 5 Part 2\n22 min\n\n\n\n\n\nR packages\nDay 2: slides 47-54\nsame\n\n\nDay 2 Part 4\n30 min\n\n\n\n\n5\nExploratory Data Analysis\nDay 3: slides 1-59\n\n\n\nDay 3\n1 hr 18 min"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides (F23): html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link (F23)\nDuration\nCode: qmd\nCode: html\n\n\n\n\n4\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 1-2\n\n\n\nDay 5 Part 1\n22 min\n\n\n\n\n\nBayes’ Rule (Book section 2.2.5)\nDay 5: slides 3-6\nsame\n\nsame\nDay 5 Part 2\n22 min\n\n\n\n\n\nR packages\nDay 2: slides 47-54\nsame\n\n\nDay 2 Part 4\n30 min\n\n\n\n\n5\nExploratory Data Analysis\nDay 3: slides 1-59\n\n\n\nDay 3\n1 hr 18 min\n\n\n\n\n\n*Extra data wrangling code\n\n\n\n\n\n\n\n\n\n\n\n\n* These are slides with extra data wrangling code, and I refer to some of the slides in the homework assignment. You are welcome to go through all of the slides to learn some data wrangling techniques, but are not required to do so. We will be covering topics from these slides as needed throughout the quarter."
   },
   {
     "objectID": "weeks/week_03.html#class-discussion",
     "href": "weeks/week_03.html#class-discussion",
-    "title": "UNDER CONSTRUCTION: Week 3",
+    "title": "Week 3",
     "section": "Class discussion",
-    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\n\nDay04\n\nR Packages (Fall 2023: Day 2)\n\nR packages: any difficulty installing packages?\n\nBayes’ Rule (Fall 2023: Day 5)\n\nExample 2.10 on pg 6 of slides\n\nFrom HW 2\n\nBook exercises\n\n2.24\n\nNon-book exercise\n\n\n\n\nDay05\n\nCan distribution shape and sample size be determined from a boxplot? (see slide 30)\nIs there evidence of ethnicity (Hispanic vs. White non-Hispanic) discrimination in DDS expenditures? Why or why not?\n\nSee Slides table above for Day 3 Part 2 slide deck (and code) that I presented in class\n\nFrom HW 2\n\nR1 & R2: NHANES - parts 1 & 2"
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 04\n\nPractice Problems\n\nTextbook: 2.18 Predisposition for thrombosis\n\nR Packages (Fall 2023: Day 2)\n\nR packages: Please let me know if you had any difficulty installing packages.\n\nBayes’ Rule (Fall 2023: Day 5)\n\nExample 2.10 on pg 6 of slides\n\nFrom HW 2\n\nNon-book exercise (this is an old exam question)\nBook exercises\n\n2.24\n\n\n\n\n\nDay 05\n\nPractice Problems\n\nTextbook:\n\n1.28 Mix-and-match\n1.36 Associations\n\n\nSlide 30: Can distribution shape and sample size be determined from a boxplot?\nSlide 58: Is there evidence of ethnicity (Hispanic vs. White non-Hispanic) discrimination in DDS expenditures? Why or why not?\nFrom HW 2\n\nR1 & R2: NHANES - parts 1 & 2"
   },
   {
     "objectID": "weeks/week_03.html#homework",
     "href": "weeks/week_03.html#homework",
-    "title": "UNDER CONSTRUCTION: Week 3",
+    "title": "Week 3",
     "section": "Homework",
-    "text": "Homework\n\nHW 2 due on Sat, 10/19\n\nSee extra Day 3 Part 3 slides (both pdf and code) in table above with slides & recording links."
+    "text": "Homework\n\nHW 2 due on Sat, 10/18\n\nSee extra data wrangling code\ns (both pdf and code) in table above with slides & recording links."
   },
   {
     "objectID": "weeks/week_04.html",
@@ -928,7 +928,7 @@
     "href": "homework.html",
     "title": "Assignments",
     "section": "",
-    "text": "Note\n\n\n\n\nBelow are links to homework assignments.\nThe dates in the Date column are due dates.\nSee the Grading rubric tab to the left for a description of how assignments will be graded.\n\n\n\n\nCheck out this spreadsheet for textbook typos.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n10/11/25\n\n\nHW 1: BSTA 511/611 F25\n\n\n\n\n\n\nNo matching items"
+    "text": "Note\n\n\n\n\nBelow are links to homework assignments.\nThe dates in the Date column are due dates.\nSee the Grading rubric tab to the left for a description of how assignments will be graded.\n\n\n\n\nCheck out this spreadsheet for textbook typos.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n10/11/25\n\n\nHW 1: BSTA 511/611 F25\n\n\n\n\n10/18/25\n\n\nHW 2: BSTA 511/611 F25\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homework_solutions.html",
@@ -2431,7 +2431,7 @@
   {
     "objectID": "weeks/week_03.html#international-day-of-women-in-statistics-and-data-science",
     "href": "weeks/week_03.html#international-day-of-women-in-statistics-and-data-science",
-    "title": "UNDER CONSTRUCTION: Week 3",
+    "title": "Week 3",
     "section": "International Day of Women in Statistics and Data Science",
     "text": "International Day of Women in Statistics and Data Science\n\nJoin the virtual & free conference for the International Day of Women in Statistics and Data Science\nTuesday, October 14, 2025\n\n12 am - 11:59 pm UTC (5pm 10/13 to 4:59 pm 10/14 here)"
   },
@@ -3218,5 +3218,607 @@
     "title": "Grading rubric",
     "section": "",
     "text": "Grading Rubric (10 pts max):\nThe following rubric will be used to grade homework assignments.\n\nAnswers: 5 pts\nDemonstrating process: 3 pts\nProviding context and relevance: 2 pts\n\nAnswers: 5 pts\n\n\n\n\n\n\n\n\n\n\n\n5 points\n4 points\n3 points\n2 points\n1 point\n0 points\n\n\nAnswers are correct with only a few minor errors\nAnswers are correct at least 90% of the time\nAnswers are usually correct (80-90%)\nAnswers are sometimes correct (60-80%)\nAnswers are generally incorrect (&lt;60%)\nAnswers are incorrect and no work was shown (demonstrating process has 0 pts)\n\n\n\nDemonstrating process: 3 pts\n\n\n\n\n\n\n\n\n\n3 points\n2 points\n1 point\n0 points\n\n\nAll relevant work is shown, including all steps for figuring out answers.\nR code and output are provided for every question for which R was used.\nRelevant work and steps for figuring out answers are generally provided but incomplete.\nR code and output are generally provided but incomplete for questions that use R.\nRelevant work and steps for figuring out answers are generally missing.\nR code and output are generally missing for questions that use R.\nNo relevant work is shown, including steps for figuring out answers.\nR code and output are not provided for questions for which R was used.\n\n\n\nProviding context and relevance: 2 pts\n\n\n\n\n\n\n\n\n2 points\n1 point\n0 points\n\n\nAnswers are given in complete sentences with all relevant information for the question as appropriate (context of research question, units, descriptive statistics, explanation of what data visualization is showing, confidence intervals, p-values, test- statistics, etc.), and interpretation of results.\nAnswers are given in complete sentences. Some relevant information may be provided, but much is missing. Context of research question only sometimes provided.\nAnswers are rarely given in complete sentences. Relevant information is not provided. Little to no context is provided."
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html",
+    "title": "Data wrangling - extra code",
+    "section": "",
+    "text": "library(tidyverse)\nlibrary(janitor)"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#load-dataset-dds.discr-from-package-oibiostat",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#load-dataset-dds.discr-from-package-oibiostat",
+    "title": "Data wrangling - extra code",
+    "section": "Load dataset dds.discr from package oibiostat",
+    "text": "Load dataset dds.discr from package oibiostat\n\nThe textbook’s datasets are in the R package oibiostat\nIf you haven’t already installed the package oibiostat, then first do so using directions in previous slide.\nLoad the oibiostat package and the dataset dds.discr\n\nthe code below needs to be run every time you restart R or knit an Rmd file\n\n\n\nlibrary(oibiostat)\ndata(\"dds.discr\")\n\n\nAfter loading the dataset dds.discr using data(\"dds.discr\"), you will see dds.discr in the Data list of the Environment window."
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#getting-to-know-the-dataset",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#getting-to-know-the-dataset",
+    "title": "Data wrangling - extra code",
+    "section": "Getting to know the dataset",
+    "text": "Getting to know the dataset\n\ndim(dds.discr)\n\n[1] 1000    6\n\nnames(dds.discr)\n\n[1] \"id\"           \"age.cohort\"   \"age\"          \"gender\"       \"expenditures\"\n[6] \"ethnicity\"   \n\nlength(unique(dds.discr$id)) # How many unique id's are there?\n\n[1] 1000"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#filter-rows-that-satisfy-specified-conditions",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#filter-rows-that-satisfy-specified-conditions",
+    "title": "Data wrangling - extra code",
+    "section": "filter() rows that satisfy specified conditions",
+    "text": "filter() rows that satisfy specified conditions\n\nfilter() to select rows\nfilter data based on rows\n\nmath: &gt;, &lt;, &gt;=, &lt;=\ndouble = for “is equal to”: ==\n!= (not equal)\n& (and)\n| (or)\nis.na() to filter based on missing values\n%in% to filter based on group membership\n! in front negates the statement, as in\n\n!is.na(age)\n!(ethnicity %in% c(\"Asian\",\"Black\"))\n\n\n\n# Note: the output from the command below is not being saved \n# since it's not being assigned to a variable using &lt;-\ndds.discr %&gt;% filter(age &gt; 90)   \n\n# A tibble: 4 × 6\n     id age.cohort   age gender expenditures ethnicity\n  &lt;int&gt; &lt;fct&gt;      &lt;int&gt; &lt;fct&gt;         &lt;int&gt; &lt;fct&gt;    \n1 19250 51+           94 Female        60871 Hispanic \n2 46726 51+           95 Male          55187 Hispanic \n3 55056 51+           95 Female        54680 Black    \n4 87737 51+           91 Male          54481 Asian    \n\n\n\n\nfilter() practice\nWhat do these commands do? Try them out:\n\ndds.discr %&gt;% filter(age &lt; 5)\ndds.discr %&gt;% filter(age/expenditures &lt; 0.5)    # can do math within filter command\ndds.discr %&gt;% filter((age &lt; 15) | (age &gt; 50))\n\n# simultaneously filter on multiple variables\ndds.discr %&gt;% filter(age &lt; 20, expenditures &gt; 1000, gender == \"Male\") \n\ndds.discr %&gt;% filter(id == 10210) # note the use of == instead of just =\ndds.discr %&gt;% filter(gender == \"Female\")\ndds.discr %&gt;% filter(!(age.cohort == \"51+\"))\ndds.discr %&gt;% filter(age.cohort %in% c(\"0-5\", \"6-12\"))\n\ndds.discr %&gt;% filter(is.na(age))\ndds.discr %&gt;% filter(!is.na(age))"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#subset-by-columns",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#subset-by-columns",
+    "title": "Data wrangling - extra code",
+    "section": "Subset by columns",
+    "text": "Subset by columns\n\nselect() to choose columns\n\nselect columns (variables)\nno quotes needed around variable names\ncan be used to rearrange columns\nuses special syntax that is flexible and has many options\n\n\ndds.discr %&gt;% select(id, expenditures, ethnicity)\n\n# A tibble: 1,000 × 3\n      id expenditures ethnicity         \n   &lt;int&gt;        &lt;int&gt; &lt;fct&gt;             \n 1 10210         2113 White not Hispanic\n 2 10409        41924 White not Hispanic\n 3 10486         1454 Hispanic          \n 4 10538         6400 Hispanic          \n 5 10568         4412 White not Hispanic\n 6 10690         4566 Hispanic          \n 7 10711         3915 White not Hispanic\n 8 10778         3873 Black             \n 9 10820         5021 White not Hispanic\n10 10823         2887 Hispanic          \n# ℹ 990 more rows\n\n\n\n\nColumn selection syntax options\nThere are many ways to select a set of variable names (columns):\n\nvar1:var20: all columns from var1 to var20\none_of(c(\"a\", \"b\", \"c\")): all columns with names in the specified character vector of names\nRemoving columns\n\n-var1: remove the columnvar1\n-(var1:var20): remove all columns from var1 to var20\n\nSelect by specifying text within column names\n\ncontains(\"date\"), contains(\"_\"): all variable names that contain the specified string of characters\nstarts_with(\"a\") or ends_with(\"last\"): all variable names that start or end with the specified string\n\n\nSee other examples in the data transformation cheatsheet.\n\n\nselect() practice\nWhich columns are selected & in what order using these commands?\nFirst guess and then try them out.\n\ndds.discr %&gt;% select(id:gender)\ndds.discr %&gt;% select(one_of(c(\"age\",\"expenditures\", \"notindata\")))\n\ndds.discr %&gt;% select(-age.cohort,-gender)\ndds.discr %&gt;% select(-(id:gender))\n\ndds.discr %&gt;% select(contains(\"age\"))\ndds.discr %&gt;% select(starts_with(\"a\"))\ndds.discr %&gt;% select(-contains(\"a\"))"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#relocate-to-change-order-of-columns",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#relocate-to-change-order-of-columns",
+    "title": "Data wrangling - extra code",
+    "section": "relocate() to change order of columns",
+    "text": "relocate() to change order of columns\n\nchange the order of columns in dataset\nspecified column names get put first,\n\nand unspecified column names after that in original order\n\nno quotes needed around variable names\nsimilar options as with select(),\n\nplus special ones such as .before and .after\n\n\n\ndds.discr %&gt;% relocate(age.cohort, ethnicity)\n\n# A tibble: 1,000 × 6\n   age.cohort ethnicity             id   age gender expenditures\n   &lt;fct&gt;      &lt;fct&gt;              &lt;int&gt; &lt;int&gt; &lt;fct&gt;         &lt;int&gt;\n 1 13-17      White not Hispanic 10210    17 Female         2113\n 2 22-50      White not Hispanic 10409    37 Male          41924\n 3 0-5        Hispanic           10486     3 Male           1454\n 4 18-21      Hispanic           10538    19 Female         6400\n 5 13-17      White not Hispanic 10568    13 Male           4412\n 6 13-17      Hispanic           10690    15 Female         4566\n 7 13-17      White not Hispanic 10711    13 Female         3915\n 8 13-17      Black              10778    17 Male           3873\n 9 13-17      White not Hispanic 10820    14 Female         5021\n10 13-17      Hispanic           10823    13 Male           2887\n# ℹ 990 more rows"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#relocate-practice",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#relocate-practice",
+    "title": "Data wrangling - extra code",
+    "section": "relocate() practice",
+    "text": "relocate() practice\nWhat order are the columns in using these commands?\nFirst guess and then try them out.\n\ndds.discr %&gt;% relocate(age:ethnicity)\n\ndds.discr %&gt;% relocate(where(is.numeric))\ndds.discr %&gt;% relocate(where(is.factor))\n# note: the next command doesn't do anything \n# since there are no character type variables in the dataset\ndds.discr %&gt;% relocate(where(is.character))\n\ndds.discr %&gt;% relocate(age,.before = ethnicity)\ndds.discr %&gt;% relocate(ethnicity, .after = age.cohort)\ndds.discr %&gt;% relocate(age, .after = last_col())"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#mutate",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#mutate",
+    "title": "Data wrangling - extra code",
+    "section": "mutate()",
+    "text": "mutate()\nUse mutate() to add new columns to a tibble * Many options in how to define new column of data\n\n# use = to define new a variable within mutate (not &lt;- or ==) \nnewdata &lt;- dds.discr %&gt;% \n  mutate(\n    log_expenditures = log(expenditures),\n    expend_per_yearage = expenditures / age)   \n\n\nnewdata %&gt;% select(id, age, expenditures, log_expenditures, expend_per_yearage)\n\n# A tibble: 1,000 × 5\n      id   age expenditures log_expenditures expend_per_yearage\n   &lt;int&gt; &lt;int&gt;        &lt;int&gt;            &lt;dbl&gt;              &lt;dbl&gt;\n 1 10210    17         2113             7.66               124.\n 2 10409    37        41924            10.6               1133.\n 3 10486     3         1454             7.28               485.\n 4 10538    19         6400             8.76               337.\n 5 10568    13         4412             8.39               339.\n 6 10690    15         4566             8.43               304.\n 7 10711    13         3915             8.27               301.\n 8 10778    17         3873             8.26               228.\n 9 10820    14         5021             8.52               359.\n10 10823    13         2887             7.97               222.\n# ℹ 990 more rows\n\n\n\nmutate() practice\nWhat do the following commands do?\nFirst guess and then try them out.\n\ndds.discr %&gt;% mutate(age_young = (age &lt; 18))\n\ndds.discr %&gt;% mutate(male = (gender == \"Male\"))\ndds.discr %&gt;% mutate(male = 1 * (gender == \"Male\"))"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#case_when-to-create-multi-valued-variables",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#case_when-to-create-multi-valued-variables",
+    "title": "Data wrangling - extra code",
+    "section": "case_when() to create multi-valued variables",
+    "text": "case_when() to create multi-valued variables\n\nExample: create age groups based off of the age variable\n\n\ndds.discr2 &lt;- dds.discr %&gt;%\n  mutate(\n    age_group = case_when(\n      age &lt; 6 ~ \"0 to 5\",               # condition ~ new_value\n      age &gt;= 6 & age &lt; 13 ~ \"6 to 12\",\n      age &gt;= 13 & age &lt; 18 ~ \"13 to 17\",\n      age &gt;= 18 & age &lt; 22 ~ \"18 to 21\",\n      age &gt;= 22 & age &lt; 51 ~ \"22 to 50\",\n      age &gt;= 51 ~ \"51 plus\")\n    )\n\ndds.discr2 %&gt;% select(age, age_group) %&gt;% head()\n\n# A tibble: 6 × 2\n    age age_group\n  &lt;int&gt; &lt;chr&gt;    \n1    17 13 to 17 \n2    37 22 to 50 \n3     3 0 to 5   \n4    19 18 to 21 \n5    13 13 to 17 \n6    15 13 to 17 \n\ndds.discr2 %&gt;% tabyl(age.cohort, age_group)\n\n age.cohort 0 to 5 13 to 17 18 to 21 22 to 50 51 plus 6 to 12\n        0-5     82        0        0        0       0       0\n       6-12      0        0        0        0       0     175\n      13-17      0      212        0        0       0       0\n      18-21      0        0      199        0       0       0\n      22-50      0        0        0      226       0       0\n        51+      0        0        0        0     106       0"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#wide-vs.-long-data",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#wide-vs.-long-data",
+    "title": "Data wrangling - extra code",
+    "section": "Wide vs. long data",
+    "text": "Wide vs. long data\n\nWide data has one row per individual,\n\nwith multiple columns for their repeated measurements\n\nLong data has multiple rows per individual,\n\nwith one column for the measurement variable and\nanother indicating from when/where the repeated measures are from"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#dds-example",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#dds-example",
+    "title": "Data wrangling - extra code",
+    "section": "DDS example",
+    "text": "DDS example\nMean expenditures by ethnicity and age cohort (from Day 3 slides)"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#example-wide-toy-dataset",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#example-wide-toy-dataset",
+    "title": "Data wrangling - extra code",
+    "section": "Example wide toy dataset",
+    "text": "Example wide toy dataset\nCopy and paste the code below into R to create this example dataset\n\nSBP_wide &lt;- tibble(id = letters[1:4],\n                     sex = c(\"F\", \"M\", \"M\", \"F\"),\n                     SBP_v1 = c(130, 120, 130, 119),\n                     SBP_v2 = c(110, 116, 136, 106),\n                     SBP_v3 = c(112, 122, 138, 118))\nSBP_wide\n\n# A tibble: 4 × 5\n  id    sex   SBP_v1 SBP_v2 SBP_v3\n  &lt;chr&gt; &lt;chr&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;\n1 a     F        130    110    112\n2 b     M        120    116    122\n3 c     M        130    136    138\n4 d     F        119    106    118\n\n\n\nWhat do you think the data in the table are measures of?\nHow can we tell the data are wide?"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#wide-to-long-pivot_longer",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#wide-to-long-pivot_longer",
+    "title": "Data wrangling - extra code",
+    "section": "Wide to long: pivot_longer()",
+    "text": "Wide to long: pivot_longer()\n\nSBP_wide\n\n# A tibble: 4 × 5\n  id    sex   SBP_v1 SBP_v2 SBP_v3\n  &lt;chr&gt; &lt;chr&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;\n1 a     F        130    110    112\n2 b     M        120    116    122\n3 c     M        130    136    138\n4 d     F        119    106    118\n\n\nFor pivot_longer we need to specify: - cols: which columns to make long - names_to: the name of the variable that will be created from the data stored in the column names - values_to: the name of the variable that will be created from the data stored in the cell values\n\nSBP_long &lt;- SBP_wide %&gt;% \n  pivot_longer(\n    cols=c(SBP_v1,SBP_v2,SBP_v3), \n    names_to = \"visit\", \n    values_to = \"SBP\")\nSBP_long\n\n# A tibble: 12 × 4\n   id    sex   visit    SBP\n   &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;  &lt;dbl&gt;\n 1 a     F     SBP_v1   130\n 2 a     F     SBP_v2   110\n 3 a     F     SBP_v3   112\n 4 b     M     SBP_v1   120\n 5 b     M     SBP_v2   116\n 6 b     M     SBP_v3   122\n 7 c     M     SBP_v1   130\n 8 c     M     SBP_v2   136\n 9 c     M     SBP_v3   138\n10 d     F     SBP_v1   119\n11 d     F     SBP_v2   106\n12 d     F     SBP_v3   118"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#long-to-wide-pivot_wider",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#long-to-wide-pivot_wider",
+    "title": "Data wrangling - extra code",
+    "section": "Long to wide: pivot_wider()",
+    "text": "Long to wide: pivot_wider()\n\nSBP_long\n\n# A tibble: 12 × 4\n   id    sex   visit    SBP\n   &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;  &lt;dbl&gt;\n 1 a     F     SBP_v1   130\n 2 a     F     SBP_v2   110\n 3 a     F     SBP_v3   112\n 4 b     M     SBP_v1   120\n 5 b     M     SBP_v2   116\n 6 b     M     SBP_v3   122\n 7 c     M     SBP_v1   130\n 8 c     M     SBP_v2   136\n 9 c     M     SBP_v3   138\n10 d     F     SBP_v1   119\n11 d     F     SBP_v2   106\n12 d     F     SBP_v3   118\n\n\nFor pivot_wider we need to specify: - names_from: which column contains the names for the new columns - values_from: which column contains the values that will fill in the cell values\n\nSBP_wide2 &lt;- SBP_long %&gt;% \n  pivot_wider(names_from = \"visit\", \n              values_from = \"SBP\")\nSBP_wide2\n\n# A tibble: 4 × 5\n  id    sex   SBP_v1 SBP_v2 SBP_v3\n  &lt;chr&gt; &lt;chr&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;\n1 a     F        130    110    112\n2 b     M        120    116    122\n3 c     M        130    136    138\n4 d     F        119    106    118\n\n\n\nClean up visit column in the long data (1/3)\n\nSBP_long\n\n# A tibble: 12 × 4\n   id    sex   visit    SBP\n   &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;  &lt;dbl&gt;\n 1 a     F     SBP_v1   130\n 2 a     F     SBP_v2   110\n 3 a     F     SBP_v3   112\n 4 b     M     SBP_v1   120\n 5 b     M     SBP_v2   116\n 6 b     M     SBP_v3   122\n 7 c     M     SBP_v1   130\n 8 c     M     SBP_v2   136\n 9 c     M     SBP_v3   138\n10 d     F     SBP_v1   119\n11 d     F     SBP_v2   106\n12 d     F     SBP_v3   118\n\n\nGoal: remove the string “SBP_” from the visit variable’s values.\nMethod #1: tidy the visit column after making the data long\nMethod #2: tidy the visit column while making the data long\n\n\nClean up visit column in the long data (2/3)\nMethod #1: tidy the visit column after making the data long\n\nSBP_long2 &lt;- SBP_long %&gt;% \n  mutate(\n    visit = str_replace(\n      visit,\n      pattern = \"SBP_\",\n      replacement = \"\")\n    ) \nSBP_long2\n\n# A tibble: 12 × 4\n   id    sex   visit   SBP\n   &lt;chr&gt; &lt;chr&gt; &lt;chr&gt; &lt;dbl&gt;\n 1 a     F     v1      130\n 2 a     F     v2      110\n 3 a     F     v3      112\n 4 b     M     v1      120\n 5 b     M     v2      116\n 6 b     M     v3      122\n 7 c     M     v1      130\n 8 c     M     v2      136\n 9 c     M     v3      138\n10 d     F     v1      119\n11 d     F     v2      106\n12 d     F     v3      118\n\n\n\n\nNote that mutate is replacing the existing visit column with new values\nIf I wanted to keep the original visit column instead of overwriting it, I would call the new column something else, such as visit_clean\nWithin str_replace(), double quotes need to be used around the characters specifying 1) the string of text to replace (\"SBP_\") and 2) what to replace the text with, where \"\" is used for no text\nCould instead use str_remove(): mutate(visit = str_remove(visit,\"SBP_\"))\n\n\n\nClean up visit column in the long data (3/3)\nMethod #2: tidy the visit column while making the data long\n\nSBP_long3 &lt;- SBP_wide %&gt;% \n pivot_longer(cols = c(SBP_v1, SBP_v2,SBP_v3), \n              names_to = \"visit\", \n              names_prefix = \"SBP_\", #&lt;&lt;\n              values_to = \"SBP\")\nSBP_long3\n\n# A tibble: 12 × 4\n   id    sex   visit   SBP\n   &lt;chr&gt; &lt;chr&gt; &lt;chr&gt; &lt;dbl&gt;\n 1 a     F     v1      130\n 2 a     F     v2      110\n 3 a     F     v3      112\n 4 b     M     v1      120\n 5 b     M     v2      116\n 6 b     M     v3      122\n 7 c     M     v1      130\n 8 c     M     v2      136\n 9 c     M     v3      138\n10 d     F     v1      119\n11 d     F     v2      106\n12 d     F     v3      118\n\n\nRemarks:\n\nNote the new parameter names_prefix specifying what the prefix is that needs to be stripped.\nMore complex pivot_longer() examples are shown at https://tidyr.tidyverse.org/articles/pivot.html\n(the end of the url is articles/pivot.html)"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#specifying-cols-in-pivot_longer",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#specifying-cols-in-pivot_longer",
+    "title": "Data wrangling - extra code",
+    "section": "Specifying cols in pivot_longer",
+    "text": "Specifying cols in pivot_longer\nIn the example creating SBP_long, the columns to make the tibble longer by were explicitly listed using cols=c(SBP_v1,SBP_v2,SBP_v3).\n\nSBP_long &lt;- SBP_wide %&gt;% \n pivot_longer(cols = c(SBP_v1, SBP_v2,SBP_v3), #&lt;&lt;\n              names_to = \"visit\", \n              values_to = \"SBP\")\nSBP_long\n\n# A tibble: 12 × 4\n   id    sex   visit    SBP\n   &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;  &lt;dbl&gt;\n 1 a     F     SBP_v1   130\n 2 a     F     SBP_v2   110\n 3 a     F     SBP_v3   112\n 4 b     M     SBP_v1   120\n 5 b     M     SBP_v2   116\n 6 b     M     SBP_v3   122\n 7 c     M     SBP_v1   130\n 8 c     M     SBP_v2   136\n 9 c     M     SBP_v3   138\n10 d     F     SBP_v1   119\n11 d     F     SBP_v2   106\n12 d     F     SBP_v3   118\n\n\nHowever, we can specify the columns in many different ways, just like with select():\n\ncols = c(SBP_v1:SBP_v3)\ncols = c(-id, -sex)\ncols = starts_wth(\"SBP\")\ncols = contains(\"SBP\")"
+  },
+  {
+    "objectID": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#notes-on-pivot_-commands",
+    "href": "slides_code/Day03_bsta511_code_part3_data_wrangling.html#notes-on-pivot_-commands",
+    "title": "Data wrangling - extra code",
+    "section": "Notes on pivot_*() commands",
+    "text": "Notes on pivot_*() commands\n\npivot_longer() and pivot_wider() are relatively new commands\npreviously we used gather() and spread(),\n\nwhich have different function parameters and are less intuitive to use\n\nif you search for help making data longer or wider,\n\nyou might still see references for gather() and spread()\n\nsee my workshop slides for gather() and spread() usage\nsee https://tidyr.tidyverse.org/articles/pivot.html for more pivot examples"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html",
+    "href": "homework/HW_2_F25_bsta511.html",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "",
+    "text": "Due 10/18/25\nDownload the .qmd file for this assignment from https://github.com/niederhausen/BSTA_511_F25/blob/main/homework/HW_2_F25_bsta511.qmd"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#graded-exercises",
+    "href": "homework/HW_2_F25_bsta511.html#graded-exercises",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "Graded exercises",
+    "text": "Graded exercises\nThe exercises listed below will be graded for this assignment. You are strongly encouraged to complete the entire assignment. You will receive feedback on exercises you turn in that are not being graded.\n\nBook exercises\n\n2.24\n\nNon-book exercise\nR exercises\n\nR1: NHANES - part 1\nR2: NHANES - part 2"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#directions",
+    "href": "homework/HW_2_F25_bsta511.html#directions",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "Directions",
+    "text": "Directions\n\n\n\n\n\n\nImportant\n\n\n\n\n* Starred exercises in the section Book exercises may be completed by hand (such as on paper or using a tablet) instead of using Quarto.\nIf you complete part of the assignment not using Quarto, you will be uploading 3 files on Sakai for this HW: qmd & html files for your R work, and a pdf with your written work.\nIf you are completing the homework on paper, you can use a scanning app, such as Adobe Scan, to create a pdf of your assignment.\nIf you decided to type the solutions to these exercises in this Quarto file, I highly recommend using LaTeX to format the equations.\n\nFor instructions on creating equations in the Visual editor, check out https://quarto.org/docs/get-started/authoring/rstudio.html#equations.\nYou can see examples of LaTeX formatting in the solutions to HW 1.\nAlso check out examples of LaTeX formatting for statistics created by recent biostats alumn Ariel Weingarten.\nIf you have difficulty rendering the LaTeX equations, I recommend installing and running the R package tinytex. See this website for instructions.\n\n\n\n\n\nPlease upload your homework to Sakai. Upload both your .qmd code file and the rendered .html file.\n\nUse the assignment .qmd file linked to above as a template for your own assignment.\n\nPlease always use the following naming convention for submitting your files:\n\nLastname_Firstname_HWx.qmd, such as Niederhausen_Meike_HW2.qmd\nLastname_Firstname_HWx.html, such as Niederhausen_Meike_HW2.html\n\nFor each question, make sure to show all of your work. This includes all code and resulting output in the html file to support your answers for exercises requiring work done in R (including any arithmetic calculations).\nFor each question, include a sentence summarizing the answer for that question in the context of the research question.\n\n\n\n\n\n\n\nTip\n\n\n\nIt is a good idea to try rendering your document from time to time as you go along! Note that rendering automatically saves your Qmd file and rendering frequently helps you catch your errors more quickly."
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#income-and-education-in-us-counties",
+    "href": "homework/HW_2_F25_bsta511.html#income-and-education-in-us-counties",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "1.24 Income and education in US counties",
+    "text": "1.24 Income and education in US counties"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#mix-and-match",
+    "href": "homework/HW_2_F25_bsta511.html#mix-and-match",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "1.28 Mix-and-match",
+    "text": "1.28 Mix-and-match"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#associations",
+    "href": "homework/HW_2_F25_bsta511.html#associations",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "1.36 Associations",
+    "text": "1.36 Associations"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#predisposition-for-thrombosis",
+    "href": "homework/HW_2_F25_bsta511.html#predisposition-for-thrombosis",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "* 2.18 Predisposition for thrombosis",
+    "text": "* 2.18 Predisposition for thrombosis"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#breast-cancer-and-age",
+    "href": "homework/HW_2_F25_bsta511.html#breast-cancer-and-age",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "* 2.24 Breast cancer and age",
+    "text": "* 2.24 Breast cancer and age"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#load-all-the-packages-you-need-below-here.",
+    "href": "homework/HW_2_F25_bsta511.html#load-all-the-packages-you-need-below-here.",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "!!! Load all the packages you need below here.",
+    "text": "!!! Load all the packages you need below here."
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#a-dimensions-and-columns",
+    "href": "homework/HW_2_F25_bsta511.html#a-dimensions-and-columns",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "a) Dimensions and columns",
+    "text": "a) Dimensions and columns\nWhat are the dimensions and column names of the dataset?"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#b-unique-id-identifiers",
+    "href": "homework/HW_2_F25_bsta511.html#b-unique-id-identifiers",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "b) Unique ID identifiers",
+    "text": "b) Unique ID identifiers\nHow many unique ID identifiers are in the dataset? Compare this to the number of rows in the dataset. What is the explanation for these two different numbers?"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#c-age-distributions",
+    "href": "homework/HW_2_F25_bsta511.html#c-age-distributions",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "c) Age distributions",
+    "text": "c) Age distributions\nUsing numerical and graphical summaries, describe the distribution of ages among study participants."
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#d-height-distributions",
+    "href": "homework/HW_2_F25_bsta511.html#d-height-distributions",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "d) Height distributions",
+    "text": "d) Height distributions\nUsing numerical and graphical summaries, describe the distribution of heights among study participants."
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#e-adult-height-age",
+    "href": "homework/HW_2_F25_bsta511.html#e-adult-height-age",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "e) Adult height age",
+    "text": "e) Adult height age\nInvestigate at which age people generally reach their adult height. Is it possible to do the same for weight; why or why not?\nUse whatever EDA tools you think are appropriate to answer this question."
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#f-poverty-variable",
+    "href": "homework/HW_2_F25_bsta511.html#f-poverty-variable",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "f) Poverty variable",
+    "text": "f) Poverty variable\nCalculate the median and interquartile range of the distribution of the variable Poverty. Write a sentence explaining the median and IQR in the context of these data."
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#a-heights-in-inches",
+    "href": "homework/HW_2_F25_bsta511.html#a-heights-in-inches",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "a) Heights in inches",
+    "text": "a) Heights in inches\nUse the mutate() command explained on Slide 23 (pdf pg 22) of the Day 3 Part 3 notes to create a new column (variable) in the NHANES dataset for the heights in inches. Then find the mean and standard deviation of the heights in inches. Note that 1 centimeter is approximately 0.3937 inches.\n\n\n\n\n\n\nTips\n\n\n\n\nColumn names cannot start with a number or symbol\nNames are case sensitive\nIt’s easier to work with column names that don’t have spaces in them. I usually use _ or . instead of spaces."
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#b-college-graduates",
+    "href": "homework/HW_2_F25_bsta511.html#b-college-graduates",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "b) College graduates",
+    "text": "b) College graduates\nWhat proportion of Americans at least 25 years of age are college graduates? Hint: First create a new dataset that is restricted to Americans at least 25 years old."
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#c-college-graduates-v2",
+    "href": "homework/HW_2_F25_bsta511.html#c-college-graduates-v2",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "c) College graduates v2",
+    "text": "c) College graduates v2\nWhat proportion of Americans at least 25 years of age with a high school degree are college graduates?"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#d-two-way-table",
+    "href": "homework/HW_2_F25_bsta511.html#d-two-way-table",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "d) Two-way table",
+    "text": "d) Two-way table\nConstruct a two-way table (contingency table), with PhysActive as the row variable and Diabetes as the column variable. Among participants who are not physically active, what proportion have diabetes? What proportion of physically active participants have diabetes?"
+  },
+  {
+    "objectID": "homework/HW_2_F25_bsta511.html#e-relative-risk",
+    "href": "homework/HW_2_F25_bsta511.html#e-relative-risk",
+    "title": "HW 2: BSTA 511/611 F25",
+    "section": "e) Relative Risk",
+    "text": "e) Relative Risk\nIn this context, relative risk is the ratio of the proportion of participants who have diabetes among those who are not physically active to the proportion of participants with diabetes among those physically active. Relative risks greater than 1 indicate that people who are not physically active seem to be at a higher risk for diabetes than physically active people. Calculate the relative risk of diabetes for the participants. From these calculations, is it possible to conclude that being physically active reduces one’s chance of becoming diabetic?"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html",
+    "href": "slides_md/Day03_bsta511_md.html",
+    "title": "Day 3: Data visualization",
+    "section": "",
+    "text": "Exploratory Data Analysis (EDA) (Sections 1.4, 1.5, 1.6, 1.7.1)\n\nData visualization with ggplot\n\nnumerical & categorical variables, and relationships between variables\n\nSummarizing numerical data\nFrequency (two-way) tables\n\nSome data wrangling techniques along the way\n\n\n\n\n\nArtwork by @allison_horst"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#goals-for-today",
+    "href": "slides_md/Day03_bsta511_md.html#goals-for-today",
+    "title": "Day 3: Data visualization",
+    "section": "",
+    "text": "Exploratory Data Analysis (EDA) (Sections 1.4, 1.5, 1.6, 1.7.1)\n\nData visualization with ggplot\n\nnumerical & categorical variables, and relationships between variables\n\nSummarizing numerical data\nFrequency (two-way) tables\n\nSome data wrangling techniques along the way\n\n\n\n\n\nArtwork by @allison_horst"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#international-day-of-women-in-statistics-and-data-science",
+    "href": "slides_md/Day03_bsta511_md.html#international-day-of-women-in-statistics-and-data-science",
+    "title": "Day 3: Data visualization",
+    "section": "International Day of Women in Statistics and Data Science",
+    "text": "International Day of Women in Statistics and Data Science\nTuesday, October 8, 2024\n12 am - 11:59 pm UTC (5pm 10/7 to 4:59 pm 10/8 here)\n\n\n\nInternational Day of Women in Statistics and Data Science"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#mimis-tip-of-the-day-sending-messages-in-slack",
+    "href": "slides_md/Day03_bsta511_md.html#mimis-tip-of-the-day-sending-messages-in-slack",
+    "title": "Day 3: Data visualization",
+    "section": "Mimi’s tip of the day: sending messages in Slack",
+    "text": "Mimi’s tip of the day: sending messages in Slack\n\n\nAre you frustrated that Slack sends a message when you press Enter? You can change that!"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#recap-of-last-time",
+    "href": "slides_md/Day03_bsta511_md.html#recap-of-last-time",
+    "title": "Day 3: Data visualization",
+    "section": "Recap of last time",
+    "text": "Recap of last time\n\n(1.3) Data collection principles\n\nPopulation vs. sample\nSampling methods\nExperiments vs. Observational studies\n\n(1.2) Intro to Data\n\nData types\n\nNumerical: discrete (integer in R), continuous (double or numeric in R)\nCategorical: ordinal, nominal\n\ncharacter or factor in R\n\n\nHow are data stored in R? data frames, tibbles\nWorking with data in R: dim(), nrow(), ncol(), names(), str(), summary(), head(), tail(), $\n\n(1.4) Summarizing numerical data\n\nmean(), median(), sd(), quantile()"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#from-last-time-install-the-pacakges-listed-below",
+    "href": "slides_md/Day03_bsta511_md.html#from-last-time-install-the-pacakges-listed-below",
+    "title": "Day 3: Data visualization",
+    "section": "From last time: Install the pacakges listed below",
+    "text": "From last time: Install the pacakges listed below\n\n\nknitr\n\nthis might actually already be installed\ncheck your packages list\n\ntidyverse\n\nthis is actually a bundle of packages\nWarning: it will take a while to install!!!\nsee more info at https://tidyverse.tidyverse.org/\n\nrstatix\n\nfor summary statistics of a dataset\n\njanitor\n\nfor cleaning and exploring data\n\nggridges\n\nfor creating ridgeline plots\n\ndevtools\n\nused to create R packages\nfor our purposes, needed to install some packages\n\noi_biostat_data\n\nthis package is on github\nsee the next slide for directions on how to install oi_biostat_data"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#directions-for-installing-package-oibiostat",
+    "href": "slides_md/Day03_bsta511_md.html#directions-for-installing-package-oibiostat",
+    "title": "Day 3: Data visualization",
+    "section": "Directions for installing package oibiostat",
+    "text": "Directions for installing package oibiostat\n\n\nThe textbook’s datasets are in the R package oibiostat\nExplanation of code below\n\nInstallation of oibiostat package requires first installing devtools package\nThe code devtools::install_github() tells R to use the command install_github() from the devtools package without loading the entire package and all of its commands (which library(devtools) would do).\n\n\n\n\ninstall.packages(\"devtools\")\ndevtools::install_github(\"OI-Biostat/oi_biostat_data\", force = TRUE)\n\n\n\nAfter running the code above, put # in front of the commands so that RStudio doesn’t evaluate them when rendering.\nNow load the oibiostat package\n\nthe code below needs to be run every time you restart R or render a Qmd file\n\n\n\n\nlibrary(oibiostat)"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#load-packages-with-library-command",
+    "href": "slides_md/Day03_bsta511_md.html#load-packages-with-library-command",
+    "title": "Day 3: Data visualization",
+    "section": "Load packages with library() command",
+    "text": "Load packages with library() command\n\n\nTip: at the top of your Qmd file, create a chunk that loads all of the R packages you want to use in that file.\nUse the library() command to load each required package.\n\nPackages need to be reloaded every time you open Rstudio.\nlibrary() commands to load needed packages must be in the Qmd file\n\n\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(ggridges)\nlibrary(janitor)\nlibrary(rstatix)\n\n\nAttaching package: 'rstatix'\n\n\nThe following object is masked from 'package:janitor':\n\n    make_clean_names\n\n\nThe following object is masked from 'package:stats':\n\n    filter\n\nlibrary(knitr)\nlibrary(gtsummary) # NEW!!\n\n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#case-study-description",
+    "href": "slides_md/Day03_bsta511_md.html#case-study-description",
+    "title": "Day 3: Data visualization",
+    "section": "Case Study Description",
+    "text": "Case Study Description\n\n\nIn the US, individuals with developmental disabilities typically receive services and support from state governments.\n\nCalifornia allocates funds to developmentally disabled residents through the Department of Developmental Services (DDS)\nRecipients of DDS funds are referred to as “consumers.”\n\nDataset dds.discr\n\nsample of 1,000 DDS consumers (out of a total of ~ 250,000)\ndata include age, gender, race/ethnicity, and annual DDS financial support per consumer\n\nPrevious research\n\nResearchers examined expenditures on consumers by ethnicity\nFound that the mean annual expenditure on Hispanics was less than that on White non-Hispanics.\n\nResult: an allegation of ethnic discrimination was brought against the California DDS.\nQuestion: Are the data sufficient evidence of ethnic discrimination?\nSee Section 1.7.1 in the textbook for more details"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#load-dds.discr-dataset-from-oibiostat-package",
+    "href": "slides_md/Day03_bsta511_md.html#load-dds.discr-dataset-from-oibiostat-package",
+    "title": "Day 3: Data visualization",
+    "section": "Load dds.discr dataset from oibiostat package",
+    "text": "Load dds.discr dataset from oibiostat package\n\n\nThe textbook’s datasets are in the R package oibiostat\nMake sure the oibiostat package is installed before running the code below.\nLoad the oibiostat package and the dataset dds.discr\n\nthe code below needs to be run every time you restart R or render a Qmd file\n\nlibrary(oibiostat)\ndata(\"dds.discr\")\n\n\nAfter loading the dataset dds.discr using data(\"dds.discr\"), you will see dds.discr in the Data list of the Environment window."
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#getting-to-know-the-dataset",
+    "href": "slides_md/Day03_bsta511_md.html#getting-to-know-the-dataset",
+    "title": "Day 3: Data visualization",
+    "section": "Getting to know the dataset",
+    "text": "Getting to know the dataset\n\ndim(dds.discr)\n\n[1] 1000    6\n\nnames(dds.discr)\n\n[1] \"id\"           \"age.cohort\"   \"age\"          \"gender\"       \"expenditures\"\n[6] \"ethnicity\"   \n\nlength(unique(dds.discr$id)) # How many unique id's are there?\n\n[1] 1000"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#str-structure",
+    "href": "slides_md/Day03_bsta511_md.html#str-structure",
+    "title": "Day 3: Data visualization",
+    "section": "str() structure",
+    "text": "str() structure\n\n\nWe previously used the base R structure command str() to get information about variable types in a dataset.\nNote this dataset is a tibble instead of a data.frame\n\n\n\nstr(dds.discr)      # base R\n\ntibble [1,000 × 6] (S3: tbl_df/tbl/data.frame)\n $ id          : int [1:1000] 10210 10409 10486 10538 10568 10690 10711 10778 10820 10823 ...\n $ age.cohort  : Factor w/ 6 levels \"0-5\",\"6-12\",\"13-17\",..: 3 5 1 4 3 3 3 3 3 3 ...\n $ age         : int [1:1000] 17 37 3 19 13 15 13 17 14 13 ...\n $ gender      : Factor w/ 2 levels \"Female\",\"Male\": 1 2 2 1 2 1 1 2 1 2 ...\n $ expenditures: int [1:1000] 2113 41924 1454 6400 4412 4566 3915 3873 5021 2887 ...\n $ ethnicity   : Factor w/ 8 levels \"American Indian\",..: 8 8 4 4 8 4 8 3 8 4 ...\n - attr(*, \"spec\")=\n  .. cols(\n  ..   ID = col_integer(),\n  ..   `Age Cohort` = col_character(),\n  ..   Age = col_integer(),\n  ..   Gender = col_character(),\n  ..   Expenditures = col_integer(),\n  ..   Ethnicity = col_character()\n  .. )"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#glimpse",
+    "href": "slides_md/Day03_bsta511_md.html#glimpse",
+    "title": "Day 3: Data visualization",
+    "section": "glimpse()",
+    "text": "glimpse()\n\nNew: glimpse()\n\nUse glimpse() from the tidyverse package (technically it’s from the dplyr package) to get information about variable types.\nglimpse() tends to have nicer output for tibbles than str()\n\n\n\nlibrary(tidyverse)\nglimpse(dds.discr)  # from tidyverse package (dplyr)\n\nRows: 1,000\nColumns: 6\n$ id           &lt;int&gt; 10210, 10409, 10486, 10538, 10568, 10690, 10711, 10778, 1…\n$ age.cohort   &lt;fct&gt; 13-17, 22-50, 0-5, 18-21, 13-17, 13-17, 13-17, 13-17, 13-…\n$ age          &lt;int&gt; 17, 37, 3, 19, 13, 15, 13, 17, 14, 13, 13, 14, 15, 17, 20…\n$ gender       &lt;fct&gt; Female, Male, Male, Female, Male, Female, Female, Male, F…\n$ expenditures &lt;int&gt; 2113, 41924, 1454, 6400, 4412, 4566, 3915, 3873, 5021, 28…\n$ ethnicity    &lt;fct&gt; White not Hispanic, White not Hispanic, Hispanic, Hispani…"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#summary",
+    "href": "slides_md/Day03_bsta511_md.html#summary",
+    "title": "Day 3: Data visualization",
+    "section": "summary()",
+    "text": "summary()\n\n\nWe previously used the base R structure command summary() to get summary information about variables\n\n\n\nsummary(dds.discr)      # base R\n\n       id        age.cohort       age          gender     expenditures  \n Min.   :10210   0-5  : 82   Min.   : 0.0   Female:503   Min.   :  222  \n 1st Qu.:31809   6-12 :175   1st Qu.:12.0   Male  :497   1st Qu.: 2899  \n Median :55384   13-17:212   Median :18.0                Median : 7026  \n Mean   :54663   18-21:199   Mean   :22.8                Mean   :18066  \n 3rd Qu.:76135   22-50:226   3rd Qu.:26.0                3rd Qu.:37713  \n Max.   :99898   51+  :106   Max.   :95.0                Max.   :75098  \n                                                                        \n              ethnicity  \n White not Hispanic:401  \n Hispanic          :376  \n Asian             :129  \n Black             : 59  \n Multi Race        : 26  \n American Indian   :  4  \n (Other)           :  5"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#tbl_summary-summary-table",
+    "href": "slides_md/Day03_bsta511_md.html#tbl_summary-summary-table",
+    "title": "Day 3: Data visualization",
+    "section": "tbl_summary(): summary table",
+    "text": "tbl_summary(): summary table\n\n\n\n\nNew: Use tbl_summary() from the gtsummary package to get summary information\n\n\n\n# library(gtsummary)\ntbl_summary(dds.discr)"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#what-data-variables-are-included-in-the-plot-below",
+    "href": "slides_md/Day03_bsta511_md.html#what-data-variables-are-included-in-the-plot-below",
+    "title": "Day 3: Data visualization",
+    "section": "What data (variables) are included in the plot below?",
+    "text": "What data (variables) are included in the plot below?"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#basics-of-a-ggplot",
+    "href": "slides_md/Day03_bsta511_md.html#basics-of-a-ggplot",
+    "title": "Day 3: Data visualization",
+    "section": "Basics of a ggplot",
+    "text": "Basics of a ggplot"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#grammar-of-ggplot2",
+    "href": "slides_md/Day03_bsta511_md.html#grammar-of-ggplot2",
+    "title": "Day 3: Data visualization",
+    "section": "Grammar of ggplot2",
+    "text": "Grammar of ggplot2\n\n\n\nKieran Healy"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#histograms",
+    "href": "slides_md/Day03_bsta511_md.html#histograms",
+    "title": "Day 3: Data visualization",
+    "section": "Histograms",
+    "text": "Histograms\nWhat is being measured on the vertical axes?\n\n\n\nggplot(data = dds.discr, \n       aes(x = age)) +\n  geom_histogram() \n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.\n\n\n\n\n\n\n\nggplot(data = dds.discr, \n       aes(x = expenditures)) +\n  geom_histogram() \n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`."
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#histograms-showing-proportions",
+    "href": "slides_md/Day03_bsta511_md.html#histograms-showing-proportions",
+    "title": "Day 3: Data visualization",
+    "section": "Histograms showing proportions",
+    "text": "Histograms showing proportions\n\n\n\nggplot(data = dds.discr, \n       aes(x = age)) +\n  geom_histogram(\n    aes(y = stat(density)))  \n\nWarning: `stat(density)` was deprecated in ggplot2 3.4.0.\nℹ Please use `after_stat(density)` instead.\n\n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.\n\n\n\n\n\n\n\nggplot(data = dds.discr, \n       aes(x = age)) +\n  geom_histogram(\n    aes(y = stat(density))) +  \n  scale_y_continuous(labels =   \n      scales::percent_format())  \n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`."
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#distribution-shapes",
+    "href": "slides_md/Day03_bsta511_md.html#distribution-shapes",
+    "title": "Day 3: Data visualization",
+    "section": "Distribution shapes",
+    "text": "Distribution shapes"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#density-plots",
+    "href": "slides_md/Day03_bsta511_md.html#density-plots",
+    "title": "Day 3: Data visualization",
+    "section": "Density plots",
+    "text": "Density plots\nWhat is being measured on the vertical axes?\n\n\n\nggplot(data = dds.discr, \n       aes(x = age)) +\n  geom_density() \n\n\n\n\n\n\nggplot(data = dds.discr, \n       aes(x = age)) +\n  geom_histogram() \n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`."
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#dot-plots",
+    "href": "slides_md/Day03_bsta511_md.html#dot-plots",
+    "title": "Day 3: Data visualization",
+    "section": "Dot plots",
+    "text": "Dot plots\n\n\nBetter for smaller samples\nWhat is being measured on the vertical axes?\n\n\n\n\n\nggplot(data = dds.discr, \n       aes(x = age)) +\n  geom_dotplot(binwidth =1) \n\n\n\n\n\n\nggplot(data = dds.discr, \n       aes(x = age)) +\n  geom_histogram(binwidth =1)"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#boxplots",
+    "href": "slides_md/Day03_bsta511_md.html#boxplots",
+    "title": "Day 3: Data visualization",
+    "section": "Boxplots",
+    "text": "Boxplots\n\n\n\nggplot(data = dds.discr, \n       aes(x = age)) + \n  geom_boxplot() \n\n\n\n\n\n\nggplot(data = dds.discr, \n       aes(y = age)) + \n  geom_boxplot()"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#boxplots-5-number-summary-visualization",
+    "href": "slides_md/Day03_bsta511_md.html#boxplots-5-number-summary-visualization",
+    "title": "Day 3: Data visualization",
+    "section": "Boxplots: 5 number summary visualization",
+    "text": "Boxplots: 5 number summary visualization\n\nNo outliers: \nWith outliers:"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#side-by-side-boxplots",
+    "href": "slides_md/Day03_bsta511_md.html#side-by-side-boxplots",
+    "title": "Day 3: Data visualization",
+    "section": "Side-by-side boxplots",
+    "text": "Side-by-side boxplots\n\n\n\nggplot(data = dds.discr, \n       aes(x = expenditures,\n           y = ethnicity)) + \n  geom_boxplot() + \n  labs(x = \"Annual Expenditures ($)\", \n       y = \"Race and ethnicity\")  \n\n\nCan you determine the following using boxplots?\n\ndistribution shape\nsample size"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#side-by-side-boxplots-with-data-points",
+    "href": "slides_md/Day03_bsta511_md.html#side-by-side-boxplots-with-data-points",
+    "title": "Day 3: Data visualization",
+    "section": "Side-by-side boxplots with data points",
+    "text": "Side-by-side boxplots with data points\n\n\n\nggplot(data = dds.discr, \n       aes(x = expenditures,\n           y = ethnicity)) + \n  geom_boxplot(color=\"darkgrey\") + \n  labs(x = \"Annual Expenditures ($)\",\n       y = \"Race and ethnicity\") +\n  geom_jitter(     \n    aes(color = ethnicity),      \n    alpha = 0.3,      \n    show.legend = FALSE,      \n    position = position_jitter(     \n      height = 0.4))      \n\n\nCan you determine the following using boxplots?\n\ndistribution shape\nsample size"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#density-plots-by-group",
+    "href": "slides_md/Day03_bsta511_md.html#density-plots-by-group",
+    "title": "Day 3: Data visualization",
+    "section": "Density plots by group",
+    "text": "Density plots by group\n\nggplot(data = dds.discr, \n       aes(x = expenditures,\n           color = ethnicity)) + \n  geom_density() + \n  labs(x = \"Annual Expenditures ($)\")"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#ridgeline-plot",
+    "href": "slides_md/Day03_bsta511_md.html#ridgeline-plot",
+    "title": "Day 3: Data visualization",
+    "section": "Ridgeline plot",
+    "text": "Ridgeline plot\n\n\n\n# library(ggridges)\nggplot(data = dds.discr,\n       aes(x = expenditures,\n           y = ethnicity,      \n           fill = ethnicity)      \n       ) + \n  geom_density_ridges(      \n    alpha = 0.3,      \n    show.legend = FALSE) +      \n  labs(x = \"Annual Expenditures ($)\",\n       y = \"Race and ethnicity\",\n       title =        \n\"Expenditures by race and \n       \\nethnicity\")       \n\n\n\n\nPicking joint bandwidth of 5520"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#transforming-data-1.4.5",
+    "href": "slides_md/Day03_bsta511_md.html#transforming-data-1.4.5",
+    "title": "Day 3: Data visualization",
+    "section": "Transforming data (1.4.5)",
+    "text": "Transforming data (1.4.5)\n\n\nWe sometimes apply a transformation to highly skewed data to make it more symmetric\nLog transformations are often used for skewed right data\n\n\n\n\nx = expenditures\n\nggplot(data = dds.discr, \n       aes(x = expenditures)) +  \n  geom_density() \n\n\n\n\n\nx = log(expenditures)\n\nggplot(data = dds.discr, \n       aes(x = log(expenditures))) +  \n  geom_density()"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#scatterplots",
+    "href": "slides_md/Day03_bsta511_md.html#scatterplots",
+    "title": "Day 3: Data visualization",
+    "section": "Scatterplots",
+    "text": "Scatterplots\n\n\n\nggplot(data = dds.discr, \n       aes(x = age,\n           y = expenditures)) + \n  geom_point() +       \n  labs(x = \"Age\",\n       y = \"Annual Expenditures ($)\") \n\n\nResponse vs. explanatory variables (Section 1.2.3)\n\nA response variable measures the outcome of interest in a study\nA study will typically examine whether the values of a response variable differ as values of an explanatory variable change\n\n\n\n\n\n\n\n\n\n\n\nDescribe the association between the variables"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#describing-associations-between-2-numerical-variables",
+    "href": "slides_md/Day03_bsta511_md.html#describing-associations-between-2-numerical-variables",
+    "title": "Day 3: Data visualization",
+    "section": "Describing associations between 2 numerical variables",
+    "text": "Describing associations between 2 numerical variables\n\n\n\nTwo variables \\(x\\) and \\(y\\) are\n\npositively associated if \\(y\\) increases as \\(x\\) increases.\nnegatively associated if \\(y\\) decreases as \\(x\\) increases.\nIf there is no association between the variables, then we say they are uncorrelated or independent.\n\n\n\n\n\n\n\n\n\n\n\n\nThe term “association” is a very general term.\n\nCan be used for numerical or categorical variables\nNot specifically referring to linear associations"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#pearson-correlation-coefficient-r",
+    "href": "slides_md/Day03_bsta511_md.html#pearson-correlation-coefficient-r",
+    "title": "Day 3: Data visualization",
+    "section": "(Pearson) Correlation coefficient \\(r\\)",
+    "text": "(Pearson) Correlation coefficient \\(r\\)\n\n\n\\(r = -1\\) indicates a perfect negative linear relationship: As one variable increases, the value of the other variable tends to go down, following a straight line.\n\\(r = 0\\) indicates no linear relationship: The values of both variables go up/down independently of each other.\n\\(r = 1\\) indicates a perfect positive linear relationship: As the value of one variable goes up, the value of the other variable tends to go up as well in a linear fashion.\nThe closer \\(r\\) is to ±1, the stronger the linear association."
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#pearson-correlation-coefficient-r-formula",
+    "href": "slides_md/Day03_bsta511_md.html#pearson-correlation-coefficient-r-formula",
+    "title": "Day 3: Data visualization",
+    "section": "(Pearson) Correlation coefficient (r): formula",
+    "text": "(Pearson) Correlation coefficient (r): formula\n\nThe (Peasron) correlation coefficient of variables \\(x\\) and \\(y\\) can be computed using the formula \\[r = \\frac{1}{n-1}\\sum_{i=1}^{n}\\Big(\\frac{x_i - \\bar{x}}{s_x}\\Big)\\Big(\\frac{y_i - \\bar{y}}{s_y}\\Big)\\] where\n\n\\((x_1,y_1),(x_2,y_2),...,(x_n,y_n)\\) are the \\(n\\) paired values of the variables \\(x\\) and \\(y\\)\n\\(s_x\\) and \\(s_y\\) are the sample standard deviations of the variables \\(x\\) and \\(y\\), respectively\n\n\n\ncor(dds.discr$age, dds.discr$expenditures)\n\n[1] 0.8432422"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#guess-the-correlation-game",
+    "href": "slides_md/Day03_bsta511_md.html#guess-the-correlation-game",
+    "title": "Day 3: Data visualization",
+    "section": "Guess the correlation game!",
+    "text": "Guess the correlation game!\n\n\n\nRossman & Chance’s applet\n\n\n\n\n\nTracks performance of guess vs. actual, error vs. actual, and error vs. trial\nhttp://www.rossmanchance.com/applets/GuessCorrelation.html\n\nOr, for the Atari-like experience\n\n\n\nhttp://guessthecorrelation.com/"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#scatterplots-with-color-coded-dots",
+    "href": "slides_md/Day03_bsta511_md.html#scatterplots-with-color-coded-dots",
+    "title": "Day 3: Data visualization",
+    "section": "Scatterplots with color-coded dots",
+    "text": "Scatterplots with color-coded dots\nDescribe the association between the variables\n\nggplot(data = dds.discr, \n       aes(x = age, y = expenditures,\n           color = ethnicity)) +   \n  geom_point(alpha = .5) +       \n  labs(x = \"Age\", y = \"Annual Expenditures ($)\") +\n  theme(legend.position = \"bottom\")"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#barplots",
+    "href": "slides_md/Day03_bsta511_md.html#barplots",
+    "title": "Day 3: Data visualization",
+    "section": "Barplots",
+    "text": "Barplots\n\n\n\nCounts (below) vs.\npercentages (right)\n\n\nggplot(data = dds.discr, \n       aes(x = ethnicity)) +\n  geom_bar() \n\n\n\n\n\n\nggplot(data = dds.discr, \n       aes(x = ethnicity)) +\n  geom_bar(aes(y = stat(prop),  \n               group = 1)) + \n  scale_y_continuous(labels =  \n      scales::percent_format())"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#barplots-with-2-variables-segmented-bar-plots",
+    "href": "slides_md/Day03_bsta511_md.html#barplots-with-2-variables-segmented-bar-plots",
+    "title": "Day 3: Data visualization",
+    "section": "Barplots with 2 variables: segmented bar plots",
+    "text": "Barplots with 2 variables: segmented bar plots\n\n\n\nggplot(data = dds.discr, \n       aes(x = ethnicity,\n           fill = age.cohort)) + \n  geom_bar() \n\n\n\n\n\n\nggplot(data = dds.discr, \n       aes(x = ethnicity,\n           fill = age.cohort)) + \n  geom_bar(position = \"fill\")"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#barplots-with-2-variables-side-by-side-bar-plots",
+    "href": "slides_md/Day03_bsta511_md.html#barplots-with-2-variables-side-by-side-bar-plots",
+    "title": "Day 3: Data visualization",
+    "section": "Barplots with 2 variables: side-by-side bar plots",
+    "text": "Barplots with 2 variables: side-by-side bar plots\n\nggplot(data = dds.discr, \n       aes(x = ethnicity,\n           fill = age.cohort)) + \n  geom_bar(position = \"dodge\")"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#frequency-tables-count",
+    "href": "slides_md/Day03_bsta511_md.html#frequency-tables-count",
+    "title": "Day 3: Data visualization",
+    "section": "Frequency tables: count()",
+    "text": "Frequency tables: count()\n\n\n\n\ncount is from the dplyr package\nthe output is a long tibble, and not a “nice” table\n\n\n\ndds.discr %&gt;% count(ethnicity)\n\n# A tibble: 8 × 2\n  ethnicity              n\n  &lt;fct&gt;              &lt;int&gt;\n1 American Indian        4\n2 Asian                129\n3 Black                 59\n4 Hispanic             376\n5 Multi Race            26\n6 Native Hawaiian        3\n7 Other                  2\n8 White not Hispanic   401\n\n\n\n\ndds.discr %&gt;% \n  count(ethnicity, age.cohort)\n\n# A tibble: 35 × 3\n   ethnicity       age.cohort     n\n   &lt;fct&gt;           &lt;fct&gt;      &lt;int&gt;\n 1 American Indian 13-17          1\n 2 American Indian 22-50          1\n 3 American Indian 51+            2\n 4 Asian           0-5            8\n 5 Asian           6-12          18\n 6 Asian           13-17         20\n 7 Asian           18-21         41\n 8 Asian           22-50         29\n 9 Asian           51+           13\n10 Black           0-5            3\n# ℹ 25 more rows"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#how-to-use-the-pipe",
+    "href": "slides_md/Day03_bsta511_md.html#how-to-use-the-pipe",
+    "title": "Day 3: Data visualization",
+    "section": "How to use the pipe %>%",
+    "text": "How to use the pipe %&gt;%\n\nThe pipe operator %&gt;% strings together commands to be performed sequentially\n\n\ndds.discr %&gt;% head(n=3)      # pronounce %&gt;% as \"then\"\n\n# A tibble: 3 × 6\n     id age.cohort   age gender expenditures ethnicity         \n  &lt;int&gt; &lt;fct&gt;      &lt;int&gt; &lt;fct&gt;         &lt;int&gt; &lt;fct&gt;             \n1 10210 13-17         17 Female         2113 White not Hispanic\n2 10409 22-50         37 Male          41924 White not Hispanic\n3 10486 0-5            3 Male           1454 Hispanic          \n\n\n\n\nAlways first list the tibble that the commands are being applied to\nCan use multiple pipes to run multiple commands in sequence\n\nWhat does the following code do?\n\n\n\n\ndds.discr %&gt;% head(n=3) %&gt;% summary()"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#frequency-tables-janitor-packages-tabyl-function",
+    "href": "slides_md/Day03_bsta511_md.html#frequency-tables-janitor-packages-tabyl-function",
+    "title": "Day 3: Data visualization",
+    "section": "Frequency tables: janitor package’s tabyl function",
+    "text": "Frequency tables: janitor package’s tabyl function\n\n\n\n# default table\ndds.discr %&gt;% \n  tabyl(ethnicity)  \n\n          ethnicity   n percent\n    American Indian   4   0.004\n              Asian 129   0.129\n              Black  59   0.059\n           Hispanic 376   0.376\n         Multi Race  26   0.026\n    Native Hawaiian   3   0.003\n              Other   2   0.002\n White not Hispanic 401   0.401\n\n\n\nadorn_ your table!\n\ndds.discr %&gt;% \n  tabyl(ethnicity) %&gt;%\n  adorn_totals(\"row\") %&gt;% \n  adorn_pct_formatting(digits=2)  \n\n          ethnicity    n percent\n    American Indian    4   0.40%\n              Asian  129  12.90%\n              Black   59   5.90%\n           Hispanic  376  37.60%\n         Multi Race   26   2.60%\n    Native Hawaiian    3   0.30%\n              Other    2   0.20%\n White not Hispanic  401  40.10%\n              Total 1000 100.00%"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#relative-frequency-table",
+    "href": "slides_md/Day03_bsta511_md.html#relative-frequency-table",
+    "title": "Day 3: Data visualization",
+    "section": "Relative frequency table",
+    "text": "Relative frequency table\n\n\n\n\nA relative frequency table shows proportions (or percentages) instead of counts\nTo the right I removed (deselected) the counts column (n) to create a relative frequency table\n\n\n\n\ndds.discr %&gt;% \n  tabyl(ethnicity) %&gt;%\n  adorn_totals(\"row\") %&gt;% \n  adorn_pct_formatting(digits=2) %&gt;%   \n  select(-n) \n\n          ethnicity percent\n    American Indian   0.40%\n              Asian  12.90%\n              Black   5.90%\n           Hispanic  37.60%\n         Multi Race   2.60%\n    Native Hawaiian   0.30%\n              Other   0.20%\n White not Hispanic  40.10%\n              Total 100.00%"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#contingency-tables-two-way-tables",
+    "href": "slides_md/Day03_bsta511_md.html#contingency-tables-two-way-tables",
+    "title": "Day 3: Data visualization",
+    "section": "Contingency tables (two-way tables)",
+    "text": "Contingency tables (two-way tables)\n\n\n\n\nContingency tables summarize data for two categorical variables\n\nwith each value in the table representing the number of times\na particular combination of outcomes occurs\n\nRow & column totals\nare sometimes called marginal totals\n\n\n\n\ndds.discr %&gt;% \n  tabyl(ethnicity, gender) %&gt;%    \n  adorn_totals(c(\"row\", \"col\"))    \n\n          ethnicity Female Male Total\n    American Indian      3    1     4\n              Asian     61   68   129\n              Black     26   33    59\n           Hispanic    192  184   376\n         Multi Race     13   13    26\n    Native Hawaiian      2    1     3\n              Other      1    1     2\n White not Hispanic    205  196   401\n              Total    503  497  1000"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#contingency-tables-with-percentages",
+    "href": "slides_md/Day03_bsta511_md.html#contingency-tables-with-percentages",
+    "title": "Day 3: Data visualization",
+    "section": "Contingency tables with percentages",
+    "text": "Contingency tables with percentages\n\ndds.discr %&gt;% \n  tabyl(ethnicity, age.cohort) %&gt;%\n  adorn_totals(c(\"row\")) %&gt;%\n  adorn_percentages(\"row\") %&gt;%   \n  adorn_pct_formatting(digits=0) %&gt;%    \n  adorn_ns()    \n\n          ethnicity      0-5      6-12      13-17     18-21     22-50       51+\n    American Indian  0%  (0)  0%   (0)  25%   (1)  0%   (0) 25%   (1) 50%   (2)\n              Asian  6%  (8) 14%  (18)  16%  (20) 32%  (41) 22%  (29) 10%  (13)\n              Black  5%  (3) 19%  (11)  20%  (12) 15%   (9) 29%  (17) 12%   (7)\n           Hispanic 12% (44) 24%  (91)  27% (103) 21%  (78) 11%  (43)  5%  (17)\n         Multi Race 27%  (7) 35%   (9)  27%   (7)  8%   (2)  4%   (1)  0%   (0)\n    Native Hawaiian  0%  (0)  0%   (0)   0%   (0)  0%   (0) 67%   (2) 33%   (1)\n              Other  0%  (0)  0%   (0) 100%   (2)  0%   (0)  0%   (0)  0%   (0)\n White not Hispanic  5% (20) 11%  (46)  17%  (67) 17%  (69) 33% (133) 16%  (66)\n              Total  8% (82) 18% (175)  21% (212) 20% (199) 23% (226) 11% (106)"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#mean-annual-dds-expenditures-by-raceethnicity",
+    "href": "slides_md/Day03_bsta511_md.html#mean-annual-dds-expenditures-by-raceethnicity",
+    "title": "Day 3: Data visualization",
+    "section": "Mean annual DDS expenditures by race/ethnicity",
+    "text": "Mean annual DDS expenditures by race/ethnicity\n\n\n\nmean(dds.discr$expenditures)\n\n[1] 18065.79\n\ndds.discr %&gt;% \n  summarize(\n    ave = mean(expenditures),\n    SD = sd(expenditures),\n    med = median(expenditures))\n\n# A tibble: 1 × 3\n     ave     SD   med\n   &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt;\n1 18066. 19543.  7026\n\n\n\n\ndds.discr %&gt;% \n  group_by(ethnicity) %&gt;% \n  summarize(\n    ave = mean(expenditures),\n    SD = sd(expenditures),\n    med = median(expenditures))\n\n# A tibble: 8 × 4\n  ethnicity             ave     SD    med\n  &lt;fct&gt;               &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;\n1 American Indian    36438. 25694. 41818.\n2 Asian              18392. 19209.  9369 \n3 Black              20885. 20549.  8687 \n4 Hispanic           11066. 15630.  3952 \n5 Multi Race          4457.  7332.  2622 \n6 Native Hawaiian    42782.  6576. 40727 \n7 Other               3316.  1836.  3316.\n8 White not Hispanic 24698. 20604. 15718"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#get_summary_stats-from-rstatix-package",
+    "href": "slides_md/Day03_bsta511_md.html#get_summary_stats-from-rstatix-package",
+    "title": "Day 3: Data visualization",
+    "section": "get_summary_stats() from rstatix package",
+    "text": "get_summary_stats() from rstatix package\n\ndds.discr %&gt;% get_summary_stats()\n\n# A tibble: 3 × 13\n  variable         n   min   max median     q1     q3   iqr    mad   mean     sd\n  &lt;fct&gt;        &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;\n1 id            1000 10210 99898 55384. 31809. 76135. 44326 3.27e4 5.47e4 2.56e4\n2 age           1000     0    95    18     12     26     14 1.04e1 2.28e1 1.85e1\n3 expenditures  1000   222 75098  7026   2899. 37713. 34814 7.76e3 1.81e4 1.95e4\n# ℹ 2 more variables: se &lt;dbl&gt;, ci &lt;dbl&gt;\n\ndds.discr %&gt;% \n  group_by(ethnicity) %&gt;%\n  get_summary_stats(expenditures, type = \"common\")\n\n# A tibble: 8 × 11\n  ethnicity variable     n   min   max median    iqr   mean     sd     se     ci\n  &lt;fct&gt;     &lt;fct&gt;    &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;\n1 American… expendi…     4  3726 58392 41818. 34085. 36438. 25694. 12847. 40885.\n2 Asian     expendi…   129   374 75098  9369  30892  18392. 19209.  1691.  3346.\n3 Black     expendi…    59   240 60808  8687  37987  20885. 20549.  2675.  5355.\n4 Hispanic  expendi…   376   222 65581  3952   7961. 11066. 15630.   806.  1585.\n5 Multi Ra… expendi…    26   669 38619  2622   2060.  4457.  7332.  1438.  2962.\n6 Native H… expendi…     3 37479 50141 40727   6331  42782.  6576.  3797. 16337.\n7 Other     expendi…     2  2018  4615  3316.  1298.  3316.  1836.  1298. 16499.\n8 White no… expendi…   401   340 68890 15718  39157  24698. 20604.  1029.  2023."
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#how-to-force-all-output-to-be-shown-12",
+    "href": "slides_md/Day03_bsta511_md.html#how-to-force-all-output-to-be-shown-12",
+    "title": "Day 3: Data visualization",
+    "section": "How to force all output to be shown? (1/2)",
+    "text": "How to force all output to be shown? (1/2)\nUse kable() from the knitr package.\n\ndds.discr %&gt;% get_summary_stats() %&gt;% kable()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvariable\nn\nmin\nmax\nmedian\nq1\nq3\niqr\nmad\nmean\nsd\nse\nci\n\n\n\n\nid\n1000\n10210\n99898\n55384.5\n31808.75\n76134.75\n44326\n32734.325\n54662.85\n25643.673\n810.924\n1591.310\n\n\nage\n1000\n0\n95\n18.0\n12.00\n26.00\n14\n10.378\n22.80\n18.462\n0.584\n1.146\n\n\nexpenditures\n1000\n222\n75098\n7026.0\n2898.75\n37712.75\n34814\n7760.670\n18065.79\n19542.831\n617.999\n1212.724"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#how-to-force-all-output-to-be-shown-knitr-22",
+    "href": "slides_md/Day03_bsta511_md.html#how-to-force-all-output-to-be-shown-knitr-22",
+    "title": "Day 3: Data visualization",
+    "section": "How to force all output to be shown? knitr (2/2)",
+    "text": "How to force all output to be shown? knitr (2/2)\nUse kable() from the knitr package.\n\ndds.discr %&gt;% \n  group_by(ethnicity) %&gt;%\n  get_summary_stats(expenditures, type = \"common\") %&gt;% \n  kable()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nethnicity\nvariable\nn\nmin\nmax\nmedian\niqr\nmean\nsd\nse\nci\n\n\n\n\nAmerican Indian\nexpenditures\n4\n3726\n58392\n41817.5\n34085.25\n36438.250\n25693.912\n12846.956\n40884.748\n\n\nAsian\nexpenditures\n129\n374\n75098\n9369.0\n30892.00\n18392.372\n19209.225\n1691.278\n3346.482\n\n\nBlack\nexpenditures\n59\n240\n60808\n8687.0\n37987.00\n20884.593\n20549.274\n2675.288\n5355.170\n\n\nHispanic\nexpenditures\n376\n222\n65581\n3952.0\n7961.25\n11065.569\n15629.847\n806.048\n1584.940\n\n\nMulti Race\nexpenditures\n26\n669\n38619\n2622.0\n2059.75\n4456.731\n7332.135\n1437.950\n2961.514\n\n\nNative Hawaiian\nexpenditures\n3\n37479\n50141\n40727.0\n6331.00\n42782.333\n6576.462\n3796.922\n16336.838\n\n\nOther\nexpenditures\n2\n2018\n4615\n3316.5\n1298.50\n3316.500\n1836.356\n1298.500\n16499.007\n\n\nWhite not Hispanic\nexpenditures\n401\n340\n68890\n15718.0\n39157.00\n24697.549\n20604.376\n1028.933\n2022.793"
+  },
+  {
+    "objectID": "slides_md/Day03_bsta511_md.html#case-study-discrimination-in-developmental-disability-support-1.7.1",
+    "href": "slides_md/Day03_bsta511_md.html#case-study-discrimination-in-developmental-disability-support-1.7.1",
+    "title": "Day 3: Data visualization",
+    "section": "Case study: discrimination in developmental disability support (1.7.1)",
+    "text": "Case study: discrimination in developmental disability support (1.7.1)\n\nPrevious research\n\nResearchers examined DDS expenditures for developmentally disabled residents by ethnicity\nFound that the mean annual expenditures on Hispanics was less than that on White non-Hispanics.\n\nResult: an allegation of ethnic discrimination was brought against the California DDS.\nQuestion: Are the data sufficient evidence of ethnic discrimination?"
   }
 ]

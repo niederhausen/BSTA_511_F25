@@ -1,8 +1,8 @@
 ---
-title: "Day 3 Part 3 code: Data wrangling"
-subtitle: "BSTA 511/611 Fall 2024 Day 5, OHSU"
+title: "Data wrangling - extra code"
+subtitle: "BSTA 511/611 Fall 2025 Day 5, OHSU"
 author: "Meike Niederhausen, PhD"
-date: "10/16/2024"
+date: "10/15/2025"
 output:
   html_document:
     number_sections: yes
@@ -29,7 +29,7 @@ library(janitor)
 
 # Slides pdf
 
-[Link](https://drive.google.com/drive/folders/1I5-e1Dbso2jBYm5oIbMV0FqdpM-0q8pn) to pdf of slides
+[Link](../slides_pdf/Day03_bsta511_part3_data_wrangling.pdf) to pdf of slides
 
 
 # Goals for today

@@ -1,5 +1,6 @@
 ---
 title: "Schedule"
+pagetitle: "Schedule BSTA 511/611"
 date: "9/30/24"
 date-modified: "today"
 format: 

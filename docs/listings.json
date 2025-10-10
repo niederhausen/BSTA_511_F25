@@ -2,7 +2,6 @@
   {
     "listing": "/weeks.html",
     "items": [
-      "/weeks/week_03.html",
       "/weeks/week_04.html",
       "/weeks/week_05.html",
       "/weeks/week_06.html",
@@ -12,13 +11,15 @@
       "/weeks/week_10.html",
       "/weeks/week_11.html",
       "/weeks/week_01.html",
-      "/weeks/week_02.html"
+      "/weeks/week_02.html",
+      "/weeks/week_03.html"
     ]
   },
   {
     "listing": "/homework.html",
     "items": [
-      "/homework/HW_1_F25_bsta511.html"
+      "/homework/HW_1_F25_bsta511.html",
+      "/homework/HW_2_F25_bsta511.html"
     ]
   },
   {
