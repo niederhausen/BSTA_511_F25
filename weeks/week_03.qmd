@@ -22,8 +22,17 @@ editor_options:
 -   Bayes' Rule (**Fall 2023: Day 5**)
     -   Section 2.2.5
 -   R Packages (**Fall 2023: Day 2**)
--   **[Day 4 Practice Problems]{style="color:darkorange"}**
+-   [**Day 4 Practice Problems**]{style="color:darkorange"}
     -   Textbook: 2.18 *Predisposition for thrombosis*
+-   RStudio & Quarto: 
+    -   [Preview in Viewer Pane](https://docs.posit.co/ide/user/2023.03.1/ide/guide/documents/quarto-project.html#render-and-preview)
+    -   Insert images
+    -   LaTeX
+        -   [Equations](https://quarto.org/docs/get-started/authoring/rstudio.html#equations)
+        -   Visual editor: *[Insert anything](https://quarto.org/docs/visual-editor/#insert-anything)*
+        -   [LaTeX guide](https://nwakim.github.io/S2024_BSTA_513/extra_resources/Latex_qmd_formatting.html)
+ 
+
 :::
 
 ::: g-col-6
@@ -35,14 +44,12 @@ editor_options:
     -   Bonus:
         -   [Examples](https://berd-r-intro2024.netlify.app/slides_r_berd_2024#/barplots) on dealing with overlapping labels in figures (Slides 65, 66, & 68 from BERD R intro workshop)
         -   Check out Ted Laderas's [Better Plots](https://better-plots.netlify.app/) presentation
--   **[Day 5 Practice Problems]{style="color:darkorange"}**
-    -   Textbook: 
+-   [**Day 5 Practice Problems**]{style="color:darkorange"}
+    -   Textbook:
         -   1.28 *Mix-and-match*
         -   1.36 *Associations*
-
 :::
 :::::
-
 
 ::: callout-note
 As I mentioned in the recording, the various options in more complex figures I usually look up how to implement when I need them. I show them so that you are aware of some of the functionality and options one has in creating figures using the ggplot2 package. At the end of the slides, we cover how to create tables summarizing data, especially categorical data. This part has some very useful code and data wrangling in it.
@@ -70,7 +77,6 @@ As I mentioned in the recording, the various options in more complex figures I u
 
 During class you will be working in groups discussing the following:
 
-
 ### Day 04
 
 -   **Practice Problems**
@@ -84,18 +90,16 @@ During class you will be working in groups discussing the following:
     -   Book exercises
         -   2.24
 
-
 ### Day 05
 
 -   **Practice Problems**
-    -   Textbook: 
+    -   Textbook:
         -   1.28 *Mix-and-match*
         -   1.36 *Associations*
--   [Slide 30](../slides/Day03_bsta511.html#/side-by-side-boxplots-with-data-points): Can distribution shape and sample size be determined from a boxplot? 
+-   [Slide 30](../slides/Day03_bsta511.html#/side-by-side-boxplots-with-data-points): Can distribution shape and sample size be determined from a boxplot?
 -   [Slide 58](../slides/Day03_bsta511.html#/case-study-discrimination-in-developmental-disability-support-1.7.1): Is there evidence of ethnicity (Hispanic vs. White non-Hispanic) discrimination in DDS expenditures? Why or why not?
 -   From HW 2
     -   R1 & R2: NHANES - parts 1 & 2
-
 
 <!-- -   See Slides table above for Day 3 Part 2 slide deck (and code) that I presented in class -->
 
@@ -124,10 +128,8 @@ During class you will be working in groups discussing the following:
 ## Homework
 
 -   [HW 2](../homework/HW_2_F25_bsta511.qmd) due on Sat, 10/18
-    -   See [extra data wrangling code								
-s](../slides_pdf/Day03_bsta511_part3_data_wrangling.pdf) (both pdf and code) in table above with slides & recording links.
-
-
+    -   See [extra data wrangling code\
+        s](../slides_pdf/Day03_bsta511_part3_data_wrangling.pdf) (both pdf and code) in table above with slides & recording links.
 
 ## International Day of Women in Statistics and Data Science
 
