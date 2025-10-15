@@ -1,6 +1,7 @@
 ---
 title: "Day 1: Intro to R & Rstudio"
 subtitle: "BSTA 511/611 Fall 2025, OHSU"
+pagetitle: "Day 1 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
 date: "10/01/2025"
 categories: ["Week 1"]

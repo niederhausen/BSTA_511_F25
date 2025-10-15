@@ -1,6 +1,7 @@
 ---
 title: "Day 8: Variability in estimates"
 subtitle: "BSTA 511/611"
+pagetitle: "Day 8 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
 institute: "OHSU-PSU School of Public Health"
 date: "10/28/2024"
