@@ -319,14 +319,14 @@
     "href": "weeks/week_03.html#class-discussion",
     "title": "Week 3",
     "section": "Class discussion",
-    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 04\n\nPractice Problems\n\nTextbook: 2.18 Predisposition for thrombosis\n\nR Packages (Fall 2023: Day 2)\n\nR packages: Please let me know if you had any difficulty installing packages.\n\nBayes’ Rule (Fall 2023: Day 5)\n\nExample 2.10 on pg 6 of slides\n\nFrom HW 2\n\nNon-book exercise (this is an old exam question)\nBook exercises\n\n2.24\n\n\n\n\n\nDay 05\n\nPractice Problems\n\nTextbook:\n\n1.28 Mix-and-match\n1.36 Associations\n\n\nSlide 30: Can distribution shape and sample size be determined from a boxplot?\nSlide 58: Is there evidence of ethnicity (Hispanic vs. White non-Hispanic) discrimination in DDS expenditures? Why or why not?\nFrom HW 2\n\nR1 & R2: NHANES - parts 1 & 2"
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 04\n\nPractice Problems\n\nTextbook: 2.18 Predisposition for thrombosis\n\nSolution typed up using LaTeX: qmd, html\n\n\nR Packages (Fall 2023: Day 2)\n\nR packages: Please let me know if you had any difficulty installing packages.\n\nBayes’ Rule (Fall 2023: Day 5)\n\nExample 2.10 on pg 6 of slides\n\nSolution to Ex 2.10\n\n\nFrom HW 2\n\nNon-book exercise (this is an old exam question)\nBook exercises\n\n2.24\n\n\n\n\n\nDay 05\n\nPractice Problems\n\nTextbook:\n\n1.28 Mix-and-match\n1.36 Associations\n\n\nSlide 30: Can distribution shape and sample size be determined from a boxplot?\nSlide 58: Is there evidence of ethnicity (Hispanic vs. White non-Hispanic) discrimination in DDS expenditures? Why or why not?\nFrom HW 2\n\nR1 & R2: NHANES - parts 1 & 2"
   },
   {
     "objectID": "weeks/week_03.html#homework",
     "href": "weeks/week_03.html#homework",
     "title": "Week 3",
     "section": "Homework",
-    "text": "Homework\n\nHW 2 due on Sat, 10/18\n\nSee extra data wrangling code\ns (both pdf and code) in table above with slides & recording links."
+    "text": "Homework\n\nHW 2 due on Sat, 10/18\n\nSee extra data wrangling code (both pdf and code) in table above with slides & recording links."
   },
   {
     "objectID": "weeks/week_04.html",
@@ -3820,5 +3820,12 @@
     "title": "Day 3: Data visualization",
     "section": "Case study: discrimination in developmental disability support (1.7.1)",
     "text": "Case study: discrimination in developmental disability support (1.7.1)\n\nPrevious research\n\nResearchers examined DDS expenditures for developmentally disabled residents by ethnicity\nFound that the mean annual expenditures on Hispanics was less than that on White non-Hispanics.\n\nResult: an allegation of ethnic discrimination was brought against the California DDS.\nQuestion: Are the data sufficient evidence of ethnic discrimination?"
+  },
+  {
+    "objectID": "weeks/week_03.html#sec-Exam1info",
+    "href": "weeks/week_03.html#sec-Exam1info",
+    "title": "Week 3",
+    "section": "Exam 1 information",
+    "text": "Exam 1 information\n\nExam 1 will be on Wed, Oct. 22nd\nSamples of past exam questions and answers (on Sakai)\n\nNote: I still need to add answers to Fall 2024 questions\n\nMaterial will cover Days 1-5,\n\nwhich is approximately Chapters 1 & 2 from the textbook.\n\nThe exam will be in-class and handwritten. Bring a calculator.\nYou may bring one page of notes on an 8.5” x 11” sheet of paper.\n\nYou may use both sides.\nYou may type your notes.\nYou may not use screenshots of the notes or textbook\nYou will be turning in the page of notes with the exam, so please add your name to the sheet."
   }
 ]
