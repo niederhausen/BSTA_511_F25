@@ -214,7 +214,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Week\nDates\nDay\nTopics\nChapter sections\n\n\n\n\n1\nM 9/30\n\nNo class:  OHSU New Student Orientation\n\n\n\n\nW 10/1\n1\nIntroduction to R & RStudio\n\n\n\n2\nM 10/6\n2\nIntro to Data, Data collection\n1.1-1.3\n\n\n\nW 10/8\n3\nSummarizing numerical data,  Probability\n1.4, 2.1-2.2.4\n\n\n\nSa 10/11\n\nHW 1 Due (Days 1 - 3)\n\n\n\n3\nM 10/13\n4\nBayes’ Theorem, R Packages\n2.2.5, extra\n\n\n\nW 10/15\n5\nData visualization,  exploratory data analysis (EDA),  and summarizing categorical data\n1.5-1.7, extra\n\n\n\nSa 10/18\n\nHW 2 Due (Days 4 - 5)\n\n\n\n4\nM 10/20\n6\nRandom variables,  Binomial distribution\n3.1-3.2\n\n\n\nW 10/22\n\nExam 1: Days 1-5\nCh 1, 2\n\n\n\nSa 10/25\n\nHW 3 Due (Day 6)\n\n\n\n5\nM 10/27\n7\nNormal and Poisson distributions\n3.3-3.4\n\n\n\nW 10/29\n8\nVariability in estimates & Confidence Intervals\n4.1-4.2\n\n\n\nSa 11/1\n\nHW 4 Due (Days 7 - 8)\n\n\n\n6\nM 11/3\n9\nHypothesis Testing:  Single-sample with t-distribution  & Two-sample paired data\n4.3, 5.1, 5.2\n\n\n\nW 11/5\n\nExam 2: Days 6-8\n3.1-3.4, 4.1-4.2\n\n\n7\nM 11/10\n10\nHypothesis Testing:  Two-sample independent data;  Power\n5.3-5.4, extra\n\n\n\nW 11/12\n11\nInference for a single proportion  or difference in proportions\n8.1-8.2\n\n\n\nSa 11/15\n\nHW 5 Due (Days 9 - 11)\n\n\n\n8\nM 11/17\n12\nChi-squared tests,  Fishers exact test\n8.3-8.4\n\n\n\nW 11/19\n13\nComparing Means with ANOVA.\n5.5, extra\n\n\n\nThurs 11/20\n\nHW 6 Due (Day 12)  Due Thursday!!\n\n\n\n9\nM 11/24\n\nExam 3: Days 9-12\n4.3, 5.1-5.4;  extra, 8.1-8.4\n\n\n\nW 11/26\n14\nSimple Linear Regression\n6.1-6.2\n\n\n10\nM 12/1\n15\nSimple Linear Regression\n6.3-6.4\n\n\n\nW 12/3\n16\nNon-parametric tests  (sign, signed-rank, rank-sum,  Kruskal-Wallis)\nExtra\n\n\n\nSa 12/6\n\nHW 7 Due (Days 13 - 16)\n\n\n\n11\nM 12/8\n\nReview - catch up\n\n\n\n\nW 12/10\n\nExam 4 due (take home):  Cumulative with a focus on Days 13-16\nCh 5.5, 6,  non-parametric"
+    "text": "Week\nDates\nDay\nTopics\nChapter sections\n\n\n\n\n1\nM 9/30\n\nNo class:  OHSU New Student Orientation\n\n\n\n\nW 10/1\n1\nIntroduction to R & RStudio\n\n\n\n2\nM 10/6\n2\nIntro to Data, Data collection\n1.1-1.3\n\n\n\nW 10/8\n3\nSummarizing numerical data,  Probability\n1.4, 2.1-2.2.4\n\n\n\nSa 10/11\n\nHW 1 Due (Days 1 - 3)\n\n\n\n3\nM 10/13\n4\nBayes’ Theorem, R Packages\n2.2.5, extra\n\n\n\nW 10/15\n5\nData visualization,  exploratory data analysis (EDA),  and summarizing categorical data\n1.5-1.7, extra\n\n\n\nSa 10/18\n\nHW 2 Due (Days 4 - 5)\n\n\n\n4\nM 10/20\n6\nRandom variables,  Binomial distribution\n3.1-3.2\n\n\n\nW 10/22\n\nExam 1: Days 1-5\nCh 1, 2\n\n\n\nSa 10/25\n\nHW 3 Due (Day 6)\n\n\n\n5\nM 10/27\n7\nNormal and Poisson distributions\n3.3-3.4\n\n\n\nW 10/29\n8 & 9\nVariability in estimates & Confidence Intervals\n4.1-4.2\n\n\n\nSa 11/1\n\nHW 4 Due (Days 7 - 8)\n\n\n\n6\nM 11/3\n10\nHypothesis Testing:  Single-sample with t-distribution  & Two-sample paired data\n4.3, 5.1, 5.2\n\n\n\nW 11/5\n\nExam 2: Days 6-8\n3.1-3.4, 4.1-4.2\n\n\n7\nM 11/10\n11\nHypothesis Testing:  Two-sample independent data;  Power\n5.3-5.4, extra\n\n\n\nW 11/12\n12\nInference for a single proportion  or difference in proportions\n8.1-8.2\n\n\n\nSa 11/15\n\nHW 5 Due (Days 9 - 11)\n\n\n\n8\nM 11/17\n13\nChi-squared tests,  Fishers exact test\n8.3-8.4\n\n\n\nW 11/19\n14\nComparing Means with ANOVA.\n5.5, extra\n\n\n\nThurs 11/20\n\nHW 6 Due (Day 12)  Due Thursday!!\n\n\n\n9\nM 11/24\n\nExam 3: Days 9-12\n4.3, 5.1-5.4;  extra, 8.1-8.4\n\n\n\nW 11/26\n15\nSimple Linear Regression\n6.1-6.2\n\n\n10\nM 12/1\n16\nSimple Linear Regression\n6.3-6.4\n\n\n\nW 12/3\n17\nNon-parametric tests  (sign, signed-rank, rank-sum,  Kruskal-Wallis)\nExtra\n\n\n\nSa 12/6\n\nHW 7 Due (Days 13 - 16)\n\n\n\n11\nM 12/8\n\nReview - catch up\n\n\n\n\nW 12/10\n\nExam 4 due (take home):  Cumulative with a focus on Days 13-16\nCh 5.5, 6,  non-parametric"
   },
   {
     "objectID": "weeks/week_01.html",
@@ -291,7 +291,7 @@
     "href": "weeks.html",
     "title": "Weekly Pages",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n10/21/24\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/28/24\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nVariability in estimates and Exam 1\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nWeek 2\n\n\nData collection & Probability\n\n\n\n\n10/13/25\n\n\nWeek 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n11/4/24\n\n\nUNDER CONSTRUCTION: Week 6\n\n\nConfidence Intervals and Hypothesis Testing\n\n\n\n\n11/11/24\n\n\nUNDER CONSTRUCTION: Week 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/18/24\n\n\nUNDER CONSTRUCTION: Week 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/25/24\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nWeek 2\n\n\nData collection & Probability\n\n\n\n\n10/13/25\n\n\nWeek 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/20/25\n\n\nUNDER CONSTRUCTION: Week 4\n\n\nRandom variables & binomial distribution and Exam 1\n\n\n\n\n10/27/25\n\n\nUNDER CONSTRUCTION: Week 5\n\n\nNormal & Poisson distributions; Variability in estimates & CI’s\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "weeks/week_03.html",
@@ -333,28 +333,28 @@
     "href": "weeks/week_04.html",
     "title": "UNDER CONSTRUCTION: Week 4",
     "section": "",
-    "text": "Random variables: Section 3.1\nBinomial distribution: Section 3.2\n\n\n\n\n\nNormal distribution: Section 3.3\nPoisson distribution: Section 3.4"
+    "text": "Random variables: Section 3.1\nBinomial distribution: Section 3.2\nDay 6 Practice Problems\n\nSee new PP section below\n\n\n\n\n\n\nSee the Exam 1 information section below for more information"
   },
   {
     "objectID": "weeks/week_04.html#overview-of-week-4",
     "href": "weeks/week_04.html#overview-of-week-4",
     "title": "UNDER CONSTRUCTION: Week 4",
     "section": "",
-    "text": "Random variables: Section 3.1\nBinomial distribution: Section 3.2\n\n\n\n\n\nNormal distribution: Section 3.3\nPoisson distribution: Section 3.4"
+    "text": "Random variables: Section 3.1\nBinomial distribution: Section 3.2\nDay 6 Practice Problems\n\nSee new PP section below\n\n\n\n\n\n\nSee the Exam 1 information section below for more information"
   },
   {
     "objectID": "weeks/week_04.html#slides-recordings",
     "href": "weeks/week_04.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 4",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n\nCalculating probabilities in R\n\n\n\n\n\n\n\n\n\n\n6\nRandom Variables (3.1.1-3.1.3)\nDay 6: slides 1-6\n\n\n\nDay 6 Part 1\n24 min\n\n\n\n\n\nLinear combinations of RV’s (3.1.4)\nDay 6: slides 7-10\nsame\n\nsame\nDay 6 Part 2\n14 min\n\n\n\n\n\nBinomial dist (3.2)\nDay 6: slides 11-15\nsame\n\nsame\nDay 6 Part 3\n27 min\n\n\n\n\n7\nNormal dist and prob’s for standard normal (3.3.1, 3.3.3)\nDay 7: slides 1-5\n\n\n\nDay 7 Part 1\n27 min\n\n\n\n\n\nNormal prob’s using z-scores (3.3.2, 3.3.4)\nDay 7: slides 6-7\nsame\n\nsame\nDay 7 Part 2\n15 min\n\n\n\n\n\nNormal approx of binomial dist (3.3.6)\nDay 7: slides 8-9\nsame\n\nsame\nDay 7 Part 3\n14 min\n\n\n\n\n\nPoisson dist (3.4)\nDay 7: slides 10-12\nsame\n\nsame\nDay 7 Part 4\n15 min"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n\nCalculating probabilities in R\n\n\n\n\n\n\n\n\n\n\n6\nRandom Variables (3.1.1-3.1.3)\nDay 6: slides 1-6\n\n\n\nDay 6 Part 1\n24 min\n\n\n\n\n\nLinear combinations of RV’s (3.1.4)\nDay 6: slides 7-10\nsame\n\nsame\nDay 6 Part 2\n14 min\n\n\n\n\n\nBinomial dist (3.2)\nDay 6: slides 11-15\nsame\n\nsame\nDay 6 Part 3\n27 min"
   },
   {
     "objectID": "weeks/week_04.html#class-discussion",
     "href": "weeks/week_04.html#class-discussion",
     "title": "UNDER CONSTRUCTION: Week 4",
     "section": "Class discussion",
-    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay06\n\nExample 3.11 on pg 6 of slides\nExample 3.17 on pg 10 of slides\n\nHint: If you are unsure how to define the random variable T, take a look at how we defined the random variable M in example 3.16 for the amount of money one gets from 3 rolls of a die.\n\nExample 3.22 parts (1) and (2) on pg 14 of slides\nFrom HW 3\n\nBook exercises\n\n3.4, 3.8\n\nNon-book exercise\n\nNB 1\n\n\nIf you want some R practice, try the following:\n\nExample 3.3 on pg 2 of slides\n\nWrite R code to calculate the expected value by defining vectors in R with the relevant values and then doing the appropriate calculations with the vectors.\nHint: start with x &lt;- 1:6.\n\nExample 3.10 on pg 5 of slides\n\nWrite R code to calculate the variance and standard deviation by defining vectors in R with the relevant values and then doing the appropriate calculations with the vectors.\n\n\n\n\n\nDay07\n\nExample 3.3 parts (1) and (3) on pg 7 of slides\nExample 3.8 parts (2) and (3) on pg 11 of slides\nFrom HW 3\n\nBook exercises\n\n3.22, 3.32, 3.40"
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay06\n\nPractice Problems listed above\nPart (4) of Example 3.17 on pg 10 of slides\nFrom HW 3\n\nBook exercises\n\n3.4, 3.8\n\nNon-book exercise\n\nNB 1\n\n\nIf you want some R practice, try the following:\n\nExample 3.3 on pg 2 of slides\n\nWrite R code to calculate the expected value by defining vectors in R with the relevant values and then doing the appropriate calculations with the vectors.\nHint: start with x &lt;- 1:6.\n\nExample 3.10 on pg 5 of slides\n\nWrite R code to calculate the variance and standard deviation by defining vectors in R with the relevant values and then doing the appropriate calculations with the vectors."
   },
   {
     "objectID": "weeks/week_04.html#homework",
@@ -375,28 +375,28 @@
     "href": "weeks/week_05.html",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "",
-    "text": "Variability in estimates: Section 4.1\n\n\n\n\n\nSee the Exam 1 information section below for more information"
+    "text": "Normal distribution: Section 3.3\nPoisson distribution: Section 3.4\nDay 7 Practice Problems\n\nTBD\n\n\n\n\n\n\nDay 8 topics: Variability in estimates: Section 4.1\nDay 9 topics:\n\nConfidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\nDays 8 & 9 Practice Problems\n\nTBD"
   },
   {
     "objectID": "weeks/week_05.html#overview-of-week-5",
     "href": "weeks/week_05.html#overview-of-week-5",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "",
-    "text": "Variability in estimates: Section 4.1\n\n\n\n\n\nSee the Exam 1 information section below for more information"
+    "text": "Normal distribution: Section 3.3\nPoisson distribution: Section 3.4\nDay 7 Practice Problems\n\nTBD\n\n\n\n\n\n\nDay 8 topics: Variability in estimates: Section 4.1\nDay 9 topics:\n\nConfidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\nDays 8 & 9 Practice Problems\n\nTBD"
   },
   {
     "objectID": "weeks/week_05.html#slides-recordings",
     "href": "weeks/week_05.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n8\nVariability in estimates: Section 4.1\nDay 8: slides 1-13\n\n\n\nDay 8 Part 1\n26 min\n\n\n\n\n\n4.1 con’td\nDay 8: slides 14-29\nsame\n\nsame\nDay 8 Part 2\n37 min\nsame\n\n\n\n\nR code demo\n\n\n\n\nDay 8 Part 3\n11 min\nsame"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n\nCalculating probabilities in R\n\n\n\n\n\n\n\n\n\n\n7\nNormal dist and prob’s for standard normal (3.3.1, 3.3.3)\nDay 7: slides 1-5\n\n\n\nDay 7 Part 1\n27 min\n\n\n\n\n7\nNormal prob’s using z-scores (3.3.2, 3.3.4)\nDay 7: slides 6-7\nsame\n\nsame\nDay 7 Part 2\n15 min\n\n\n\n\n7\nNormal approx of binomial dist (3.3.6)\nDay 7: slides 8-9\nsame\n\nsame\nDay 7 Part 3\n14 min\n\n\n\n\n7\nPoisson dist (3.4)\nDay 7: slides 10-12\nsame\n\nsame\nDay 7 Part 4\n15 min\n\n\n\n\n8\nVariability in estimates: Section 4.1\nDay 8: slides 1-13\n\n\n\nDay 8 Part 1\n26 min\n\n\n\n\n8\n4.1 con’td\nDay 8: slides 14-29\nsame\n\nsame\nDay 8 Part 2\n37 min\nsame\n\n\n\n8\nR code demo\n\n\n\n\nDay 8 Part 3\n11 min\nsame\n\n\n\n9\nCI’s for 1 mean: 4.2\nDay 9: slides 1-12\n\n\n\nDay 9 Part 1\n17 min\n\n\n\n\n9\n4.2 con’td\nDay 9: slides 13-19\nsame\n\nsame\nDay 9 Part 2\n17 min\nsame\nsame\n\n\n9\n4.2 con’td, 5.1.1, 5.1.2 (pgs. 238-242)\nDay 9: slides 20-23\nsame\n\nsame\nDay 9 Part 3\n14 min\nsame\nsame"
   },
   {
     "objectID": "weeks/week_05.html#class-discussion",
     "href": "weeks/week_05.html#class-discussion",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "Class discussion",
-    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 8\n\nSlide 21: match figures to distribution (Sampling high schoolers’ weights)\nProblems from Homework 4:\n\nBook exercise: 4.2 (warm-up)\nR1: Youth weights (YRBSS)\nNon-book exercise: Ethan Allen"
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay07\n\nExample 3.3 parts (1) and (3) on pg 7 of slides\nExample 3.8 parts (2) and (3) on pg 11 of slides\nFrom HW 3\n\nBook exercises\n\n3.22, 3.32, 3.40\n\n\n\n\n\nDay 8\n\nSlide 21: match figures to distribution (Sampling high schoolers’ weights)\nProblems from Homework 4:\n\nBook exercise: 4.2 (warm-up)\nR1: Youth weights (YRBSS)\nNon-book exercise: Ethan Allen"
   },
   {
     "objectID": "weeks/week_05.html#homework",
@@ -417,21 +417,21 @@
     "href": "weeks/week_06.html",
     "title": "UNDER CONSTRUCTION: Week 6",
     "section": "",
-    "text": "Confidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\n\n\n\n\nHypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R"
+    "text": "Hypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R\nDay 9 Practice Problems\n\nTBD\n\n\n\n\n\n\nSee the Exam 2 information section below for more information"
   },
   {
     "objectID": "weeks/week_06.html#overview-of-week-6",
     "href": "weeks/week_06.html#overview-of-week-6",
     "title": "UNDER CONSTRUCTION: Week 6",
     "section": "",
-    "text": "Confidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\n\n\n\n\nHypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R"
+    "text": "Hypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R\nDay 9 Practice Problems\n\nTBD\n\n\n\n\n\n\nSee the Exam 2 information section below for more information"
   },
   {
     "objectID": "weeks/week_06.html#slides-recordings",
     "href": "weeks/week_06.html#slides-recordings",
     "title": "UNDER CONSTRUCTION: Week 6",
     "section": "Slides & Recordings",
-    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n9\nCI’s for 1 mean: 4.2\nDay 9: slides 1-12\n\n\n\nDay 9 Part 1\n17 min\n\n\n\n\n\n4.2 con’td\nDay 9: slides 13-19\nsame\n\nsame\nDay 9 Part 2\n17 min\nsame\nsame\n\n\n\n4.2 con’td, 5.1.1, 5.1.2 (pgs. 238-242)\nDay 9: slides 20-23\nsame\n\nsame\nDay 9 Part 3\n14 min\nsame\nsame\n\n\n10 part 1\nHyp test 1 mean intro\nDay 10 Part 1: slides 1-13\n\n\n\nDay 10 Part 1\n26 min\n\n\n\n\n\nHyp test steps: 4.3, 5.1\nDay 10 Part 1: slides 14-25\nsame\n\nsame\nDay 10 Part 2\n36 min\nsame\n\n\n\n\nR demo\nDay 10 Part 1: slides 26-34\nsame\n\nsame\nDay 10 Part 3\n25 min\nsame\n\n\n\n10 part 2\n\nDay 10 Part 2\n\n\n\nNo recording"
+    "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n10 part 1\nHyp test 1 mean intro\nDay 10 Part 1: slides 1-13\n\n\n\nDay 10 Part 1\n26 min\n\n\n\n\n\nHyp test steps: 4.3, 5.1\nDay 10 Part 1: slides 14-25\nsame\n\nsame\nDay 10 Part 2\n36 min\nsame\n\n\n\n\nR demo\nDay 10 Part 1: slides 26-34\nsame\n\nsame\nDay 10 Part 3\n25 min\nsame\n\n\n\n10 part 2\n\nDay 10 Part 2\n\n\n\nNo recording"
   },
   {
     "objectID": "weeks/week_06.html#datasets",
@@ -928,7 +928,7 @@
     "href": "homework.html",
     "title": "Assignments",
     "section": "",
-    "text": "Note\n\n\n\n\nBelow are links to homework assignments.\nThe dates in the Date column are due dates.\nSee the Grading rubric tab to the left for a description of how assignments will be graded.\n\n\n\n\nCheck out this spreadsheet for textbook typos.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n10/11/25\n\n\nHW 1: BSTA 511/611 F25\n\n\n\n\n10/18/25\n\n\nHW 2: BSTA 511/611 F25\n\n\n\n\n\n\nNo matching items"
+    "text": "Note\n\n\n\n\nBelow are links to homework assignments.\nThe dates in the Date column are due dates.\nSee the Grading rubric tab to the left for a description of how assignments will be graded.\n\n\n\n\nCheck out this spreadsheet for textbook typos.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n10/11/25\n\n\nHW 1: BSTA 511/611 F25\n\n\n\n\n10/18/25\n\n\nHW 2: BSTA 511/611 F25\n\n\n\n\n10/25/25\n\n\nHW 3: BSTA 511/611 F25\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homework_solutions.html",
@@ -942,7 +942,7 @@
     "href": "class_slides.html",
     "title": "Class Slides",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\n11/6/24\n\n\nDay 10 Part 1: Hypothesis testing for mean from one-sample (Sections 4.3, 5.1)\n\n\nWeek 6\n\n\n\n\n11/6/24\n\n\nDay 10 Part 2: Inference for mean difference from two-sample dependent/paired data (Section 5.2)\n\n\nWeek 6\n\n\n\n\n11/11/24\n\n\nDay 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)\n\n\nWeek 7\n\n\n\n\n11/13/24\n\n\nDay 12: Inference for a single proportion or difference of two (independent) proportions (Sections 8.1-8.2)\n\n\nWeek 7\n\n\n\n\n11/18/24\n\n\nDay 13: Chi-squared tests (Sections 8.3-8.4)\n\n\nWeek 8\n\n\n\n\n11/20/24\n\n\nDay 14: Comparing Means with ANOVA (Section 5.5)\n\n\nWeek 8\n\n\n\n\n11/27/24\n\n\nDay 15: Simple Linear Regression (Sections 6.1-6.2)\n\n\nWeek 9\n\n\n\n\n12/2/24\n\n\nDay 16: Simple Linear Regression Part 2 (Sections 6.3-6.4)\n\n\nWeek 10\n\n\n\n\n12/4/24\n\n\nDay 17: Nonparametric tests - Supplemental material\n\n\nWeek 10\n\n\n\n\n10/1/25\n\n\nDay 1: Intro to R & Rstudio\n\n\nWeek 1\n\n\n\n\n10/6/25\n\n\nDay 2: Data collection & numerical summaries\n\n\nWeek 2\n\n\n\n\n10/8/25\n\n\nDay 3 (F23 Day 4): Probability Part 1\n\n\nWeek 2\n\n\n\n\n10/13/25\n\n\nDay 4 (F23 Day 5): Probability Part 2 - Bayes’ Rule\n\n\nWeek 3\n\n\n\n\n10/15/25\n\n\nDay 3: Data visualization - Part 2\n\n\nWeek 3\n\n\n\n\n10/15/25\n\n\nDay 3: Data visualization\n\n\nWeek 3\n\n\n\n\n10/20/25\n\n\nDay 6: Random variables and Binomial distribution\n\n\nWeek 4\n\n\n\n\n10/22/25\n\n\nDay 7: Normal and Poisson distributions\n\n\nWeek 4\n\n\n\n\n10/27/25\n\n\nDay 8: Variability in estimates\n\n\nWeek 5\n\n\n\n\n11/3/25\n\n\nDay 9: Confidence intervals (4.2)\n\n\nWeek 6\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\n11/6/24\n\n\nDay 10 Part 1: Hypothesis testing for mean from one-sample (Sections 4.3, 5.1)\n\n\nWeek 6\n\n\n\n\n11/6/24\n\n\nDay 10 Part 2: Inference for mean difference from two-sample dependent/paired data (Section 5.2)\n\n\nWeek 6\n\n\n\n\n11/11/24\n\n\nDay 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)\n\n\nWeek 7\n\n\n\n\n11/13/24\n\n\nDay 12: Inference for a single proportion or difference of two (independent) proportions (Sections 8.1-8.2)\n\n\nWeek 7\n\n\n\n\n11/18/24\n\n\nDay 13: Chi-squared tests (Sections 8.3-8.4)\n\n\nWeek 8\n\n\n\n\n11/20/24\n\n\nDay 14: Comparing Means with ANOVA (Section 5.5)\n\n\nWeek 8\n\n\n\n\n11/27/24\n\n\nDay 15: Simple Linear Regression (Sections 6.1-6.2)\n\n\nWeek 9\n\n\n\n\n12/2/24\n\n\nDay 16: Simple Linear Regression Part 2 (Sections 6.3-6.4)\n\n\nWeek 10\n\n\n\n\n12/4/24\n\n\nDay 17: Nonparametric tests - Supplemental material\n\n\nWeek 10\n\n\n\n\n10/1/25\n\n\nDay 1: Intro to R & Rstudio\n\n\nWeek 1\n\n\n\n\n10/6/25\n\n\nDay 2: Data collection & numerical summaries\n\n\nWeek 2\n\n\n\n\n10/8/25\n\n\nDay 3 (F23 Day 4): Probability Part 1\n\n\nWeek 2\n\n\n\n\n10/13/25\n\n\nDay 4 (F23 Day 5): Probability Part 2 - Bayes’ Rule\n\n\nWeek 3\n\n\n\n\n10/15/25\n\n\nDay 3: Data visualization - Part 2\n\n\nWeek 3\n\n\n\n\n10/15/25\n\n\nDay 3: Data visualization\n\n\nWeek 3\n\n\n\n\n10/20/25\n\n\nDay 6: Random variables and Binomial distribution\n\n\nWeek 4\n\n\n\n\n10/27/25\n\n\nDay 7: Normal and Poisson distributions\n\n\nWeek 5\n\n\n\n\n10/29/25\n\n\nDay 8: Variability in estimates\n\n\nWeek 5\n\n\n\n\n10/29/25\n\n\nDay 9: Confidence intervals (4.2)\n\n\nWeek 5\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "slides_md/Day01_bsta511_md.html",
@@ -3013,8 +3013,8 @@
     "objectID": "slides/Day09_bsta511.html#last-time---goals-for-today",
     "href": "slides/Day09_bsta511.html#last-time---goals-for-today",
     "title": "Day 9: Confidence intervals (4.2)",
-    "section": "",
-    "text": "Sampling from a population\n\npopulation parameters vs. point estimates\nsampling variation\n\n\n\n\nSampling distribution of a mean\nCentral Limit Theorem\n\n\n\n\n\n\n\nWhat are Confidence Intervals?\n\nHow to calculate CI’s?\nHow to interpret & NOT interpret CI’s?\n\n\n\nWhat if we don’t know \\(\\sigma\\)?\nStudent’s t-distribution"
+    "section": "Last time -> Goals for today",
+    "text": "Last time -&gt; Goals for today\n\n\nDay 8: Section 4.1\n\nSampling from a population\n\npopulation parameters vs. point estimates\nsampling variation\n\n\n\n\nSampling distribution of a mean\nCentral Limit Theorem\n\n\n\n\nDay 9: Section 4.2\nWhat are Confidence Intervals?\n\nHow to calculate CI’s?\nHow to interpret & NOT interpret CI’s?\n\n\n\nWhat if we don’t know \\(\\sigma\\)?\nStudent’s t-distribution"
   },
   {
     "objectID": "slides/Day09_bsta511.html#where-are-we",
@@ -3035,7 +3035,7 @@
     "href": "slides/Day09_bsta511.html#our-hypothetical-population-yrbss",
     "title": "Day 9: Confidence intervals (4.2)",
     "section": "Our hypothetical population: YRBSS",
-    "text": "Our hypothetical population: YRBSS\nYouth Risk Behavior Surveillance System (YRBSS)\n\nYearly survey conducted by the US Centers for Disease Control (CDC)\n“A set of surveys that track behaviors that can lead to poor health in students grades 9 through 12.”1\nDataset yrbss from oibiostat pacakge contains responses from n = 13,583 participants in 2013 for a subset of the variables included in the complete survey data\n\n\n\n\nlibrary(oibiostat)\ndata(\"yrbss\")  #load the data\n# ?yrbss\n\n\n\ndim(yrbss)\n\n[1] 13583    13\n\n\n\n\n\nnames(yrbss)\n\n [1] \"age\"                      \"gender\"                  \n [3] \"grade\"                    \"hispanic\"                \n [5] \"race\"                     \"height\"                  \n [7] \"weight\"                   \"helmet.12m\"              \n [9] \"text.while.driving.30d\"   \"physically.active.7d\"    \n[11] \"hours.tv.per.school.day\"  \"strength.training.7d\"    \n[13] \"school.night.hours.sleep\""
+    "text": "Our hypothetical population: YRBSS\nYouth Risk Behavior Surveillance System (YRBSS)\n\nYearly survey conducted by the US Centers for Disease Control (CDC)\n“A set of surveys that track behaviors that can lead to poor health in students grades 9 through 12.”1\nDataset yrbss from oibiostat pacakge contains responses from n = 13,583 participants in 2013 for a subset of the variables included in the complete survey data\n\n\n\n\nlibrary(oibiostat)\ndata(\"yrbss\")  #load the data\n# ?yrbss\n\n\n\ndim(yrbss)\n\n[1] 13583    13\n\n\n\n\n\nnames(yrbss)\n\n [1] \"age\"                      \"gender\"                  \n [3] \"grade\"                    \"hispanic\"                \n [5] \"race\"                     \"height\"                  \n [7] \"weight\"                   \"helmet.12m\"              \n [9] \"text.while.driving.30d\"   \"physically.active.7d\"    \n[11] \"hours.tv.per.school.day\"  \"strength.training.7d\"    \n[13] \"school.night.hours.sleep\"\n\n\nYouth Risk Behavior Surveillance System https://www.cdc.gov/healthyyouth/data/yrbs/index.htm (YRBSS)"
   },
   {
     "objectID": "slides/Day09_bsta511.html#transform-height-weight-from-metric-to-to-standard",
@@ -3063,7 +3063,7 @@
     "href": "slides/Day09_bsta511.html#simulated-sampling-distribution-for-n-30-using-10000-sample-mean-heights",
     "title": "Day 9: Confidence intervals (4.2)",
     "section": "Simulated sampling distribution for n = 30  using 10,000 sample mean heights",
-    "text": "Simulated sampling distribution for n = 30  using 10,000 sample mean heights\n\n\n\nggplot(\n  means_hght_samp_n30_rep10000, \n  aes(x = mean_height)) + \n  geom_histogram() +\n  labs(title = \"Simulated \\n sampling distribution\")\n\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.\n\n\n\n\n\n\nCLT tells us that we can model the sampling distribution of mean heights using a normal distribution."
+    "text": "Simulated sampling distribution for n = 30  using 10,000 sample mean heights\n\n\n\nggplot(\n  means_hght_samp_n30_rep10000, \n  aes(x = mean_height)) + \n  geom_histogram() +\n  labs(title = \"Simulated \\n sampling distribution\")\n\n\n\n\n\nCLT tells us that we can model the sampling distribution of mean heights using a normal distribution."
   },
   {
     "objectID": "slides/Day09_bsta511.html#given-barx-what-are-plausible-values-of-mu",
@@ -3091,7 +3091,7 @@
     "href": "slides/Day09_bsta511.html#how-to-interpret-a-c-i-12",
     "title": "Day 9: Confidence intervals (4.2)",
     "section": "How to interpret a C I? (1/2)",
-    "text": "How to interpret a C I? (1/2)\n\n\nSimulating Confidence Intervals:\n\nhttp://www.rossmanchance.com/applets/ConfSim.html\n\nThe figure shows CI’s from 100 simulations.\n\nThe true value of \\(\\mu\\) = 5.55 is the vertical black line.\nThe horizontal lines are 95% CI’s from 100 samples.\n\nGreen: the CI “captured” the true value of \\(\\mu\\)\nRed: the CI did not “capture” the true value of \\(\\mu\\)\n\n\n\n\nQuestion:\nWhat percent of CI’s captured the true value of \\(\\mu\\) ?"
+    "text": "How to interpret a C I? (1/2)\n\n\nSimulating Confidence Intervals:\n\nhttp://www.rossmanchance.com/applets/ConfSim.html\n\nThe figure shows CI’s from 100 simulations.\n\nThe true value of \\(\\mu\\) = 5.55 is the vertical black line.\nThe horizontal lines are 95% CI’s from 100 samples.\n\nGreen: the CI “captured” the true value of \\(\\mu\\)\nRed: the CI did not “capture” the true value of \\(\\mu\\)\n\n\n\nQuestion:\nWhat percent of CI’s captured the true value of \\(\\mu\\) ?"
   },
   {
     "objectID": "slides/Day09_bsta511.html#how-to-interpret-a-c-i-22",
@@ -3119,7 +3119,7 @@
     "href": "slides/Day09_bsta511.html#what-if-we-dont-know-sigma-13",
     "title": "Day 9: Confidence intervals (4.2)",
     "section": "What if we don’t know \\(\\sigma\\) ? (1/3)",
-    "text": "What if we don’t know \\(\\sigma\\) ? (1/3)\nSimulating Confidence Intervals: http://www.rossmanchance.com/applets/ConfSim.html\n\n\n\n\n\nThe normal distribution doesn’t have a 95% “coverage rate”\nwhen using \\(s\\) instead of \\(\\sigma\\)"
+    "text": "What if we don’t know \\(\\sigma\\) ? (1/3)\nSimulating Confidence Intervals: http://www.rossmanchance.com/applets/ConfSim.html\n\nThe normal distribution doesn’t have a 95% “coverage rate”\nwhen using \\(s\\) instead of \\(\\sigma\\)"
   },
   {
     "objectID": "slides/Day09_bsta511.html#what-if-we-dont-know-sigma-23",
@@ -4492,5 +4492,439 @@
     "title": "Day 9: Confidence intervals (4.2)",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nYouth Risk Behavior Surveillance System https://www.cdc.gov/healthyyouth/data/yrbs/index.htm (YRBSS)↩︎\nYouth Risk Behavior Surveillance System https://www.cdc.gov/healthyyouth/data/yrbs/index.htm (YRBSS)↩︎"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "",
+    "text": "I recommend installing the tinytex R package to help with rendering LaTeX equations if you do not have a LaTeX program installed on your computer."
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-pxx",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-pxx",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "1.1 Probability calculations: \\(P(X=x)\\)",
+    "text": "1.1 Probability calculations: \\(P(X=x)\\)\n\n1.1.1 Using formula\nCalculate \\(P(X=4)\\) for a Bin(n=10, p=0.25) distribution.\nIn general, for a binomial random variable, \\[P(X=x) = \\binom{n}{x}p^x q^{n-x}\\] Thus \\(P(X=4)\\) for a Bin(n=10, p=0.25) random variable, \\[P(X=4) = \\binom{10}{4}0.25^4 0.75^{10-4} = \\frac{10!}{4!(10-4)!}0.25^4 0.75^{10-4}\\] Calculate “directly” in R:\n\nchoose(10,4) * 0.25^4 * 0.75^6\n\n[1] 0.145998\n\n# using factorials instead of the choose function:\nfactorial(10)/(factorial(4)*factorial(6)) * 0.25^4 * 0.75^6\n\n[1] 0.145998\n\n\n\n\n1.1.2 Using dbinom()\nCalculate \\(P(X=4)\\) for a Bin(n=10, p=0.25) distribution.\n\n# P(X = 4) for Bin(n=10, p=0.25) random variable\ndbinom(x = 4, size = 10, prob = 0.25) \n\n[1] 0.145998\n\n\nCalculate \\(P(X=x)\\) for all possible values \\(x\\) for a Bin(n=10, p=0.25) distribution.\n\n# Entire probability distribution:\n# P(X = x) for all x=0,1,2,...,10 for Bin(n=10, p=0.25) random variable\ndbinom(x = 0:10, size = 10, prob = 0.25) \n\n [1] 5.631351e-02 1.877117e-01 2.815676e-01 2.502823e-01 1.459980e-01\n [6] 5.839920e-02 1.622200e-02 3.089905e-03 3.862381e-04 2.861023e-05\n[11] 9.536743e-07\n\n\nIn the next section we visualize these probability distribution values."
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#histogram-of-probability-distribution",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#histogram-of-probability-distribution",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "1.2 Histogram of probability distribution",
+    "text": "1.2 Histogram of probability distribution\n\nFirst, create a data frame of the distribution’s possible x values and their respective probabilities:\n\n\n# Bin(n=10, p=0.25) random variable\n\nbinom_probs &lt;- data.frame(x_values = 0:10, \n                          px = dbinom(x = 0:10, size = 10, prob = 0.25)) \nbinom_probs\n\n   x_values           px\n1         0 5.631351e-02\n2         1 1.877117e-01\n3         2 2.815676e-01\n4         3 2.502823e-01\n5         4 1.459980e-01\n6         5 5.839920e-02\n7         6 1.622200e-02\n8         7 3.089905e-03\n9         8 3.862381e-04\n10        9 2.861023e-05\n11       10 9.536743e-07\n\n\n\n1.2.1 Histogram\nThe histogram below is actually created as a bar plot in ggplot:\n\nggplot(binom_probs, \n       aes(x = x_values, y = px))  + \n  geom_col(fill =\"cornflowerblue\") +\n  labs(x = \"x, number of successes\",\n       y = \"P(X=x)\") +\n  scale_x_continuous(breaks=0:10) +\n  labs(title = \"Bin(n = 10, p = 0.25) distribution\")"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-leq-x",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-leq-x",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "1.3 Probability calculations: \\(P(X \\leq x)\\)",
+    "text": "1.3 Probability calculations: \\(P(X \\leq x)\\)\n\\[P(X\\leq k) = \\sum_{x=0}^{k}\\binom{n}{x}p^xq^{n-x}\\]\n\n1.3.1 Using formula\nCalculate \\(P(X \\leq 3)\\) for a Bin(n=10, p=0.25) distribution:\n\\[P(X\\leq 3) = \\sum_{x=0}^{3}\\binom{10}{x}0.2.5^x 0.75^{10-x}\\] Calculate “directly” in R:\n\n# vector of x values whose probabilities need to be added\nx &lt;- 0:3  \n# vector of respective binomial prob's of x values\n(binom_prob_0_3 &lt;- choose(10,x) * 0.25^x * 0.75^(10-x))\n\n[1] 0.05631351 0.18771172 0.28156757 0.25028229\n\n# add up the probabilities\nsum(binom_prob_0_3)\n\n[1] 0.7758751\n\n\n\n\n1.3.2 Using pbinom()\n\n\\(P(X\\leq k)\\) = pbinom(q = k, size = n, prob = p, lower.tail = TRUE)\n\nCalculate \\(P(X \\leq 3)\\) for a Bin(n=10, p=0.25) distribution.\n\n# P(X &lt;= 3) for Bin(n=10, p=0.25) random variable\npbinom(q = 3, size = 10, prob = 0.25, lower.tail = TRUE)\n\n[1] 0.7758751\n\n# Note: setting TRUE for the lower.tail option is the default value\n# This means that if we do not specify this option, \n# it will give the same result as above:\npbinom(q = 3, size = 10, prob = 0.25) \n\n[1] 0.7758751"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-geq-x",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-geq-x",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "1.4 Probability calculations: \\(P(X \\geq x)\\)",
+    "text": "1.4 Probability calculations: \\(P(X \\geq x)\\)\n\\[P(X\\geq k) = \\sum_{x=k}^{n}\\binom{n}{x}p^xq^{n-x}\\]\n\n1.4.1 Using formula\nCalculate \\(P(X \\geq 5)\\) for a Bin(n=10, p=0.25) distribution:\n\\[P(X \\geq 5) = \\sum_{x=5}^{10}\\binom{10}{x}0.2.5^x 0.75^{10-x}\\] Calculate “directly” in R:\n\n# vector of x values whose probabilities need to be added\nx &lt;- 5:10  \n# vector of respective binomial prob's of x values\n(binom_prob_5_10 &lt;- choose(10,x) * 0.25^x * 0.75^(10-x))\n\n[1] 5.839920e-02 1.622200e-02 3.089905e-03 3.862381e-04 2.861023e-05\n[6] 9.536743e-07\n\n# add up the probabilities\nsum(binom_prob_5_10)\n\n[1] 0.07812691\n\n\n\n\n1.4.2 Using pbinom() with lower.tail = TRUE\nCalculate \\(P(X \\geq 5)\\) for a Bin(n=10, p=0.25) distribution.\n\\[P(X \\geq 5) = 1 - P(X \\leq 4) =1 - \\sum_{x=0}^{4}\\binom{10}{x}0.2.5^x 0.75^{10-x}\\]\n\n# P(X &gt;= 5) for Bin(n=10, p=0.25) random variable\n# P(X &gt;= 5) = 1 - P(X &lt;= 4)\n1 - pbinom(q = 4, size = 10, prob = 0.25, lower.tail = TRUE)\n\n[1] 0.07812691\n\n\n\n\n1.4.3 Using pbinom() with lower.tail = FALSE\n\n\\(P(X \\geq k) = P(X &gt; k)\\) = pbinom(q = k, size = n, prob = p, lower.tail = FALSE)\n\nCalculate \\(P(X \\geq 5)\\) for a Bin(n=10, p=0.25) distribution.\n\\[P(X \\geq 5) = P(X &gt; 4)\\]\n\n# P(X &gt;= 5) for Bin(n=10, p=0.25) random variable\n# P(X &gt;= 5) = P(X &gt; 4)\npbinom(q = 4, size = 10, prob = 0.25, lower.tail = FALSE)\n\n[1] 0.07812691"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-x",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-x",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "2.1 Probability calculations: \\(P(X < x)\\)",
+    "text": "2.1 Probability calculations: \\(P(X &lt; x)\\)\n\\[\nP(X &lt; x) = P\\Big(Z &lt; \\frac{x-\\mu}{\\sigma}\\Big)\n\\] Calculate \\(P(X &lt; 10)\\), for \\(X \\sim N(\\mu = 8, \\sigma = 2)\\).\n\\[\nP(X &lt; 10) = P\\Big(Z &lt; \\frac{10-8}{2}\\Big) = P\\Big(Z &lt; 1\\Big)\n\\]\n\n# P(X &lt; 10) without using z-scores\npnorm(q = 10, mean = 8, sd = 2, lower.tail = TRUE)\n\n[1] 0.8413447\n\n# P(X &lt; 10) = P(Z &lt; 1) using z-scores\npnorm(q = 1, mean = 0, sd = 1, lower.tail = TRUE)\n\n[1] 0.8413447\n\n# this works too for a standard normal distribution:\npnorm(1)\n\n[1] 0.8413447"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-x-1",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-x-1",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "2.2 Probability calculations: \\(P(X > x)\\)",
+    "text": "2.2 Probability calculations: \\(P(X &gt; x)\\)\n\\[\nP(X &gt; x) = P\\Big(Z &gt; \\frac{x-\\mu}{\\sigma}\\Big) = 1-P\\Big(Z \\leq  \\frac{x-\\mu}{\\sigma}\\Big)\n\\] Calculate \\(P(X &gt; 10)\\), for \\(X \\sim N(\\mu = 8, \\sigma = 2)\\).\n\\[\nP(X &gt; 10) = P\\Big(Z &gt; \\frac{10-8}{2}\\Big) = 1 - P\\Big(Z \\leq 1\\Big)\n\\]\n\n# P(X &gt; 10) without using z-scores\n1 - pnorm(q = 10, mean = 8, sd = 2, lower.tail = TRUE)\n\n[1] 0.1586553\n\n# using lower.tail = FALSE:\npnorm(q = 10, mean = 8, sd = 2, lower.tail = FALSE)\n\n[1] 0.1586553\n\n# P(X &gt; 10) = P(Z &gt; 1) using z-scores\n1 - pnorm(q = 1, mean = 0, sd = 1, lower.tail = TRUE)\n\n[1] 0.1586553\n\n# using lower.tail = FALSE:\npnorm(q = 1, mean = 0, sd = 1, lower.tail = FALSE)\n\n[1] 0.1586553\n\n# this works too for a standard normal distribution:\npnorm(1, lower.tail = FALSE)\n\n[1] 0.1586553"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#normal-curve-figure-with-region-shaded-in",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#normal-curve-figure-with-region-shaded-in",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "2.3 Normal curve figure with region shaded in",
+    "text": "2.3 Normal curve figure with region shaded in\n\nR code to create a figure of the normal distribution curve with the probability region of interest shaded in.\n\nShade in the region representing \\(P(X&gt;10)\\), for \\(X \\sim N(\\mu = 8, \\sigma = 2)\\).\n\n# This code shades in the probability P(X &gt; 10) \n# for X ~ N(mu = 8, sigma = 2)\n# Note that I set the upper and lower bounds of the normal curve to be from mu - 4*sigma to mu + 4*sigma since these bounds include almost 100% of the area under the normal curve\n\nmu &lt;- 8   # specify the mean of the normal distribution\nstd &lt;- 2  # specify the standard deviation of the normal distribution\n\n# specify upper and lower bounds of shaded region below\nggplot(data.frame(x = c(mu-4*std, mu+4*std)), aes(x = x)) + \n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = std)) + \n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = std), \n          # specify the upper and lower bounds of the shaded region:\n                xlim = c(10, mu+4*std),             \n                geom = \"area\", fill = \"darkblue\") +\n  # the breaks values below might need to be adjusted \n  # if there are too many values showing on the x-axis\n  scale_x_continuous(breaks=(mu-4*std):(mu+4*std)) +\n  labs(y = \"\") +\n  labs(title = \"P(X &gt;10) for a N(mu=8, sigma=2) distribution\")"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-pxx-1",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-pxx-1",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "3.1 Probability calculations: \\(P(X=x)\\)",
+    "text": "3.1 Probability calculations: \\(P(X=x)\\)\n\n3.1.1 Using formula\nCalculate \\(P(X=3)\\) for a \\(Pois(\\lambda = 5)\\) distribution.\nIn general, for a Poisson random variable, \\[P(X=x) = \\frac{e^{-\\lambda}\\lambda^x}{x!}\\] Thus the \\(P(X=3)\\) for a \\(Pois(\\lambda = 5)\\) random variable is \\[P(X=3) = \\frac{e^{-5}5^3}{3!}\\] Calculate “directly” in R:\n\nexp(-5)*(5^3)/factorial(3)\n\n[1] 0.1403739\n\n\n\n\n3.1.2 Using dpois()\nCalculate \\(P(X=3)\\) for a \\(Pois(\\lambda = 5)\\) distribution.\n\n# P(X = 3) for Pois(lambda = 5) random variable\ndpois(x = 3, lambda = 5) \n\n[1] 0.1403739\n\n\n\nCalculate \\(P(X=x)\\) for many possible values \\(x\\) for a \\(Pois(\\lambda = 5)\\) distribution.\nThe possible values of \\(x\\) for a Poisson distribution are \\(x=0, 1, 2, \\ldots\\), i.e., \\(x\\) can be infinitely large.\nBelow we look at probabilities just for \\(x=0, 1, 2, \\ldots, 20\\).\n\n\n# P(X = x) for x=0,1,2,...,100 for Pois(\\lambda = 5) random variable\ndpois(x = 0:20, lambda = 5) \n\n [1] 6.737947e-03 3.368973e-02 8.422434e-02 1.403739e-01 1.754674e-01\n [6] 1.754674e-01 1.462228e-01 1.044449e-01 6.527804e-02 3.626558e-02\n[11] 1.813279e-02 8.242177e-03 3.434240e-03 1.320862e-03 4.717363e-04\n[16] 1.572454e-04 4.913920e-05 1.445271e-05 4.014640e-06 1.056484e-06\n[21] 2.641211e-07\n\n# although we didn't calculate the probabilities for all possible values of x, \n# below we see that the probabilities for the first 21 values almost add up to 1\nsum(dpois(x = 0:20, lambda = 5) )\n\n[1] 0.9999999\n\n\nIn the next section we visualize these probability distribution values."
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#histogram-of-probability-distribution-1",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#histogram-of-probability-distribution-1",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "3.2 Histogram of probability distribution",
+    "text": "3.2 Histogram of probability distribution\n\nFirst, create a data frame of the distribution’s possible x values and their respective probabilities:\n\n\n# Pois(lambda = 5) random variable\n\nPoisson_probs &lt;- data.frame(x_values = 0:20, \n                          px = dpois(x = 0:20, lambda = 5)) \nPoisson_probs\n\n   x_values           px\n1         0 6.737947e-03\n2         1 3.368973e-02\n3         2 8.422434e-02\n4         3 1.403739e-01\n5         4 1.754674e-01\n6         5 1.754674e-01\n7         6 1.462228e-01\n8         7 1.044449e-01\n9         8 6.527804e-02\n10        9 3.626558e-02\n11       10 1.813279e-02\n12       11 8.242177e-03\n13       12 3.434240e-03\n14       13 1.320862e-03\n15       14 4.717363e-04\n16       15 1.572454e-04\n17       16 4.913920e-05\n18       17 1.445271e-05\n19       18 4.014640e-06\n20       19 1.056484e-06\n21       20 2.641211e-07\n\n\n\n3.2.1 Histogram\nThe histogram below is actually created as a bar plot in ggplot:\n\nggplot(Poisson_probs, \n       aes(x = x_values, y = px))  + \n  geom_col(fill =\"cornflowerblue\") +\n  labs(x = \"x, number of successes\",\n       y = \"P(X=x)\") +\n  scale_x_continuous(breaks=0:20) +  # chose 20 since prob's are already tiny for this distribution\n  labs(title = \"Pois(lambda = 5) distribution\")"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-leq-x-1",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-leq-x-1",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "3.3 Probability calculations: \\(P(X \\leq x)\\)",
+    "text": "3.3 Probability calculations: \\(P(X \\leq x)\\)\n\\[P(X\\leq k) = \\sum_{x=0}^{k}\\frac{e^{-\\lambda}\\lambda^x}{x!}\\]\n\n3.3.1 Using formula\nCalculate \\(P(X \\leq 12)\\) for a \\(Pois(\\lambda = 5)\\) distribution:\n\\[P(X\\leq 12) = \\sum_{x=0}^{12} \\frac{e^{-5}5^x}{x!}\\] Calculate “directly” in R:\n\n# vector of x values whose probabilities need to be added\nx &lt;- 0:12  \n# vector of respective Poisson prob's of x values\n(Poisson_prob_0_12 &lt;- exp(-5)*(5^x)/factorial(x))\n\n [1] 0.006737947 0.033689735 0.084224337 0.140373896 0.175467370 0.175467370\n [7] 0.146222808 0.104444863 0.065278039 0.036265577 0.018132789 0.008242177\n[13] 0.003434240\n\n# add up the probabilities\nsum(Poisson_prob_0_12)\n\n[1] 0.9979811\n\n\n\n\n3.3.2 Using ppois()\n\n\\(P(X\\leq k)\\) = ppois(q = k, lambda = , lower.tail = TRUE)\n\nCalculate \\(P(X \\leq 12)\\) for a \\(Pois(\\lambda = 5)\\) distribution.\n\n# P(X &lt;= 3) for Pois(lambda = 5) random variable\nppois(q = 12, lambda = 5, lower.tail = TRUE)\n\n[1] 0.9979811\n\n# Note: setting TRUE for the lower.tail option is the default value\n# This means that if we do not specify this option, \n# it will give the same result as above:\nppois(q = 12, lambda = 5) \n\n[1] 0.9979811"
+  },
+  {
+    "objectID": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-geq-x-1",
+    "href": "slides_code/Probability_distributions_in_R_bsta511.html#probability-calculations-px-geq-x-1",
+    "title": "Probability distributions in R for BSTA 511/611",
+    "section": "3.4 Probability calculations: \\(P(X \\geq x)\\)",
+    "text": "3.4 Probability calculations: \\(P(X \\geq x)\\)\n\\[P(X\\geq k) = \\sum_{x=k}^{\\infty} \\frac{e^{-\\lambda}\\lambda^x}{x!}\\]\n\n3.4.1 Using formula\nCalculate \\(P(X \\geq 13)\\) for a \\(Pois(\\lambda = 5)\\) distribution:\n\\[P(X \\geq 13) = \\sum_{x=13}^{\\infty} \\frac{e^{-5}5^x}{x!}\\] Calculate “directly” in R:\n\n# vector of x values whose probabilities need to be added\nx &lt;- 13:100 # choose a big number; big enough so that the probabilities for the high x values below are tiny\n# vector of respective Poisson prob's of x values\n(Poisson_prob_13_100 &lt;- exp(-5)*(5^x)/factorial(x))\n\n [1] 1.320862e-03 4.717363e-04 1.572454e-04 4.913920e-05 1.445271e-05\n [6] 4.014640e-06 1.056484e-06 2.641211e-07 6.288597e-08 1.429227e-08\n[11] 3.107014e-09 6.472947e-10 1.294589e-10 2.489595e-11 4.610361e-12\n[16] 8.232787e-13 1.419446e-13 2.365743e-14 3.815715e-15 5.962055e-16\n[21] 9.033417e-17 1.328444e-17 1.897777e-18 2.635801e-19 3.561893e-20\n[26] 4.686701e-21 6.008592e-22 7.510739e-23 9.159438e-24 1.090409e-24\n[31] 1.267918e-25 1.440816e-26 1.600906e-27 1.740116e-28 1.851187e-29\n[36] 1.928320e-30 1.967673e-31 1.967673e-32 1.929091e-33 1.854895e-34\n[41] 1.749901e-35 1.620279e-36 1.472981e-37 1.315162e-38 1.153650e-39\n[46] 9.945263e-41 8.428189e-42 7.023491e-43 5.756959e-44 4.642709e-45\n[51] 3.684690e-46 2.878664e-47 2.214357e-48 1.677543e-49 1.251898e-50\n[56] 9.205131e-52 6.670385e-53 4.764561e-54 3.355324e-55 2.330086e-56\n[61] 1.595950e-57 1.078344e-58 7.188962e-60 4.729580e-61 3.071156e-62\n[66] 1.968690e-63 1.246006e-64 7.787539e-66 4.807123e-67 2.931172e-68\n[71] 1.765766e-69 1.051051e-70 6.182656e-72 3.594567e-73 2.065843e-74\n[76] 1.173775e-75 6.594239e-77 3.663466e-78 2.012894e-79 1.093964e-80\n[81] 5.881526e-82 3.128471e-83 1.646564e-84 8.575854e-86 4.420543e-87\n[86] 2.255379e-88 1.139080e-89 5.695402e-91\n\n# add up the probabilities\nsum(Poisson_prob_13_100)\n\n[1] 0.002018852\n\n\n\n\n3.4.2 Using ppois() with lower.tail = TRUE\nCalculate \\(P(X \\geq 13)\\) for a \\(Pois(\\lambda = 5)\\) distribution.\n\\[P(X \\geq 13) = 1 - P(X \\leq 12) =1 - \\sum_{x=0}^{12} \\frac{e^{-5}5^x}{x!}\\]\n\n# P(X &gt;= 13) for Pois(lambda = 5) random variable\n# P(X &gt;= 13) = 1 - P(X &lt;= 12)\n1 - ppois(q = 12, lambda = 5, lower.tail = TRUE)\n\n[1] 0.002018852\n\n\n\n\n3.4.3 Using ppois() with lower.tail = FALSE\n\n\\(P(X \\geq k) = P(X &gt; k)\\) = ppois(q = k, size = n, prob = p, lower.tail = FALSE)\n\nCalculate \\(P(X \\geq 13)\\) for a \\(Pois(\\lambda = 5)\\) distribution.\n\\[P(X \\geq 13) = P(X &gt; 12)\\]\n\n# P(X &gt;= 13) for Pois(lambda = 5) random variable\n# P(X &gt;= 13) = P(X &gt; 12)\nppois(q = 12, lambda = 5, lower.tail = FALSE)\n\n[1] 0.002018852"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html",
+    "href": "slides_code/Day08_bsta511_code.html",
+    "title": "Day 8: Variability in estimates",
+    "section": "",
+    "text": "Packages need to be loaded every time you restart R or render an Qmd file\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(ggridges)\nlibrary(janitor)\nlibrary(rstatix)\nlibrary(knitr)\nlibrary(gtsummary)\nlibrary(moderndive) # NEW!!\n\nset.seed(456)\n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#load-packages",
+    "href": "slides_code/Day08_bsta511_code.html#load-packages",
+    "title": "Day 8: Variability in estimates",
+    "section": "",
+    "text": "Packages need to be loaded every time you restart R or render an Qmd file\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(ggridges)\nlibrary(janitor)\nlibrary(rstatix)\nlibrary(knitr)\nlibrary(gtsummary)\nlibrary(moderndive) # NEW!!\n\nset.seed(456)\n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#moritzs-tip-of-the-day-add-a-code-pane-in-rstudio",
+    "href": "slides_code/Day08_bsta511_code.html#moritzs-tip-of-the-day-add-a-code-pane-in-rstudio",
+    "title": "Day 8: Variability in estimates",
+    "section": "MoRitz’s tip of the day: add a code pane in RStudio",
+    "text": "MoRitz’s tip of the day: add a code pane in RStudio\nDo you want to be able to view two code files side-by-side?\nYou can do that by adding a column to the RStudio layout.\nSee https://posit.co/blog/rstudio-1-4-preview-multiple-source-columns/ for more information."
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#getting-to-know-the-dataset-glimpse",
+    "href": "slides_code/Day08_bsta511_code.html#getting-to-know-the-dataset-glimpse",
+    "title": "Day 8: Variability in estimates",
+    "section": "Getting to know the dataset: glimpse()",
+    "text": "Getting to know the dataset: glimpse()\n\nglimpse(yrbss)  # from tidyverse package (dplyr)\n\nRows: 13,583\nColumns: 13\n$ age                      &lt;int&gt; 14, 14, 15, 15, 15, 15, 15, 14, 15, 15, 15, 1…\n$ gender                   &lt;chr&gt; \"female\", \"female\", \"female\", \"female\", \"fema…\n$ grade                    &lt;chr&gt; \"9\", \"9\", \"9\", \"9\", \"9\", \"9\", \"9\", \"9\", \"9\", …\n$ hispanic                 &lt;chr&gt; \"not\", \"not\", \"hispanic\", \"not\", \"not\", \"not\"…\n$ race                     &lt;chr&gt; \"Black or African American\", \"Black or Africa…\n$ height                   &lt;dbl&gt; NA, NA, 1.73, 1.60, 1.50, 1.57, 1.65, 1.88, 1…\n$ weight                   &lt;dbl&gt; NA, NA, 84.37, 55.79, 46.72, 67.13, 131.54, 7…\n$ helmet.12m               &lt;chr&gt; \"never\", \"never\", \"never\", \"never\", \"did not …\n$ text.while.driving.30d   &lt;chr&gt; \"0\", NA, \"30\", \"0\", \"did not drive\", \"did not…\n$ physically.active.7d     &lt;int&gt; 4, 2, 7, 0, 2, 1, 4, 4, 5, 0, 0, 0, 4, 7, 7, …\n$ hours.tv.per.school.day  &lt;chr&gt; \"5+\", \"5+\", \"5+\", \"2\", \"3\", \"5+\", \"5+\", \"5+\",…\n$ strength.training.7d     &lt;int&gt; 0, 0, 0, 0, 1, 0, 2, 0, 3, 0, 3, 0, 0, 7, 7, …\n$ school.night.hours.sleep &lt;chr&gt; \"8\", \"6\", \"&lt;5\", \"6\", \"9\", \"8\", \"9\", \"6\", \"&lt;5\"…"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#height-weight-variables",
+    "href": "slides_code/Day08_bsta511_code.html#height-weight-variables",
+    "title": "Day 8: Variability in estimates",
+    "section": "Height & weight variables",
+    "text": "Height & weight variables\n\nyrbss %&gt;% \n  select(height, weight) %&gt;% \n  summary()\n\n     height          weight      \n Min.   :1.270   Min.   : 29.94  \n 1st Qu.:1.600   1st Qu.: 56.25  \n Median :1.680   Median : 64.41  \n Mean   :1.691   Mean   : 67.91  \n 3rd Qu.:1.780   3rd Qu.: 76.20  \n Max.   :2.110   Max.   :180.99  \n NA's   :1004    NA's   :1004    \n\n\n\nggplot(data = yrbss, \n       aes(x = height)) +\n  geom_histogram() #&lt;&lt;\n\nWarning: Removed 1004 rows containing non-finite outside the scale range\n(`stat_bin()`)."
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#transform-height-weight-from-metric-to-to-standard",
+    "href": "slides_code/Day08_bsta511_code.html#transform-height-weight-from-metric-to-to-standard",
+    "title": "Day 8: Variability in estimates",
+    "section": "Transform height & weight from metric to to standard",
+    "text": "Transform height & weight from metric to to standard\nAlso, drop missing values and add a column of id values\n\nyrbss2 &lt;- yrbss %&gt;%                 # save new dataset with new name\n  mutate(                           # add variables for \n    height.ft = 3.28084*height,     #     height in feet\n    weight.lb = 2.20462*weight      #     weight in pounds\n  ) %&gt;% \n  drop_na(height.ft, weight.lb) %&gt;% # drop rows w/ missing height/weight values\n  mutate(id = 1:nrow(.)) %&gt;%        # add id column\n  select(id, height.ft, weight.lb)  # restrict dataset to columns of interest\n\nhead(yrbss2)  \n\n  id height.ft weight.lb\n1  1  5.675853  186.0038\n2  2  5.249344  122.9957\n3  3  4.921260  102.9998\n4  4  5.150919  147.9961\n5  5  5.413386  289.9957\n6  6  6.167979  157.0130\n\ndim(yrbss2)\n\n[1] 12579     3\n\n# number of rows deleted that had missing values for height and/or weight:\nnrow(yrbss) - nrow(yrbss2) \n\n[1] 1004"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#yrbss2-summary",
+    "href": "slides_code/Day08_bsta511_code.html#yrbss2-summary",
+    "title": "Day 8: Variability in estimates",
+    "section": "yrbss2 summary",
+    "text": "yrbss2 summary\n\nsummary(yrbss2)\n\n       id          height.ft       weight.lb     \n Min.   :    1   Min.   :4.167   Min.   : 66.01  \n 1st Qu.: 3146   1st Qu.:5.249   1st Qu.:124.01  \n Median : 6290   Median :5.512   Median :142.00  \n Mean   : 6290   Mean   :5.549   Mean   :149.71  \n 3rd Qu.: 9434   3rd Qu.:5.840   3rd Qu.:167.99  \n Max.   :12579   Max.   :6.923   Max.   :399.01  \n\n\nAnother summary:\n\nyrbss2 %&gt;% \n  get_summary_stats(type = \"mean_sd\") %&gt;% \n  kable()\n\n\n\n\nvariable\nn\nmean\nsd\n\n\n\n\nid\n12579\n6290.000\n3631.389\n\n\nheight.ft\n12579\n5.549\n0.343\n\n\nweight.lb\n12579\n149.708\n37.254"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#random-sample-of-size-n-5-from-yrbss2",
+    "href": "slides_code/Day08_bsta511_code.html#random-sample-of-size-n-5-from-yrbss2",
+    "title": "Day 8: Variability in estimates",
+    "section": "Random sample of size n = 5 from yrbss2",
+    "text": "Random sample of size n = 5 from yrbss2\nTake a random sample of size n = 5 from yrbss2:\n\nlibrary(moderndive)\nsamp_n5_rep1 &lt;- yrbss2 %&gt;%\n  rep_sample_n(size = 5, \n               reps = 1,\n               replace = FALSE)\nsamp_n5_rep1\n\n# A tibble: 5 × 4\n# Groups:   replicate [1]\n  replicate    id height.ft weight.lb\n      &lt;int&gt; &lt;int&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n1         1  5869      5.15      145.\n2         1  6694      5.41      127.\n3         1  2517      5.74      130.\n4         1  5372      6.07      180.\n5         1  5403      6.07      163.\n\n\nCalculate the mean of the random sample:\n\nmeans_hght_samp_n5_rep1 &lt;- \n  samp_n5_rep1 %&gt;% \n  summarise(mean_height = mean(height.ft))\n\nmeans_hght_samp_n5_rep1\n\n# A tibble: 1 × 2\n  replicate mean_height\n      &lt;int&gt;       &lt;dbl&gt;\n1         1        5.69\n\n\nWould we get the same mean height if we took another sample?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#random-samples-of-size-n-5-from-yrbss2",
+    "href": "slides_code/Day08_bsta511_code.html#random-samples-of-size-n-5-from-yrbss2",
+    "title": "Day 8: Variability in estimates",
+    "section": "100 random samples of size n = 5 from yrbss2",
+    "text": "100 random samples of size n = 5 from yrbss2\nTake 100 random samples of size n = 5 from yrbss2:\n\nsamp_n5_rep100 &lt;- yrbss2 %&gt;%\n  rep_sample_n(size = 5, \n               reps = 100,\n               replace = FALSE)\nsamp_n5_rep100\n\n# A tibble: 500 × 4\n# Groups:   replicate [100]\n   replicate    id height.ft weight.lb\n       &lt;int&gt; &lt;int&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1         1  6483      5.51     145. \n 2         1  9899      4.92      90.0\n 3         1  6103      5.68     118. \n 4         1  2702      5.68     150. \n 5         1 11789      5.35     115. \n 6         2 10164      5.51     140. \n 7         2  5807      5.41     215. \n 8         2  9382      5.15      98.0\n 9         2  4904      6.00     196. \n10         2   229      6.07     101. \n# ℹ 490 more rows\n\n\nCalculate the mean for each of the 100 random samples:\n\nmeans_hght_samp_n5_rep100 &lt;- \n  samp_n5_rep100 %&gt;% \n  group_by(replicate) %&gt;% \n  summarise(mean_height = mean(height.ft))\n\nmeans_hght_samp_n5_rep100\n\n# A tibble: 100 × 2\n   replicate mean_height\n       &lt;int&gt;       &lt;dbl&gt;\n 1         1        5.43\n 2         2        5.63\n 3         3        5.34\n 4         4        5.70\n 5         5        5.90\n 6         6        5.37\n 7         7        5.49\n 8         8        5.60\n 9         9        5.50\n10        10        5.68\n# ℹ 90 more rows\n\n\nHow close are the mean heights for each of the 100 random samples?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#distribution-of-100-sample-mean-heights-n-5",
+    "href": "slides_code/Day08_bsta511_code.html#distribution-of-100-sample-mean-heights-n-5",
+    "title": "Day 8: Variability in estimates",
+    "section": "Distribution of 100 sample mean heights (n = 5)",
+    "text": "Distribution of 100 sample mean heights (n = 5)\nDescribe the distribution shape.\n\nggplot(\n  means_hght_samp_n5_rep100, \n  aes(x = mean_height)) + \n  geom_histogram()\n\n\n\n\nCalculate the mean and SD of the 100 mean heights from the 100 samples:\n\nstats_means_hght_samp_n5_rep100 &lt;- \n  means_hght_samp_n5_rep100 %&gt;% \n  summarise(\n   mean_mean_height = mean(mean_height),\n   sd_mean_height = sd(mean_height)\n   )\nstats_means_hght_samp_n5_rep100\n\n# A tibble: 1 × 2\n  mean_mean_height sd_mean_height\n             &lt;dbl&gt;          &lt;dbl&gt;\n1             5.58          0.150\n\n\nIs the mean of the means close to the “center” of the distribution?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#samples-of-size-n-5-from-yrbss2",
+    "href": "slides_code/Day08_bsta511_code.html#samples-of-size-n-5-from-yrbss2",
+    "title": "Day 8: Variability in estimates",
+    "section": "10,000 samples of size n = 5 from yrbss2",
+    "text": "10,000 samples of size n = 5 from yrbss2\nTake 10,000 random samples of size\nn = 5 from yrbss2:\n\nsamp_n5_rep10000 &lt;- yrbss2 %&gt;%\n  rep_sample_n(size = 5, \n               reps = 10000,\n               replace = FALSE)\nsamp_n5_rep10000\n\n# A tibble: 50,000 × 4\n# Groups:   replicate [10,000]\n   replicate    id height.ft weight.lb\n       &lt;int&gt; &lt;int&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1         1  6383      5.35      126.\n 2         1  4019      5.41      107.\n 3         1  4856      5.25      135.\n 4         1  9988      5.58      120.\n 5         1  2245      6.17      270.\n 6         2 10580      5.68      155.\n 7         2  2254      5.84      159.\n 8         2  8081      5.09      110.\n 9         2 10194      5.35      115.\n10         2  7689      5.35      135.\n# ℹ 49,990 more rows\n\n\nCalculate the mean for each of the 10,000 random samples:\n\nmeans_hght_samp_n5_rep10000 &lt;- \n  samp_n5_rep10000 %&gt;% \n  group_by(replicate) %&gt;% \n  summarise(mean_height = \n            mean(height.ft))\n\nmeans_hght_samp_n5_rep10000\n\n# A tibble: 10,000 × 2\n   replicate mean_height\n       &lt;int&gt;       &lt;dbl&gt;\n 1         1        5.55\n 2         2        5.46\n 3         3        5.49\n 4         4        5.60\n 5         5        5.47\n 6         6        5.83\n 7         7        5.68\n 8         8        5.47\n 9         9        5.37\n10        10        5.15\n# ℹ 9,990 more rows\n\n\nHow close are the mean heights for each of the 10,000 random samples?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#distribution-of-10000-sample-mean-heights-n-5",
+    "href": "slides_code/Day08_bsta511_code.html#distribution-of-10000-sample-mean-heights-n-5",
+    "title": "Day 8: Variability in estimates",
+    "section": "Distribution of 10,000 sample mean heights (n = 5)",
+    "text": "Distribution of 10,000 sample mean heights (n = 5)\nDescribe the distribution shape.\n\nggplot(\n  means_hght_samp_n5_rep10000, \n  aes(x = mean_height)) + \n  geom_histogram()\n\n\n\n\nCalculate the mean and SD of the 10,000 mean heights from the 10,000 samples:\n\nstats_means_hght_samp_n5_rep10000 &lt;- \n  means_hght_samp_n5_rep10000 %&gt;% \n  summarise(\n   mean_mean_height=mean(mean_height),\n   sd_mean_height = sd(mean_height)\n   )\nstats_means_hght_samp_n5_rep10000\n\n# A tibble: 1 × 2\n  mean_mean_height sd_mean_height\n             &lt;dbl&gt;          &lt;dbl&gt;\n1             5.55          0.153\n\n\nIs the mean of the means close to the “center” of the distribution?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#samples-of-size-n-30-from-yrbss2",
+    "href": "slides_code/Day08_bsta511_code.html#samples-of-size-n-30-from-yrbss2",
+    "title": "Day 8: Variability in estimates",
+    "section": "10,000 samples of size n = 30 from yrbss2",
+    "text": "10,000 samples of size n = 30 from yrbss2\nTake 10,000 random samples of size\nn = 30 from yrbss2:\n\nsamp_n30_rep10000 &lt;- yrbss2 %&gt;%\n  rep_sample_n(size = 30, \n               reps = 10000,\n               replace = FALSE)\nsamp_n30_rep10000\n\n# A tibble: 300,000 × 4\n# Groups:   replicate [10,000]\n   replicate    id height.ft weight.lb\n       &lt;int&gt; &lt;int&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1         1  3871      5.25      115.\n 2         1 12090      5.15      125.\n 3         1   241      5.58      119.\n 4         1  4570      5.58      140.\n 5         1  4131      5.35      143.\n 6         1 11513      5.35      135.\n 7         1  9663      5.25      125.\n 8         1  3789      5.25      160.\n 9         1   442      5.15      130.\n10         1 11528      5.51      200.\n# ℹ 299,990 more rows\n\n\nCalculate the mean for each of the 10,000 random samples:\n\nmeans_hght_samp_n30_rep10000 &lt;- \n  samp_n30_rep10000 %&gt;% \n  group_by(replicate) %&gt;% \n  summarise(mean_height = \n            mean(height.ft))\n\nmeans_hght_samp_n30_rep10000\n\n# A tibble: 10,000 × 2\n   replicate mean_height\n       &lt;int&gt;       &lt;dbl&gt;\n 1         1        5.48\n 2         2        5.63\n 3         3        5.46\n 4         4        5.46\n 5         5        5.51\n 6         6        5.54\n 7         7        5.56\n 8         8        5.51\n 9         9        5.51\n10        10        5.50\n# ℹ 9,990 more rows\n\n\nHow close are the mean heights for each of the 10,000 random samples?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#distribution-of-10000-sample-mean-heights-n-30",
+    "href": "slides_code/Day08_bsta511_code.html#distribution-of-10000-sample-mean-heights-n-30",
+    "title": "Day 8: Variability in estimates",
+    "section": "Distribution of 10,000 sample mean heights (n = 30)",
+    "text": "Distribution of 10,000 sample mean heights (n = 30)\nDescribe the distribution shape.\n\nggplot(\n  means_hght_samp_n30_rep10000, \n  aes(x = mean_height)) + \n  geom_histogram()\n\n\n\n\nCalculate the mean and SD of the 10,000 mean heights from the 10,000 samples:\n\nstats_means_hght_samp_n30_rep10000&lt;- \n  means_hght_samp_n30_rep10000 %&gt;% \n  summarise(\n   mean_mean_height=mean(mean_height),\n   sd_mean_height = sd(mean_height)\n   )\nstats_means_hght_samp_n30_rep10000\n\n# A tibble: 1 × 2\n  mean_mean_height sd_mean_height\n             &lt;dbl&gt;          &lt;dbl&gt;\n1             5.55         0.0623\n\n\nIs the mean of the means close to the “center” of the distribution?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#compare-distributions-of-10000-sample-mean-heights-when-n-5-left-vs.-n-30-right",
+    "href": "slides_code/Day08_bsta511_code.html#compare-distributions-of-10000-sample-mean-heights-when-n-5-left-vs.-n-30-right",
+    "title": "Day 8: Variability in estimates",
+    "section": "Compare distributions of 10,000 sample mean heights when n = 5 (left) vs. n = 30 (right)",
+    "text": "Compare distributions of 10,000 sample mean heights when n = 5 (left) vs. n = 30 (right)\nHow are the center, shape, and spread similar and/or different?\n\n\n\n\n\n# A tibble: 1 × 2\n  mean_mean_height sd_mean_height\n             &lt;dbl&gt;          &lt;dbl&gt;\n1             5.55          0.153\n\n\n\n\n\n\n\n# A tibble: 1 × 2\n  mean_mean_height sd_mean_height\n             &lt;dbl&gt;          &lt;dbl&gt;\n1             5.55         0.0623"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#sampling-high-schoolers-weights",
+    "href": "slides_code/Day08_bsta511_code.html#sampling-high-schoolers-weights",
+    "title": "Day 8: Variability in estimates",
+    "section": "Sampling high schoolers’ weights",
+    "text": "Sampling high schoolers’ weights\nWhich figure is which?\n\nPopulation distribution of weights\nSampling distribution of mean weights when \\(n=5\\)\nSampling distribution of mean weights when \\(n=30\\).\n\nA\n\n\n\n\n\nB\n\n\n\n\n\nC"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#the-sampling-distribution-of-the-mean",
+    "href": "slides_code/Day08_bsta511_code.html#the-sampling-distribution-of-the-mean",
+    "title": "Day 8: Variability in estimates",
+    "section": "The sampling distribution of the mean",
+    "text": "The sampling distribution of the mean\n\nThe sampling distribution of the mean is the distribution of sample means calculated from repeated random samples of the same size from the same population\nOur simulations show approximations of the sampling distribution of the mean for various sample sizes\nThe theoretical sampling distribution is based on all possible samples of a given sample size \\(n\\).\n\n\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_bar()`).\n\n\n\n\n\n\n\nWarning: Removed 2 rows containing missing values or values outside the scale range\n(`geom_bar()`)."
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#the-central-limit-theorem-clt",
+    "href": "slides_code/Day08_bsta511_code.html#the-central-limit-theorem-clt",
+    "title": "Day 8: Variability in estimates",
+    "section": "The Central Limit Theorem (CLT)",
+    "text": "The Central Limit Theorem (CLT)\n\nFor “large” sample sizes ( \\(n\\geq 30\\) ),\n\nthe sampling distribution of the sample mean\ncan be approximated by a normal distribution,with\n\nmean equal to the population mean value \\(\\mu\\), and\nstandard deviation \\(\\frac{\\sigma}{\\sqrt{n}}\\)\n\n\nFor small sample sizes, if the population is known to be normally distributed, then\n\nthe sampling distribution of the sample mean\nis a normal distribution, with\n\nmean equal to the population mean value \\(\\mu\\), and\nstandard deviation \\(\\frac{\\sigma}{\\sqrt{n}}\\)"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#the-cutest-statistics-video-on-youtube",
+    "href": "slides_code/Day08_bsta511_code.html#the-cutest-statistics-video-on-youtube",
+    "title": "Day 8: Variability in estimates",
+    "section": "The cutest statistics video on YouTube",
+    "text": "The cutest statistics video on YouTube\n\nBunnies, Dragons and the ‘Normal’ World: Central Limit Theorem\n\nCreature Cast from the New York Times\nhttps://www.youtube.com/watch?v=jvoxEYmQHNM&feature=youtu.be"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#sampling-distribution-of-mean-heights-when-n-30",
+    "href": "slides_code/Day08_bsta511_code.html#sampling-distribution-of-mean-heights-when-n-30",
+    "title": "Day 8: Variability in estimates",
+    "section": "Sampling distribution of mean heights when n = 30",
+    "text": "Sampling distribution of mean heights when n = 30\n\nggplot(\n  means_hght_samp_n30_rep10000, \n  aes(x = mean_height)) + \n  geom_histogram()\n\n\n\n\nCLT tells us that we can model the sampling distribution of mean heights using a normal distribution.\n\nPlot of theoretical sampling distribution\n\nmu &lt;- 5.55\nSE &lt;- 0.34/sqrt(30)\nsig &lt;- round(SE, 2)\n\ngg_samp_dist_heights &lt;- ggplot(data.frame(x = c(mu-4*sig, mu+4*sig)), aes(x = x)) + \n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig)) + \n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu-4*sig, mu-2*sig), \n                geom = \"area\", fill = \"darkblue\") +\n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu+2*sig, mu+4*sig), \n                geom = \"area\", fill = \"darkblue\") +\n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu-2*sig, mu-1*sig), \n                geom = \"area\", fill = \"darkgreen\") +\n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu+1*sig, mu+2*sig), \n                geom = \"area\", fill = \"darkgreen\")+\n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu-1*sig, mu+1*sig), \n                geom = \"area\", fill = \"orange\") +\n  scale_x_continuous(name =\"mean height (ft)\", \n                    breaks=c(mu-2*sig,mu-1*sig,mu, mu+1*sig, mu+2*sig)) +\n  labs(title = \"Sampling distribution\", y = \"\") +\n  scale_y_continuous(labels = NULL, breaks = NULL)\n\ngg_samp_dist_heights   \n\n\n\n\n\n\nMean and SD of population\n\n(mean_height.ft&lt;-mean(yrbss2$height.ft))\n\n[1] 5.548691\n\n(sd_height.ft &lt;- sd(yrbss2$height.ft))\n\n[1] 0.3434949\n\nsd_height.ft/sqrt(30)\n\n[1] 0.06271331\n\n\n\n\nMean and SD of simulated sampling distribution\n\nstats_means_hght_samp_n30_rep10000&lt;- \n  means_hght_samp_n30_rep10000 %&gt;% \n  summarise(\n   mean_mean_height=mean(mean_height),\n   sd_mean_height = sd(mean_height)\n   )\nstats_means_hght_samp_n30_rep10000\n\n# A tibble: 1 × 2\n  mean_mean_height sd_mean_height\n             &lt;dbl&gt;          &lt;dbl&gt;\n1             5.55         0.0623"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#why-is-the-mean-mu-the-standard-error-fracsigmasqrtn",
+    "href": "slides_code/Day08_bsta511_code.html#why-is-the-mean-mu-the-standard-error-fracsigmasqrtn",
+    "title": "Day 8: Variability in estimates",
+    "section": "Why is the mean \\(\\mu\\) & the standard error \\(\\frac{\\sigma}{\\sqrt{n}}\\) ?",
+    "text": "Why is the mean \\(\\mu\\) & the standard error \\(\\frac{\\sigma}{\\sqrt{n}}\\) ?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#applying-the-clt",
+    "href": "slides_code/Day08_bsta511_code.html#applying-the-clt",
+    "title": "Day 8: Variability in estimates",
+    "section": "Applying the CLT",
+    "text": "Applying the CLT\nWhat is the probability that for a random sample of 30 high schoolers, that their mean height is greater than 5.6 ft?"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#class-discussion",
+    "href": "slides_code/Day08_bsta511_code.html#class-discussion",
+    "title": "Day 8: Variability in estimates",
+    "section": "Class Discussion",
+    "text": "Class Discussion\n\nSlide 21: match figures to distribution (Sampling high schoolers’ weights)\n\nProblems from Homework 4:\n\nR1: Youth weights (YRBSS)\nBook exercise: 4.2\nNon-book exercise: Ethan Allen"
+  },
+  {
+    "objectID": "slides_code/Day08_bsta511_code.html#footnotes",
+    "href": "slides_code/Day08_bsta511_code.html#footnotes",
+    "title": "Day 8: Variability in estimates",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nYouth Risk Behavior Surveillance System https://www.cdc.gov/healthyyouth/data/yrbs/index.htm (YRBSS)↩︎"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html",
+    "href": "slides_code/Day09_bsta511_code.html",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "",
+    "text": "Packages need to be loaded every time you restart R or render an Qmd file\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(ggridges)\nlibrary(janitor)\nlibrary(rstatix)\nlibrary(knitr)\nlibrary(gtsummary)\nlibrary(moderndive) # NEW!!\n\nset.seed(456)\n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#load-packages",
+    "href": "slides_code/Day09_bsta511_code.html#load-packages",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "",
+    "text": "Packages need to be loaded every time you restart R or render an Qmd file\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(ggridges)\nlibrary(janitor)\nlibrary(rstatix)\nlibrary(knitr)\nlibrary(gtsummary)\nlibrary(moderndive) # NEW!!\n\nset.seed(456)\n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#day-8-section-4.1",
+    "href": "slides_code/Day09_bsta511_code.html#day-8-section-4.1",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Day 8: Section 4.1",
+    "text": "Day 8: Section 4.1\n\nSampling from a population\n\npopulation parameters vs. point estimates\nsampling variation\n\n\n\n\nSampling distribution of a mean\nCentral Limit Theorem"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#day-9-section-4.2",
+    "href": "slides_code/Day09_bsta511_code.html#day-9-section-4.2",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Day 9: Section 4.2",
+    "text": "Day 9: Section 4.2\nWhat are Confidence Intervals?\n\nHow to calculate CI’s?\nHow to interpret & NOT interpret CI’s?\n\n\n\nWhat if we don’t know \\(\\sigma\\)?\nStudent’s t-distribution"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#transform-height-weight-from-metric-to-to-standard",
+    "href": "slides_code/Day09_bsta511_code.html#transform-height-weight-from-metric-to-to-standard",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Transform height & weight from metric to to standard",
+    "text": "Transform height & weight from metric to to standard\nAlso, drop missing values and add a column of id values\n\nyrbss2 &lt;- yrbss %&gt;%                 # save new dataset with new name\n  mutate(                           # add variables for \n    height.ft = 3.28084*height,     #     height in feet\n    weight.lb = 2.20462*weight      #     weight in pounds\n  ) %&gt;% \n  drop_na(height.ft, weight.lb) %&gt;% # drop rows w/ missing height/weight values\n  mutate(id = 1:nrow(.)) %&gt;%        # add id column\n  select(id, height.ft, weight.lb)  # restrict dataset to columns of interest\n\nhead(yrbss2)  \n\n  id height.ft weight.lb\n1  1  5.675853  186.0038\n2  2  5.249344  122.9957\n3  3  4.921260  102.9998\n4  4  5.150919  147.9961\n5  5  5.413386  289.9957\n6  6  6.167979  157.0130\n\ndim(yrbss2)\n\n[1] 12579     3\n\n# number of rows deleted that had missing values for height and/or weight:\nnrow(yrbss) - nrow(yrbss2) \n\n[1] 1004"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#yrbss2-stats-for-height-in-feet",
+    "href": "slides_code/Day09_bsta511_code.html#yrbss2-stats-for-height-in-feet",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "yrbss2: stats for height in feet",
+    "text": "yrbss2: stats for height in feet\n\nsummary(yrbss2)\n\n       id          height.ft       weight.lb     \n Min.   :    1   Min.   :4.167   Min.   : 66.01  \n 1st Qu.: 3146   1st Qu.:5.249   1st Qu.:124.01  \n Median : 6290   Median :5.512   Median :142.00  \n Mean   : 6290   Mean   :5.549   Mean   :149.71  \n 3rd Qu.: 9434   3rd Qu.:5.840   3rd Qu.:167.99  \n Max.   :12579   Max.   :6.923   Max.   :399.01  \n\n(mean_height.ft &lt;- mean(yrbss2$height.ft))\n\n[1] 5.548691\n\n(sd_height.ft &lt;- sd(yrbss2$height.ft))\n\n[1] 0.3434949"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#take-10000-samples-of-size-n-30-from-yrbss2",
+    "href": "slides_code/Day09_bsta511_code.html#take-10000-samples-of-size-n-30-from-yrbss2",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Take 10,000 samples of size n = 30 from yrbss2",
+    "text": "Take 10,000 samples of size n = 30 from yrbss2\n\nsamp_n30_rep10000 &lt;- yrbss2 %&gt;%\n  rep_sample_n(size = 30, \n               reps = 10000,\n               replace = FALSE)\nsamp_n30_rep10000\n\n# A tibble: 300,000 × 4\n# Groups:   replicate [10,000]\n   replicate    id height.ft weight.lb\n       &lt;int&gt; &lt;int&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1         1  5869      5.15      145.\n 2         1  6694      5.41      127.\n 3         1  2517      5.74      130.\n 4         1  5372      6.07      180.\n 5         1  5403      6.07      163.\n 6         1  2329      6.07      182.\n 7         1  8863      5.25      125.\n 8         1  8058      5.84      135.\n 9         1   335      6.17      235.\n10         1  4698      5.58      124.\n# ℹ 299,990 more rows\n\n\n\nmeans_hght_samp_n30_rep10000 &lt;- \n  samp_n30_rep10000 %&gt;% \n  group_by(replicate) %&gt;% \n  summarise(mean_height = \n            mean(height.ft))\n\nmeans_hght_samp_n30_rep10000\n\n# A tibble: 10,000 × 2\n   replicate mean_height\n       &lt;int&gt;       &lt;dbl&gt;\n 1         1        5.59\n 2         2        5.59\n 3         3        5.51\n 4         4        5.65\n 5         5        5.64\n 6         6        5.57\n 7         7        5.61\n 8         8        5.60\n 9         9        5.52\n10        10        5.64\n# ℹ 9,990 more rows"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#simulated-sampling-distribution-for-n-30-using-10000-sample-mean-heights",
+    "href": "slides_code/Day09_bsta511_code.html#simulated-sampling-distribution-for-n-30-using-10000-sample-mean-heights",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Simulated sampling distribution for n = 30 using 10,000 sample mean heights",
+    "text": "Simulated sampling distribution for n = 30 using 10,000 sample mean heights\n\nggplot(\n  means_hght_samp_n30_rep10000, \n  aes(x = mean_height)) + \n  geom_histogram()\n\n\n\n\nCLT tells us that we can model the sampling distribution of mean heights using a normal distribution.\n\nmu &lt;- 5.55\nSE &lt;- 0.34/sqrt(30)\nsig &lt;- round(SE, 2)\n\nggplot(data.frame(x = c(mu-4*sig, mu+4*sig)), aes(x = x)) + \n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig)) + \n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu-4*sig, mu-2*sig), \n                geom = \"area\", fill = \"darkblue\") +\n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu+2*sig, mu+4*sig), \n                geom = \"area\", fill = \"darkblue\") +\n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu-2*sig, mu-1*sig), \n                geom = \"area\", fill = \"darkgreen\") +\n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu+1*sig, mu+2*sig), \n                geom = \"area\", fill = \"darkgreen\")+\n  stat_function(fun = dnorm, \n                args = list(mean = mu, sd = sig), \n                xlim = c(mu-1*sig, mu+1*sig), \n                geom = \"area\", fill = \"orange\") +\n  scale_x_continuous(name =\"mean height (ft)\", \n                    breaks=c(mu-2*sig,mu-1*sig,mu, mu+1*sig, mu+2*sig))  +\n  labs(title = \"Sampling distribution\", y = \"\") +\n  scale_y_continuous(labels = NULL, breaks = NULL)"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#example-ci-for-mean-height",
+    "href": "slides_code/Day09_bsta511_code.html#example-ci-for-mean-height",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Example: CI for mean height",
+    "text": "Example: CI for mean height\n\nA random sample of 30 high schoolers has mean height 5.6 ft.\nFind the 95% confidence interval for the population mean, assuming that the population standard deviation is 0.34 ft."
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#how-to-interpret-a-ci",
+    "href": "slides_code/Day09_bsta511_code.html#how-to-interpret-a-ci",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "How to interpret a CI?",
+    "text": "How to interpret a CI?\nSimulating Confidence Intervals: http://www.rossmanchance.com/applets/ConfSim.html\nActual interpretation:\n\nIf we were to\n\nrepeatedly take random samples from a population and\ncalculate a 95% CI for each random sample,\n\nthen we would expect 95% of our CI’s to contain the true population parameter \\(\\mu\\).\n\nWhat we typically write as “shorthand”:\n\nWe are 95% confident that (the 95% confidence interval) captures the value of the population parameter.\n\nWRONG interpretation:\n\nThere is a 95% chance that (the 95% confidence interval) captures the value of the population parameter.\n\nFor one CI on its own, it either does or doesn’t contain the population parameter with probability 0 or 1. We just don’t know which!"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#interpretation-of-our-heights-ci",
+    "href": "slides_code/Day09_bsta511_code.html#interpretation-of-our-heights-ci",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Interpretation of our heights CI",
+    "text": "Interpretation of our heights CI\nCorrect interpretation:\n\nWe are 95% confident that the mean height for high schoolers is between 5.43 and 5.67 feet.\n\nWRONG:\n\nThere is a 95% chance that the mean height for high schoolers is between 5.43 and 5.67 feet."
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#students-t-distribution",
+    "href": "slides_code/Day09_bsta511_code.html#students-t-distribution",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Student’s t-distribution",
+    "text": "Student’s t-distribution\nThe Student’s t-distribution:\n\nIs bell shaped and symmetric with mean = 0.\nIts tails are a thicker than that of a normal distribution\n\nThe “thickness” depends on its degrees of freedom: \\(df = n–1\\) , where n = sample size.\n\nAs the degrees of freedom (sample size) increase,\n\nthe tails are less thick, and\nthe t-distribution is more like a normal distribution\nin theory, with an infinite sample size the t-distribution is a normal distribution."
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#calculating-the-ci-for-the-population-mean-using-s",
+    "href": "slides_code/Day09_bsta511_code.html#calculating-the-ci-for-the-population-mean-using-s",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Calculating the CI for the population mean using \\(s\\)",
+    "text": "Calculating the CI for the population mean using \\(s\\)\nCI for \\(\\mu\\):\n\\[\\bar{x} \\pm t^*\\cdot\\frac{s}{\\sqrt{n}}\\]\nwhere \\(t^*\\) is determined by the t-distribution and dependent on the\ndf = \\(n-1\\) and the confidence level\n\nqt gives the quartiles for a t-distribution. Need to specify\n\nthe percent under the curve to the left of the quartile\nthe degrees of freedom = n-1\n\nNote in the R output to the right that \\(t^*\\) gets closer to 1.96 as the sample size increases.\n\n\nqt(.975, df=9)  # df = n-1\n\n[1] 2.262157\n\nqt(.975, df=49)\n\n[1] 2.009575\n\nqt(.975, df=99)\n\n[1] 1.984217\n\nqt(.975, df=999)\n\n[1] 1.962341"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#example-ci-for-mean-height-revisited",
+    "href": "slides_code/Day09_bsta511_code.html#example-ci-for-mean-height-revisited",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Example: CI for mean height (revisited)",
+    "text": "Example: CI for mean height (revisited)\n\nA random sample of 30 high schoolers has mean height 5.6 ft and standard deviation 0.34 ft.\nFind the 95% confidence interval for the population mean."
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#textbooks-rule-of-thumb",
+    "href": "slides_code/Day09_bsta511_code.html#textbooks-rule-of-thumb",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "Textbook’s rule of thumb",
+    "text": "Textbook’s rule of thumb\n\n(Ch 4) If \\(n \\geq 30\\) and population distribution not strongly skewed:\n\nUse normal distribution\nNo matter if using \\(\\sigma\\) or \\(s\\) for the \\(SE\\)\nIf there is skew or some large outliers, then need \\(n \\geq 50\\)\n\n(Ch 5) If \\(n &lt; 30\\) and data approximately symmetric with no large outliers:\n\nUse Student’s t-distribution"
+  },
+  {
+    "objectID": "slides_code/Day09_bsta511_code.html#bsta-511-rule-of-thumb",
+    "href": "slides_code/Day09_bsta511_code.html#bsta-511-rule-of-thumb",
+    "title": "Day 9: Confidence intervals (4.2)",
+    "section": "BSTA 511 rule of thumb",
+    "text": "BSTA 511 rule of thumb\n\nUse normal distribution ONLY if know \\(\\sigma\\)\n\nIf using \\(s\\) for the \\(SE\\), then use the Student’s t-distribution\n\n\nFor either case, can apply if either\n\n\\(n \\geq 30\\) and population distribution not strongly skewed\n\nIf there is skew or some large outliers, then \\(n \\geq 50\\) gives better estimates\n\n\\(n &lt; 30\\) and data approximately symmetric with no large outliers\n\nIf do not know population distribution, then check the distribution of the data."
+  },
+  {
+    "objectID": "weeks/week_04.html#practice-problems",
+    "href": "weeks/week_04.html#practice-problems",
+    "title": "UNDER CONSTRUCTION: Week 4",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nDay 6\n\nDay 6 Practice Problems\n\nFrom slides:\n\nExample 3.11 on pg 6 of slides\nExample 3.17 parts (1) - (3) on pg 10 of slides\n\nHint: If you are unsure how to define the random variable T, take a look at how we defined the random variable M in example 3.16 for the amount of money one gets from 3 rolls of a die.\n\nExample 3.22 parts (1) and (2) on pg 14 of slides"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html",
+    "href": "homework/HW_3_F25_bsta511.html",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "",
+    "text": "Due 10/25/25\nDownload the .qmd file for this assignment from https://github.com/niederhausen/BSTA_511_F25/blob/main/homework/HW_3_F25_bsta511.qmd"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html#graded-exercises",
+    "href": "homework/HW_3_F25_bsta511.html#graded-exercises",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "Graded exercises",
+    "text": "Graded exercises\nThe exercises listed below will be graded for this assignment. You are strongly encouraged to complete the entire assignment. You will receive feedback on exercises you turn in that are not being graded.\n\nBook exercises\n\n3.4, 3.8\n\nNon-book exercise\n\nNB 1 - I recommend completing this problem after completing book questions 3.4-3.6."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html#directions",
+    "href": "homework/HW_3_F25_bsta511.html#directions",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "Directions",
+    "text": "Directions\n\n\n\n\n\n\nImportant\n\n\n\n\nMake sure to check out the calculating probabilities in R code file: qmd, html\nAll exercises in this assignment may be completed by hand (such as on paper or using a tablet) not using Quarto.\nIf you complete the assignment by hand (not using Quarto):\n\nUpload ONE pdf on Sakai with your work instead of qmd & html files.\nSome problems involve R code to calculate a probability, but the code is brief and you can write out the code and the answer by hand.\nIf you are completing the homework on paper, you can use a scanning app, such as Adobe Scan, to create one pdf of your assignment.\n\nIf you complete the assignment using Quarto:\n\nI highly recommend using LaTeX to format the equations.\n\nFor instructions on creating equations in the Visual editor, check out https://quarto.org/docs/get-started/authoring/rstudio.html#equations.\nYou can see examples of LaTeX formatting in the calculating probabilities in R code file: qmd, html\nAlso check out examples of LaTeX formatting for statistics created by recent biostats alum Ariel Weingarten.\nIf you have difficulty rendering the LaTeX equations, I recommend installing and running the R package tinytex. See this website for instructions.\n\n\n\n\n\n\nPlease upload your homework to Sakai. Upload both your .qmd code file and the rendered .html file (or just your pdf if completing the assignment by hand).\n\nUse the assignment .qmd file linked to above as a template for your own assignment.\n\nPlease always use the following naming convention for submitting your files:\n\nLastname_Firstname_HWx.qmd, such as Niederhausen_Meike_HW2.qmd\nLastname_Firstname_HWx.html, such as Niederhausen_Meike_HW2.html\n\nFor each question, make sure to show all of your work.\n\nThis includes all code and resulting output in the html file to support your answers for exercises requiring work done in R (including any arithmetic calculations).\nFor non-calculation questions, this includes an explanation of your answer (why did you choose your answer?).\n\nFor each question, include a sentence summarizing the answer for that question in the context of the research question.\n\n\n\n\n\n\n\nTip\n\n\n\nIt is a good idea to try rendering your document from time to time as you go along! Note that rendering automatically saves your Qmd file and rendering frequently helps you catch your errors more quickly."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html#baggage-fees",
+    "href": "homework/HW_3_F25_bsta511.html#baggage-fees",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "3.4 Baggage fees",
+    "text": "3.4 Baggage fees\n\nNote: Part (a) asks you to “build a probability model.” See Figure 3.2 on the bottom of pg. 140 in the textbook for an example of a probability model."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html#gull-clutch-size",
+    "href": "homework/HW_3_F25_bsta511.html#gull-clutch-size",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "3.5 Gull clutch size",
+    "text": "3.5 Gull clutch size\nReview the solution in the back of the book for exercise 3.5.\n\n(a)\nFor part (a), the answer is correct, but there is an error in the work and the notation is sloppy. Correct the error and rewrite the solution with proper notation.\n\n\n(b)\nFor part (b), the answer is not correct, as a result of the error in the work with sloppy notation. Give a correct solution with proper notation."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html#scooping-ice-cream",
+    "href": "homework/HW_3_F25_bsta511.html#scooping-ice-cream",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "3.6 Scooping ice cream",
+    "text": "3.6 Scooping ice cream"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html#chickenpox-part-i.",
+    "href": "homework/HW_3_F25_bsta511.html#chickenpox-part-i.",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "3.8 Chickenpox, Part I.",
+    "text": "3.8 Chickenpox, Part I.\nFor #3.8, calculate the binomial probabilities two ways:\n(1) using the formula (can use R to calculate factorials or the choose function) and\n(2) using R functions for binomial distribution probabilities."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html#chickenpox-part-ii.",
+    "href": "homework/HW_3_F25_bsta511.html#chickenpox-part-ii.",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "3.10 Chickenpox, Part II.",
+    "text": "3.10 Chickenpox, Part II.\nFor #3.10, you can use R functions to calculate the binomial probabilities instead of directly using the formula. However, include the mathematical formulas that would be used to calculate the probabilities."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511.html#nb-1-clinician-time-with-patients",
+    "href": "homework/HW_3_F25_bsta511.html#nb-1-clinician-time-with-patients",
+    "title": "HW 3: BSTA 511/611 F25",
+    "section": "NB 1: Clinician time with patients",
+    "text": "NB 1: Clinician time with patients\nSuppose a clinician schedules 20 minutes to spend with each of their patients. However, they sometimes run over or end earlier. Based on past data, the mean “extra” time they spend with a patient is 3 minutes with a standard deviation of 2 minutes. Suppose they see 13 patients today and the extra times they spend with patients are independent from patient to patient.\n\n(a) Expected total time\nFind the expected total time they will spend with all of their patients today.\n\n\n(b) SD of total time\nFind the standard deviation of the total time they will spend with all of their patients today."
   }
 ]

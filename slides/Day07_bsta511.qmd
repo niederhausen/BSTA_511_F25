@@ -3,8 +3,8 @@ title: "Day 7: Normal and Poisson distributions"
 subtitle: "BSTA 511/611, OHSU"
 pagetitle: "Day 7 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
-date: "10/22/2025"
-categories: ["Week 4"]
+date: "10/27/2025"
+categories: ["Week 5"]
 format: 
   # revealjs:
   #     incremental: false

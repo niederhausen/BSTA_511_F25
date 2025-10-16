@@ -1,0 +1,113 @@
+---
+title: "HW 3: BSTA 511/611 F25"
+pagetitle: "HW 3"
+author: "Your name here - update this!!!!"
+date: "Due 10/25/25"
+format: 
+  html:
+    link-external-newwindow: true
+    toc: true
+    toc_float:
+      collapsed: false
+    number-sections: false
+    number-depth: 4
+    theme: lumen
+    self-contained: true
+    html-math-method: mathjax
+---
+
+```{r}
+#| label: "setup"
+#| include: false
+knitr::opts_chunk$set(echo = TRUE, fig.height = 2, fig.width = 4)
+```
+
+**Due 10/25/25**
+
+Download the .qmd file for this assignment from <https://github.com/niederhausen/BSTA_511_F25/blob/main/homework/HW_3_F25_bsta511.qmd>
+
+## Graded exercises
+
+The exercises listed below will be graded for this assignment. You are **strongly** encouraged to complete the entire assignment. You will receive feedback on exercises you turn in that are not being graded.
+
+-   **Book exercises**
+    -   3.4, 3.8
+-   **Non-book exercise**
+    -   NB 1 *- I recommend completing this problem after completing book questions 3.4-3.6.*
+
+## Directions
+
+::: callout-important
+-   Make sure to check out the calculating probabilities in R code file: [qmd](https://github.com/niederhausen/BSTA_511_F25/blob/main/slides_code/Probability_distributions_in_R_bsta511.qmd), [html](../slides_code/Probability_distributions_in_R_bsta511.qmd)
+-   All exercises in this assignment may be completed by hand (such as on paper or using a tablet) not using Quarto.
+-   If you complete the assignment by hand (not using Quarto):
+    -   Upload **ONE** pdf on Sakai with your work instead of qmd & html files.
+    -   *Some problems involve R code to calculate a probability, but the code is brief and you can write out the code and the answer by hand.*
+    -   If you are completing the homework on paper, you can use a scanning app, such as Adobe Scan, to create one pdf of your assignment.
+-   If you complete the assignment using Quarto:
+    -   I highly recommend using LaTeX to format the equations.
+        -   For instructions on creating equations in the Visual editor, check out <https://quarto.org/docs/get-started/authoring/rstudio.html#equations>.
+        -   You can see examples of LaTeX formatting in the calculating probabilities in R code file: [qmd](https://github.com/niederhausen/BSTA_511_F25/blob/main/slides_code/Probability_distributions_in_R_bsta511.qmd), [html](../slides_code/Probability_distributions_in_R_bsta511.qmd)
+        -   Also check out examples of [LaTeX formatting for statistics](https://nwakim.github.io/S2024_BSTA_513/extra_resources/Latex_qmd_formatting.html) created by recent biostats alum Ariel Weingarten.
+        -   If you have difficulty rendering the LaTeX equations, I recommend installing and running the R package `tinytex`. See this [website](https://evalsp20.classes.andrewheiss.com/reference/install/#install-tinytex-1) for instructions.
+:::
+
+-   Please upload your homework to [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F25/tool/094ccc0a-8f85-4069-af5b-e035ef8b79e2). **Upload both your .qmd code file and the rendered .html file** (or just your pdf if completing the assignment by hand).
+    -   Use the assignment .qmd file linked to above as a template for your own assignment.
+-   Please always use the following naming convention for submitting your files:
+    -   **Lastname_Firstname_HWx.qmd**, such as Niederhausen_Meike_HW2.qmd
+    -   **Lastname_Firstname_HWx.html**, such as Niederhausen_Meike_HW2.html
+-   For each question, make sure to **show all of your work**.
+    -   This includes all code and resulting output in the html file to support your answers for exercises requiring work done in R (including any arithmetic calculations).
+    -   For non-calculation questions, this includes an explanation of your answer (*why did you choose your answer?*).
+-   For each question, include a **sentence summarizing the answer** for that question in the context of the research question.
+
+::: callout-tip
+It is a good idea to try rendering your document from time to time as you go along! Note that rendering automatically saves your Qmd file and rendering frequently helps you catch your errors more quickly.
+:::
+
+# Book exercises
+
+## 3.4 Baggage fees
+
+-   *Note: Part (a) asks you to "build a probability model." See Figure 3.2 on the bottom of pg. 140 in the textbook for an example of a probability model.* 
+
+## 3.5 Gull clutch size
+
+[Review the solution in the back of the book for exercise 3.5.]{style="color:green"}
+
+### (a)
+
+[For part (a), the answer is correct, but there is an error in the work and the notation is sloppy. Correct the error and rewrite the solution with proper notation.]{style="color:green"}
+
+### (b)
+
+[For part (b), the answer is *not* correct, as a result of the error in the work with sloppy notation. Give a correct solution with proper notation.]{style="color:green"}
+
+## 3.6 Scooping ice cream
+
+## 3.8 Chickenpox, Part I.
+
+[For #3.8, calculate the binomial probabilities two ways:\
+(1) using the formula (can use R to calculate factorials or the choose function) and\
+(2) using R functions for binomial distribution probabilities.]{style="color:green"}
+
+## 3.10 Chickenpox, Part II.
+
+[For #3.10, you can use R functions to calculate the binomial probabilities instead of directly using the formula. However, include the mathematical formulas that would be used to calculate the probabilities.]{style="color:green"}
+
+
+
+# Non-book exercise
+
+## NB 1: Clinician time with patients
+
+**Suppose a clinician schedules 20 minutes to spend with each of their patients. However, they sometimes run over or end earlier. Based on past data, the mean "extra" time they spend with a patient is 3 minutes with a standard deviation of 2 minutes. Suppose they see 13 patients today and the extra times they spend with patients are independent from patient to patient.**
+
+### (a) Expected total time
+
+**Find the expected total time they will spend with all of their patients today.**
+
+### (b) SD of total time
+
+**Find the standard deviation of the total time they will spend with all of their patients today.**
