@@ -1,5 +1,5 @@
 ---
-title: "UNDER CONSTRUCTION: Week 4"
+title: "Week 4"
 description: "Random variables & binomial distribution and Exam 1"
 pagetitle: "Week 4 BSTA 511/611"
 date: "10/20/2025"
