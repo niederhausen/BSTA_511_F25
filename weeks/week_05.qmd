@@ -1,5 +1,5 @@
 ---
-title: "UNDER CONSTRUCTION: Week 5"
+title: "Week 5"
 description: "Normal & Poisson distributions; Variability in estimates & CI's"
 pagetitle: "Week 5 BSTA 511/611"
 date: "10/27/2025"
