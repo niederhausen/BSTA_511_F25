@@ -214,7 +214,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Week\nDates\nDay\nTopics\nChapter sections\n\n\n\n\n1\nM 9/30\n\nNo class:  OHSU New Student Orientation\n\n\n\n\nW 10/1\n1\nIntroduction to R & RStudio\n\n\n\n2\nM 10/6\n2\nIntro to Data, Data collection\n1.1-1.3\n\n\n\nW 10/8\n3\nSummarizing numerical data,  Probability\n1.4, 2.1-2.2.4\n\n\n\nSa 10/11\n\nHW 1 Due (Days 1 - 3)\n\n\n\n3\nM 10/13\n4\nBayes’ Theorem, R Packages\n2.2.5, extra\n\n\n\nW 10/15\n5\nData visualization,  exploratory data analysis (EDA),  and summarizing categorical data\n1.5-1.7, extra\n\n\n\nSa 10/18\n\nHW 2 Due (Days 4 - 5)\n\n\n\n4\nM 10/20\n6\nRandom variables,  Binomial distribution\n3.1-3.2\n\n\n\nW 10/22\n\nExam 1: Days 1-5\nCh 1, 2\n\n\n\nSa 10/25\n\nHW 3 Due (Day 6)\n\n\n\n5\nM 10/27\n7\nNormal and Poisson distributions\n3.3-3.4\n\n\n\nW 10/29\n8 & 9\nVariability in estimates & Confidence Intervals\n4.1-4.2\n\n\n\nSa 11/1\n\nHW 4 Due (Days 7 - 8)\n\n\n\n6\nM 11/3\n10\nHypothesis Testing:  Single-sample with t-distribution  & Two-sample paired data\n4.3, 5.1, 5.2\n\n\n\nW 11/5\n\nExam 2: Days 6-8\n3.1-3.4, 4.1-4.2\n\n\n7\nM 11/10\n11\nHypothesis Testing:  Two-sample independent data;  Power\n5.3-5.4, extra\n\n\n\nW 11/12\n12\nInference for a single proportion  or difference in proportions\n8.1-8.2\n\n\n\nSa 11/15\n\nHW 5 Due (Days 9 - 11)\n\n\n\n8\nM 11/17\n13\nChi-squared tests,  Fishers exact test\n8.3-8.4\n\n\n\nW 11/19\n14\nComparing Means with ANOVA.\n5.5, extra\n\n\n\nThurs 11/20\n\nHW 6 Due (Day 12)  Due Thursday!!\n\n\n\n9\nM 11/24\n\nExam 3: Days 9-12\n4.3, 5.1-5.4;  extra, 8.1-8.4\n\n\n\nW 11/26\n15\nSimple Linear Regression\n6.1-6.2\n\n\n10\nM 12/1\n16\nSimple Linear Regression\n6.3-6.4\n\n\n\nW 12/3\n17\nNon-parametric tests  (sign, signed-rank, rank-sum,  Kruskal-Wallis)\nExtra\n\n\n\nSa 12/6\n\nHW 7 Due (Days 13 - 16)\n\n\n\n11\nM 12/8\n\nReview - catch up\n\n\n\n\nW 12/10\n\nExam 4 due (take home):  Cumulative with a focus on Days 13-16\nCh 5.5, 6,  non-parametric"
+    "text": "Week\nDates\nDay\nTopics\nChapter sections\n\n\n\n\n1\nM 9/30\n\nNo class:  OHSU New Student Orientation\n\n\n\n\nW 10/1\n1\nIntroduction to R & RStudio\n\n\n\n2\nM 10/6\n2\nIntro to Data, Data collection\n1.1-1.3\n\n\n\nW 10/8\n3\nSummarizing numerical data,  Probability\n1.4, 2.1-2.2.4\n\n\n\nSa 10/11\n\nHW 1 Due (Days 1 - 3)\n\n\n\n3\nM 10/13\n4\nBayes’ Theorem, R Packages\n2.2.5, extra\n\n\n\nW 10/15\n5\nData visualization,  exploratory data analysis (EDA),  and summarizing categorical data\n1.5-1.7, extra\n\n\n\nSa 10/18\n\nHW 2 Due (Days 4 - 5)\n\n\n\n4\nM 10/20\n6\nRandom variables,  Binomial distribution\n3.1-3.2\n\n\n\nW 10/22\n\nExam 1: Days 1-5\nCh 1, 2\n\n\n\nSa 10/25\n\nNo HW due -&gt; see HW 3 due 11/1\n\n\n\n5\nM 10/27\n7\nNormal and Poisson distributions\n3.3-3.4\n\n\n\nW 10/29\n8 & 9\nVariability in estimates & Confidence Intervals\n4.1-4.2\n\n\n\nSa 11/1\n\nHW 3 Due (Days 6 - 9)\n\n\n\n6\nM 11/3\n10\nHypothesis Testing:  Single-sample with t-distribution  & Two-sample paired data\n4.3, 5.1, 5.2\n\n\n\nW 11/5\n\nExam 2: Days 6-9\n3.1-3.4, 4.1-4.2\n\n\n7\nM 11/10\n11\nHypothesis Testing:  Two-sample independent data;  Power\n5.3-5.4, extra\n\n\n\nW 11/12\n12\nInference for a single proportion  or difference in proportions\n8.1-8.2\n\n\n\nSa 11/15\n\nHW 4 Due (Days 10 - 12)\n\n\n\n8\nM 11/17\n13\nChi-squared tests,  Fishers exact test\n8.3-8.4\n\n\n\nW 11/19\n14\nComparing Means with ANOVA.\n5.5, extra\n\n\n\nThurs 11/20\n\nHW 5 Due (Day 13)  Due Thursday!!\n\n\n\n9\nM 11/24\n\nExam 3: Days 10-13\n4.3, 5.1-5.4;  extra, 8.1-8.4\n\n\n\nW 11/26\n15\nSimple Linear Regression\n6.1-6.2\n\n\n\nSa 11/29\n\nHW 6 Due (Days 14 - 15)\n\n\n\n10\nM 12/1\n16\nSimple Linear Regression\n6.3-6.4\n\n\n\nW 12/3\n17\nNon-parametric tests  (sign, signed-rank, rank-sum,  Kruskal-Wallis)\nExtra\n\n\n\nSa 12/6\n\nHW 7 Due (Days 16 - 17)\n\n\n\n11\nM 12/8\n\nReview - catch up\n\n\n\n\nW 12/10\n\nExam 4 due (take home):  Cumulative with a focus on Days 14-17\nCh 5.5, 6,  non-parametric"
   },
   {
     "objectID": "weeks/week_01.html",
@@ -361,7 +361,7 @@
     "href": "weeks/week_04.html#homework",
     "title": "Week 4",
     "section": "Homework",
-    "text": "Homework\n\nHW 3 due on Sat, 10/26\nMake sure to check out the calculating probabilities in R code file: qmd, html\nNote: the answer to exercise 3.31(b) in the textbook (not assigned) is incorrect.\n\nCheck out this spreadsheet for more typos in book."
+    "text": "Homework\n\nHW 3 v2 covers Days 6 - 9 and is due on Sat, 11/1\nMake sure to check out the calculating probabilities in R code file: qmd, html\nNote: the answer to exercise 3.31(b) in the textbook (not assigned) is incorrect.\n\nCheck out this spreadsheet for more typos in book."
   },
   {
     "objectID": "weeks/week_04.html#exam-1-information",
@@ -375,14 +375,14 @@
     "href": "weeks/week_05.html",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "",
-    "text": "Normal distribution: Section 3.3\nPoisson distribution: Section 3.4\nDay 7 Practice Problems\n\nTBD\n\n\n\n\n\n\nDay 8 topics: Variability in estimates: Section 4.1\nDay 9 topics:\n\nConfidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\nDays 8 & 9 Practice Problems\n\nTBD"
+    "text": "Normal distribution: Section 3.3\nPoisson distribution: Section 3.4\n\n\n\n\n\nDay 8 topics: Variability in estimates: Section 4.1\nDay 9 topics:\n\nConfidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\n\n\n\n\nDays 7-9 Practice Problems\n\nSee new PP section below"
   },
   {
     "objectID": "weeks/week_05.html#overview-of-week-5",
     "href": "weeks/week_05.html#overview-of-week-5",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "",
-    "text": "Normal distribution: Section 3.3\nPoisson distribution: Section 3.4\nDay 7 Practice Problems\n\nTBD\n\n\n\n\n\n\nDay 8 topics: Variability in estimates: Section 4.1\nDay 9 topics:\n\nConfidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\nDays 8 & 9 Practice Problems\n\nTBD"
+    "text": "Normal distribution: Section 3.3\nPoisson distribution: Section 3.4\n\n\n\n\n\nDay 8 topics: Variability in estimates: Section 4.1\nDay 9 topics:\n\nConfidence intervals for one mean (single-sample):\n\nSections 4.2 and 5.1.1, 5.1.2 (pgs. 238-242)\n\nStudent’s t-distribution\n\n\n\n\n\nDays 7-9 Practice Problems\n\nSee new PP section below"
   },
   {
     "objectID": "weeks/week_05.html#slides-recordings",
@@ -396,14 +396,14 @@
     "href": "weeks/week_05.html#class-discussion",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "Class discussion",
-    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay07\n\nExample 3.3 parts (1) and (3) on pg 7 of slides\nExample 3.8 parts (2) and (3) on pg 11 of slides\nFrom HW 3\n\nBook exercises\n\n3.22, 3.32, 3.40\n\n\n\n\n\nDay 8\n\nSlide 21: match figures to distribution (Sampling high schoolers’ weights)\nProblems from Homework 4:\n\nBook exercise: 4.2 (warm-up)\nR1: Youth weights (YRBSS)\nNon-book exercise: Ethan Allen"
+    "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 7\n\nPractice Problems listed above\nFrom (updated) HW 3:\n\nBook exercises\n\n3.22, 3.32, 3.40\n\n\n\n\n\nDay 8 & 9\n\nPractice Problems listed above\nFrom (updated) HW 3:\n\nDay 8\n\nR1: Youth weights Part 1 (YRBSS)\nNon-book exercise: Ethan Allen\n\nDay 9\n\nBook exercises:\n\nwarm-up: 4.4, 4.6, 5.10\n5.6\n\nR2: Youth weights Part 2 (YRBSS)"
   },
   {
     "objectID": "weeks/week_05.html#homework",
     "href": "weeks/week_05.html#homework",
     "title": "UNDER CONSTRUCTION: Week 5",
     "section": "Homework",
-    "text": "Homework\n\nHW 4 covers Days 8 -10 and is due on Sat, 11/9\nCheck out this spreadsheet for typos in book."
+    "text": "Homework\n\nHW 3 v2 covers Days 6 - 9 and is due on Sat, 11/1\nMake sure to check out the calculating probabilities in R code file: qmd, html\nNote: the answer to exercise 3.31(b) in the textbook (not assigned) is incorrect.\n\nCheck out this spreadsheet for more typos in book."
   },
   {
     "objectID": "weeks/week_05.html#sec-Exam1info",
@@ -4926,5 +4926,194 @@
     "title": "HW 3: BSTA 511/611 F25",
     "section": "NB 1: Clinician time with patients",
     "text": "NB 1: Clinician time with patients\nSuppose a clinician schedules 20 minutes to spend with each of their patients. However, they sometimes run over or end earlier. Based on past data, the mean “extra” time they spend with a patient is 3 minutes with a standard deviation of 2 minutes. Suppose they see 13 patients today and the extra times they spend with patients are independent from patient to patient.\n\n(a) Expected total time\nFind the expected total time they will spend with all of their patients today.\n\n\n(b) SD of total time\nFind the standard deviation of the total time they will spend with all of their patients today."
+  },
+  {
+    "objectID": "weeks/week_05.html#practice-problems",
+    "href": "weeks/week_05.html#practice-problems",
+    "title": "UNDER CONSTRUCTION: Week 5",
+    "section": "Practice Problems",
+    "text": "Practice Problems\n\nDay 7 PP\n\nFrom Day 7 slides:\n\nExample 3.3 parts (1) and (3) on pg 7 of slides\nExample 3.8 parts (2) and (3) on pg 11 of slides\n\n\n\n\nDay 8 & 9 PP\n\nFrom Day 8 slides:\n\nSlide 21: match figures to distribution (Sampling high schoolers’ weights)\nBook exercise: 4.2\n\nFrom Day 9 slides:\n\nSlide 15: What percent CI was being simulated in this figure?\nSlide 22: Calculate CI"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html",
+    "href": "homework/HW_3_F25_bsta511_v2.html",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "",
+    "text": "Due 11/1/25\nDownload the .qmd file for this assignment from https://github.com/niederhausen/BSTA_511_F25/blob/main/homework/HW_3_F25_bsta511_v2.qmd"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#graded-exercises",
+    "href": "homework/HW_3_F25_bsta511_v2.html#graded-exercises",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "Graded exercises",
+    "text": "Graded exercises\nThe exercises listed below will be graded for this assignment. You are strongly encouraged to complete the entire assignment. You will receive feedback on exercises you turn in that are not being graded.\n\nBook exercises\n\n3.4, 3.8, 3.22, 3.32, 3.40, 5.6\n\nNon-book exercise\n\nNB 1 - I recommend completing this problem after completing book questions 3.4-3.6.\nNB 2: The Ethan Allen\n\nR exercises\n\nR1: Youth weights - Part 1\nR2: Youth weights - Part 2"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#directions",
+    "href": "homework/HW_3_F25_bsta511_v2.html#directions",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "Directions",
+    "text": "Directions\n\n\n\n\n\n\nImportant\n\n\n\n\n* Starred exercises may be completed by hand (such as on paper or using a tablet) instead of using Quarto.\n\nSome of these exercises require some R code. If you do these exercises by hand, make sure to include the R code written out by hand as well as the output from R (as done in the class notes), so that the TA only needs to grade one file for those exercises.\n\n\nMake sure to check out the calculating probabilities in R code file: qmd, html\nFor questions you are submitting in Quarto:\n\nUse LaTeX to format the equations.\n\nFor instructions on creating equations in the Visual editor, check out https://quarto.org/docs/get-started/authoring/rstudio.html#equations.\nYou can see examples of LaTeX formatting in the calculating probabilities in R code file: qmd, html\nAlso check out examples of LaTeX formatting for statistics created by recent biostats alum Ariel Weingarten.\nIf you have difficulty rendering the LaTeX equations, I recommend installing and running the R package tinytex. See this website for instructions.\n\n\nDay 6 special instructions (questions 3.4-3.6 and NB 1)\n\nMake sure to show your work algebraically. You can do the arithmetic in R to get the final answer, but the more important part is showing how you derived the expected value, variance, and standard deviation.\nFirst, define every random variable you use.\nSecond, write out the mathematical model for the situation using the random variables you defined.\n\nThink of the model as how you would calculate the outcome if you were given the individual data points that the random variables are representing.\nThis step does not involve any means or expected values!!!\n\nThen proceed to derive the expected value and variance of the model.\nSee examples 3.14 and 3.16 in the notes for examples following these steps.\n\n\n\n\n\nPlease upload your homework to Sakai. Upload both your .qmd code file and the rendered .html file (or just your pdf if completing the assignment by hand).\n\nUse the assignment .qmd file linked to above as a template for your own assignment.\n\nPlease always use the following naming convention for submitting your files:\n\nLastname_Firstname_HWx.qmd, such as Niederhausen_Meike_HW2.qmd\nLastname_Firstname_HWx.html, such as Niederhausen_Meike_HW2.html\n\nFor each question, make sure to show all of your work.\n\nThis includes all code and resulting output in the html file to support your answers for exercises requiring work done in R (including any arithmetic calculations).\nFor non-calculation questions, this includes an explanation of your answer (why did you choose your answer?).\n\nFor each question, include a sentence summarizing the answer for that question in the context of the research question.\n\n\n\n\n\n\n\nTip\n\n\n\nIt is a good idea to try rendering your document from time to time as you go along! Note that rendering automatically saves your Qmd file and rendering frequently helps you catch your errors more quickly."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#baggage-fees",
+    "href": "homework/HW_3_F25_bsta511_v2.html#baggage-fees",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.4 Baggage fees",
+    "text": "*3.4 Baggage fees\n\nNote: Part (a) asks you to “build a probability model.” See Figure 3.2 on the bottom of pg. 140 in the textbook for an example of a probability model."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#gull-clutch-size",
+    "href": "homework/HW_3_F25_bsta511_v2.html#gull-clutch-size",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.5 Gull clutch size",
+    "text": "*3.5 Gull clutch size\nReview the solution in the back of the book for exercise 3.5.\n\n(a)\nFor part (a), the answer is correct, but there is an error in the work and the notation is sloppy. Correct the error and rewrite the solution with proper notation.\n\n\n(b)\nFor part (b), the answer is not correct, as a result of the error in the work with sloppy notation. Give a correct solution with proper notation."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#scooping-ice-cream",
+    "href": "homework/HW_3_F25_bsta511_v2.html#scooping-ice-cream",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.6 Scooping ice cream",
+    "text": "*3.6 Scooping ice cream"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#chickenpox-part-i.",
+    "href": "homework/HW_3_F25_bsta511_v2.html#chickenpox-part-i.",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.8 Chickenpox, Part I.",
+    "text": "*3.8 Chickenpox, Part I.\nFor #3.8, calculate the binomial probabilities two ways:\n(1) using the formula (can use R to calculate factorials or the choose function) and\n(2) using R functions for binomial distribution probabilities."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#chickenpox-part-ii.",
+    "href": "homework/HW_3_F25_bsta511_v2.html#chickenpox-part-ii.",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.10 Chickenpox, Part II.",
+    "text": "*3.10 Chickenpox, Part II.\nFor #3.10, you can use R functions to calculate the binomial probabilities instead of directly using the formula. However, include the mathematical formulas that would be used to calculate the probabilities."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#instructions-for-normal-probability-exercises-3.20---3.40",
+    "href": "homework/HW_3_F25_bsta511_v2.html#instructions-for-normal-probability-exercises-3.20---3.40",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "!!! Instructions for Normal probability exercises 3.20 - 3.40 !!!",
+    "text": "!!! Instructions for Normal probability exercises 3.20 - 3.40 !!!\n\n\n\n\n\n\nImportant\n\n\n\nAdditional Instructions - IMPORTANT!!!\n\nFor ALL normal distribution exercises:\n\nmake a sketch of the normal distribution curve with the mean and 1 sd away from the mean clearly labeled, and the area representing probability of interest shaded in.\ncalculate probabilities using both\n\nz-table\nR"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#area-under-the-curve-part-ii",
+    "href": "homework/HW_3_F25_bsta511_v2.html#area-under-the-curve-part-ii",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.20 Area under the curve, Part II",
+    "text": "*3.20 Area under the curve, Part II"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#triathlon-times",
+    "href": "homework/HW_3_F25_bsta511_v2.html#triathlon-times",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.22 Triathlon times",
+    "text": "*3.22 Triathlon times"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#arsenic-poisoning",
+    "href": "homework/HW_3_F25_bsta511_v2.html#arsenic-poisoning",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.28 Arsenic poisoning",
+    "text": "*3.28 Arsenic poisoning"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#find-the-sd",
+    "href": "homework/HW_3_F25_bsta511_v2.html#find-the-sd",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.30 Find the SD",
+    "text": "*3.30 Find the SD"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#chickenpox-part-iii",
+    "href": "homework/HW_3_F25_bsta511_v2.html#chickenpox-part-iii",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.32 Chickenpox, Part III",
+    "text": "*3.32 Chickenpox, Part III"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#stenographers-typos",
+    "href": "homework/HW_3_F25_bsta511_v2.html#stenographers-typos",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.38 Stenographer’s typos",
+    "text": "*3.38 Stenographer’s typos"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#osteosarcoma-in-nyc",
+    "href": "homework/HW_3_F25_bsta511_v2.html#osteosarcoma-in-nyc",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*3.40 Osteosarcoma in NYC",
+    "text": "*3.40 Osteosarcoma in NYC"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#mental-health-part-i",
+    "href": "homework/HW_3_F25_bsta511_v2.html#mental-health-part-i",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*4.4 Mental health, Part I",
+    "text": "*4.4 Mental health, Part I"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#thanksgiving-spending-part-i",
+    "href": "homework/HW_3_F25_bsta511_v2.html#thanksgiving-spending-part-i",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*4.6 Thanksgiving spending, Part I",
+    "text": "*4.6 Thanksgiving spending, Part I"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#age-at-first-marriage-part-i",
+    "href": "homework/HW_3_F25_bsta511_v2.html#age-at-first-marriage-part-i",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*4.8 Age at first marriage, Part I",
+    "text": "*4.8 Age at first marriage, Part I"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#working-backwards-part-ii",
+    "href": "homework/HW_3_F25_bsta511_v2.html#working-backwards-part-ii",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*5.6 Working backwards, Part II",
+    "text": "*5.6 Working backwards, Part II"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#t-vs.-z",
+    "href": "homework/HW_3_F25_bsta511_v2.html#t-vs.-z",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*5.10 t⋆ vs. z⋆",
+    "text": "*5.10 t⋆ vs. z⋆"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#nb-1-clinician-time-with-patients",
+    "href": "homework/HW_3_F25_bsta511_v2.html#nb-1-clinician-time-with-patients",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*NB 1: Clinician time with patients",
+    "text": "*NB 1: Clinician time with patients\nSuppose a clinician schedules 20 minutes to spend with each of their patients. However, they sometimes run over or end earlier. Based on past data, the mean “extra” time they spend with a patient is 3 minutes with a standard deviation of 2 minutes. Suppose they see 13 patients today and the extra times they spend with patients are independent from patient to patient.\n\n(a) Expected total time\nFind the expected total time they will spend with all of their patients today.\n\n\n(b) SD of total time\nFind the standard deviation of the total time they will spend with all of their patients today."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#nb-2-the-ethan-allen",
+    "href": "homework/HW_3_F25_bsta511_v2.html#nb-2-the-ethan-allen",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "*NB 2: The Ethan Allen",
+    "text": "*NB 2: The Ethan Allen\nOn October 5, 2005, a tour boat named the Ethan Allen capsized on Lake George in New York with 47 passengers aboard. In the inquiries that followed, it was suggested that the tour operators should have realized that the combined weight of so many passengers was likely to exceed the weight capacity of the boat. Could they have predicted this?\n\nThe maximum weight capacity of passengers that the Ethan Allen could accommodate was estimated to be 7500 pounds.\nData from the Centers for Disease Control and Prevention indicate that weights of American adults in 2005 had a mean of 167 pounds and a standard deviation of 35 pounds.\n\nIf the tour boat company consistently accepted 47 passengers, what we want to know is the probability that the combined weight of the 47 passengers would exceed this capacity.\n\n(a) Maximum average weight\nWith 47 passengers on board, what is the maximum average weight that the Ethan Allen could accommodate?\n\n\n(b) Probability of an individual\nAssuming that the weights of American adults in 2005 can be modeled with a normal distribution, find the probability that an individual weighs more than the maximum average weight the Ethan Allen can accommodate.\n\n\n(c) Probability a random sample\nCalculate the probability that a random sample of 47 American adults has an average weight greater than the maximum average weight the Ethan Allen can accommodate.\n\n\n(d) Theorem used?\nWhat theorem did you use in the previous part, and why were you able to apply it to this problem?\n\n\n(e) Could this have been predicted?\nCould the tour operators have predicted that the combined weight of so many passengers was likely to exceed the weight capacity of the Ethan Allen?"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#load-packages",
+    "href": "homework/HW_3_F25_bsta511_v2.html#load-packages",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "Load packages",
+    "text": "Load packages\nLoad all the packages you need in the first code chunk of the file that starts with #| label: \"setup\"."
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#r1-youth-weights---part-1",
+    "href": "homework/HW_3_F25_bsta511_v2.html#r1-youth-weights---part-1",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "R1: Youth weights - Part 1",
+    "text": "R1: Youth weights - Part 1\nIn this exercise you will use the YRBSS dataset we used in class on Day 8, to simulate the distribution of mean weights from repeated samples. Use the code from class where we simulated mean heights, and apply it to the weights (in pounds) as directed below.\n\n\n\n\n\n\nImportant\n\n\n\nYou will need to install and load the moderndive R package to use the rep_sample_n() command from the class notes.\n\n\n\n(a) set.seed()\nUse the set.seed() command to set a randomization seed. Use whatever number you want for the seed.\n\n\n(b) 1000 random samples of size 10\nTake 1000 random samples of size 10 and save the tibble with the random samples. Show the first 20 lines of this tibble.\n\n\n(c) Mean weights from the 1000 random samples\nCreate a tibble with mean weights from the 1000 random samples. Show the first 10 rows of this tibble.\n\n\n(d) Histogram of the 1000 mean weights\nMake a histogram of the 1000 mean weights. What do we call this distribution? Describe the shape of the distribution.\n\n\n(e) Mean and standard deviation of the 1000 sample mean weights\nCalculate the mean and standard deviation of the 1000 sample mean weights. What is another name for this standard deviation?\n\n\n(f) Theoretical values for mean and standard deviation\nWhat are the theoretical values for mean and standard deviation of the sampling distribution from the CLT, and how do your simulated values compare to the theoretical values?"
+  },
+  {
+    "objectID": "homework/HW_3_F25_bsta511_v2.html#r2-youth-weights---part-2",
+    "href": "homework/HW_3_F25_bsta511_v2.html#r2-youth-weights---part-2",
+    "title": "HW 3 v2: BSTA 511/611 F25",
+    "section": "R2: Youth weights - Part 2",
+    "text": "R2: Youth weights - Part 2\nIn this exercise you will use the YRBSS dataset again that we used in class on Days 8-9, to simulate the distribution of mean weights from repeated samples.\n\n(a) CI\nSuppose you took a random sample of size 50 from the YRBSS data, that has mean weight 130 pounds. Calculate and interpret a 90% confidence interval using the standard deviation of weights from the YRBSS “population.”\n\n\n(b) Another CI\nCalculate and interpret a 90% confidence interval assuming the standard deviation of weights from the random sample is 40."
   }
 ]
