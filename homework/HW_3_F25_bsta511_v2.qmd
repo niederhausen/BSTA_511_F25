@@ -115,8 +115,9 @@ It is a good idea to try rendering your document from time to time as you go alo
 Additional Instructions - IMPORTANT!!!
 
 -   For **ALL** normal distribution exercises:
-    -   make a sketch of the normal distribution curve with the mean and 1 sd away from the mean clearly labeled, and the area representing probability of interest shaded in.
-    -   calculate probabilities using **both**
+    -   Make a sketch of the normal distribution curve with the mean and 1 sd away from the mean clearly labeled, and the area representing probability of interest shaded in.
+        - If you are using R for these questions, see the [example](https://niederhausen.github.io/BSTA_511_F25/slides_code/Probability_distributions_in_R_bsta511.html#normal-curve-figure-with-region-shaded-in) of how to create a normal curve with a specified area shaded in from the Probability distributions in R file.
+    -   Calculate probabilities using **both**
         -   z-table
         -   R
 :::

@@ -928,7 +928,7 @@
     "href": "homework.html",
     "title": "Assignments",
     "section": "",
-    "text": "Note\n\n\n\n\nBelow are links to homework assignments.\nThe dates in the Date column are due dates.\nSee the Grading rubric tab to the left for a description of how assignments will be graded.\n\n\n\n\nCheck out this spreadsheet for textbook typos.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n10/11/25\n\n\nHW 1: BSTA 511/611 F25\n\n\n\n\n10/18/25\n\n\nHW 2: BSTA 511/611 F25\n\n\n\n\n10/25/25\n\n\nHW 3: BSTA 511/611 F25\n\n\n\n\n\n\nNo matching items"
+    "text": "Note\n\n\n\n\nBelow are links to homework assignments.\nThe dates in the Date column are due dates.\nSee the Grading rubric tab to the left for a description of how assignments will be graded.\n\n\n\n\nCheck out this spreadsheet for textbook typos.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n10/11/25\n\n\nHW 1: BSTA 511/611 F25\n\n\n\n\n10/18/25\n\n\nHW 2: BSTA 511/611 F25\n\n\n\n\n11/1/25\n\n\nHW 3 v2: BSTA 511/611 F25\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homework_solutions.html",
@@ -4995,7 +4995,7 @@
     "href": "homework/HW_3_F25_bsta511_v2.html#instructions-for-normal-probability-exercises-3.20---3.40",
     "title": "HW 3 v2: BSTA 511/611 F25",
     "section": "!!! Instructions for Normal probability exercises 3.20 - 3.40 !!!",
-    "text": "!!! Instructions for Normal probability exercises 3.20 - 3.40 !!!\n\n\n\n\n\n\nImportant\n\n\n\nAdditional Instructions - IMPORTANT!!!\n\nFor ALL normal distribution exercises:\n\nmake a sketch of the normal distribution curve with the mean and 1 sd away from the mean clearly labeled, and the area representing probability of interest shaded in.\ncalculate probabilities using both\n\nz-table\nR"
+    "text": "!!! Instructions for Normal probability exercises 3.20 - 3.40 !!!\n\n\n\n\n\n\nImportant\n\n\n\nAdditional Instructions - IMPORTANT!!!\n\nFor ALL normal distribution exercises:\n\nMake a sketch of the normal distribution curve with the mean and 1 sd away from the mean clearly labeled, and the area representing probability of interest shaded in.\n\nIf you are using R for these questions, see the example of how to create a normal curve with a specified area shaded in from the Probability distributions in R file.\n\nCalculate probabilities using both\n\nz-table\nR"
   },
   {
     "objectID": "homework/HW_3_F25_bsta511_v2.html#area-under-the-curve-part-ii",
