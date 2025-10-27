@@ -26,7 +26,7 @@ editor_options:
 |  | Sa 10/25 |  | *No HW due -\> see HW 3 due 11/1* |  |
 | [5](weeks/week_05.qmd) | M 10/27 | **7** | Normal and Poisson distributions | 3.3-3.4 |
 |  | W 10/29 | **8 & 9** | Variability in estimates & Confidence Intervals | 4.1-4.2 |
-|  | Sa 11/1 |  | [*HW 3*](homework/HW_3_F25_bsta511.qmd) *Due (Days 6 - 9)* |  |
+|  | Sa 11/1 |  | [*HW 3*](homework/HW_3_F25_bsta511_v2.qmd) *Due (Days 6 - 9)* |  |
 | [6](weeks/week_06.qmd) | M 11/3 | **10** | Hypothesis Testing: <br> Single-sample with *t*-distribution <br> & Two-sample paired data | 4.3, 5.1, 5.2 |
 |  | W 11/5 |  | [**Exam 2: Days 6-9**]{style="color:green"} | **3.1-3.4, 4.1-4.2** |
 | [7](weeks/week_07.qmd) | M 11/10 | **11** | Hypothesis Testing: <br> Two-sample independent data; <br> Power | 5.3-5.4, extra |
