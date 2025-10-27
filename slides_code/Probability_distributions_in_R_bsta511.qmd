@@ -256,17 +256,13 @@ ggplot(data.frame(x = c(mu-4*std, mu+4*std)), aes(x = x)) +
                 geom = "area", fill = "darkblue") +
   # the breaks values below might need to be adjusted 
   # if there are too many values showing on the x-axis
-  scale_x_continuous(breaks=(mu-4*std):(mu+4*std)) +
+  scale_x_continuous(breaks= seq(from = mu-4*std, to = mu+4*std, by= std)) +
   labs(y = "") +
   labs(title = "P(X >10) for a N(mu=8, sigma=2) distribution")
 ```
 
 
----
-output: html_document
-editor_options: 
-  chunk_output_type: console
----
+
 # Poisson distribution
 
 ## Probability calculations: $P(X=x)$
