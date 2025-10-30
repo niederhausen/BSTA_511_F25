@@ -271,6 +271,7 @@ ggplot(data.frame(x = c(mu-4*std, mu+4*std)), aes(x = x)) +
 
 Calculate $P(X=3)$ for a $Pois(\lambda = 5)$ distribution. 
 
+
 In general, for a Poisson random variable, 
 $$P(X=x) = \frac{e^{-\lambda}\lambda^x}{x!}$$
 Thus the $P(X=3)$ for a $Pois(\lambda = 5)$ random variable is 
@@ -343,6 +344,7 @@ $$P(X\leq k) = \sum_{x=0}^{k}\frac{e^{-\lambda}\lambda^x}{x!}$$
 Calculate $P(X \leq 12)$ for a $Pois(\lambda = 5)$ distribution: 
 
 $$P(X\leq 12) = \sum_{x=0}^{12} \frac{e^{-5}5^x}{x!}$$
+
 Calculate "directly" in R:
 ```{r}
 # vector of x values whose probabilities need to be added
