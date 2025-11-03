@@ -1,6 +1,7 @@
 ---
 title: "Week 6"
 description: "Hypothesis Testing & Exam 2"
+pagetitle: "Week 6 BSTA 511/611"
 date: "11/3/2025"
 date-modified: "today"
 categories: [""]

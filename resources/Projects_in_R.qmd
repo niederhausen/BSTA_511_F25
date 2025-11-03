@@ -1,6 +1,7 @@
 ---
 title: "Projects in RStudio"
 subtitle: "BSTA 511/611"
+pagetitle: "Projects in RStudio"
 author: "Meike Niederhausen, PhD"
 institute: "OHSU-PSU School of Public Health"
 format: 
