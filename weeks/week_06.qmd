@@ -79,7 +79,7 @@ During class you will be working in groups discussing the following:
 
 ## Homework
 
--   *[DRAFT]{style="color:darkorange"}* [HW 4](../homework/HW_4_DRAFT_F25_bsta511.qmd) covers Days 11-12 and is due on Sat, 11/15
+-   *[DRAFT]{style="color:darkorange"}* [HW 4](../homework/HW_4_DRAFT_F25_bsta511.qmd) covers Days 10-12 and is due on Sat, 11/15
 -   Check out this [spreadsheet](https://docs.google.com/spreadsheets/d/1k_NivXZftdlRgRyTT3fUZCndW4eoXCzAs-DEIml6K3Y/edit?gid=0#gid=0) for typos in book.
 
 ## Exam 2 information {#sec-Exam2info}

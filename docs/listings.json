@@ -2,7 +2,6 @@
   {
     "listing": "/weeks.html",
     "items": [
-      "/weeks/week_07.html",
       "/weeks/week_08.html",
       "/weeks/week_09.html",
       "/weeks/week_10.html",
@@ -12,7 +11,8 @@
       "/weeks/week_03.html",
       "/weeks/week_04.html",
       "/weeks/week_05.html",
-      "/weeks/week_06.html"
+      "/weeks/week_06.html",
+      "/weeks/week_07.html"
     ]
   },
   {
@@ -27,8 +27,6 @@
   {
     "listing": "/class_slides.html",
     "items": [
-      "/slides/Day11_bsta511.html",
-      "/slides/Day12_bsta511.html",
       "/slides/Day13_bsta511.html",
       "/slides/Day14_bsta511.html",
       "/slides/Day15_bsta511.html",
@@ -45,7 +43,9 @@
       "/slides/Day08_bsta511.html",
       "/slides/Day09_bsta511.html",
       "/slides/Day10_part1_bsta511.html",
-      "/slides/Day10_part2_bsta511.html"
+      "/slides/Day10_part2_bsta511.html",
+      "/slides/Day11_bsta511.html",
+      "/slides/Day12_bsta511.html"
     ]
   }
 ]

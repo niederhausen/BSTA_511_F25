@@ -1,9 +1,10 @@
 ---
 title: "Day 11: Inference for difference in means from two independent samples and Power (Sections 5.3, 5.4)"
 subtitle: "BSTA 511/611"
+pagetitle: "Day 11 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
 institute: "OHSU-PSU School of Public Health"
-date: "11/11/2024"
+date: "11/10/2025"
 categories: ["Week 7"]
 format: 
   revealjs:

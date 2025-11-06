@@ -1,9 +1,10 @@
 ---
 title: "Day 12: Inference for a single proportion or difference of two (independent) proportions (Sections 8.1-8.2)"
 subtitle: "BSTA 511/611"
+pagetitle: "Day 12 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
 institute: "OHSU-PSU School of Public Health"
-date: "11/13/2024"
+date: "11/12/2025"
 categories: ["Week 7"]
 format: 
   html:
