@@ -15,9 +15,9 @@ editor_options:
 - Week 7 updates already made:
     - Slides
     - Recording links
--   [Updates that still need to be made to Week 7:]{style="color:darkorange"}
     - Practice Problems
     - Class Discussion
+-   [Updates that still need to be made to Week 7:]{style="color:darkorange"}
     - I posted a draft of HW 4 that only has questions for Day 10 material. I still need to add questions for Days 11-12.
 
 
@@ -69,11 +69,11 @@ All datasets can be found on [GitHub](https://github.com/niederhausen/BSTA_511_F
 
 ### [Day 11 PP]{style="color:darkorange"}
 
--   Coming soon!
+-   Book exercises: 5.34, 4.22  
 
 ### [Day 12 PP]{style="color:darkorange"}
 
--   Coming soon!
+-   Book exercise: 8.2
 
 ## Class discussion
 
@@ -81,21 +81,20 @@ During class you will be working in groups discussing the following:
 
 ### Day 11
 
-Coming soon!
-
-<!-- -   Book 5.26 a-b -->
-<!-- -   R1: DDS expenditures by ethnicity (parts a-l) -->
-<!-- -   PSS1: Book 4.22 - Power & sample size T/F questions -->
-<!-- -   PSS2: Power & sample size calculations -->
+-   Practice Problems listed above
+-   Book 5.26 a-b
+-   R2: DDS expenditures by ethnicity (parts A-L)
+-   PSS1: Book 4.24 - Power & sample size T/F questions
+-   PSS2: Power & sample size calculations
 
 ### Day 12
 
 Coming soon!
 
-<!-- -   Book -->
-<!--     -   8.2 (warm-up), -->
-<!--     -   8.8 (see instructions in HW), -->
-<!--     -   8.24 (see instructions in HW) -->
+-   Practice Problems listed above
+-   Book
+    -   8.8 (see instructions in HW),
+    -   8.24 (see instructions in HW)
 
 ## Homework
 
