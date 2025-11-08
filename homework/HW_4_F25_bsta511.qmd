@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE, fig.height = 2, fig.width = 4)
 
 **Due 11/15/25**
 
-Download the .qmd file for this assignment from <https://github.com/niederhausen/BSTA_511_F25/blob/main/homework/HW_4_DRAFT_F25_bsta511.qmd>
+Download the .qmd file for this assignment from <https://github.com/niederhausen/BSTA_511_F25/blob/main/homework/HW_4_F25_bsta511.qmd>
 
 
 
