@@ -417,14 +417,14 @@
     "href": "weeks/week_06.html",
     "title": "Week 6",
     "section": "",
-    "text": "Updates that still need to be made to Week 6:\n\nI posted a draft of HW 4 that only has questions for Day 10 material. I still need to add questions for Days 11-12."
+    "text": "Hypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R\n\n\n\n\n\nSee the Exam 2 information section below for more information"
   },
   {
     "objectID": "weeks/week_06.html#overview-of-week-6",
     "href": "weeks/week_06.html#overview-of-week-6",
     "title": "Week 6",
-    "section": "Overview of Week 6",
-    "text": "Overview of Week 6\n\n\nMon: Day 10\n\nHypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R\n\n\n\nWed: Exam 2\n\nSee the Exam 2 information section below for more information"
+    "section": "",
+    "text": "Hypothesis testing for one mean (single-sample): Section 4.3, 5.1\nCIs vs. hypothesis tests\nInference for two-sample paired data: Section 5.2\nR projects, here::here(), and loading data into R from a file\n\nSee Projects in RStudio file for more information\n\nRunning a t.test in R\n\n\n\n\n\nSee the Exam 2 information section below for more information"
   },
   {
     "objectID": "weeks/week_06.html#slides-recordings",
@@ -452,21 +452,21 @@
     "href": "weeks/week_06.html#homework",
     "title": "Week 6",
     "section": "Homework",
-    "text": "Homework\n\nDRAFT HW 4 covers Days 10-12 and is due on Sat, 11/15\nCheck out this spreadsheet for typos in book."
+    "text": "Homework\n\nHW 4 covers Days 10-12 and is due on Sat, 11/15\nCheck out this spreadsheet for typos in book."
   },
   {
     "objectID": "weeks/week_07.html",
     "href": "weeks/week_07.html",
     "title": "Week 7",
     "section": "",
-    "text": "Week 7 updates already made:\n\nSlides\nRecording links\nPractice Problems\nClass Discussion\n\nUpdates that still need to be made to Week 7:\n\nI posted a draft of HW 4 that only has questions for Day 10 material. I still need to add questions for Days 11-12."
+    "text": "Inference for difference in means from two independent sample (2-sample t-test)\nPower and sample size calculations\n\n\n\n\n\nInference for proportions\n\nCIs vs. hypothesis tests\nOne proportion from one sample\nDifference in proportions from two independent samples"
   },
   {
     "objectID": "weeks/week_07.html#overview-of-week-7",
     "href": "weeks/week_07.html#overview-of-week-7",
     "title": "Week 7",
-    "section": "Overview of Week 7",
-    "text": "Overview of Week 7\n\n\nMon: Day 11\n\nInference for difference in means from two independent sample (2-sample t-test)\nPower and sample size calculations\n\n\n\nWed: Day 12\n\nInference for proportions\n\nCIs vs. hypothesis tests\nOne proportion from one sample\nDifference in proportions from two independent samples"
+    "section": "",
+    "text": "Inference for difference in means from two independent sample (2-sample t-test)\nPower and sample size calculations\n\n\n\n\n\nInference for proportions\n\nCIs vs. hypothesis tests\nOne proportion from one sample\nDifference in proportions from two independent samples"
   },
   {
     "objectID": "weeks/week_07.html#slides-recordings",
@@ -494,7 +494,7 @@
     "href": "weeks/week_07.html#homework",
     "title": "Week 7",
     "section": "Homework",
-    "text": "Homework\n\nDRAFT HW 4 covers Days 10-12 and is due on Sat, 11/15\nCheck out this spreadsheet for typos in book."
+    "text": "Homework\n\nHW 4 covers Days 10-12 and is due on Sat, 11/15\nCheck out this spreadsheet for typos in book."
   },
   {
     "objectID": "weeks/week_08.html",
@@ -928,7 +928,7 @@
     "href": "homework.html",
     "title": "Assignments",
     "section": "",
-    "text": "Note\n\n\n\n\nBelow are links to homework assignments.\nThe dates in the Date column are due dates.\nSee the Grading rubric tab to the left for a description of how assignments will be graded.\n\n\n\n\nCheck out this spreadsheet for textbook typos.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n10/11/25\n\n\nHW 1: BSTA 511/611 F25\n\n\n\n\n10/18/25\n\n\nHW 2: BSTA 511/611 F25\n\n\n\n\n11/1/25\n\n\nHW 3 v2: BSTA 511/611 F25\n\n\n\n\n11/15/25\n\n\nDraft HW 4: BSTA 511/611 F25\n\n\n\n\n\n\nNo matching items"
+    "text": "Note\n\n\n\n\nBelow are links to homework assignments.\nThe dates in the Date column are due dates.\nSee the Grading rubric tab to the left for a description of how assignments will be graded.\n\n\n\n\nCheck out this spreadsheet for textbook typos.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n10/11/25\n\n\nHW 1: BSTA 511/611 F25\n\n\n\n\n10/18/25\n\n\nHW 2: BSTA 511/611 F25\n\n\n\n\n11/1/25\n\n\nHW 3 v2: BSTA 511/611 F25\n\n\n\n\n11/15/25\n\n\nHW 4: BSTA 511/611 F25\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homework_solutions.html",
@@ -7663,5 +7663,124 @@
     "title": "Day 12: Inference for a single proportion or difference of two (independent) proportions (Sections 8.1-8.2)",
     "section": "Where are we?",
     "text": "Where are we?\nCI’s and hypothesis tests for different scenarios:\n\\[\\text{point estimate} \\pm z^*(or~t^*)\\cdot SE,~~\\text{test stat} = \\frac{\\text{point estimate}-\\text{null value}}{SE}\\]\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nBook\nPopulation  parameter\nSymbol\nPoint estimate\nSymbol\nSE\n\n\n\n\n10\n5.1\nPop mean\n\\(\\mu\\)\nSample mean\n\\(\\bar{x}\\)\n\\(\\frac{s}{\\sqrt{n}}\\)\n\n\n10\n5.2\nPop mean of paired diff\n\\(\\mu_d\\) or \\(\\delta\\)\nSample mean of paired diff\n\\(\\bar{x}_{d}\\)\n\\(\\frac{s_d}{\\sqrt{n}}\\)\n\n\n11\n5.3\nDiff in pop  means\n\\(\\mu_1-\\mu_2\\)\nDiff in sample  means\n\\(\\bar{x}_1 - \\bar{x}_2\\)\n\\(\\sqrt{\\frac{s_1^2}{n_1} + \\frac{s_2^2}{n_2}}\\) or pooled\n\n\n12\n8.1\nPop proportion\n\\(p\\)\nSample prop\n\\(\\widehat{p}\\)\n\\(\\sqrt{\\frac{p(1-p)}{n}}\\)\n\n\n12\n8.2\nDiff in pop  proportions\n\\(p_1-p_2\\)\nDiff in sample  proportions\n\\(\\widehat{p}_1-\\widehat{p}_2\\)\n\\(\\sqrt{\\frac{p_1\\cdot(1-p_1)}{n_1} + \\frac{p_2\\cdot(1-p_2)}{n_2}}\\)"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html",
+    "href": "homework/HW_4_F25_bsta511.html",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "",
+    "text": "Due 11/15/25\nDownload the .qmd file for this assignment from https://github.com/niederhausen/BSTA_511_F25/blob/main/homework/HW_4_DRAFT_F25_bsta511.qmd"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#graded-exercises",
+    "href": "homework/HW_4_F25_bsta511.html#graded-exercises",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "Graded exercises",
+    "text": "Graded exercises\nThe exercises listed below will be graded for this assignment. You are strongly encouraged to complete the entire assignment. You will receive feedback on exercises you turn in that are not being graded.\n\nBook exercises\n\n5.22, 5.26 (parts a-b), 8.8, 8.24\n\nPSS\n\nPSS2\n\nR exercises\n\nR1: Swim times\nR2: DDS expenditures by ethnicity (parts A-L)"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#directions",
+    "href": "homework/HW_4_F25_bsta511.html#directions",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "Directions",
+    "text": "Directions\n\n\n\n\n\n\nImportant\n\n\n\n\nComplete ALL exercises in this assignment using Quarto.\nI highly recommend using LaTeX to format equations.\n\nSee the .qmd files from class notes for LaTeX code to make it easier to show your work in computations.\nFor instructions on creating equations in the Visual editor, check out https://quarto.org/docs/get-started/authoring/rstudio.html#equations. html\nAlso check out examples of LaTeX formatting for statistics created by recent biostats alum Ariel Weingarten.\nIf you have difficulty rendering the LaTeX equations, I recommend installing and running the R package tinytex. See this website for instructions.\n\n\n\n\nHypothesis test & CI instructions\n\n\n\n\n\n\nImportant\n\n\n\n\nFor book exercises, make sure to include all steps in a hypothesis test (where applicable) as outlined in the class notes.\nDo not forget to include a discussion on whether you think the test (or CI) assumptions have been satisfied. Are there assumptions you need to make in order for them to be satisfied? Whether you believe they are satisfied or not, continue to run the hypothesis test (or CI) as instructed.\n\n\n\n\nPlease upload your homework to Sakai. Upload both your .qmd code file and the rendered .html file (or just your pdf if completing the assignment by hand).\n\nUse the assignment .qmd file linked to above as a template for your own assignment.\n\nPlease always use the following naming convention for submitting your files:\n\nLastname_Firstname_HWx.qmd, such as Niederhausen_Meike_HW2.qmd\nLastname_Firstname_HWx.html, such as Niederhausen_Meike_HW2.html\n\nFor each question, make sure to show all of your work.\n\nThis includes all code and resulting output in the html file to support your answers for exercises requiring work done in R (including any arithmetic calculations).\nFor non-calculation questions, this includes an explanation of your answer (why did you choose your answer?).\n\nFor each question, include a sentence summarizing the answer for that question in the context of the research question.\n\n\n\n\n\n\n\nTip\n\n\n\nIt is a good idea to try rendering your document from time to time as you go along! Note that rendering automatically saves your Qmd file and rendering frequently helps you catch your errors more quickly."
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#paired-or-not-part-ii",
+    "href": "homework/HW_4_F25_bsta511.html#paired-or-not-part-ii",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "5.16 Paired or not, Part II",
+    "text": "5.16 Paired or not, Part II"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#ddt-exposure",
+    "href": "homework/HW_4_F25_bsta511.html#ddt-exposure",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "5.22 DDT exposure",
+    "text": "5.22 DDT exposure"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#egg-volume",
+    "href": "homework/HW_4_F25_bsta511.html#egg-volume",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "5.26 Egg volume",
+    "text": "5.26 Egg volume"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#legalization-of-marijuana-part-i",
+    "href": "homework/HW_4_F25_bsta511.html#legalization-of-marijuana-part-i",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "8.8 Legalization of marijuana, Part I",
+    "text": "8.8 Legalization of marijuana, Part I\nAdditional instructions:\n\n(b): Calculate the CI both using the formula and using the appropriate R statistical test.\nAdd parts (e) & (f) as instructed below.\n\n\n(a)\n\n\n(b)\n\n\n(c)\n\n\n(d)\n\n\n(e)\nTest whether the proportion of US residents who think marijuana should be made legal is different than 0.586. Do the test using both the formulas and running it in R (without a continuity correction).\n\n\n(f)\nAre the results from CI and hypothesis test consistent? Why or why not?"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#legalize-marijuana-part-ii",
+    "href": "homework/HW_4_F25_bsta511.html#legalize-marijuana-part-ii",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "8.10 Legalize Marijuana, Part II",
+    "text": "8.10 Legalize Marijuana, Part II"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#healthcare-law",
+    "href": "homework/HW_4_F25_bsta511.html#healthcare-law",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "8.14 2010 Healthcare Law",
+    "text": "8.14 2010 Healthcare Law"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#prenatal-vitamins-and-autism",
+    "href": "homework/HW_4_F25_bsta511.html#prenatal-vitamins-and-autism",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "8.24 Prenatal vitamins and Autism",
+    "text": "8.24 Prenatal vitamins and Autism\nAdditional instructions:\n\n(b): Do the hypothesis test both using the formula and using the appropriate R statistical test.\nAdd part (d) as instructed below.\n\n\n(a)\n\n\n(b)\n\n\n(c)\n\n\n(d)\nCalculate and interpret the 95% confidence interval for the difference in proportions using the formula. Is it consistent with CI from the R output of the hypothesis test?"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#an-apple-a-day-keeps-the-doctor-away",
+    "href": "homework/HW_4_F25_bsta511.html#an-apple-a-day-keeps-the-doctor-away",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "8.26 An apple a day keeps the doctor away",
+    "text": "8.26 An apple a day keeps the doctor away"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#pss1-4.24-true-or-false.",
+    "href": "homework/HW_4_F25_bsta511.html#pss1-4.24-true-or-false.",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "PSS1: 4.24 True or false.",
+    "text": "PSS1: 4.24 True or false.\nDo exercise 4.24 from textbook.\n\n(a)\n\n\n(b)\n\n\n(c)\n\n\n(d)\n\n\n(e)"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#pss2-auto-exhaust-and-lead-exposure-revisited.",
+    "href": "homework/HW_4_F25_bsta511.html#pss2-auto-exhaust-and-lead-exposure-revisited.",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "PSS2: Auto exhaust and lead exposure revisited.",
+    "text": "PSS2: Auto exhaust and lead exposure revisited.\n\n(a) Power\nIn exercise 5.12, we tested whether police officers appear to have been exposed to a higher concentration of lead than 35. Calculate the power for the hypothesis test and include an interpretation of the power in the context of the research question. Was it sufficiently powered?\n\n\n(b) Sample size\nFor the same test, what sample size would be needed for 80% power? How about 90% power? Would it be reasonable to conduct the study with these sample sizes? Why or why not?\n\n\n(c) Effect size\nSuppose the study has resources to include 30 people. What minimum effect size would they be able to detect with 85% power assuming the same sample mean and standard deviation. Use \\(\\alpha\\) = 0.05.\n\n\n(d) 2-sided vs. 1-sided\nContinuing with the previous question, what happens to the effect size they can detect if the test is two sided instead of one-sided?"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#pss3-legalize-marijuana-part-iii.",
+    "href": "homework/HW_4_F25_bsta511.html#pss3-legalize-marijuana-part-iii.",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "PSS3: Legalize Marijuana, Part III.",
+    "text": "PSS3: Legalize Marijuana, Part III.\n\n(a) Power\nIn exercise 8.8 (e), we tested whether the proportion of US residents who think marijuana should be made legal is different than 0.586. Calculate the power for the hypothesis test and include an interpretation of the power in the context of the research question. Was it sufficiently powered?\n\n\n(b) Sample size\nFor the same test, what sample size would be needed for 80% power? How about 90% power?\n\n\n(c) Effect size\nIf we increase the sample size, and keep the power and significance level the same, does the effect size increase or decrease? Why?"
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#load-packages",
+    "href": "homework/HW_4_F25_bsta511.html#load-packages",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "Load packages",
+    "text": "Load packages\nLoad all the packages you need in the first code chunk of the file that starts with #| label: \"setup\"."
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#r1-swim-times",
+    "href": "homework/HW_4_F25_bsta511.html#r1-swim-times",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "R1: Swim times",
+    "text": "R1: Swim times\n\nIn these exercises you will use R to work through the swim times example from Section 5.2 in the textbook.\nThe data are in the oibiostats package and called swim.\n\n\n(a) Mean & SD of differences\nCalculate the mean and standard deviation for the differences in swim times, and compare them to the ones in the book. Which order were the differences calculated, wet suit - swim suit or the opposite? Were all the differences positive?\n\n\n(b) Dot plot of differences\nCreate a dot plot of the differences in swim times and comment on the distribution shape.\n\n\n(c) Hypothesis test\nRun the appropriate statistical test in R as both a one-sample t-test and a paired t-test to verify the test statistic, p-value, and CI in the text. Use inline R code to pull these values from the test output when writing up your comparison of these values to the book’s values."
+  },
+  {
+    "objectID": "homework/HW_4_F25_bsta511.html#r2-dds-expenditures-by-ethnicity",
+    "href": "homework/HW_4_F25_bsta511.html#r2-dds-expenditures-by-ethnicity",
+    "title": "HW 4: BSTA 511/611 F25",
+    "section": "R2: DDS expenditures by ethnicity",
+    "text": "R2: DDS expenditures by ethnicity\n\nIn these exercises you will use R to work through the discrimination in developmental disability support example from Section 5.3.4 (pg. 253) in the textbook.\nThe data are in the oibiostats package and called dds.discr.\n\n\n(a) New dataset\nCreate a new dataset that only includes the White (non Hispanic) and Hispanic ethnicities. Use this new dataset for the following questions.\n\n\n(b) Data viz\nCreate density plots and box plots of the expenditures stratified by ethnicity. Comment on the distribution shapes. Are there any outliers?\n\n\n(c) t-test conditions\nAre the conditions for a t-test comparing the mean expenditures of the two ethnicities satisfied?\n\n\n(d) Log-transformation\nThe book recommends log-transforming the expenditure values before testing. Create a new column in the dataset with the transformed values. The R command for the natural logarithm is log(). \n\n\n(e) Data viz: log-transformed expenditures\nCreate density plots and box plots of the log-transformed expenditures stratified by ethnicity. Comment on the distribution shapes. Are there any outliers?\n\n\n(f) t-test conditions: log-transformed expenditures\nAre the conditions for a t-test comparing the mean log-transformed expenditures of the two ethnicities satisfied?\n\n\n(g) Summary stats: log-transformed expenditures\nCalculate the means, standard deviations, and sample sizes for the log-transformed expenditures stratified by ethnicity, and compare them to the ones in the book. Which group had a larger mean?\n\n\n(h) Test\nRun the appropriate statistical test in R to verify the test statistic in the text and get the actual p-value. In which order was the difference in means calculated, and is this same as in the book? Use inline R code to pull these values from the test output when writing up your comparison of these values to the book’s values.\n\n\n(i) df\nHow do the degrees of freedom (df) from the hypothesis test compare to the df used by the book? Why are they different? Which degrees df (book vs. test output) leads to a bigger p-value?\n\n\n(j) CI\nWhat is the 95% CI? Write an interpretation of the CI in the context of the research question. \n\n\n(k) Test original expenditure values\nRun the appropriate statistical test in R using the original expenditure values. What are the test statistic and p-value? Does the conclusion of the test change?\n\n\n(l) CI using original expenditure values\nWhat is the 95% CI? Write an interpretation of the CI in the context of the research question. Which of the CI’s (log-transformed vs not) is easier to interpret?\n\n\n(m) Age groups\nThe book’s example goes on to analyze the data stratified by age groups, since age is a confounder in expenditure amounts. Create two new datasets restricted to the age groups 13-17 and 22-50, respectively.\n\n\n(n) Data viz by age groups\nCreate density plots and box plots of the expenditures stratified by ethnicity for each of the age groups separately. Comment on the distribution shapes. Are there any outliers?\n\n\n(o) t-test conditions: age groups\nAre the assumptions for a t-test comparing the mean expenditures of the two ethnicities satisfied for either or both of the age groups?\n\n\n(p) Summary stats: age groups\nCalculate the means, standard deviations, and sample sizes for the expenditures stratified by ethnicity and the age groups, and compare them to the ones in the book. Which group had a larger mean?\n\n\n(q) t-test: age groups\nRun the appropriate statistical tests for both age groups in R to verify the test statistics, df’s, and p-values in the text. In which order were the differences in means calculated, and are they the same as in the book? Use inline R code to pull these values from the test output when writing up your comparison of these values to the book’s values.\n\n\n(r) CI: age groups\nWhat are the 95% CI’s for each of the age groups? Write interpretations of the CI’s in the context of the research question. Does they suggest there are differences in expenditures between the two ethnicities? Why or why not?\n\n\n(s) Discrimination in DDS expenditures?\nEven though the p-values for the age-stratified tests were not significant, is it possible that there was discrimination in DDS expenditures?"
   }
 ]

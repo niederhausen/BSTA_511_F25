@@ -12,14 +12,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-- Week 7 updates already made:
-    - Slides
-    - Recording links
-    - Practice Problems
-    - Class Discussion
--   [Updates that still need to be made to Week 7:]{style="color:darkorange"}
-    - I posted a draft of HW 4 that only has questions for Day 10 material. I still need to add questions for Days 11-12.
-
 
 
 ## Overview of Week 7
@@ -98,5 +90,5 @@ Coming soon!
 
 ## Homework
 
--   [*DRAFT*]{style="color:darkorange"} [HW 4](../homework/HW_4_DRAFT_F25_bsta511.qmd) covers Days 10-12 and is due on Sat, 11/15
+-   [HW 4](../homework/HW_4_F25_bsta511.qmd) covers Days 10-12 and is due on Sat, 11/15
 -   Check out this [spreadsheet](https://docs.google.com/spreadsheets/d/1k_NivXZftdlRgRyTT3fUZCndW4eoXCzAs-DEIml6K3Y/edit?gid=0#gid=0) for typos in book.

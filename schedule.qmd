@@ -31,7 +31,7 @@ editor_options:
 |  | W 11/5 |  | [**Exam 2: Days 6-9**]{style="color:green"} | **3.1-3.4, 4.1-4.2** |
 | [7](weeks/week_07.qmd) | M 11/10 | **11** | Hypothesis Testing: <br> Two-sample independent data; <br> Power | 5.3-5.4, extra |
 |  | W 11/12 | **12** | Inference for a single proportion <br> or difference in proportions | 8.1-8.2 |
-|  | Sa 11/15 |  | *HW 4 Due (Days 10 - 12)* |  |
+|  | Sa 11/15 |  | [*HW 4*](homework/HW_4_F25_bsta511.qmd) *Due (Days 10 - 12)* |  |
 | [8](weeks/week_08.qmd) | M 11/17 | **13** | Chi-squared tests, <br> Fishers exact test | 8.3-8.4 |
 |  | W 11/19 | **14** | Comparing Means with ANOVA. | 5.5, extra |
 |  | **Thurs 11/20** |  | *HW 5 Due (Day 13)* <br> *Due Thursday!!* |  |
