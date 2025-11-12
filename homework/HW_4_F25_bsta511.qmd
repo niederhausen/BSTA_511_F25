@@ -139,27 +139,27 @@ It is a good idea to try rendering your document from time to time as you go alo
 
 
 
-## 8.24 Prenatal vitamins and Autism 
+## 8.24 Prenatal vitamins and Autism
 
 [Additional instructions:]{style="color:green"}
 
-* [(b): Do the hypothesis test both using the formula and using the appropriate R statistical test.]{style="color:green"}
-* [Add part (d) as instructed below.]{style="color:green"}
+-   [(a): I updated the instructions for part (a).]{style="color:green"}
+-   [(b): Do the hypothesis test both using the formula and using the appropriate R statistical test.]{style="color:green"}
+-   [Add part (d) as instructed below.]{style="color:green"}
 
-### (a) 
+### (a)
 
-
-### (b) 
-
-
-### (c) 
+[**State the appropriate hypotheses to test if there is a difference in the proportions of mothers who used prenatal vitamins between the groups of mothers of children with autism and the mothers of children with typical development.**]{style="color:green"}
 
 
-### (d) 
 
-[__Calculate and interpret the 95% confidence interval for the difference in proportions using the formula. Is it consistent with CI from the R output of the hypothesis test? __]{style="color:green"}
+### (b)
 
+### (c)
 
+### (d)
+
+[**Calculate and interpret the 95% confidence interval using the formula for the difference in the proportions of mothers who used prenatal vitamins between the groups of mothers of children with autism and the mothers of children with typical development. Is it consistent with CI from the R output of the hypothesis test?** ]{style="color:green"}
 
 
 ## 8.26 An apple a day keeps the doctor away 

@@ -7732,7 +7732,7 @@
     "href": "homework/HW_4_F25_bsta511.html#prenatal-vitamins-and-autism",
     "title": "HW 4: BSTA 511/611 F25",
     "section": "8.24 Prenatal vitamins and Autism",
-    "text": "8.24 Prenatal vitamins and Autism\nAdditional instructions:\n\n(b): Do the hypothesis test both using the formula and using the appropriate R statistical test.\nAdd part (d) as instructed below.\n\n\n(a)\n\n\n(b)\n\n\n(c)\n\n\n(d)\nCalculate and interpret the 95% confidence interval for the difference in proportions using the formula. Is it consistent with CI from the R output of the hypothesis test?"
+    "text": "8.24 Prenatal vitamins and Autism\nAdditional instructions:\n\n(a): I updated the instructions for part (a).\n(b): Do the hypothesis test both using the formula and using the appropriate R statistical test.\nAdd part (d) as instructed below.\n\n\n(a)\nState the appropriate hypotheses to test if there is a difference in the proportions of mothers who used prenatal vitamins between the groups of mothers of children with autism and the mothers of children with typical development.\n\n\n(b)\n\n\n(c)\n\n\n(d)\nCalculate and interpret the 95% confidence interval using the formula for the difference in the proportions of mothers who used prenatal vitamins between the groups of mothers of children with autism and the mothers of children with typical development. Is it consistent with CI from the R output of the hypothesis test?"
   },
   {
     "objectID": "homework/HW_4_F25_bsta511.html#an-apple-a-day-keeps-the-doctor-away",
