@@ -34,7 +34,7 @@ editor_options:
 |  | Sa 11/15 |  | [*HW 4*](homework/HW_4_F25_bsta511.qmd) *Due (Days 10 - 12)* |  |
 | [8](weeks/week_08.qmd) | M 11/17 | **13** | Chi-squared tests, <br> Fishers exact test | 8.3-8.4 |
 |  | W 11/19 | **14** | Comparing Means with ANOVA. | 5.5, extra |
-|  | **Thurs 11/20** |  | *HW 5 Due (Day 13)* <br> *Due Thursday!!* |  |
+|  | **Thurs 11/20** |  | [*HW 5*](homework/HW_5_F25_bsta511.qmd) *(Day 13)* <br> [*Due Thursday!!*]{style="color:darkorange"} |  |
 | [9](weeks/week_09.qmd) | M 11/24 |  | [**Exam 3: Days 10-13**]{style="color:green"} | **4.3, 5.1-5.4;** <br> extra, 8.1-8.4 |
 |  | W 11/26 | **15** | Simple Linear Regression | 6.1-6.2 |
 |  | Sa 11/29 |  | *HW 6 Due (Days 14 - 15)* |  |

@@ -1,9 +1,10 @@
 ---
 title: "Day 14: Comparing Means with ANOVA (Section 5.5)"
 subtitle: "BSTA 511/611"
+pagetitle: "Day 14 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
 institute: "OHSU-PSU School of Public Health"
-date: "11/20/2024"
+date: "11/19/2025"
 categories: ["Week 8"]
 format: 
   # revealjs:
