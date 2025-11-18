@@ -35,13 +35,13 @@ editor_options:
 
 | Day | Topic | Slides: html | Slides: pdf | Slides: web-page | Slides with notes | Recording Link | Duration | Code: qmd | Code: html |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| 15 | Simple linear regression: 6.1-6.2 |  | [{{< iconify bi file-earmark-pdf-fill size=20px >}}](../slides_pdf/Day15_bsta511.pdf) |  | [{{< iconify pepicons-pop pen-circle-filled size=20px >}}](../slides_notes/Day15_bsta511_notes.pdf) | [Day 15](https://echo360.org/lesson/a7e4b6e8-5921-4f4e-8149-9d35db997853/classroom#sortDirection=desc) | 46 min | [{{< iconify simple-icons:quarto >}}](https://github.com/niederhausen/BSTA_511_F24/blob/main/slides_code/Day15_bsta511_code.qmd) | [{{< iconify ph file-html-light size=25px >}}](../slides_code/Day15_bsta511_code.qmd) |
+| 15 | Simple linear regression: 6.1-6.2 |  | [{{< iconify bi file-earmark-pdf-fill size=20px >}}](../slides_pdf/Day15_bsta511.pdf) |  | [{{< iconify pepicons-pop pen-circle-filled size=20px >}}](../slides_notes/Day15_bsta511_notes.pdf) | [Day 15](https://echo360.org/lesson/a7e4b6e8-5921-4f4e-8149-9d35db997853/classroom#sortDirection=desc) | 46 min | [{{< iconify simple-icons:quarto >}}](https://github.com/niederhausen/BSTA_511_F25/blob/main/slides_code/Day15_bsta511_code.qmd) | [{{< iconify ph file-html-light size=25px >}}](../slides_code/Day15_bsta511_code.qmd) |
 
 : {.striped .hover tbl-colwidths="\[3, 10, 8, 5, 5, 5, 6, 6, 5, 5\]"}
 
 ## Datasets
 
-All datasets can be found on [GitHub](https://github.com/niederhausen/BSTA_511_F24/tree/main/data)
+All datasets can be found on [GitHub](https://github.com/niederhausen/BSTA_511_F25/tree/main/data)
 
 -   Day 15: [lifeexp_femlit_water_2011.csv](/data/lifeexp_femlit_water_2011.csv)
 
@@ -75,7 +75,8 @@ During class you will be working in groups discussing the following:
 ## Exam 3 information {#sec-Exam3info}
 
 -   Exam 3 will be on Mon, Nov. 24th
--   Samples of past exam questions and answers *coming soon!* (on Sakai)
+-   Samples of [past exam questions](https://sakai.ohsu.edu/access/content/group/BSTA-511-1-AA-F25/Exam_samples/Exam_3_samples_4.3_5.1-5.4_8.1-8.4.pdf) and [answers](https://sakai.ohsu.edu/access/content/group/BSTA-511-1-AA-F25/Exam_samples/Exam_3_samples_4.3_5.1-5.4_8.1-8.4_answers.pdf) (on Sakai)
+    - *Note: I still need to add the answers for the Fall 2024 exam.*
 -   Material will cover **Days 10-13**,
     -   which is approximately **Sections 4.3, 5.1-5.4, and 8.1-8.4** from the textbook, plus supplementary material.
 -   The exam will be in-class and handwritten. *Bring a calculator.*
