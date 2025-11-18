@@ -550,7 +550,7 @@ chisq.test(DepPA_table2x2)
 
 
 
-# Fischer's Exact Test
+# Fisher's Exact Test
 
 Use this if expected cell counts are too small
 

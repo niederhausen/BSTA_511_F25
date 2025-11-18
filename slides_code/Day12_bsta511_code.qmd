@@ -620,33 +620,67 @@ We are 95% confident that the difference in (population) proportions of young ma
 
 
 
-# 1- and 2-sample proportions tests in R
+# R: 1- and 2-sample proportions tests
 
-* `prop.test`
-* Need a dataset to use `prop.test`
-    * Create dataset based on the summary stats if do not have one
-* Input of `prop.test` is a `table()` of the dataset
+`prop.test(x, n, p = NULL,`  
+&nbsp; &nbsp; &nbsp;     `alternative = c("two.sided", "less", "greater"),`   
+&nbsp; &nbsp; &nbsp;     `conf.level = 0.95,`  
+&nbsp; &nbsp; &nbsp;     `correct = TRUE)`
+
+* 2 options for data input 
+    1. Summary counts
+        * `x` = vector with counts of "successes" 
+        * `n` = vector with sample size in each group
+    2. Dataset
+        * `x = table()` of dataset
+        * Need to create a dataset based on the summary stats if do not already have one
 * Continuity correction
 
+# R: 1-sample proportion test
 
-## R: 1-sample proportion test (1/3)
+"1-prop z-test"
 
-Create a dataset based on the results:
+
+## Summary stats input for 1-sample proportion test
+
+__Example:__ A 2010 study found that out of 269 male college students, 35% had participated in sports betting in the previous year.   
+Test $H_0: p=0.36$ vs. $H_A: p \neq 0.36$? 
+
 ```{r}
-.35*269 # number of "successes"
-# round this value
+.35*269 # number of "successes"; round this value
+
+prop.test(x = 94, n = 269,              # x = # successes & n = sample size
+          p = 0.36,                     # null value p0
+          alternative = "two.sided",    # 2-sided alternative
+          correct = FALSE)              # no continuity correction
+```
+
+Can `tidy()` test output:
+```{r}
+prop.test(x = 94, n = 269, p = 0.36, alternative = "two.sided", correct = FALSE) %>% 
+  tidy() %>% gt()
+```
+
+
+## Dataset input for 1-sample proportion test (1/2)
+
+Since we don't have a dataset, we first need to create a dataset based on the results:
+
+>"out of 269 male college students, 35% had participated in sports betting in the previous year"
+
+```{r}
+.35*269 # number of "successes"; round this value
 
 SportsBet1 <- tibble(
   Coll = c(rep("Bet", 94), 
            rep("NotBet",269-94))
   )
+
 glimpse(SportsBet1)
-```
 
-
-```{r}
 SportsBet1 %>% tabyl(Coll)
 ```
+
 
 R code for proportions test requires input as a base R `table`:
 ```{r}
@@ -654,39 +688,93 @@ table(SportsBet1$Coll)
 ```
 
 
-## R: 1-sample proportion test (2/3)
+## Dataset input for 1-sample proportion test (2/2)
 
-`prop.test` requires the input x to be a table
+* When using a dataset, `prop.test` requires the input `x` to be a table
+* Note that we do not also specify `n` since the table already includes all needed information.
+
 
 ```{r}
-prop.test(x = table(SportsBet1$Coll),
-       alternative = "two.sided",
-       p = 0.36,
-       correct = FALSE)
+prop.test(x = table(SportsBet1$Coll),   # table() of data
+          p = 0.36,                     # null value p0
+          alternative = "two.sided",    # 2-sided alternative
+          correct = FALSE)              # no continuity correction
+
+
+```
+
+Compare output with summary stats method:
+
+```{r}
+prop.test(x = 94, n = 269,              # x = # successes & n = sample size
+          p = 0.36,                     # null value p0
+          alternative = "two.sided",    # 2-sided alternative
+          correct = FALSE)  %>%         # no continuity correction
+  tidy() %>% gt()
 ```
 
 
+## Continuity correction: 1-prop z-test with vs. without CC
 
-## R: 1-sample proportion test: with vs. without CC (3/3)
 
-Apply a continuity correction (CC) to the p-value calculation.
+* Recall that when we approximated the 
+* binomial distribution with a normal distribution to calculate a probability, 
+* that we included a continuity correction (CC) 
+* to account for approximating a discrete distribution with a continuous distribution.
+
+
 
 ```{r}
-prop.test(x = table(SportsBet1$Coll), alternative = "two.sided",
-       p = 0.36, correct = FALSE) %>% tidy() %>% gt()
-
-prop.test(x = table(SportsBet1$Coll), alternative = "two.sided",
-       p = 0.36, correct = TRUE) %>% tidy() %>% gt()
+prop.test(x = table(SportsBet1$Coll), 
+          alternative = "two.sided",
+          p = 0.36, 
+          correct = FALSE) %>% 
+  tidy() %>% gt()
 ```
+
+
+```{r}
+prop.test(x = table(SportsBet1$Coll), 
+          alternative = "two.sided",
+          p = 0.36, 
+          correct = TRUE) %>% 
+  tidy() %>% gt()
+```
+
 
 Differences are small when sample sizes are large.
 
 
 
-# R: 2-samples proportions test (1/3)
+# R: 2-samples proportion test
+
+"2-prop z-test"
+
+## Summary stats input for 2-samples proportion test
+
+__Example:__ A 2010 study found that out of 269 male college students, 35% had participated in sports betting in the previous year, and out of 214 noncollege young males 36% had. Test $H_0: p_{coll} - p_{noncoll} = 0$ vs. $H_A: p_{coll} - p_{noncoll} \neq 0$.  
+
+```{r}
+# round the number of successes:
+.35*269 # number of "successes" in college students
+.36*214 # number of "successes" in noncollege students
+
+NmbrBet <- c(94, 77)                    # vector for # of successes in each group
+TotalNmbr <- c(269, 214)                # vector for sample size in each group
+
+prop.test(x = NmbrBet,                  # x is # of successes in each group 
+          n = TotalNmbr,                # n is sample size in each group
+          alternative = "two.sided",    # 2-sided alternative
+          correct = FALSE)              # no continuity correction
+```
 
 
-We first need a dataset based on the results:
+## Dataset input for 2-samples proportion test (1/2)
+
+Since we don't have a dataset, we first need to create a dataset based on the results:
+
+>"out of 269 male college students, 35% had participated in sports betting in the previous year, and out of 214 noncollege young males 36% had"
+
 
 ```{r}
 .35*269 # number of "successes"
@@ -701,11 +789,7 @@ SportsBet2 <- tibble(
           rep("no", 214-77))
 )
 glimpse(SportsBet2)
-```
 
-
-
-```{r}
 SportsBet2 %>% tabyl(Group, Bet)
 ```
 
@@ -716,12 +800,10 @@ table(SportsBet2$Group, SportsBet2$Bet)
 
 
 
+## Dataset input for 2-samples proportion test (2/2)
 
-
-
-## R: 2-samples proportions test (2/3)
-
-`prop.test` requires the input x to be a table
+* When using a dataset, `prop.test` requires the input `x` to be a table
+* Note that we do not also specify `n` since the table already includes all needed information.
 
 ```{r}
 prop.test(x = table(SportsBet2$Group, SportsBet2$Bet),
@@ -730,18 +812,38 @@ prop.test(x = table(SportsBet2$Group, SportsBet2$Bet),
 ```
 
 
-
-
-## R: 2-samples proportions test: with vs. without CC (3/3)
-
-Apply a continuity correction (CC) to the p-value calculation.
+Compare output with summary stats method:
 
 ```{r}
-prop.test(x = table(SportsBet2$Group, SportsBet2$Bet), alternative = "two.sided", 
-          correct = FALSE) %>% tidy() %>% gt()
+prop.test(x = NmbrBet,                  # x is # of successes in each group 
+          n = TotalNmbr,                # n is sample size in each group
+          alternative = "two.sided",    # 2-sided alternative
+          correct = FALSE) %>%          # no continuity correction
+  tidy() %>% gt()
+```
 
-prop.test(x = table(SportsBet2$Group, SportsBet2$Bet), alternative = "two.sided", 
-          correct = TRUE) %>% tidy() %>% gt()
+
+## Continuity correction: 2-prop z-test with vs. without CC
+
+* Recall that when we approximated the 
+* binomial distribution with a normal distribution to calculate a probability, 
+* that we included a continuity correction (CC) 
+* to account for approximating a discrete distribution with a continuous distribution.
+
+
+```{r}
+prop.test(x = table(SportsBet2$Group, SportsBet2$Bet),
+          alternative = "two.sided", 
+          correct = FALSE) %>% 
+  tidy() %>% gt()
+```
+
+
+```{r}
+prop.test(x = table(SportsBet2$Group, SportsBet2$Bet),
+          alternative = "two.sided", 
+          correct = TRUE) %>% 
+  tidy() %>% gt()
 ```
 
 Differences are small when sample sizes are large.

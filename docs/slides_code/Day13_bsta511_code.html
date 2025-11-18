@@ -316,11 +316,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#chi2-test-in-r-with-2-way-table" id="toc-chi2-test-in-r-with-2-way-table" class="nav-link" data-scroll-target="#chi2-test-in-r-with-2-way-table"><span class="math inline">\(\chi^2\)</span> test in R with 2-way table</a></li>
   <li><a href="#yates-continuity-correction" id="toc-yates-continuity-correction" class="nav-link" data-scroll-target="#yates-continuity-correction">(Yates’) Continuity correction</a></li>
   </ul></li>
-  <li><a href="#fischers-exact-test" id="toc-fischers-exact-test" class="nav-link" data-scroll-target="#fischers-exact-test">Fischer’s Exact Test</a>
+  <li><a href="#fishers-exact-test" id="toc-fishers-exact-test" class="nav-link" data-scroll-target="#fishers-exact-test">Fisher’s Exact Test</a>
   <ul class="collapse">
   <li><a href="#example-with-smaller-sample-size" id="toc-example-with-smaller-sample-size" class="nav-link" data-scroll-target="#example-with-smaller-sample-size">Example with smaller sample size</a></li>
   <li><a href="#chi-squared-test-warning" id="toc-chi-squared-test-warning" class="nav-link" data-scroll-target="#chi-squared-test-warning">Chi-squared test warning</a></li>
-  <li><a href="#fishers-exact-test" id="toc-fishers-exact-test" class="nav-link" data-scroll-target="#fishers-exact-test">Fisher’s Exact Test</a></li>
+  <li><a href="#fishers-exact-test-1" id="toc-fishers-exact-test-1" class="nav-link" data-scroll-target="#fishers-exact-test-1">Fisher’s Exact Test</a></li>
   <li><a href="#simulate-p-values-another-option-for-small-expected-counts" id="toc-simulate-p-values-another-option-for-small-expected-counts" class="nav-link" data-scroll-target="#simulate-p-values-another-option-for-small-expected-counts"><strong>Simulate p-values</strong>: another option for small expected counts</a></li>
   </ul></li>
   <li><a href="#chi2-test-vs.-testing-proportions" id="toc-chi2-test-vs.-testing-proportions" class="nav-link" data-scroll-target="#chi2-test-vs.-testing-proportions"><span class="math inline">\(\chi^2\)</span> test vs.&nbsp;testing proportions</a>
@@ -903,23 +903,23 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
 </details>
 <div class="cell-output-display">
 
-<div id="ufywwhlsen" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#ufywwhlsen table {
+<div id="rfslwkoays" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#rfslwkoays table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#ufywwhlsen thead, #ufywwhlsen tbody, #ufywwhlsen tfoot, #ufywwhlsen tr, #ufywwhlsen td, #ufywwhlsen th {
+#rfslwkoays thead, #rfslwkoays tbody, #rfslwkoays tfoot, #rfslwkoays tr, #rfslwkoays td, #rfslwkoays th {
   border-style: none;
 }
 
-#ufywwhlsen p {
+#rfslwkoays p {
   margin: 0;
   padding: 0;
 }
 
-#ufywwhlsen .gt_table {
+#rfslwkoays .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -945,12 +945,12 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-left-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_caption {
+#rfslwkoays .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#ufywwhlsen .gt_title {
+#rfslwkoays .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -962,7 +962,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-bottom-width: 0;
 }
 
-#ufywwhlsen .gt_subtitle {
+#rfslwkoays .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -974,7 +974,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-top-width: 0;
 }
 
-#ufywwhlsen .gt_heading {
+#rfslwkoays .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -986,13 +986,13 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-right-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_bottom_border {
+#rfslwkoays .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_col_headings {
+#rfslwkoays .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1007,7 +1007,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-right-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_col_heading {
+#rfslwkoays .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1027,7 +1027,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   overflow-x: hidden;
 }
 
-#ufywwhlsen .gt_column_spanner_outer {
+#rfslwkoays .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1039,15 +1039,15 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   padding-right: 4px;
 }
 
-#ufywwhlsen .gt_column_spanner_outer:first-child {
+#rfslwkoays .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ufywwhlsen .gt_column_spanner_outer:last-child {
+#rfslwkoays .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ufywwhlsen .gt_column_spanner {
+#rfslwkoays .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1059,11 +1059,11 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   width: 100%;
 }
 
-#ufywwhlsen .gt_spanner_row {
+#rfslwkoays .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#ufywwhlsen .gt_group_heading {
+#rfslwkoays .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1089,7 +1089,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   text-align: left;
 }
 
-#ufywwhlsen .gt_empty_group_heading {
+#rfslwkoays .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1104,15 +1104,15 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   vertical-align: middle;
 }
 
-#ufywwhlsen .gt_from_md > :first-child {
+#rfslwkoays .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ufywwhlsen .gt_from_md > :last-child {
+#rfslwkoays .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ufywwhlsen .gt_row {
+#rfslwkoays .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1131,7 +1131,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   overflow-x: hidden;
 }
 
-#ufywwhlsen .gt_stub {
+#rfslwkoays .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1144,7 +1144,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   padding-right: 5px;
 }
 
-#ufywwhlsen .gt_stub_row_group {
+#rfslwkoays .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1158,15 +1158,15 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   vertical-align: top;
 }
 
-#ufywwhlsen .gt_row_group_first td {
+#rfslwkoays .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#ufywwhlsen .gt_row_group_first th {
+#rfslwkoays .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#ufywwhlsen .gt_summary_row {
+#rfslwkoays .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1176,16 +1176,16 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   padding-right: 5px;
 }
 
-#ufywwhlsen .gt_first_summary_row {
+#rfslwkoays .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_first_summary_row.thick {
+#rfslwkoays .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#ufywwhlsen .gt_last_summary_row {
+#rfslwkoays .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1195,7 +1195,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-bottom-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_grand_summary_row {
+#rfslwkoays .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1205,7 +1205,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   padding-right: 5px;
 }
 
-#ufywwhlsen .gt_first_grand_summary_row {
+#rfslwkoays .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1215,7 +1215,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-top-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_last_grand_summary_row_top {
+#rfslwkoays .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1225,11 +1225,11 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-bottom-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_striped {
+#rfslwkoays .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ufywwhlsen .gt_table_body {
+#rfslwkoays .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1238,7 +1238,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-bottom-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_footnotes {
+#rfslwkoays .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1252,7 +1252,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-right-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_footnote {
+#rfslwkoays .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -1261,7 +1261,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   padding-right: 5px;
 }
 
-#ufywwhlsen .gt_sourcenotes {
+#rfslwkoays .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1275,7 +1275,7 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   border-right-color: #D3D3D3;
 }
 
-#ufywwhlsen .gt_sourcenote {
+#rfslwkoays .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1283,72 +1283,72 @@ X-squared = 41.171, df = 2, p-value = 1.148e-09</code></pre>
   padding-right: 5px;
 }
 
-#ufywwhlsen .gt_left {
+#rfslwkoays .gt_left {
   text-align: left;
 }
 
-#ufywwhlsen .gt_center {
+#rfslwkoays .gt_center {
   text-align: center;
 }
 
-#ufywwhlsen .gt_right {
+#rfslwkoays .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ufywwhlsen .gt_font_normal {
+#rfslwkoays .gt_font_normal {
   font-weight: normal;
 }
 
-#ufywwhlsen .gt_font_bold {
+#rfslwkoays .gt_font_bold {
   font-weight: bold;
 }
 
-#ufywwhlsen .gt_font_italic {
+#rfslwkoays .gt_font_italic {
   font-style: italic;
 }
 
-#ufywwhlsen .gt_super {
+#rfslwkoays .gt_super {
   font-size: 65%;
 }
 
-#ufywwhlsen .gt_footnote_marks {
+#rfslwkoays .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#ufywwhlsen .gt_asterisk {
+#rfslwkoays .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#ufywwhlsen .gt_indent_1 {
+#rfslwkoays .gt_indent_1 {
   text-indent: 5px;
 }
 
-#ufywwhlsen .gt_indent_2 {
+#rfslwkoays .gt_indent_2 {
   text-indent: 10px;
 }
 
-#ufywwhlsen .gt_indent_3 {
+#rfslwkoays .gt_indent_3 {
   text-indent: 15px;
 }
 
-#ufywwhlsen .gt_indent_4 {
+#rfslwkoays .gt_indent_4 {
   text-indent: 20px;
 }
 
-#ufywwhlsen .gt_indent_5 {
+#rfslwkoays .gt_indent_5 {
   text-indent: 25px;
 }
 
-#ufywwhlsen .katex-display {
+#rfslwkoays .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#ufywwhlsen div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#rfslwkoays div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -1533,8 +1533,8 @@ X-squared = 26.807, df = 1, p-value = 2.248e-07</code></pre>
 </div>
 </section>
 </section>
-<section id="fischers-exact-test" class="level1">
-<h1>Fischer’s Exact Test</h1>
+<section id="fishers-exact-test" class="level1">
+<h1>Fisher’s Exact Test</h1>
 <p>Use this if expected cell counts are too small</p>
 <section id="example-with-smaller-sample-size" class="level2">
 <h2 class="anchored" data-anchor-id="example-with-smaller-sample-size">Example with smaller sample size</h2>
@@ -1615,8 +1615,8 @@ PA    None Several Most
 </ul></li>
 </ul>
 </section>
-<section id="fishers-exact-test" class="level2">
-<h2 class="anchored" data-anchor-id="fishers-exact-test">Fisher’s Exact Test</h2>
+<section id="fishers-exact-test-1" class="level2">
+<h2 class="anchored" data-anchor-id="fishers-exact-test-1">Fisher’s Exact Test</h2>
 <ul>
 <li>Called an exact test since it
 <ul>
@@ -3571,7 +3571,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb71-596"><a href="#cb71-596" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb71-597"><a href="#cb71-597" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb71-598"><a href="#cb71-598" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb71-599"><a href="#cb71-599" aria-hidden="true" tabindex="-1"></a><span class="fu"># Fischer's Exact Test</span></span>
+<span id="cb71-599"><a href="#cb71-599" aria-hidden="true" tabindex="-1"></a><span class="fu"># Fisher's Exact Test</span></span>
 <span id="cb71-600"><a href="#cb71-600" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb71-601"><a href="#cb71-601" aria-hidden="true" tabindex="-1"></a>Use this if expected cell counts are too small</span>
 <span id="cb71-602"><a href="#cb71-602" aria-hidden="true" tabindex="-1"></a></span>
