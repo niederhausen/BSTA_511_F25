@@ -91,9 +91,7 @@ During class you will be working in groups discussing the following:
 ## Homework
 
 -   [HW 5](../homework/HW_5_F25_bsta511.qmd) covers Day 13 and is due on [***THURSDAY***]{style="color:darkorange"}, 11/20
--   HW 6 covers Days 14-15 and is due on Sat, 11/29
-    -   *Will be posted soon!*  
-    -   The only Day 14 questions on HW 6 are the ones listed above in the Class Discussion section.
+-   [HW 6](../homework/HW_6_F25_bsta511.qmd) covers Days 14-15 and is due on Sat, 11/29
 -   Check out this [spreadsheet](https://docs.google.com/spreadsheets/d/1k_NivXZftdlRgRyTT3fUZCndW4eoXCzAs-DEIml6K3Y/edit?gid=0#gid=0) for typos in book.
 
 
