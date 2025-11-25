@@ -1,6 +1,7 @@
 ---
 title: "Week 9"
-description: "Chi-squared tests and ANOVA"
+description: "Exam 3 & Simple Linear Regression"
+pagetitle: "Week 9 BSTA 511/611"
 date: "11/24/2025"
 date-modified: "today"
 categories: [""]
