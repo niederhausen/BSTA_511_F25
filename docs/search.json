@@ -291,7 +291,7 @@
     "href": "weeks.html",
     "title": "Weekly Pages",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nWeek 2\n\n\nData collection & Probability\n\n\n\n\n10/13/25\n\n\nWeek 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/20/25\n\n\nWeek 4\n\n\nRandom variables & binomial distribution and Exam 1\n\n\n\n\n10/27/25\n\n\nWeek 5\n\n\nNormal & Poisson distributions; Variability in estimates & CI’s\n\n\n\n\n11/3/25\n\n\nWeek 6\n\n\nHypothesis Testing & Exam 2\n\n\n\n\n11/10/25\n\n\nWeek 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/17/25\n\n\nWeek 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/24/25\n\n\nUNDER CONSTRUCTION: Week 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n12/2/24\n\n\nUNDER CONSTRUCTION: Week 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/9/24\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nWeek 2\n\n\nData collection & Probability\n\n\n\n\n10/13/25\n\n\nWeek 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/20/25\n\n\nWeek 4\n\n\nRandom variables & binomial distribution and Exam 1\n\n\n\n\n10/27/25\n\n\nWeek 5\n\n\nNormal & Poisson distributions; Variability in estimates & CI’s\n\n\n\n\n11/3/25\n\n\nWeek 6\n\n\nHypothesis Testing & Exam 2\n\n\n\n\n11/10/25\n\n\nWeek 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/17/25\n\n\nWeek 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/24/25\n\n\nWeek 9\n\n\nChi-squared tests and ANOVA\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "weeks/week_03.html",
@@ -548,42 +548,42 @@
   {
     "objectID": "weeks/week_09.html",
     "href": "weeks/week_09.html",
-    "title": "UNDER CONSTRUCTION: Week 9",
+    "title": "Week 9",
     "section": "",
     "text": "See the Exam 3 information section below for more information\n\n\n\n\n\nSimple Linear Regression (part 1)\nSections 6.1, 6.2"
   },
   {
     "objectID": "weeks/week_09.html#overview-of-week-9",
     "href": "weeks/week_09.html#overview-of-week-9",
-    "title": "UNDER CONSTRUCTION: Week 9",
+    "title": "Week 9",
     "section": "",
     "text": "See the Exam 3 information section below for more information\n\n\n\n\n\nSimple Linear Regression (part 1)\nSections 6.1, 6.2"
   },
   {
     "objectID": "weeks/week_09.html#slides-recordings",
     "href": "weeks/week_09.html#slides-recordings",
-    "title": "UNDER CONSTRUCTION: Week 9",
+    "title": "Week 9",
     "section": "Slides & Recordings",
     "text": "Slides & Recordings\n\nPre-recorded lessons are on Echo Video.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay\nTopic\nSlides: html\nSlides: pdf\nSlides: web-page\nSlides with notes\nRecording Link\nDuration\nCode: qmd\nCode: html\n\n\n\n\n15\nSimple linear regression: 6.1-6.2\n\n\n\n\nDay 15\n46 min"
   },
   {
     "objectID": "weeks/week_09.html#datasets",
     "href": "weeks/week_09.html#datasets",
-    "title": "UNDER CONSTRUCTION: Week 9",
+    "title": "Week 9",
     "section": "Datasets",
     "text": "Datasets\nAll datasets can be found on GitHub\n\nDay 15: lifeexp_femlit_water_2011.csv"
   },
   {
     "objectID": "weeks/week_09.html#class-discussion",
     "href": "weeks/week_09.html#class-discussion",
-    "title": "UNDER CONSTRUCTION: Week 9",
+    "title": "Week 9",
     "section": "Class discussion",
     "text": "Class discussion\nDuring class you will be working in groups discussing the following:\n\nDay 15\n\nPractice Problems listed above\nQuestions from HW 6\n\nBook 6.10\n\nR2: Palmer Penguins SLR"
   },
   {
     "objectID": "weeks/week_09.html#homework",
     "href": "weeks/week_09.html#homework",
-    "title": "UNDER CONSTRUCTION: Week 9",
+    "title": "Week 9",
     "section": "Homework",
     "text": "Homework\n\nHW 6 covers Days 14-15 and is due on Sat, 11/29\nCheck out this spreadsheet for typos in book."
   },
@@ -9277,15 +9277,169 @@
   {
     "objectID": "weeks/week_09.html#practice-problems",
     "href": "weeks/week_09.html#practice-problems",
-    "title": "UNDER CONSTRUCTION: Week 9",
+    "title": "Week 9",
     "section": "Practice Problems",
     "text": "Practice Problems\n\nDay 15 PP\n\nBook exercises:\n\n6.2, 6.6"
   },
   {
     "objectID": "weeks/week_09.html#sec-Exam3info",
     "href": "weeks/week_09.html#sec-Exam3info",
-    "title": "UNDER CONSTRUCTION: Week 9",
+    "title": "Week 9",
     "section": "Exam 3 information",
     "text": "Exam 3 information\n\nExam 3 will be on Mon, Nov. 24th\nSamples of past exam questions and answers (on Sakai)\n\nNote: I still need to add the answers for the Fall 2024 exam.\n\nMaterial will cover Days 10-13,\n\nwhich is approximately Sections 4.3, 5.1-5.4, and 8.1-8.4 from the textbook, plus supplementary material.\n\nThe exam will be in-class and handwritten. Bring a calculator.\nYou may bring one page of notes on an 8.5” x 11” sheet of paper.\n\nYou may use both sides.\nYou may type your notes.\nYou may not use screenshots of the notes or textbook\nYou will be turning in the page of notes with the exam, so please add your name to the sheet."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html",
+    "href": "slides_code/Day15_bsta511_code.html",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "",
+    "text": "Packages need to be loaded every time you restart R or render an Qmd file\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(janitor)\nlibrary(rstatix)\nlibrary(knitr)\nlibrary(gtsummary)\nlibrary(moderndive)\nlibrary(gt)\nlibrary(broom) \nlibrary(here) \nlibrary(pwr) \n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#load-packages",
+    "href": "slides_code/Day15_bsta511_code.html#load-packages",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "",
+    "text": "Packages need to be loaded every time you restart R or render an Qmd file\n\n\n# run these every time you open Rstudio\nlibrary(tidyverse)    \nlibrary(oibiostat)\nlibrary(janitor)\nlibrary(rstatix)\nlibrary(knitr)\nlibrary(gtsummary)\nlibrary(moderndive)\nlibrary(gt)\nlibrary(broom) \nlibrary(here) \nlibrary(pwr) \n\n\nYou can check whether a package has been loaded or not\n\nby looking at the Packages tab and\nseeing whether it has been checked off or not"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#dataset-description",
+    "href": "slides_code/Day15_bsta511_code.html#dataset-description",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Dataset description",
+    "text": "Dataset description\n\nData file: lifeexp_femlit_water_2011.csv\nData were downloaded from https://www.gapminder.org/data/\n2011 is the most recent year with the most complete data\nLife expectancy = the average number of years a newborn child would live if current mortality patterns were to stay the same. Source: https://www.gapminder.org/data/documentation/gd004/\nAdult literacy rate is the percentage of people ages 15 and above who can, with understanding, read and write a short, simple statement on their everyday life. Source: http://data.uis.unesco.org/\nAt least basic water source (%) = the percentage of people using at least basic water services. This indicator encompasses both people using basic water services as well as those using safely managed water services. Basic drinking water services is defined as drinking water from an improved source, provided collection time is not more than 30 minutes for a round trip. Improved water sources include piped water, boreholes or tubewells, protect dug wells, protected springs, and packaged or delivered water."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#get-to-know-the-data",
+    "href": "slides_code/Day15_bsta511_code.html#get-to-know-the-data",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Get to know the data",
+    "text": "Get to know the data\n\ngapm &lt;- read_csv(here::here(\"data\", \"lifeexp_femlit_water_2011.csv\"))\n\nglimpse(gapm)\n\nRows: 194\nColumns: 5\n$ country                    &lt;chr&gt; \"Afghanistan\", \"Albania\", \"Algeria\", \"Andor…\n$ life_expectancy_years_2011 &lt;dbl&gt; 56.7, 76.7, 76.7, 82.6, 60.9, 76.9, 76.0, 7…\n$ female_literacy_rate_2011  &lt;dbl&gt; 13.0, 95.7, NA, NA, 58.6, 99.4, 97.9, 99.5,…\n$ water_basic_source_2011    &lt;dbl&gt; 52.6, 88.1, 92.6, 100.0, 40.3, 97.0, 99.5, …\n$ water_2011_quart           &lt;chr&gt; \"Q1\", \"Q2\", \"Q2\", \"Q4\", \"Q1\", \"Q3\", \"Q4\", \"…\n\nsummary(gapm)\n\n   country          life_expectancy_years_2011 female_literacy_rate_2011\n Length:194         Min.   :47.50              Min.   :13.00            \n Class :character   1st Qu.:64.30              1st Qu.:70.97            \n Mode  :character   Median :72.70              Median :91.60            \n                    Mean   :70.66              Mean   :81.65            \n                    3rd Qu.:76.90              3rd Qu.:98.03            \n                    Max.   :82.90              Max.   :99.80            \n                    NA's   :7                  NA's   :114              \n water_basic_source_2011 water_2011_quart  \n Min.   : 18.30          Length:194        \n 1st Qu.: 74.90          Class :character  \n Median : 93.50          Mode  :character  \n Mean   : 84.84                            \n 3rd Qu.: 99.08                            \n Max.   :100.00"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#association-between-life-expectancy-and-female-literacy-rate",
+    "href": "slides_code/Day15_bsta511_code.html#association-between-life-expectancy-and-female-literacy-rate",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Association between life expectancy and female literacy rate",
+    "text": "Association between life expectancy and female literacy rate\n\nggplot(gapm, \n       aes(x = female_literacy_rate_2011,\n           y = life_expectancy_years_2011)) +\n  geom_point() +\n  labs(x = \"female literacy rate\", \n       y = \"life expectancy\",\n       title = \"Life expectancy vs. \n             female literacy rate in 2011\") +  \n  geom_smooth(method = \"lm\", \n              se = FALSE)\n\nWarning: Removed 114 rows containing non-finite outside the scale range\n(`stat_smooth()`).\n\n\nWarning: Removed 114 rows containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n\nIs there a relationship between the two variables?\nIs it positive or negative?\nStrong, moderate, or weak?\nIs it linear?"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#dependent-vs.-independent-variables",
+    "href": "slides_code/Day15_bsta511_code.html#dependent-vs.-independent-variables",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Dependent vs. independent variables",
+    "text": "Dependent vs. independent variables\n\n\nWarning: Removed 114 rows containing non-finite outside the scale range\n(`stat_smooth()`).\n\n\nWarning: Removed 114 rows containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n\n\\(y\\) = dependent variable (DV)\n\nalso called the outcome or response variable\n\n\\(x\\) = independent variable (IV)\n\nalso called the predictor variable\nor regressor in a regression analysis\n\nHow to determine which is which?"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#correlation-between-life-expectancy-and-female-literacy-rate",
+    "href": "slides_code/Day15_bsta511_code.html#correlation-between-life-expectancy-and-female-literacy-rate",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Correlation between life expectancy and female literacy rate",
+    "text": "Correlation between life expectancy and female literacy rate\n\nThe base R function for calculating the correlation coefficient is cor().\nThis can be used within summarize.\n\n\ngapm %&gt;% \n  summarize(correlation = cor(life_expectancy_years_2011, \n                              female_literacy_rate_2011,\n                              use =  \"complete.obs\"))\n\n# A tibble: 1 × 1\n  correlation\n        &lt;dbl&gt;\n1       0.641\n\n# base R:\ncor(gapm$life_expectancy_years_2011, \n    gapm$female_literacy_rate_2011,\n    use =  \"complete.obs\")\n\n[1] 0.6410434"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#pearson-correlation-coefficient-r",
+    "href": "slides_code/Day15_bsta511_code.html#pearson-correlation-coefficient-r",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "(Pearson) Correlation coefficient (r)",
+    "text": "(Pearson) Correlation coefficient (r)\n\nA bivariate summary statistic since calculated using two variables\n-1 indicates a perfect negative linear relationship: As one variable increases, the value of the other variable tends to go down, following a straight line.\n0 indicates no linear relationship: The values of both variables go up/down independently of each other.\n1 indicates a__ perfect positive linear relationship__: As the value of one variable goes up, the value of the other variable tends to go up as well in a linear fashion.\n\n\\[r = \\frac{1}{n-1}\\sum_{i=1}^{n}\\Big(\\frac{x_i - \\bar{x}}{s_x}\\Big)\\Big(\\frac{y_i - \\bar{y}}{s_y}\\Big)\\]"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#regression-line-best-fit-line",
+    "href": "slides_code/Day15_bsta511_code.html#regression-line-best-fit-line",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Regression line = best-fit line",
+    "text": "Regression line = best-fit line\n\\[\\widehat{y} = b_0 + b_1 \\cdot x \\]\n\n\\(\\hat{y}\\) is the predicted outcome for a specific value of \\(x\\).\n\\(b_0\\) is the intercept\n\\(b_1\\) is the slope of the line, i.e., the increase in \\(\\hat{y}\\) for every increase of one (unit increase) in \\(x\\).\n\nslope = rise over run\n\n\n\n\nWarning: Removed 114 rows containing non-finite outside the scale range\n(`stat_smooth()`).\n\n\nWarning: Removed 114 rows containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n]\nInterpreting coefficients\n\nIntercept\n\nThe expected outcome for the \\(y\\)-variable when the \\(x\\)-variable is 0.\n\nSlope\n\nFor every increase of 1 unit in the \\(x\\)-variable, there is an expected increase of, on average, \\(b_1\\) units in the \\(y\\)-variable.\nWe only say that there is an expected increase and not necessarily a causal increase."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#correlation-coefficient-vs.-slope",
+    "href": "slides_code/Day15_bsta511_code.html#correlation-coefficient-vs.-slope",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Correlation coefficient vs. slope",
+    "text": "Correlation coefficient vs. slope\n\nNot the same!!!\nDirectly related though:\n\n\\[b_1 = r\\frac{s_y}{s_x}\\]\nwhere \\(s_x\\) and \\(s_y\\) are the standard deviations of the \\(x\\) and \\(y\\) variables.\nThe correlation coefficient can be computed using the formula below.\n\\[r = \\frac{1}{n-1}\\sum_{i=1}^{n}\\Big(\\frac{x_i - \\bar{x}}{s_x}\\Big)\\Big(\\frac{y_i - \\bar{y}}{s_y}\\Big)\\]\nWe will be using R to do these calculations."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#how-is-the-best-fit-line-calculated-23",
+    "href": "slides_code/Day15_bsta511_code.html#how-is-the-best-fit-line-calculated-23",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "How is the best-fit line calculated? (2/3)",
+    "text": "How is the best-fit line calculated? (2/3)\n\nObserved values \\(y_i\\) are the values in the dataset\nFitted values \\(\\widehat{y}_i\\) are the values that fall on the best-fit line for a specific \\(x_i\\)\nResiduals \\(e_i = y_i - \\widehat{y}_i\\) are the differences between the two.\n\nThe best-line is minimizing “how far” the residuals are from the best-fit line * However, if we add all the residuals we get 0. ( \\(\\sum_{i=1}^n e_i = 0\\) ) * Thus instead, we add the squares of the residuals, which is always positive, and minimize the sums of the squares ( \\(\\sum_{i=1}^n e_i^2 \\geq 0\\) ) - which is why the best-fit line is often called the least-squares line * This is the same as minimizing the combined area of all the “residual squares” we were looking at in the applet."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#regression-model-with-residuals",
+    "href": "slides_code/Day15_bsta511_code.html#regression-model-with-residuals",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Regression model with residuals",
+    "text": "Regression model with residuals\n\nObserved values \\(y_i\\)\n\nthe values in the dataset\n\nFitted values \\(\\widehat{y}_i\\)\n\nthe values that fall on the best-fit line for a specific \\(x_i\\)\n\nResiduals \\(e_i = y_i - \\widehat{y}_i\\)\n\nthe differences between the observed and fitted values\n\n\n\n# code from https://drsimonj.svbtle.com/visualising-residuals\n\nmodel1 &lt;- lm(life_expectancy_years_2011 ~ female_literacy_rate_2011,\n                 data = gapm)\nregression_points &lt;- augment(model1)\n\nggplot(regression_points, \n       aes(x = female_literacy_rate_2011,\n                 y = life_expectancy_years_2011)) +\n  geom_smooth(method = \"lm\", se = FALSE, color = \"lightgrey\") +\n  geom_segment(aes(\n    xend = female_literacy_rate_2011, \n    yend = .fitted), \n    alpha = .2) +\n  # &gt; Color adjustments made here...\n  geom_point(aes(color = .resid), size = 4) +  # Color mapped here\n  scale_color_gradient2(low = \"blue\", mid = \"white\", high = \"red\") +  # Colors to use here\n  guides(color = \"none\") +\n  geom_point(aes(y = .fitted), shape = 1, size = 3) +\n  labs(x = \"Female literacy rate\", \n       y = \"Average life expectancy\",\n       title = \"Regression line with residuals\") +\n  theme_bw() + \n  theme(text = element_text(size = 20))"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#how-is-the-best-fit-line-calculated-33",
+    "href": "slides_code/Day15_bsta511_code.html#how-is-the-best-fit-line-calculated-33",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "How is the best-fit line calculated? (3/3)",
+    "text": "How is the best-fit line calculated? (3/3)\nIn math-speak, we need to find the values \\(b_0\\) and \\(b_1\\) that minimize the equation:\n\\[\\sum_{i=1}^n e_i^2 =\n\\sum_{i=1}^n (y_i - \\hat{y_i})^2 =\n\\sum_{i=1}^n (y_i - b_0 -b_1 x_i)^2\\]\nwhere\n\n\\(y_i\\) are the values in the dataset\nwith \\(n\\) datapoints and\n\\(\\widehat{y_i}\\) are the fitted values that fall on the best-fit line for a specific value \\(x_i\\).\n\nHow do we find the minimum values of an equation???\nIf you want to see the mathematical details, check out pages 222-223 (pdf pages 10-11) of https://www.stat.cmu.edu/~hseltman/309/Book/chapter9.pdf.\n\\[b_0 = \\bar{y} - b_1\\bar{x}, \\ \\ \\ \\ \\ \\ \\ \\ \\\nb_1 = \\frac{\\sum_{i=1}^n (x_i - \\bar{x})(y_i - \\bar{y})}{\\sum_{i=1}^n (x_i - \\bar{x})^2} = r\\frac{s_y}{s_x}\\]"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#tidy-model",
+    "href": "slides_code/Day15_bsta511_code.html#tidy-model",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "tidy() model",
+    "text": "tidy() model\n\ntidy(model1) %&gt;% gt()\n\n\n\n\n\n  \n    \n      term\n      estimate\n      std.error\n      statistic\n      p.value\n    \n  \n  \n    (Intercept)\n50.9278981\n2.66040695\n19.142898\n3.325312e-31\n    female_literacy_rate_2011\n0.2321951\n0.03147744\n7.376557\n1.501286e-10"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#regression-equation",
+    "href": "slides_code/Day15_bsta511_code.html#regression-equation",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Regression equation",
+    "text": "Regression equation\nThe values in the estimate column are the intercept and slope of the regression model.\n\ntidy(model1) %&gt;% gt()\n\n\n\n\n\n  \n    \n      term\n      estimate\n      std.error\n      statistic\n      p.value\n    \n  \n  \n    (Intercept)\n50.9278981\n2.66040695\n19.142898\n3.325312e-31\n    female_literacy_rate_2011\n0.2321951\n0.03147744\n7.376557\n1.501286e-10\n  \n  \n  \n\n\n\n\nGeneric regression equation:\n\\[\\widehat{y} = b_0 + b_1 \\cdot x \\]\nRegression equation for our model:\n\\[\\widehat{\\textrm{life expectancy}} = 50.9 + 0.232 \\cdot \\textrm{female literacy rate} \\]"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#interpretation-of-coefficients",
+    "href": "slides_code/Day15_bsta511_code.html#interpretation-of-coefficients",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "Interpretation of coefficients",
+    "text": "Interpretation of coefficients\n\\[\\widehat{\\textrm{life expectancy}} = 50.9 + 0.232 \\cdot \\textrm{female literacy rate} \\]\nInterpretation of the intercept for this example. Is it meaningful?\n\nThe average life expectancy in 2011 for countries with no literate female adults was on average 50.9 years.\n\nInterpretation of the slope for this example.\n\nFor every 1 point increase in a country’s female literacy rate, we expect an average 0.232 year increase in the country’s average life expectancy."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#the-regresison-model",
+    "href": "slides_code/Day15_bsta511_code.html#the-regresison-model",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "The regresison model",
+    "text": "The regresison model\n\nThe (population) regression model is denoted by\n\n\\[y = \\beta_0 + \\beta_1 \\cdot x + \\epsilon\\]\n\n\\(\\beta_0\\) and \\(\\beta_1\\) are unknown population parameters\n\\(\\epsilon\\) (epsilon) is the error about the line\n\nIt is assumed to be a random variable with a\n\nnormal distribution with\nmean 0 and\nconstant variance \\(\\sigma^2\\)\n\n\nThe line is the average (expected) value of \\(Y\\) given a value of \\(x\\): \\(E(Y|x)\\).\nThe point estimates based on a sample are denoted by \\(b_0, b_1, s_{residuals}^2\\)\n\nNote: also common notation is \\(\\widehat{\\beta}_0, \\widehat{\\beta}_1, \\widehat{\\sigma}^2\\)"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#the-regresison-model-visually",
+    "href": "slides_code/Day15_bsta511_code.html#the-regresison-model-visually",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "The regresison model visually",
+    "text": "The regresison model visually\n\\[y = \\beta_0 + \\beta_1 \\cdot x + \\epsilon, \\text{ where } \\epsilon \\sim N(0, \\sigma^2)\\]\nSee slides for figure."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#l-linearity-of-relationship-between-variables",
+    "href": "slides_code/Day15_bsta511_code.html#l-linearity-of-relationship-between-variables",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "L: Linearity of relationship between variables",
+    "text": "L: Linearity of relationship between variables\nIs the association between the variables linear?\n\nggplot(gapm, aes(x = female_literacy_rate_2011,\n                 y = life_expectancy_years_2011)) +\n  geom_point() +\n  labs(x = \"female literacy rate\", \n       y = \"life expectancy\",\n       title = \"Life expectancy vs. female literacy rate in 2011\") +  \n  geom_smooth(method = \"lm\", se = FALSE) +\n  geom_smooth(se = FALSE, color = \"black\")\n\nWarning: Removed 114 rows containing non-finite outside the scale range\n(`stat_smooth()`).\nRemoved 114 rows containing non-finite outside the scale range\n(`stat_smooth()`).\n\n\nWarning: Removed 114 rows containing missing values or values outside the scale range\n(`geom_point()`)."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#i-independence-of-the-residuals",
+    "href": "slides_code/Day15_bsta511_code.html#i-independence-of-the-residuals",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "I: Independence of the residuals",
+    "text": "I: Independence of the residuals\n\nAre the data points independent of each other?\nExamples of when they are not independent, include\n\nrepeated measures (such as baseline, 3 months, 6 months)\ndata from clusters, such as different hospitals or families\n\nThis condition is checked by reviewing the study design and not by inspecting the data\nHow to analyze data using regression models when the \\(Y\\)-values are not independent is covered in BSTA 519 (Longitudinal data)"
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#n-normality-of-the-residuals",
+    "href": "slides_code/Day15_bsta511_code.html#n-normality-of-the-residuals",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "N: Normality of the residuals",
+    "text": "N: Normality of the residuals\n\nThe responses Y are normally distributed at each level of x\nNext time we will go over how to assess this\n\nSee slides for figure."
+  },
+  {
+    "objectID": "slides_code/Day15_bsta511_code.html#e-equality-of-variance-of-the-residuals",
+    "href": "slides_code/Day15_bsta511_code.html#e-equality-of-variance-of-the-residuals",
+    "title": "Day 15: Simple Linear Regression (part 1) (Sections 6.1-6.2)",
+    "section": "E: Equality of variance of the residuals",
+    "text": "E: Equality of variance of the residuals\n\nThe variance or, equivalently, the standard deviation of the responses is equal for all values of x.\nThis is called homoskedasticity (top row)\nIf there is heteroskedasticity (bottom row), then the assumption is not met.\n\nSee slides for figure.\nWe will discuss how to assess this next time."
   }
 ]
