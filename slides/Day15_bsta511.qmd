@@ -1,9 +1,10 @@
 ---
 title: "Day 15: Simple Linear Regression (Sections 6.1-6.2)"
 subtitle: "BSTA 511/611"
+pagetitle: "Day 15 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
 institute: "OHSU-PSU School of Public Health"
-date: "11/27/2024"
+date: "11/26/2025"
 categories: ["Week 9"]
 format: 
   # revealjs:
@@ -26,4 +27,4 @@ editor_options:
 ---
 
 
-* [Download](https://drive.google.com/file/d/1KdvWhhX4SkbPGFi_JLo6FluDo-Oegnlg/view?usp=sharing) pdf of slides
+* [Download](../slides_pdf/Day15_bsta511.pdf) pdf of slides

@@ -1,9 +1,10 @@
 ---
 title: "Day 16: Simple Linear Regression Part 2 (Sections 6.3-6.4)"
 subtitle: "BSTA 511/611"
+pagetitle: "Day 16 BSTA 511/611"
 author: "Meike Niederhausen, PhD"
 institute: "OHSU-PSU School of Public Health"
-date: "12/2/2024"
+date: "12/1/2025"
 categories: ["Week 10"]
 format: 
   # revealjs:

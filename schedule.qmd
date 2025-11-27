@@ -11,6 +11,7 @@ editor_options:
   chunk_output_type: console
 ---
 
+
 | Week | Dates | Day | Topics | Chapter sections |
 |:------------:|:------------:|:------------:|:-----------------|:-------------|
 | [1](weeks/week_01.qmd) | M 9/30 |  | No class: <br> OHSU New Student Orientation |  |
@@ -40,6 +41,7 @@ editor_options:
 |  | Sa 11/29 |  | [*HW 6*](homework/HW_6_F25_bsta511.qmd) *Due (Days 14 - 15)* |  |
 | [10](weeks/week_10.qmd) | M 12/1 | **16** | Simple Linear Regression | 6.3-6.4 |
 |  | W 12/3 | **17** | Non-parametric tests <br> (sign, signed-rank, rank-sum, <br> Kruskal-Wallis) | Extra |
-|  | Sa 12/6 |  | *HW 7 Due (Days 16 - 17)* |  |
-| [11](weeks/week_11.qmd) | M 12/8 |  | Review - catch up |  |
+|  | Th 12/4 |  | [Exam 2 corrections due](weeks/week_10.qmd#sec-Exam2Corrections) |  |
+|  | Sa 12/6 |  | [*HW 7*](homework/HW_7_F25_bsta511.qmd) *(Days 16 - 17)* |  |
+| [11](weeks/week_11.qmd) | M 12/8 |  | Review - catch up <br> [Exam 3 corrections due](weeks/week_10.qmd#sec-Exam3Corrections)|  |
 |  | W 12/10 |  | [**Exam 4 due (take home)**]{style="color:green"}**:** <br> Cumulative with a focus on Days 14-17 | **Ch 5.5, 6,** <br> non-parametric |
