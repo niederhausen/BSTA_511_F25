@@ -107,7 +107,7 @@ Load all the packages you need in the first code chunk of the file that starts w
 
 ## R1: Life expectancy vs. CO2 emissions 
 
-Use the dataset `Gapminder_2011_LifeExp_CO2.csv`
+Use the dataset [`Gapminder_2011_LifeExp_CO2.csv`](https://github.com/niederhausen/BSTA_511_F25/blob/main/data/Gapminder_2011_LifeExp_CO2.csv)
 
 Data were downloaded from https://www.gapminder.org/data/.  
 

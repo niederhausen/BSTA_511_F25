@@ -620,7 +620,7 @@
     "href": "weeks/week_10.html#datasets",
     "title": "Week 10",
     "section": "Datasets",
-    "text": "Datasets\nAll datasets can be found on GitHub\n\nDay 16: lifeexp_femlit_water_2011.csv"
+    "text": "Datasets\nAll datasets can be found on GitHub\n\nDay 16: lifeexp_femlit_water_2011.csv\nHW 7: Gapminder_2011_LifeExp_CO2.csv"
   },
   {
     "objectID": "weeks/week_10.html#class-discussion",
@@ -634,7 +634,7 @@
     "href": "weeks/week_10.html#homework",
     "title": "Week 10",
     "section": "Homework",
-    "text": "Homework\n\nHW 7 covers Days 16 -17 and is due on Sat, 12/6\nCheck out this spreadsheet for typos in book."
+    "text": "Homework\n\nHW 7 covers Days 16 -17 and is due on Sat, 12/6\n\nDataset for question R1: Gapminder_2011_LifeExp_CO2.csv\n\nCheck out this spreadsheet for typos in book."
   },
   {
     "objectID": "weeks/week_11.html",
