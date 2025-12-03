@@ -491,7 +491,7 @@ Thus, any of the following can be used as a test statistic and will lead to the 
 ## Example: calculate sums of signed ranks
 
 ```{r}
-IOP_ranks %>% gt()
+IOP_Ranks_R %>% gt()
 ```
 
 * Sum of the positive ranks 
@@ -504,6 +504,22 @@ IOP_ranks %>% gt()
     * $n(n+1)/2 = 6(7)/2 = 21$
     * $T^+ + |T^-| = 19.5 + |-1.5| = 21$
 
+In R:
+```{r}
+Tplus <- IOP_Ranks_R %>% 
+  filter(d > 0) %>% 
+  select(Signed_Rank_R) %>% 
+  sum()
+Tplus
+
+Tminus <- IOP_Ranks_R %>% 
+  filter(d < 0) %>% 
+  select(Signed_Rank_R) %>% 
+  sum()
+Tminus
+
+Tplus + Tminus
+```
 
 
 ## Exact p-value (Wilcoxon) Signed-rank test (fyi) (1/2)
