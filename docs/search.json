@@ -291,7 +291,7 @@
     "href": "weeks.html",
     "title": "Weekly Pages",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nWeek 2\n\n\nData collection & Probability\n\n\n\n\n10/13/25\n\n\nWeek 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/20/25\n\n\nWeek 4\n\n\nRandom variables & binomial distribution and Exam 1\n\n\n\n\n10/27/25\n\n\nWeek 5\n\n\nNormal & Poisson distributions; Variability in estimates & CI’s\n\n\n\n\n11/3/25\n\n\nWeek 6\n\n\nHypothesis Testing & Exam 2\n\n\n\n\n11/10/25\n\n\nWeek 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/17/25\n\n\nWeek 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/24/25\n\n\nWeek 9\n\n\nExam 3 & Simple Linear Regression\n\n\n\n\n12/1/25\n\n\nWeek 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/8/25\n\n\nUNDER CONSTRUCTION: Week 11\n\n\nFinals week\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n9/29/25\n\n\nWeek 1\n\n\nIntro to R & RStudio\n\n\n\n\n10/6/25\n\n\nWeek 2\n\n\nData collection & Probability\n\n\n\n\n10/13/25\n\n\nWeek 3\n\n\nBayes’ Rule & EDA\n\n\n\n\n10/20/25\n\n\nWeek 4\n\n\nRandom variables & binomial distribution and Exam 1\n\n\n\n\n10/27/25\n\n\nWeek 5\n\n\nNormal & Poisson distributions; Variability in estimates & CI’s\n\n\n\n\n11/3/25\n\n\nWeek 6\n\n\nHypothesis Testing & Exam 2\n\n\n\n\n11/10/25\n\n\nWeek 7\n\n\nInference for difference in means, one proportion, and difference in proportions, and power\n\n\n\n\n11/17/25\n\n\nWeek 8\n\n\nChi-squared tests and ANOVA\n\n\n\n\n11/24/25\n\n\nWeek 9\n\n\nExam 3 & Simple Linear Regression\n\n\n\n\n12/1/25\n\n\nWeek 10\n\n\nSimple Linear Regression (cont’d) and Nonparametric Tests\n\n\n\n\n12/8/25\n\n\nWeek 11\n\n\nFinals week\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "weeks/week_03.html",
@@ -639,16 +639,16 @@
   {
     "objectID": "weeks/week_11.html",
     "href": "weeks/week_11.html",
-    "title": "UNDER CONSTRUCTION: Week 11",
+    "title": "Week 11",
     "section": "",
-    "text": "Open office hours during class\n\nIn-person: VPT 627 Note different room!\nOnline: Webex (see link below)\n\n\n\n\n\n\n\nOpen office hours during class\n\nOnline: Webex (see link below)"
+    "text": "Exam 3 corrections due\nOpen office hours during class\n\nOnline: Webex link\n\n\nUsual office hour 3-4 pm\n\n\n\n\n\nOpen office hours during class\n\nOnline: Webex link\n\n\n\n\n\n\n\nExam 4 due\nOffice hour 4-5 pm"
   },
   {
     "objectID": "weeks/week_11.html#overview-of-week-11",
     "href": "weeks/week_11.html#overview-of-week-11",
-    "title": "UNDER CONSTRUCTION: Week 11",
+    "title": "Week 11",
     "section": "",
-    "text": "Open office hours during class\n\nIn-person: VPT 627 Note different room!\nOnline: Webex (see link below)\n\n\n\n\n\n\n\nOpen office hours during class\n\nOnline: Webex (see link below)"
+    "text": "Exam 3 corrections due\nOpen office hours during class\n\nOnline: Webex link\n\n\nUsual office hour 3-4 pm\n\n\n\n\n\nOpen office hours during class\n\nOnline: Webex link\n\n\n\n\n\n\n\nExam 4 due\nOffice hour 4-5 pm"
   },
   {
     "objectID": "weeks/week_11.html#exam-3---final-version-posted",
@@ -660,9 +660,9 @@
   {
     "objectID": "weeks/week_11.html#webex-link-for-week-11",
     "href": "weeks/week_11.html#webex-link-for-week-11",
-    "title": "UNDER CONSTRUCTION: Week 11",
+    "title": "Week 11",
     "section": "Webex link for Week 11",
-    "text": "Webex link for Week 11\nWhen it’s time, join your Webex meeting here.\nJoin Meeting: https://ohsu.webex.com/ohsu/j.php?MTID=m38226d405dacf95ecc49b56b04f38e20\nMeeting password: WCkwHmUy564\nPhone (audio only):\n1-503-388-9555 Portland, OR\n1-206-207-1700 Seattle, WA\nMeeting number (access code): 2865 488 1852\nAdditional call-in numbers:\nhttps://ohsu.webex.com/ohsu/globalcallin.php\nMobile phone (one-touch):\n206-207-1700,,28654881852##"
+    "text": "Webex link for Week 11\nWhen it’s time, join your Webex meeting here. Join Meeting: https://ohsu.webex.com/ohsu/j.php?MTID=mcb0085909236e17a2edc1ca819f98129 Meeting password: mH82JvpWZQ2\nPhone (audio only): 1-503-388-9555 Portland, OR 1-206-207-1700 Seattle, WA Meeting number (access code): 2634 963 8854 Additional call-in numbers: https://ohsu.webex.com/ohsu/globalcallin.php\nMobile phone (one-touch): 206-207-1700,,26349638854##"
   },
   {
     "objectID": "slides/Day01_bsta511.html#what-is-r",
@@ -10026,7 +10026,7 @@
   {
     "objectID": "weeks/week_11.html#exam-corrections",
     "href": "weeks/week_11.html#exam-corrections",
-    "title": "UNDER CONSTRUCTION: Week 11",
+    "title": "Week 11",
     "section": "Exam Corrections",
     "text": "Exam Corrections\n\nPlease email me a link to your video by the due date.\n\nPlease do not attach the video to the email.\n\nExam corrections will be video recordings of you explaining what the error was on the problem, why it was incorrect, and the correct solution.\n\nRecordings do not need to include video of yourself.\n\nI strongly recommend reviewing the class notes and homework solutions for examples of the level of detail and correct notation to use in your work.\nYou may not ask anyone for help (including AI) other than the instructor for doing your exam corrections.\n\n\nExam 3 Corrections\n\nDue Monday 12/8 at 11 pm\nYou may do corrections for all questions.\nFor 10 parts to questions, you can earn back all of the points missed.\n\nFor example, maybe you decide to choose parts 1b, 1c, 1d, 2c, 3a, 3d, 3f, 4b, 4d, and 4f as the 10 “parts of questions” that you want to be considered for getting full points back for.\nWhen emailing me a link to your video, please clearly state which parts of questions you chose as the 10 to get full points back. \n\nFor the remaining parts to questions, you can earn back up to half of the missed points."
   },
@@ -10764,5 +10764,33 @@
     "title": "HW 7: BSTA 511/611 F25",
     "section": "NPT 3: Wilcoxon rank-sum test",
     "text": "NPT 3: Wilcoxon rank-sum test\nDoes caffeine increase finger taps/min?\nWhen covering 2-sample t-tests on Day 11, the class notes used the example of testing whether caffeine increases finger taps/min. The data are in the file CaffeineTaps.csv at https://niederhausen.github.io/BSTA_511_F23/data/CaffeineTaps.csv. In this exercise we will use a non-parametric test and compare the results to the paired t-test.\n\n(a) Condition\nWhat condition needs to be satisfied to apply the Wilcoxon rank-sum test and is it satisfied for these data?\nAnswer the following questions using the Wilcoxon rank-sum test whether you think the condition has been satisfied or not.\n\n\n(b) Why Wilcoxon rank-sum test?\nHow would we know to use the Wilcoxon rank-sum test instead of the sign test or (Wilcoxon) Signed-rank test?\n\n\n(c) Hypotheses\nWhat are the hypotheses for the Wilcoxon rank-sum test (1-sided) in the context of the problem? \n\n\n(d) Exact test in R\nRun the exact Wilcoxon rank-sum test in R. What warning(s) does it give you?\n\n\n(e) Normal approximation test in R\nRun the Wilcoxon rank-sum test in R with the normal approximation. Comment on whether it is appropriate to use the normal approximation or not in this case.\n\n\n(f) p-value\nWhat is the p-value and how does it compare to the p-value of the 2-sample t-test (check the class notes for this)?\n\n\n(g) Conclusion\nWrite a conclusion to the test in the context of the problem."
+  },
+  {
+    "objectID": "weeks/week_11.html#exam-4",
+    "href": "weeks/week_11.html#exam-4",
+    "title": "Week 11",
+    "section": "Exam 4",
+    "text": "Exam 4\n\nExam 4 is due on 12/13/24 at 5 pm\nExam is posted in the Assignments section of Sakai.\n\nNote that the attachments of the assignment include both the qmd and html files for the exam, as well as the dataset."
+  },
+  {
+    "objectID": "weeks/week_11.html#sec-Exam4",
+    "href": "weeks/week_11.html#sec-Exam4",
+    "title": "Week 11",
+    "section": "Exam 4",
+    "text": "Exam 4\n\nExam 4 is due on 12/11/25 at 11:50 pm\nExam is posted in the Assignments section of Sakai.\n\nNote that the attachments of the assignment include both the qmd and html files for the exam, as well as the dataset."
+  },
+  {
+    "objectID": "weeks/week_11.html#sec-ExamCorrections",
+    "href": "weeks/week_11.html#sec-ExamCorrections",
+    "title": "Week 11",
+    "section": "Exam Corrections",
+    "text": "Exam Corrections\n\nPlease email me a link to your video by the due date.\n\nPlease do not attach the video to the email.\n\nExam corrections will be video recordings of you explaining what the error was on the problem, why it was incorrect, and the correct solution.\n\nRecordings do not need to include video of yourself.\n\nI strongly recommend reviewing the class notes and homework solutions for examples of the level of detail and correct notation to use in your work.\nYou may not ask anyone for help (including AI) other than the instructor for doing your exam corrections.\n\n\nExam 3 Corrections\n\nDue Monday 12/8 at 11 pm\nYou may do corrections for all questions.\nFor 10 parts to questions, you can earn back all of the points missed.\n\nFor example, maybe you decide to choose parts 1b, 1c, 1d, 2c, 3a, 3d, 3f, 4b, 4d, and 4f as the 10 “parts of questions” that you want to be considered for getting full points back for.\nWhen emailing me a link to your video, please clearly state which parts of questions you chose as the 10 to get full points back. \n\nFor the remaining parts to questions, you can earn back up to half of the missed points."
+  },
+  {
+    "objectID": "weeks/week_11.html#sec-Wk11Webex",
+    "href": "weeks/week_11.html#sec-Wk11Webex",
+    "title": "Week 11",
+    "section": "Webex link for Week 11",
+    "text": "Webex link for Week 11\nWhen it’s time, join your Webex meeting here. Join Meeting: https://ohsu.webex.com/ohsu/j.php?MTID=mcb0085909236e17a2edc1ca819f98129 Meeting password: mH82JvpWZQ2\nPhone (audio only): 1-503-388-9555 Portland, OR 1-206-207-1700 Seattle, WA Meeting number (access code): 2634 963 8854 Additional call-in numbers: https://ohsu.webex.com/ohsu/globalcallin.php\nMobile phone (one-touch): 206-207-1700,,26349638854##"
   }
 ]
