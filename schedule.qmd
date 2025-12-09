@@ -44,4 +44,4 @@ editor_options:
 |  | Th 12/4 |  | [Exam 2 corrections due](weeks/week_10.qmd#sec-Exam2Corrections) |  |
 |  | Sa 12/6 |  | [*HW 7*](homework/HW_7_F25_bsta511.qmd) *(Days 16 - 17)* |  |
 | [11](weeks/week_11.qmd) | M 12/8 |  | Review - catch up <br> [Exam 3 corrections due](weeks/week_10.qmd#sec-Exam3Corrections)|  |
-|  | W 12/10 |  | [**Exam 4 due (take home)**]{style="color:green"}**:** <br> Cumulative with a focus on Days 14-17 | **Ch 5.5, 6,** <br> non-parametric |
+|  | Th 12/11 |  | [**Exam 4 due (take home)**]{style="color:green"}**:** <br> Cumulative with a focus on Days 14-17 | **Ch 5.5, 6,** <br> non-parametric |
